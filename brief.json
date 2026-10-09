@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "2026-10-08-review",
-  "revision": 2,
+  "revision": 3,
   "publishedAt": "2026-10-08T23:00:00Z",
   "displayDate": "08 OCT 2026",
   "edition": "Review Edition",
@@ -352,5 +352,168 @@
       "title": "Terms Of Use",
       "url": "https://www.naturalearthdata.com/about/terms-of-use/"
     }
-  ]
+  ],
+  "home": {
+    "schemaVersion": 1,
+    "reviewedAt": "2026-10-09T21:58:26Z",
+    "assessments": [],
+    "events": [
+      {
+        "id": "arizona-courts",
+        "countryID": "USA",
+        "title": "Arizona Court Breach Exposes Sensitive Records",
+        "category": "Cybersecurity",
+        "location": "Arizona, United States",
+        "latitude": 34.05,
+        "longitude": -111.9,
+        "reportedOn": "2026-10-06",
+        "status": "Official Report",
+        "summary": "Arizona’s Judicial Branch says attackers copied backup files containing sensitive court information. AP reported records concerning about 1.3 million people with court debts were affected. [5][6]",
+        "assessment": "The copied records could expose affected people to fraud. The court reports no evidence of sharing and says much of the information may not be readily readable; the extent of potential misuse remains unresolved. [6]",
+        "sourceNumbers": [
+          5,
+          6
+        ],
+        "pageID": "page-6"
+      },
+      {
+        "id": "riyadh-airport",
+        "countryID": "SAU",
+        "title": "Riyadh Flight Suspensions Disrupt Travel",
+        "category": "Transport / Security",
+        "location": "Riyadh, Saudi Arabia",
+        "latitude": 24.9576,
+        "longitude": 46.6988,
+        "reportedOn": "2026-10-08",
+        "status": "Reported",
+        "summary": "AP reported flight suspensions after explosions at Riyadh’s airport. Lufthansa Group suspended service through 16 October and Air India until 10 October. Houthi claims of responsibility were not independently confirmed. [3]",
+        "assessment": "Further interruptions could constrain remaining connections. Airline notices and confirmed airport operations should guide travel decisions while attribution remains unresolved. [3]",
+        "sourceNumbers": [
+          3
+        ],
+        "pageID": "page-4"
+      },
+      {
+        "id": "irkutsk-health",
+        "countryID": "RUS",
+        "title": "Irkutsk Laboratory Questions Remain Unresolved",
+        "category": "Public Health",
+        "location": "Irkutsk, Russia",
+        "latitude": 52.2869,
+        "longitude": 104.305,
+        "reportedOn": "2026-10-08",
+        "status": "Reported",
+        "summary": "Irkutsk’s governor said quarantine ended on 8 October after roughly 5,000 tests found no dangerous pathogens. The researcher’s cause of death remains unknown. [1]",
+        "assessment": "The reported tests reduce concern about secondary infections but do not establish the cause of death. Independent review would support a firmer assessment of wider health risks. [1]",
+        "sourceNumbers": [
+          1
+        ],
+        "pageID": "page-2"
+      },
+      {
+        "id": "tigray-border",
+        "countryID": "ETH",
+        "title": "Unverified Troop Reports Raise Border Concerns",
+        "category": "Armed Conflict",
+        "location": "Tigray, Ethiopia",
+        "latitude": 14.0,
+        "longitude": 38.5,
+        "reportedOn": "2026-10-08",
+        "status": "Unverified Reports",
+        "summary": "AP reported accounts of Eritrean forces entering Tigray and cited ACLED reports of Ethiopian drone strikes. AP could not independently verify the reports; Eritrea neither confirmed nor denied an incursion. [4]",
+        "assessment": "Confirmed troop movements and strike attribution would strengthen warnings of direct fighting. Those gaps prevent a firm judgment from this reporting alone. [4]",
+        "sourceNumbers": [
+          4
+        ],
+        "pageID": "page-5"
+      }
+    ],
+    "topics": [
+      {
+        "id": "court-data",
+        "title": "Court Data Exposure",
+        "summary": "An Arizona breach affected sensitive records; notifications and investigation continue. [6]",
+        "countryIDs": [
+          "USA"
+        ],
+        "eventID": "arizona-courts",
+        "sourceNumbers": [
+          6
+        ]
+      },
+      {
+        "id": "air-connections",
+        "title": "Gulf Air Connections",
+        "summary": "Riyadh flight suspensions are constraining travel as airlines review operations. [3]",
+        "countryIDs": [
+          "SAU"
+        ],
+        "eventID": "riyadh-airport",
+        "sourceNumbers": [
+          3
+        ]
+      },
+      {
+        "id": "border-reporting",
+        "title": "Horn Of Africa Tensions",
+        "summary": "Reports of cross-border troop movements remain unverified. [4]",
+        "countryIDs": [
+          "ETH",
+          "ERI"
+        ],
+        "eventID": "tigray-border",
+        "sourceNumbers": [
+          4
+        ]
+      },
+      {
+        "id": "lab-review",
+        "title": "Laboratory Transparency",
+        "summary": "Quarantine has ended, but the researcher’s cause of death remains unresolved. [1]",
+        "countryIDs": [
+          "RUS"
+        ],
+        "eventID": "irkutsk-health",
+        "sourceNumbers": [
+          1
+        ]
+      }
+    ],
+    "watchNext": [
+      {
+        "id": "court-notices",
+        "title": "Arizona Court Notifications",
+        "detail": "Monitor the Judicial Branch’s official incident page for affected-record notices and findings on possible disclosure. [6]",
+        "countryIDs": [
+          "USA"
+        ],
+        "sourceNumbers": [
+          6
+        ]
+      },
+      {
+        "id": "air-service",
+        "title": "Riyadh Service Reviews",
+        "detail": "Check airline notices for revisions to the reported 10 and 16 October suspension periods. These dates are reported limits, not confirmed reopening times. [3]",
+        "countryIDs": [
+          "SAU"
+        ],
+        "sourceNumbers": [
+          3
+        ]
+      },
+      {
+        "id": "border-confirmation",
+        "title": "Verification Along The Ethiopia–Eritrea Border",
+        "detail": "Seek corroborated troop locations, strike attribution, and official responses to the reported incursion. [4]",
+        "countryIDs": [
+          "ETH",
+          "ERI"
+        ],
+        "sourceNumbers": [
+          4
+        ]
+      }
+    ]
+  }
 }
