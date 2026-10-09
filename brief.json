@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-08-review",
+  "revision": 2,
+  "publishedAt": "2026-10-08T23:00:00Z",
+  "displayDate": "08 OCT 2026",
+  "edition": "Review Edition",
+  "title": "Watchfront Daily Brief",
+  "width": 450,
+  "height": 975,
+  "pages": [
+    {
+      "id": "page-1",
+      "title": "Watchfront Daily Brief",
+      "kind": "cover",
+      "imagePath": "editions/2026-10-08-review/page-1.png",
+      "bundleAsset": "BriefPage1",
+      "sha256": "3196d6c910dec59bc4d0802301f86b5b8df3bb0acfefb3f97efc3e0a68cdab99",
+      "accessibleText": "Watchfront\nDaily Brief\n\n08 OCTOBER 2026\n\nGlobal Security And\nDigital Risk\n\nFive Stories\nReporting Through 8 October 2026",
+      "links": []
+    },
+    {
+      "id": "page-2",
+      "title": "Irkutsk’s Cause Remains Unresolved",
+      "kind": "story",
+      "imagePath": "editions/2026-10-08-review/page-2.png",
+      "bundleAsset": "BriefPage2",
+      "sha256": "b072308bb2e0232eb61b28b1794383391775617dea4dffdbed4adfed24e0f141",
+      "accessibleText": "Irkutsk’s Cause\nRemains Unresolved\n\nMap: Watchfront / Natural Earth [7]\n\nIrkutsk’s governor said quarantine ended on 8 October after approximately 5,000 tests found no dangerous pathogens. The lab researcher’s cause of death remains unknown. [1]\n\nAssessment\n\nThe reported negative tests reduce concern about secondary infections, but the available account does not establish the cause of death. Independent review of the findings would help resolve WHO’s questions and support a firmer assessment of any wider health risk. [1]",
+      "links": [
+        {
+          "id": "page-2-link-1",
+          "sourceNumber": 7,
+          "rect": {
+            "x": 0.8681481481481482,
+            "y": 0.43316239316239313,
+            "width": 0.03185185185185185,
+            "height": 0.012307692307692308
+          }
+        },
+        {
+          "id": "page-2-link-2",
+          "sourceNumber": 1,
+          "rect": {
+            "x": 0.2651851851851852,
+            "y": 0.5883760683760684,
+            "width": 0.04888888888888889,
+            "height": 0.018803418803418803
+          }
+        },
+        {
+          "id": "page-2-link-3",
+          "sourceNumber": 1,
+          "rect": {
+            "x": 0.5422222222222223,
+            "y": 0.8694017094017094,
+            "width": 0.04888888888888889,
+            "height": 0.018803418803418803
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-3",
+      "title": "Washington Presses Moscow For Answers",
+      "kind": "story",
+      "imagePath": "editions/2026-10-08-review/page-3.png",
+      "bundleAsset": "BriefPage3",
+      "sha256": "93d4e763c72f5277f257cdda3335add6804970274e2977316fa34a0411c06571",
+      "accessibleText": "Washington Presses\nMoscow For Answers\n\nABC News reported a U.S. diplomatic complaint over Russia’s handling of the Irkutsk incident. The State Department confirmed it sought information. Secretary of State Marco Rubio called for transparency and declined to speculate about the cause. [2]\n\n“We just don’t have all the information yet.”\n\nMarco Rubio\nABC News, 7 October 2026 [2]\n\nAssessment\n\nThe complaint raises the diplomatic cost of withholding information. Releasing laboratory findings could help governments reconcile conflicting accounts and coordinate a response. Continued gaps would leave room for speculation and could prolong scrutiny. The démarche remains classified, which limits public assessment of its precise demands. [2]",
+      "links": [
+        {
+          "id": "page-3-link-1",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.4037037037037037,
+            "y": 0.49606837606837606,
+            "width": 0.04888888888888889,
+            "height": 0.018803418803418803
+          }
+        },
+        {
+          "id": "page-3-link-2",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.9037037037037038,
+            "y": 0.412991452991453,
+            "width": 0.03333333333333333,
+            "height": 0.013333333333333334
+          }
+        },
+        {
+          "id": "page-3-link-3",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.28296296296296297,
+            "y": 0.823931623931624,
+            "width": 0.04518518518518518,
+            "height": 0.007863247863247864
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-4",
+      "title": "Saudi Airport Disruption Restricts Travel",
+      "kind": "story",
+      "imagePath": "editions/2026-10-08-review/page-4.png",
+      "bundleAsset": "BriefPage4",
+      "sha256": "9b66b667a28f4b21c27e7ae91dd8157de61099d9941bed940a7646b9198c8ef5",
+      "accessibleText": "Saudi Airport Disruption\nRestricts Travel\n\nExplosions at Riyadh’s airport on 8 October disrupted flights. Lufthansa Group suspended service through 16 October, and Air India until 10 October. AP reported Houthi claims of responsibility without independent confirmation. [3]\n\nMap: Watchfront / Natural Earth [7]\n\nAssessment\n\nFurther interruptions could force rerouting and strain remaining connections. Current airline notices and confirmed airport operations are the most useful indicators for travelers planning departures or transfers. [3]",
+      "links": [
+        {
+          "id": "page-4-link-1",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.5874074074074074,
+            "y": 0.3442735042735043,
+            "width": 0.04888888888888889,
+            "height": 0.018803418803418803
+          }
+        },
+        {
+          "id": "page-4-link-2",
+          "sourceNumber": 7,
+          "rect": {
+            "x": 0.7555555555555555,
+            "y": 0.652991452991453,
+            "width": 0.03111111111111111,
+            "height": 0.012307692307692308
+          }
+        },
+        {
+          "id": "page-4-link-3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.2696296296296296,
+            "y": 0.8796581196581196,
+            "width": 0.05185185185185185,
+            "height": 0.020170940170940174
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-5",
+      "title": "Troop Reports Deepen Ethiopia–Eritrea Tension",
+      "kind": "story",
+      "imagePath": "editions/2026-10-08-review/page-5.png",
+      "bundleAsset": "BriefPage5",
+      "sha256": "23852afabe80f39918ea3a115db69325afec24e905fb26dde60629699473fdc0",
+      "accessibleText": "Troop Reports Deepen\nEthiopia–Eritrea Tension\n\nMap: Watchfront / Natural Earth [7]\n\nReported Incursion\n\nVerification Limits\n\nACLED reported Ethiopian drone strikes on Eritrean troops inside Ethiopia. [4]\n\nAP could not verify the reports. Eritrea neither confirmed nor denied the incursion. [4]\n\nAssessment\n\nThe reported strikes raise the prospect of direct fighting between the two states. Independent confirmation of troop locations and strike attribution would strengthen that warning. Both remain important gaps in the available reporting. [4]",
+      "links": [
+        {
+          "id": "page-5-link-1",
+          "sourceNumber": 7,
+          "rect": {
+            "x": 0.7962962962962963,
+            "y": 0.48547008547008547,
+            "width": 0.03185185185185185,
+            "height": 0.012307692307692308
+          }
+        },
+        {
+          "id": "page-5-link-2",
+          "sourceNumber": 4,
+          "rect": {
+            "x": 0.24814814814814815,
+            "y": 0.6837606837606838,
+            "width": 0.04888888888888889,
+            "height": 0.018803418803418803
+          }
+        },
+        {
+          "id": "page-5-link-3",
+          "sourceNumber": 4,
+          "rect": {
+            "x": 0.734074074074074,
+            "y": 0.6837606837606838,
+            "width": 0.04888888888888889,
+            "height": 0.018803418803418803
+          }
+        },
+        {
+          "id": "page-5-link-4",
+          "sourceNumber": 4,
+          "rect": {
+            "x": 0.45111111111111113,
+            "y": 0.9042735042735043,
+            "width": 0.04888888888888889,
+            "height": 0.018803418803418803
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-6",
+      "title": "Arizona Court Breach Compromises Personal Data",
+      "kind": "story",
+      "imagePath": "editions/2026-10-08-review/page-6.png",
+      "bundleAsset": "BriefPage6",
+      "sha256": "9427343de0964c92d03f8ed8b3b9b5d1b831a2532418bf422506510e6a12cc7d",
+      "accessibleText": "Arizona Court Breach\nCompromises Personal Data\n\nRecords Copied\n\nCourt Debt Records\tAbout 1.3 Million\nPeople\nProtective Orders\tNearly 30,000\nOrders\nFoster Care Reports\t150,000\nReports\n\nReported By AP [5]\n\nAttackers copied Arizona court records concerning about 1.3 million people with unpaid court debts. The September 24 breach also affected protective orders and foster care reports. AP reported that court cases continued without delay. [5]\n\nAssessment\n\nSensitive court records could support targeted fraud or expose people in protective-order and foster care cases. The court says it has no evidence the information has been shared and is unsure whether much of it is readable. These limits leave the extent of potential misuse unresolved. [6]",
+      "links": [
+        {
+          "id": "page-6-link-1",
+          "sourceNumber": 5,
+          "rect": {
+            "x": 0.905925925925926,
+            "y": 0.47042735042735045,
+            "width": 0.03185185185185185,
+            "height": 0.012307692307692308
+          }
+        },
+        {
+          "id": "page-6-link-2",
+          "sourceNumber": 5,
+          "rect": {
+            "x": 0.6807407407407406,
+            "y": 0.6386324786324786,
+            "width": 0.04888888888888889,
+            "height": 0.018803418803418803
+          }
+        },
+        {
+          "id": "page-6-link-3",
+          "sourceNumber": 6,
+          "rect": {
+            "x": 0.3081481481481481,
+            "y": 0.9217094017094016,
+            "width": 0.04296296296296296,
+            "height": 0.014700854700854702
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-7",
+      "title": "References And Visual Sources",
+      "kind": "sources",
+      "imagePath": "editions/2026-10-08-review/page-7.png",
+      "bundleAsset": "BriefPage7",
+      "sha256": "edc7bbc0fea3c41a7976f4514619aa6209bcaa2e46b405b9a329295040b1e1a5",
+      "accessibleText": "References And\nVisual Sources\n\nAll Sources Checked 9 October 2026\n\nReporting Sources\n\n[1] Associated Press, via ClickOrlando. 8 October 2026.\nRussian official seeks to turn the page on a suspected pneumonic plague case but questions remain\n\n[2] Kingston, Boccia, Chang and Stoddart. ABC News. 7 October 2026.\n“We hope not”: Trump says US doesn’t believe Russian plague is a bioweapon\n\n[3] Rio Yamat. Associated Press, via ABC News. 8 October 2026.\nLufthansa, Indian airlines suspend Riyadh service after explosions hit Saudi capital\n\n[4] Associated Press, via KSAT. 8 October 2026.\nEritrean forces seen entering towns in Ethiopia’s Tigray region after crossing border\n\n[5] Associated Press, via ClickOrlando. 6 October 2026.\nPersonal information for over 1 million people stolen in a cyberattack on Arizona's court system\n\n[6] Arizona Judicial Branch. Accessed 9 October 2026.\nCybersecurity Alert\n\nMap Data Credit\n\n[7] Natural Earth. Undated.\nTerms Of Use (Public-Domain Map Data)",
+      "links": [
+        {
+          "id": "page-7-link-1",
+          "sourceNumber": 1,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.28205128205128205,
+            "width": 0.8755555555555555,
+            "height": 0.04923076923076923
+          }
+        },
+        {
+          "id": "page-7-link-2",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.36205128205128206,
+            "width": 0.8755555555555555,
+            "height": 0.06461538461538462
+          }
+        },
+        {
+          "id": "page-7-link-3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.4574358974358974,
+            "width": 0.8755555555555555,
+            "height": 0.06461538461538462
+          }
+        },
+        {
+          "id": "page-7-link-4",
+          "sourceNumber": 4,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.5528205128205128,
+            "width": 0.8755555555555555,
+            "height": 0.04923076923076923
+          }
+        },
+        {
+          "id": "page-7-link-5",
+          "sourceNumber": 5,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.6328205128205128,
+            "width": 0.8755555555555555,
+            "height": 0.06461538461538462
+          }
+        },
+        {
+          "id": "page-7-link-6",
+          "sourceNumber": 6,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.7282051282051282,
+            "width": 0.8755555555555555,
+            "height": 0.033846153846153845
+          }
+        },
+        {
+          "id": "page-7-link-7",
+          "sourceNumber": 7,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.8307692307692308,
+            "width": 0.8755555555555555,
+            "height": 0.033846153846153845
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "number": 1,
+      "title": "Russian official seeks to turn the page on a suspected pneumonic plague case but questions remain",
+      "url": "https://www.clickorlando.com/news/world/2026/10/08/russias-public-health-watchdog-denies-a-second-infection-in-suspected-pneumonic-plague-case/"
+    },
+    {
+      "number": 2,
+      "title": "“We hope not”: Trump says US doesn’t believe Russian plague is a bioweapon",
+      "url": "https://abcnews.com/International/us-issues-formal-complaint-russia-response-suspected-death/story?id=137057058"
+    },
+    {
+      "number": 3,
+      "title": "Lufthansa, Indian airlines suspend Riyadh service after explosions hit Saudi capital",
+      "url": "https://abcnews.com/International/wireStory/lufthansa-indian-airlines-suspend-riyadh-service-after-explosions-137108326"
+    },
+    {
+      "number": 4,
+      "title": "Eritrean forces seen entering towns in Ethiopia’s Tigray region after crossing border",
+      "url": "https://www.ksat.com/news/world/2026/10/08/eritrean-forces-seen-entering-towns-in-ethiopias-tigray-region-after-crossing-border/"
+    },
+    {
+      "number": 5,
+      "title": "Personal information for over 1 million people stolen in a cyberattack on Arizona's court system",
+      "url": "https://www.clickorlando.com/tech/2026/10/06/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/"
+    },
+    {
+      "number": 6,
+      "title": "Cybersecurity Alert",
+      "url": "https://www.azcourts.gov/cybersecurityalert"
+    },
+    {
+      "number": 7,
+      "title": "Terms Of Use",
+      "url": "https://www.naturalearthdata.com/about/terms-of-use/"
+    }
+  ]
+}
