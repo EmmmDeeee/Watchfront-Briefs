@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "2026-10-08-review",
-  "revision": 3,
+  "revision": 6,
   "publishedAt": "2026-10-08T23:00:00Z",
   "displayDate": "08 OCT 2026",
   "edition": "Review Edition",
@@ -238,19 +238,19 @@
       "id": "page-7",
       "title": "References And Visual Sources",
       "kind": "sources",
-      "imagePath": "editions/2026-10-08-review/page-7.png",
+      "imagePath": "editions/2026-10-08-review/references-us-regional-r5.png",
       "bundleAsset": "BriefPage7",
-      "sha256": "edc7bbc0fea3c41a7976f4514619aa6209bcaa2e46b405b9a329295040b1e1a5",
-      "accessibleText": "References And\nVisual Sources\n\nAll Sources Checked 9 October 2026\n\nReporting Sources\n\n[1] Associated Press, via ClickOrlando. 8 October 2026.\nRussian official seeks to turn the page on a suspected pneumonic plague case but questions remain\n\n[2] Kingston, Boccia, Chang and Stoddart. ABC News. 7 October 2026.\n“We hope not”: Trump says US doesn’t believe Russian plague is a bioweapon\n\n[3] Rio Yamat. Associated Press, via ABC News. 8 October 2026.\nLufthansa, Indian airlines suspend Riyadh service after explosions hit Saudi capital\n\n[4] Associated Press, via KSAT. 8 October 2026.\nEritrean forces seen entering towns in Ethiopia’s Tigray region after crossing border\n\n[5] Associated Press, via ClickOrlando. 6 October 2026.\nPersonal information for over 1 million people stolen in a cyberattack on Arizona's court system\n\n[6] Arizona Judicial Branch. Accessed 9 October 2026.\nCybersecurity Alert\n\nMap Data Credit\n\n[7] Natural Earth. Undated.\nTerms Of Use (Public-Domain Map Data)",
+      "sha256": "9dcdad4620fd615244eed906241566da59306478f462e49a56185cc4cbf43676",
+      "accessibleText": "References And Visual Sources\n\nAll Sources Checked 9 October 2026\n\n[1] Associated Press / ClickOrlando. 8 October 2026.\nRussian official seeks to turn the page on a suspected pneumonic plague case but questions remain\n\n[2] ABC News. 7 October 2026.\n“We hope not”: Trump says US doesn’t believe Russian plague is a bioweapon\n\n[3] Rio Yamat, AP / ABC News. 8 October 2026.\nLufthansa, Indian airlines suspend Riyadh service after explosions hit Saudi capital\n\n[4] Associated Press / KSAT. 8 October 2026.\nEritrean forces seen entering towns in Ethiopia’s Tigray region after crossing border\n\n[5] Associated Press / ClickOrlando. 6 October 2026.\nPersonal information for over 1 million people stolen in a cyberattack on Arizona's court system\n\n[6] Arizona Judicial Branch. Checked 9 October 2026.\nCybersecurity Alert\n\n[7] Natural Earth. Public-domain map data.\nTerms Of Use\n\n[8] U.S. Department of Justice. 7 October 2026.\nMan Arrested and Charged for Role in Plotting to Conduct Mass Shooting Event in Support of ISIS at Mall of America\n\n[9] U.S. Attorney, Western Pennsylvania. 6 October 2026.\nButler County Man Indicted for Receiving Firearm and Ammunition with Intent to Commit Terrorism\n\n[10] UK FCDO. Checked 9 October 2026.\nSafety and security — USA travel advice\n\n[11] Government of Canada. Updated 9 October 2026.\nUnited States travel advice\n\n[12] Reuters / Internazionale. 7 October 2026.\nFBI arrests man for plotting mass shooting at Mall of America — Reuters, via Internazionale\n\n[13] Cornell University. 5 October 2026.\nResponse to Day Hall vandalism\n\n[14] Reuters / The Star. 6 October 2026.\nCornell students stage anti-rape rally in support of 'Jane Doe'\n\n[15] NBC New York. Updated 9 October 2026.\n‘Unconscionable’: ICE agents shoot NYC criminal suspect with a 5-year-old in back seat\n\n[16] DHS, CISA, FBI, EAC. October 2026.\nMitigating Insider Threats to U.S. Election Systems",
       "links": [
         {
           "id": "page-7-link-1",
           "sourceNumber": 1,
           "rect": {
             "x": 0.06222222222222222,
-            "y": 0.28205128205128205,
+            "y": 0.24205128205128204,
             "width": 0.8755555555555555,
-            "height": 0.04923076923076923
+            "height": 0.04
           }
         },
         {
@@ -258,9 +258,9 @@
           "sourceNumber": 2,
           "rect": {
             "x": 0.06222222222222222,
-            "y": 0.36205128205128206,
+            "y": 0.28615384615384615,
             "width": 0.8755555555555555,
-            "height": 0.06461538461538462
+            "height": 0.04
           }
         },
         {
@@ -268,9 +268,9 @@
           "sourceNumber": 3,
           "rect": {
             "x": 0.06222222222222222,
-            "y": 0.4574358974358974,
+            "y": 0.3302564102564103,
             "width": 0.8755555555555555,
-            "height": 0.06461538461538462
+            "height": 0.04
           }
         },
         {
@@ -278,9 +278,9 @@
           "sourceNumber": 4,
           "rect": {
             "x": 0.06222222222222222,
-            "y": 0.5528205128205128,
+            "y": 0.37435897435897436,
             "width": 0.8755555555555555,
-            "height": 0.04923076923076923
+            "height": 0.04
           }
         },
         {
@@ -288,9 +288,9 @@
           "sourceNumber": 5,
           "rect": {
             "x": 0.06222222222222222,
-            "y": 0.6328205128205128,
+            "y": 0.41846153846153844,
             "width": 0.8755555555555555,
-            "height": 0.06461538461538462
+            "height": 0.04
           }
         },
         {
@@ -298,9 +298,9 @@
           "sourceNumber": 6,
           "rect": {
             "x": 0.06222222222222222,
-            "y": 0.7282051282051282,
+            "y": 0.4625641025641026,
             "width": 0.8755555555555555,
-            "height": 0.033846153846153845
+            "height": 0.04
           }
         },
         {
@@ -308,9 +308,99 @@
           "sourceNumber": 7,
           "rect": {
             "x": 0.06222222222222222,
-            "y": 0.8307692307692308,
+            "y": 0.5066666666666667,
             "width": 0.8755555555555555,
-            "height": 0.033846153846153845
+            "height": 0.04
+          }
+        },
+        {
+          "id": "page-7-link-8",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.5507692307692308,
+            "width": 0.8755555555555555,
+            "height": 0.04
+          }
+        },
+        {
+          "id": "page-7-link-9",
+          "sourceNumber": 9,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.5948717948717949,
+            "width": 0.8755555555555555,
+            "height": 0.04
+          }
+        },
+        {
+          "id": "page-7-link-10",
+          "sourceNumber": 10,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.638974358974359,
+            "width": 0.8755555555555555,
+            "height": 0.04
+          }
+        },
+        {
+          "id": "page-7-link-11",
+          "sourceNumber": 11,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.683076923076923,
+            "width": 0.8755555555555555,
+            "height": 0.04
+          }
+        },
+        {
+          "id": "page-7-link-12",
+          "sourceNumber": 12,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.7271794871794872,
+            "width": 0.8755555555555555,
+            "height": 0.04
+          }
+        },
+        {
+          "id": "page-7-link-13",
+          "sourceNumber": 13,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.7712820512820513,
+            "width": 0.8755555555555555,
+            "height": 0.04
+          }
+        },
+        {
+          "id": "page-7-link-14",
+          "sourceNumber": 14,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.8153846153846154,
+            "width": 0.8755555555555555,
+            "height": 0.04
+          }
+        },
+        {
+          "id": "page-7-link-15",
+          "sourceNumber": 15,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.8594871794871795,
+            "width": 0.8755555555555555,
+            "height": 0.04
+          }
+        },
+        {
+          "id": "page-7-link-16",
+          "sourceNumber": 16,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.9035897435897436,
+            "width": 0.8755555555555555,
+            "height": 0.04
           }
         }
       ]
@@ -351,12 +441,147 @@
       "number": 7,
       "title": "Terms Of Use",
       "url": "https://www.naturalearthdata.com/about/terms-of-use/"
+    },
+    {
+      "number": 8,
+      "title": "Man Arrested and Charged for Role in Plotting to Conduct Mass Shooting Event in Support of ISIS at Mall of America",
+      "url": "https://www.justice.gov/opa/pr/man-arrested-and-charged-role-plotting-conduct-mass-shooting-event-support-isis-mall-america"
+    },
+    {
+      "number": 9,
+      "title": "Butler County Man Indicted for Receiving Firearm and Ammunition with Intent to Commit Terrorism",
+      "url": "https://www.justice.gov/usao-wdpa/pr/butler-county-man-indicted-receiving-firearm-and-ammunition-intent-commit-terrorism"
+    },
+    {
+      "number": 10,
+      "title": "Safety and security — USA travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/usa/safety-and-security"
+    },
+    {
+      "number": 11,
+      "title": "United States travel advice",
+      "url": "https://travel.gc.ca/destinations/united-states"
+    },
+    {
+      "number": 12,
+      "title": "FBI arrests man for plotting mass shooting at Mall of America — Reuters, via Internazionale",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/07/fbi-arrests-man-for-plotting-mass-shooting-at-mall-of-america"
+    },
+    {
+      "number": 13,
+      "title": "Response to Day Hall vandalism",
+      "url": "https://statements.cornell.edu/2026/20261005-response.cfm"
+    },
+    {
+      "number": 14,
+      "title": "Cornell students stage anti-rape rally in support of 'Jane Doe'",
+      "url": "https://www.thestar.com.my/news/world/2026/10/06/cornell-students-stage-anti-rape-rally-in-support-of-039jane-doe039"
+    },
+    {
+      "number": 15,
+      "title": "‘Unconscionable’: ICE agents shoot NYC criminal suspect with a 5-year-old in back seat",
+      "url": "https://www.nbcnewyork.com/new-york-city/ice-shooting-manhattan-thursday/6557364/"
+    },
+    {
+      "number": 16,
+      "title": "Mitigating Insider Threats to U.S. Election Systems",
+      "url": "https://www.ic3.gov/CSA/2026/261008-2.pdf"
     }
   ],
   "home": {
     "schemaVersion": 1,
-    "reviewedAt": "2026-10-09T21:58:26Z",
-    "assessments": [],
+    "reviewedAt": "2026-10-10T00:46:27Z",
+    "assessments": [
+      {
+        "countryID": "USA",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Localized conditions: Cornell University, Ithaca, NY; Allen Hospital area, Upper Manhattan, NYC.",
+            "assessedAt": "2026-10-10T00:46:27Z",
+            "reviewBy": "2026-10-13T00:46:27Z",
+            "rationale": "Cornell acknowledged Day Hall vandalism on 5 October. [13] Reuters described the later campus march as orderly and distinguished it from property damage before the rally. [14] NBC New York reported clashes between protesters and police near Allen Hospital after the 8 October ICE shooting. [15] Watchfront assesses Moderate for these localized conditions because the reviewed incidents include property damage and physical confrontation. The evidence supports identifying these locations for closer monitoring. It does not establish sustained unrest across the country or imply that peaceful participants engaged in violence. Coverage is insufficient to measure the current distribution and severity of unrest across all U.S. regions. The national overview therefore highlights observed hotspots rather than assigning the same conditions to every state. Review window: 10 September–9 October 2026.",
+            "sourceNumbers": [
+              13,
+              14,
+              15
+            ],
+            "evidenceReview": {
+              "facts": "Cornell published a statement acknowledging vandalism at Day Hall on 5 October. Reuters reported an orderly campus march later that day and distinguished it from earlier property damage. NBC New York reported physical confrontations between protesters and police near Allen Hospital following the 8 October shooting. These observations concern two specific locations. [13] [14] [15]",
+              "sourceClaims": "Cornell said it was investigating the vandalism. The NBC report includes differing official accounts of the shooting that preceded the hospital-area protests. Those statements establish the positions of the authorities involved; they do not resolve responsibility for disputed conduct or the justification for the shooting. [13] [15]",
+              "counterevidence": "Reuters described the Cornell march as orderly. The reviewed report separates that march from damage caused earlier by unidentified people. Peaceful attendance therefore does not establish participation in vandalism. The hospital-area report concerns a localized confrontation, rather than sustained nationwide violence. These limits argue against a High national classification. [14] [15]",
+              "alternativeExplanation": "The observed incidents may reflect separate local disputes rather than a connected movement producing a broader escalation. The reviewed record does not establish coordination between Ithaca and Upper Manhattan. Moderate identifies the reported local disruption while leaving that relationship unresolved.",
+              "limitations": "This review is not a complete inventory of U.S. incidents. The record does not establish comparable conditions across every state, the full duration of the hospital-area clashes, or a national trend. The rating describes the named locations; national coverage remains incomplete.",
+              "revisionTriggers": "Review the classification if corroborated reporting establishes recurring violence, serious injuries, sustained restrictions, or spread to additional locations. Lower the local classification after documented de-escalation and an adequate review finds no recurrence. Correct it promptly if verified records materially contradict the reported incidents.",
+              "sourceNumbers": [
+                13,
+                14,
+                15
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "United States overview. Recent disrupted cases: Minnesota and Pennsylvania.",
+            "assessedAt": "2026-10-10T00:46:27Z",
+            "reviewBy": "2026-10-13T00:46:27Z",
+            "rationale": "Federal authorities reported an alleged Mall of America attack plot after an arrest on 6 October. Reuters also reported the complaint. [8] [12] A separate Pennsylvania indictment announced on 6 October concerns alleged terrorism-related firearm receipt on 12 September. [9] These are two distinct disrupted cases. The defendants remain presumed innocent. The UK advisory also identifies a continuing terrorism threat. [10] Watchfront assesses Moderate because recent alleged preparations warrant continued monitoring. These sources do not establish a coordinated nationwide campaign or an imminent national attack. This initial review provides no basis for a trend comparison.",
+            "sourceNumbers": [
+              8,
+              9,
+              10,
+              12
+            ],
+            "evidenceReview": {
+              "facts": "The Justice Department announced charges concerning an alleged Mall of America attack plot after an arrest on 6 October. Reuters reported the complaint. A separate Pennsylvania indictment announced on 6 October alleges terrorism-related firearm receipt on 12 September. These are separate cases; repeated articles about either case do not create additional incidents. [8] [12] [9]",
+              "sourceClaims": "Federal prosecutors allege preparations for an ISIS-related mass shooting in Minnesota and terrorism-related firearm receipt in Pennsylvania. Those accounts remain allegations, and the defendants are presumed innocent. The UK advisory states that terrorism remains a threat in the United States; that is the UK government’s assessment, not evidence that a particular attack is imminent. [8] [9] [10]",
+              "counterevidence": "The reviewed cases concern arrests and disrupted alleged preparations, not completed attacks. Reuters’ account relies on the criminal complaint and does not independently establish guilt. These sources do not demonstrate a coordinated nationwide campaign or an imminent national attack. They limit the basis for a higher classification. [8] [9] [12]",
+              "alternativeExplanation": "The cases may represent isolated alleged preparations detected by law enforcement rather than a rise in attack capability across the country. Increased disclosure or successful disruption could also produce more coverage without an increase in completed attacks. The initial review cannot distinguish those possibilities through a trend comparison.",
+              "limitations": "The review does not provide a complete national attack or disrupted-plot dataset, comparable historical rates, or all underlying court evidence. The Minnesota and Pennsylvania cases warrant monitoring, but their national representativeness and any operational relationship are not established.",
+              "revisionTriggers": "Reassess after verified attacks, independently corroborated specific warnings, additional connected preparations, or material court findings. Withdraw or revise case-based judgments when charges are dismissed or reliable records contradict key allegations. A lower classification requires an updated evidence review; an absence of headlines alone is insufficient.",
+              "sourceNumbers": [
+                8,
+                9,
+                10,
+                12
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "Low",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "United States territory. U.S. military operations abroad are outside this indicator.",
+            "assessedAt": "2026-10-10T00:46:27Z",
+            "reviewBy": "2026-10-13T00:46:27Z",
+            "rationale": "The reviewed UK and Canadian country advisories discuss terrorism, crime and demonstration hazards without identifying ongoing conventional or civil warfare within the United States. [10] [11] Watchfront assesses Low for sustained armed fighting on U.S. territory. This is an editorial inference from the reviewed coverage, with limited confidence in its completeness. It does not classify U.S. military operations abroad or predict that conflict cannot occur. Verified incursions, sustained organized fighting or bombardment on U.S. territory would require reassessment.",
+            "sourceNumbers": [
+              10,
+              11
+            ],
+            "evidenceReview": {
+              "facts": "The reviewed UK and Canadian country advisories discuss terrorism, crime, and demonstration hazards. They do not identify sustained conventional or civil warfare within U.S. territory. This describes the contents of the documents reviewed, not a comprehensive survey of every location. [10] [11]",
+              "sourceClaims": "The UK and Canadian governments publish these advisories for travelers. Their identified hazards and precautionary advice reflect their own assessments and reporting purposes. Watchfront’s domestic Armed Conflict classification is a separate editorial judgment and is not an official declaration that conflict is impossible. [10] [11]",
+              "counterevidence": "Both advisories identify security hazards, including terrorism and potentially violent demonstrations. Those warnings argue against describing the United States as free of security risks. They do not, by themselves, establish sustained organized armed fighting. The absence of a warfare warning in travel advice is also weaker evidence than a comprehensive conflict inventory. [10] [11]",
+              "alternativeExplanation": "Travel advisories may omit localized or newly emerging developments because their purpose is traveler guidance rather than exhaustive conflict monitoring. Low is therefore a provisional assessment of sustained domestic fighting in the reviewed coverage, not a finding that all violent incidents are absent.",
+              "limitations": "The review relies on country-security advisories and does not include a complete domestic conflict-event dataset. Confidence is limited by that coverage. U.S. military operations abroad are outside this indicator; terrorism, crime, and individual violent incidents require their own classifications.",
+              "revisionTriggers": "Verified incursions, sustained organized fighting, bombardment, or the loss of territorial control within U.S. territory would require immediate reassessment. Conflicting credible reports must be investigated before retaining Low. Routine reviews must add current reporting rather than treating an unchanged advisory as proof of unchanged conditions.",
+              "sourceNumbers": [
+                10,
+                11
+              ]
+            }
+          }
+        ]
+      }
+    ],
     "events": [
       {
         "id": "arizona-courts",
@@ -481,6 +706,42 @@
     ],
     "watchNext": [
       {
+        "id": "us-local-unrest",
+        "title": "Localized Protest Conditions",
+        "detail": "Watch official notices for further property damage or restrictions around Cornell and the Allen Hospital area. Cornell confirmed vandalism, while Reuters described the campus march as orderly. NBC New York reported hospital-area clashes. Additional verified incidents would change the scope of this assessment. [13] [14] [15]",
+        "countryIDs": [
+          "USA"
+        ],
+        "sourceNumbers": [
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "id": "us-election-security",
+        "title": "Midterm Election Security",
+        "detail": "An October joint federal advisory addresses potential insider threats to election systems during the 2026 election cycle. Monitor state and local election offices for confirmed threats or operational disruptions. The advisory describes preventive measures and does not establish current nationwide civil unrest or compromised vote counts. [16]",
+        "countryIDs": [
+          "USA"
+        ],
+        "sourceNumbers": [
+          16
+        ]
+      },
+      {
+        "id": "us-terrorism-case-review",
+        "title": "U.S. Terrorism Case Developments",
+        "detail": "Monitor official filings for changes in the Minnesota complaint and Pennsylvania indictment, including any corroborated additional suspects or targets. Both cases involve allegations and require continued legal verification. [8] [9]",
+        "countryIDs": [
+          "USA"
+        ],
+        "sourceNumbers": [
+          8,
+          9
+        ]
+      },
+      {
         "id": "court-notices",
         "title": "Arizona Court Notifications",
         "detail": "Monitor the Judicial Branch’s official incident page for affected-record notices and findings on possible disclosure. [6]",
@@ -514,6 +775,7 @@
           4
         ]
       }
-    ]
+    ],
+    "editorialPolicyVersion": 1
   }
 }
