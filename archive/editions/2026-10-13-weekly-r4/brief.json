@@ -1,0 +1,835 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-13-weekly",
+  "revision": 4,
+  "publishedAt": "2026-10-13T22:00:00Z",
+  "displayDate": "13 OCT 2026",
+  "coveragePeriod": "7–13 October 2026",
+  "edition": "Weekly Edition",
+  "title": "Watchfront Weekly Brief",
+  "width": 450,
+  "height": 975,
+  "pages": [
+    {
+      "id": "page-1",
+      "title": "Watchfront Weekly Brief",
+      "kind": "cover",
+      "imagePath": "pages/page-1.png",
+      "bundleAsset": "BriefPage1",
+      "sha256": "55826345f9f97a5c884fcdacde0183038a02f41463e2b4701a7142b2d01e6939",
+      "accessibleText": "Watchfront Weekly Brief\n\nWeek Ending 13 October 2026\n\nCoverage: 7–13 October 2026\n\nFive Stories. Earlier incidents are explicitly included as background.",
+      "links": []
+    },
+    {
+      "id": "page-2",
+      "title": "Irkutsk’s Diagnosis Remains Unconfirmed",
+      "kind": "story",
+      "imagePath": "pages/page-2.png",
+      "bundleAsset": "BriefPage2",
+      "sha256": "cb7c422f7e717c852ca11ce911dcbbcbd22f30680039f86a10b52da655d60462",
+      "accessibleText": "Irkutsk’s Diagnosis Remains Unconfirmed\n\nA worker at the Irkutsk Antiplague Research Institute in Russia died on 2 October after hospitalization for severe pneumonia on 29 September. Authorities quarantined the treating hospital and monitored contacts. WHO’s 10 October update reports negative tests for high-threat pathogens and no evidence of ongoing transmission. The cause remains unconfirmed. Russia denies a laboratory accident. [1]\n\nAssessment\n\nNegative tests and symptom-free contacts reduce concern about spread. The missing diagnosis limits confidence in containment. A confirmed pathogen or linked new case would change the assessment. An occupational cause remains unproven. [1]\n\nIllustrative CDC Laboratory, 2002\nCDC / James D. Gathany · Public Domain [7]\nCDC scientist using a confocal microscope in 2002. Related laboratory context, not the Irkutsk institute or the current incident.",
+      "links": [
+        {
+          "id": "page-2-link-1",
+          "sourceNumber": 7,
+          "rect": {
+            "x": 0.9055555555555556,
+            "y": 0.4256410256410256,
+            "width": 0.03222222222222222,
+            "height": 0.012307692307692308
+          }
+        },
+        {
+          "id": "page-2-link-2",
+          "sourceNumber": 1,
+          "rect": {
+            "x": 0.5,
+            "y": 0.7051282051282052,
+            "width": 0.04888888888888889,
+            "height": 0.018974358974358976
+          }
+        },
+        {
+          "id": "page-2-link-3",
+          "sourceNumber": 1,
+          "rect": {
+            "x": 0.8377777777777777,
+            "y": 0.9317948717948717,
+            "width": 0.04777777777777778,
+            "height": 0.018974358974358976
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-3",
+      "title": "Houthi Attacks Disrupt Saudi Air Travel",
+      "kind": "story",
+      "imagePath": "pages/page-3.png",
+      "bundleAsset": "BriefPage3",
+      "sha256": "1189698ce13edf107d812a4f6570108bde86b0787dced9bc682acc3c5858c4ca",
+      "accessibleText": "Houthi Attacks Disrupt Saudi Air Travel\n\nYemen’s Iran-backed Houthis claimed strikes on King Khalid International Airport in Riyadh, Saudi Arabia, on 10–11 October. Missile and projectile impacts killed more than a dozen people and injured hundreds. [13]\n\nThe Houthis declared a blockade on Saudi Arabia, alleging Saudi attacks on Sanaa airport. Saudi Arabia backs Yemen’s government against them. The renewed fighting overlaps the U.S.–Iran war. [13]\n\nRiyadh airport is closed through 17 October, with longer airline suspensions possible. [2]\n\nAssessment\n\nFurther strikes could delay reopening and disrupt regional connections. Check airport and airline notices separately. Reopening does not guarantee that suspended routes resume. [2]\n\nRiyadh At Night, 2021; Context Image\nNASA · Public Domain [8]\nRiyadh photographed from the International Space Station on 9 January 2021. Historical city context, not a photograph of the airport attacks.",
+      "links": [
+        {
+          "id": "page-3-link-1",
+          "sourceNumber": 13,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.34512820512820513,
+            "width": 0.07333333333333333,
+            "height": 0.018974358974358976
+          }
+        },
+        {
+          "id": "page-3-link-2",
+          "sourceNumber": 13,
+          "rect": {
+            "x": 0.77,
+            "y": 0.502051282051282,
+            "width": 0.07333333333333333,
+            "height": 0.018974358974358976
+          }
+        },
+        {
+          "id": "page-3-link-3",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.87,
+            "y": 0.5697435897435897,
+            "width": 0.04888888888888889,
+            "height": 0.018974358974358976
+          }
+        },
+        {
+          "id": "page-3-link-4",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.9055555555555556,
+            "y": 0.7548717948717949,
+            "width": 0.03222222222222222,
+            "height": 0.012307692307692308
+          }
+        },
+        {
+          "id": "page-3-link-5",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.23555555555555555,
+            "y": 0.9379487179487179,
+            "width": 0.04888888888888889,
+            "height": 0.017948717948717947
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-4",
+      "title": "MI5 Warns Of Escalating Threats From States",
+      "kind": "story",
+      "imagePath": "pages/page-4.png",
+      "bundleAsset": "BriefPage4",
+      "sha256": "c9dc2da9c18585287e1ecb96b242d839f5497e2b3b947ab26f90065b0dcb5ac6",
+      "accessibleText": "MI5 Warns Of Escalating Threats From States\n\nOn 13 October at Thames House in London, MI5 chief Ken McCallum warned of Iranian plans against UK military sites and Russian arson, sabotage and cyberattacks against Ukraine’s allies. He said Moscow pays criminals to destabilize Europe while avoiding open war with NATO. [3]\n\nBritish officials suspect Iran of a plot at RAF Fairford, Gloucestershire, a base used for U.S. strikes on Iran. Tehran denies involvement. Moscow also denies hostile acts in Britain. [12]\n\nAssessment\n\nAttacks on transport, energy or military facilities could disrupt civilian services and spread the effects of the Ukraine and Iran wars. The warning warrants protective measures. Public evidence does not establish an imminent attack. [3]\n\nThames House; Historical Context Photograph\nSecurity Service · OGL 1.0 [9]\nThames House, the headquarters of MI5. Historical official building photograph, not a photograph of the 13 October speech.",
+      "links": [
+        {
+          "id": "page-4-link-1",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.6755555555555556,
+            "y": 0.36974358974358973,
+            "width": 0.04888888888888889,
+            "height": 0.018974358974358976
+          }
+        },
+        {
+          "id": "page-4-link-2",
+          "sourceNumber": 12,
+          "rect": {
+            "x": 0.8633333333333333,
+            "y": 0.48205128205128206,
+            "width": 0.07,
+            "height": 0.017948717948717947
+          }
+        },
+        {
+          "id": "page-4-link-3",
+          "sourceNumber": 9,
+          "rect": {
+            "x": 0.9055555555555556,
+            "y": 0.721025641025641,
+            "width": 0.03222222222222222,
+            "height": 0.012307692307692308
+          }
+        },
+        {
+          "id": "page-4-link-4",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.6488888888888888,
+            "y": 0.9328205128205128,
+            "width": 0.04777777777777778,
+            "height": 0.018974358974358976
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-5",
+      "title": "Arizona Court Breach Raises Privacy Risks",
+      "kind": "story",
+      "imagePath": "pages/page-5.png",
+      "bundleAsset": "BriefPage5",
+      "sha256": "d200cd6143ce8332a913dfdd0fc9d481104afd93c9d3e225153343bf58ea9e89",
+      "accessibleText": "Arizona Court Breach Raises Privacy Risks\n\nUnidentified attackers copied backup files from Arizona’s state court system on 24 September. The Judicial Branch says the intrusion likely began when an employee clicked a malicious email link. Staff halted it within two hours of detection. Copied files included protective orders, foster-care reports and court debts. [4]\n\nAP’s 6 October report put the court-debt exposure at 1.3 million people. Court officials reported no evidence of sharing or delays to proceedings. The cited reporting does not establish the attackers’ motive. [5]\n\nAssessment\n\nReadable files could expose private circumstances or enable fraud. The extent of exposure and misuse remains unresolved. Affected residents should verify notices through the court’s official information page. [4]\n\nArizona Supreme Court Grounds, 2013\ndavidpinter · CC BY 3.0 · Cropped [10]\nGrounds of the Arizona Supreme Court photographed by davidpinter in 2013. Historical setting, not an image of the cyberattack.",
+      "links": [
+        {
+          "id": "page-5-link-1",
+          "sourceNumber": 10,
+          "rect": {
+            "x": 0.89,
+            "y": 0.358974358974359,
+            "width": 0.04777777777777778,
+            "height": 0.012307692307692308
+          }
+        },
+        {
+          "id": "page-5-link-2",
+          "sourceNumber": 4,
+          "rect": {
+            "x": 0.5444444444444444,
+            "y": 0.5851282051282052,
+            "width": 0.04888888888888889,
+            "height": 0.018974358974358976
+          }
+        },
+        {
+          "id": "page-5-link-3",
+          "sourceNumber": 5,
+          "rect": {
+            "x": 0.6511111111111111,
+            "y": 0.7307692307692307,
+            "width": 0.04555555555555556,
+            "height": 0.017948717948717947
+          }
+        },
+        {
+          "id": "page-5-link-4",
+          "sourceNumber": 4,
+          "rect": {
+            "x": 0.4222222222222222,
+            "y": 0.9492307692307692,
+            "width": 0.042222222222222223,
+            "height": 0.002564102564102564
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-6",
+      "title": "AI Investment Supports Uneven Global Growth",
+      "kind": "story",
+      "imagePath": "pages/page-6.png",
+      "bundleAsset": "BriefPage6",
+      "sha256": "c128642c379e9c8374b6352a0036bb616b5ab020dac8526d796827603991e7aa",
+      "accessibleText": "AI Investment Supports Uneven Global Growth\n\nOn 13 October in Bangkok, the International Monetary Fund released its World Economic Outlook at the IMF–World Bank annual meetings. It forecasts 3.1% global growth in 2026 and 3.4% in 2027. AI investment supports growth, while war-related energy costs and debt constrain other economies. [6]\n\nAssessment\n\nGrowth concentrated around AI investment leaves other economies more exposed to energy shocks. A prolonged Middle East conflict could raise household and business costs. The forecasts depend on improving conditions and continued investment. [6]\n\nIMF Headquarters; Historical Context Photograph\nCarol M. Highsmith / Library Of Congress [11]\nInternational Monetary Fund headquarters in Washington, D.C. Historical photograph by Carol M. Highsmith, not the October 2026 meeting in Bangkok.\n\nChart: IMF global real GDP growth forecasts: 2026, 3.1%; 2027, 3.4%. [6]",
+      "links": [
+        {
+          "id": "page-6-link-1",
+          "sourceNumber": 6,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.3943589743589744,
+            "width": 0.04888888888888889,
+            "height": 0.018974358974358976
+          }
+        },
+        {
+          "id": "page-6-link-2",
+          "sourceNumber": 11,
+          "rect": {
+            "x": 0.4088888888888889,
+            "y": 0.6974358974358974,
+            "width": 0.044444444444444446,
+            "height": 0.011282051282051283
+          }
+        },
+        {
+          "id": "page-6-link-3",
+          "sourceNumber": 6,
+          "rect": {
+            "x": 0.9088888888888889,
+            "y": 0.6825641025641026,
+            "width": 0.028888888888888888,
+            "height": 0.011282051282051283
+          }
+        },
+        {
+          "id": "page-6-link-4",
+          "sourceNumber": 6,
+          "rect": {
+            "x": 0.8077777777777778,
+            "y": 0.9317948717948717,
+            "width": 0.04777777777777778,
+            "height": 0.018974358974358976
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-7",
+      "title": "References And Visual Sources",
+      "kind": "sources",
+      "imagePath": "pages/page-7.png",
+      "bundleAsset": "BriefPage7",
+      "sha256": "8cd912bee099cfaa39eac6e3251593044fcefa0afd07009bdf363ab4697af548",
+      "accessibleText": "References And Visual Sources\n\nAll sources checked 13 October 2026.\n\n[1] WHO. 10 Oct 2026. Pneumonia of undetermined etiology — the Russian Federation.\nhttps://www.who.int/emergencies/disease-outbreak-news/item/2026-DON620\n\n[2] Reuters / Interaksyon. 13 Oct 2026. Airlines cancel flights to Saudi Arabia after Riyadh airport attacks.\nhttps://interaksyon.philstar.com/politics-issues/2026/10/13/320426/airlines-cancel-flights-saudi-arabia-riyadh-airport-attacks/\n\n[3] MI5. 13 Oct 2026. MI5 Director General Delivers Annual Threat Update.\nhttps://www.mi5.gov.uk/mi5-director-general-delivers-annual-threat-update\n\n[4] Arizona Judicial Branch. Checked 13 Oct 2026. Cybersecurity Alert.\nhttps://www.azcourts.gov/cybersecurityalert\n\n[5] Associated Press. 6 Oct 2026; background. Personal information for over 1 million people stolen in a cyberattack on Arizona’s court system.\nhttps://www.clickorlando.com/tech/2026/10/06/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/\n\n[6] International Monetary Fund. 13 Oct 2026. IMF / World Economic Outlook Annual Meetings, 2026.\nhttps://mediacenter.imf.org/news/imf---world-economic-outlook-annual-meetings--2026/s/22f94667-d194-473b-87b2-34c692b5a5a3\n\n[7] CDC / James D. Gathany. 2002; public domain. CDC scientist using confocal microscopy — PHIL 1960.\nhttps://wwwn.cdc.gov/phil/Details.aspx?pid=1960\n\n[8] NASA. 9 Jan 2021; public domain. Night time shot of Riyadh, Saudi Arabia.\nhttps://www.nasa.gov/image-article/night-time-shot-of-riyadh-saudi-arabia/\n\n[9] Security Service. File photo; OGL 1.0. Thames House — Security Service photograph.\nhttps://commons.wikimedia.org/wiki/File:Thames_house2.jpg\n\n[10] davidpinter. 18 Feb 2013; CC BY 3.0. Arizona Supreme Court, Phoenix, Arizona — photograph 14.\nhttps://commons.wikimedia.org/wiki/File:Arizona_Supreme_Court,_Phoenix,_Arizona_-_panoramio_(14).jpg\n\n[11] Carol M. Highsmith / LoC. 1980–2006; file photograph. Headquarters building of the International Monetary Fund, Washington, D.C..\nhttps://www.loc.gov/item/2011634654/\n\n[12] Reuters / AOL. 13 Oct 2026. Iran and Russia are stepping up hybrid campaigns in Britain, UK spy chief says.\nhttps://www.aol.com/articles/iran-russia-ramping-hybrid-campaigns-120209000.html\n\n[13] Associated Press. 11 Oct 2026. Airport in Saudi capital of Riyadh is struck again as toll rises.\nhttps://apnews.com/article/saudi-yemen-houthi-riyadh-airport-d2e0868ffb18d883c16465d7d6a87ccb",
+      "links": [
+        {
+          "id": "page-7-link-1",
+          "sourceNumber": 1,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.24512820512820513,
+            "width": 0.41555555555555557,
+            "height": 0.07179487179487179
+          }
+        },
+        {
+          "id": "page-7-link-2",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.3394871794871795,
+            "width": 0.41555555555555557,
+            "height": 0.07179487179487179
+          }
+        },
+        {
+          "id": "page-7-link-3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.4338461538461538,
+            "width": 0.41555555555555557,
+            "height": 0.07179487179487179
+          }
+        },
+        {
+          "id": "page-7-link-4",
+          "sourceNumber": 4,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.5282051282051282,
+            "width": 0.41555555555555557,
+            "height": 0.07179487179487179
+          }
+        },
+        {
+          "id": "page-7-link-5",
+          "sourceNumber": 5,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.6225641025641026,
+            "width": 0.41555555555555557,
+            "height": 0.07179487179487179
+          }
+        },
+        {
+          "id": "page-7-link-6",
+          "sourceNumber": 6,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.7169230769230769,
+            "width": 0.41555555555555557,
+            "height": 0.07179487179487179
+          }
+        },
+        {
+          "id": "page-7-link-7",
+          "sourceNumber": 7,
+          "rect": {
+            "x": 0.06222222222222222,
+            "y": 0.8112820512820513,
+            "width": 0.41555555555555557,
+            "height": 0.07179487179487179
+          }
+        },
+        {
+          "id": "page-7-link-8",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.5222222222222223,
+            "y": 0.24512820512820513,
+            "width": 0.41555555555555557,
+            "height": 0.07179487179487179
+          }
+        },
+        {
+          "id": "page-7-link-9",
+          "sourceNumber": 9,
+          "rect": {
+            "x": 0.5222222222222223,
+            "y": 0.3394871794871795,
+            "width": 0.41555555555555557,
+            "height": 0.07179487179487179
+          }
+        },
+        {
+          "id": "page-7-link-10",
+          "sourceNumber": 10,
+          "rect": {
+            "x": 0.5222222222222223,
+            "y": 0.4338461538461538,
+            "width": 0.41555555555555557,
+            "height": 0.07179487179487179
+          }
+        },
+        {
+          "id": "page-7-link-11",
+          "sourceNumber": 11,
+          "rect": {
+            "x": 0.5222222222222223,
+            "y": 0.5282051282051282,
+            "width": 0.41555555555555557,
+            "height": 0.07179487179487179
+          }
+        },
+        {
+          "id": "page-7-link-12",
+          "sourceNumber": 12,
+          "rect": {
+            "x": 0.5222222222222223,
+            "y": 0.6225641025641026,
+            "width": 0.41555555555555557,
+            "height": 0.07179487179487179
+          }
+        },
+        {
+          "id": "page-7-link-13",
+          "sourceNumber": 13,
+          "rect": {
+            "x": 0.5222222222222223,
+            "y": 0.7169230769230769,
+            "width": 0.41555555555555557,
+            "height": 0.07179487179487179
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "number": 1,
+      "title": "Pneumonia of undetermined etiology — the Russian Federation",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON620"
+    },
+    {
+      "number": 2,
+      "title": "Airlines cancel flights to Saudi Arabia after Riyadh airport attacks",
+      "url": "https://interaksyon.philstar.com/politics-issues/2026/10/13/320426/airlines-cancel-flights-saudi-arabia-riyadh-airport-attacks/"
+    },
+    {
+      "number": 3,
+      "title": "MI5 Director General Delivers Annual Threat Update",
+      "url": "https://www.mi5.gov.uk/mi5-director-general-delivers-annual-threat-update"
+    },
+    {
+      "number": 4,
+      "title": "Cybersecurity Alert",
+      "url": "https://www.azcourts.gov/cybersecurityalert"
+    },
+    {
+      "number": 5,
+      "title": "Personal information for over 1 million people stolen in a cyberattack on Arizona’s court system",
+      "url": "https://www.clickorlando.com/tech/2026/10/06/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/"
+    },
+    {
+      "number": 6,
+      "title": "IMF / World Economic Outlook Annual Meetings, 2026",
+      "url": "https://mediacenter.imf.org/news/imf---world-economic-outlook-annual-meetings--2026/s/22f94667-d194-473b-87b2-34c692b5a5a3"
+    },
+    {
+      "number": 7,
+      "title": "CDC scientist using confocal microscopy — PHIL 1960",
+      "url": "https://wwwn.cdc.gov/phil/Details.aspx?pid=1960"
+    },
+    {
+      "number": 8,
+      "title": "Night time shot of Riyadh, Saudi Arabia",
+      "url": "https://www.nasa.gov/image-article/night-time-shot-of-riyadh-saudi-arabia/"
+    },
+    {
+      "number": 9,
+      "title": "Thames House — Security Service photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Thames_house2.jpg"
+    },
+    {
+      "number": 10,
+      "title": "Arizona Supreme Court, Phoenix, Arizona — photograph 14",
+      "url": "https://commons.wikimedia.org/wiki/File:Arizona_Supreme_Court,_Phoenix,_Arizona_-_panoramio_(14).jpg"
+    },
+    {
+      "number": 11,
+      "title": "Headquarters building of the International Monetary Fund, Washington, D.C.",
+      "url": "https://www.loc.gov/item/2011634654/"
+    },
+    {
+      "number": 12,
+      "title": "Iran and Russia are stepping up hybrid campaigns in Britain, UK spy chief says",
+      "url": "https://www.aol.com/articles/iran-russia-ramping-hybrid-campaigns-120209000.html"
+    },
+    {
+      "number": 13,
+      "title": "Airport in Saudi capital of Riyadh is struck again as toll rises",
+      "url": "https://apnews.com/article/saudi-yemen-houthi-riyadh-airport-d2e0868ffb18d883c16465d7d6a87ccb"
+    }
+  ],
+  "home": {
+    "schemaVersion": 1,
+    "reviewedAt": "2026-10-13T22:00:00Z",
+    "reviewCadence": "Weekly",
+    "editorialPolicyVersion": 1,
+    "assessments": [
+      {
+        "countryID": "USA",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Localized recent incidents: Ithaca, New York, and the Allen Hospital area in Upper Manhattan. The classification does not describe every U.S. region.",
+            "assessedAt": "2026-10-13T22:00:00Z",
+            "reviewBy": "2026-10-20T22:00:00Z",
+            "rationale": "Cornell acknowledged Day Hall vandalism on 5 October. [11] Reuters distinguished that damage from an orderly campus march. [12] NBC New York reported confrontations with police near Allen Hospital after the 8 October ICE shooting. [13] On 13 October Cornell suspended fraternity-house parties and announced further safety measures. [14] Watchfront retains Moderate for the named locations because the recent record includes property damage and physical confrontation. The Cornell policy announcement reflects an institutional response, rather than new evidence of violent protest. These reports do not establish ongoing nationwide disorder or show that every local incident continued through the review date.",
+            "sourceNumbers": [
+              11,
+              12,
+              13,
+              14
+            ],
+            "evidenceReview": {
+              "facts": "The reviewed record includes Cornell’s 5 October vandalism statement, Reuters’ account of the later march, and NBC’s report of hospital-area confrontations on 8 October. Cornell announced new campus safety measures on 13 October. These are geographically distinct developments. [11] [12] [13] [14]",
+              "sourceClaims": "Cornell said the new measures aim to improve safety and support survivors. Officials quoted by NBC gave different accounts of the shooting preceding the hospital protests. Those statements do not resolve the disputed conduct. [14] [13]",
+              "counterevidence": "Reuters described the Cornell march as orderly. The university’s new party restrictions address campus safety and do not establish that peaceful demonstrators engaged in violence. The hospital confrontation was local. These limits weigh against a High nationwide classification. [12] [14] [13]",
+              "alternativeExplanation": "Separate local grievances could explain the reported events without a connected campaign or national escalation. Administrative restrictions at Cornell could reduce some immediate friction, but their announcement alone does not establish that the underlying dispute has ended.",
+              "limitations": "This review covers reporting available through 13 October and includes earlier incidents as background. It is not a complete national incident inventory. Recurrence, duration and comparable severity across other regions remain unresolved. The rating is a weekly outlook, rather than live monitoring.",
+              "revisionTriggers": "Reassess after corroborated recurring violence, serious injuries, prolonged restrictions or spread to additional locations. Reduce the local classification after documented de-escalation and a current evidence review. Correct it if verified records contradict material reporting.",
+              "sourceNumbers": [
+                11,
+                12,
+                13,
+                14
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "U.S. overview informed by recent disrupted alleged preparations in Minnesota and Pennsylvania. No imminent nationwide attack is established in this record.",
+            "assessedAt": "2026-10-13T22:00:00Z",
+            "reviewBy": "2026-10-20T22:00:00Z",
+            "rationale": "The Justice Department’s 7 October release describes an alleged Mall of America attack plot disrupted by an arrest on 6 October. [7] Its separate Pennsylvania release describes a terrorism-related firearm indictment announced on 6 October. [8] The UK’s current travel advice continues to identify a terrorism threat. [9] Watchfront assesses Moderate because the two alleged preparations warrant attention. Arrests and accusations do not establish guilt, completed attacks, operational links between the cases or an imminent nationwide campaign. The reviewed record is insufficient to measure a national trend.",
+            "sourceNumbers": [
+              7,
+              8,
+              9
+            ],
+            "evidenceReview": {
+              "facts": "Federal prosecutors published a Minnesota complaint account on 7 October and a separate Pennsylvania indictment release on 6 October. Both concern alleged preparations interrupted by law enforcement. They are distinct cases, rather than repeated reporting of one incident. [7] [8]",
+              "sourceClaims": "Prosecutors allege an ISIS-related shooting plan in Minnesota and firearm receipt connected to intended terrorism in Pennsylvania. Both defendants remain presumed innocent. The UK advisory describes a continuing U.S. terrorism threat but identifies no specific imminent national attack. [7] [8] [9]",
+              "counterevidence": "These releases concern disrupted alleged activity rather than completed attacks. They do not establish coordination between the defendants or a nationwide operational campaign. The legal allegations remain unadjudicated in the reviewed materials. [7] [8]",
+              "alternativeExplanation": "The disclosures could reflect successful detection of isolated preparations. More reporting of arrests can increase public attention without demonstrating an increase in completed attacks. An incident-rate comparison would be needed to establish direction.",
+              "limitations": "Current source pages were checked on 13 October. No complete national attack dataset, comparable historical rate or full court record forms part of this review. The rating describes the cited evidence and does not predict an attack at a particular location.",
+              "revisionTriggers": "Reassess after a verified attack, a corroborated specific warning, evidence connecting additional preparations or material court findings. Revise case-based judgments if reliable records contradict the allegations. An absence of headlines alone cannot justify lowering a rating.",
+              "sourceNumbers": [
+                7,
+                8,
+                9
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "Low",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Sustained organized armed fighting within U.S. territory. U.S. military operations abroad are outside this category.",
+            "assessedAt": "2026-10-13T22:00:00Z",
+            "reviewBy": "2026-10-20T22:00:00Z",
+            "rationale": "The current UK and Canadian country advisories discuss U.S. crime, terrorism and demonstration hazards without identifying sustained conventional or civil warfare on U.S. territory. [9] [10] Watchfront assesses Low for domestic armed conflict in the reviewed coverage. This judgment does not classify violence under the other indicators or rule out future conflict. The reviewed sources are travel guidance rather than a comprehensive inventory of organized fighting.",
+            "sourceNumbers": [
+              9,
+              10
+            ],
+            "evidenceReview": {
+              "facts": "The UK and Canadian U.S. advisories reviewed on 13 October describe domestic security hazards and traveler precautions. Neither identifies sustained conventional or civil warfare on U.S. territory. This finding describes those documents. [9] [10]",
+              "sourceClaims": "Both governments publish travel-security advice for their citizens. Their hazard descriptions reflect that purpose. Watchfront’s domestic armed-conflict classification is a separate editorial judgment. [9] [10]",
+              "counterevidence": "Both advisories identify security risks, including terrorism and demonstration hazards. Those warnings limit any claim of general safety but do not themselves establish sustained organized armed fighting. Travel advice may also omit newly emerging local events. [9] [10]",
+              "alternativeExplanation": "Localized violence may fall under crime, terrorism or civil unrest without meeting the armed-conflict definition. The distinction depends on organization, persistence and geographic control rather than the political language applied to an incident.",
+              "limitations": "The review does not contain a comprehensive conflict-event dataset. Confidence is Moderate because country-security guidance provides useful coverage with limits. A low domestic classification does not describe U.S. military operations overseas.",
+              "revisionTriggers": "Verified incursions, bombardment, sustained organized fighting or loss of territorial control inside the United States require immediate reassessment. Investigate contradictory credible reporting before retaining Low. Renew the judgment only after a fresh evidence review.",
+              "sourceNumbers": [
+                9,
+                10
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "id": "irkutsk-health",
+        "countryID": "RUS",
+        "title": "Irkutsk’s Diagnosis Remains Unconfirmed",
+        "category": "Public Health",
+        "location": "Irkutsk, Russia",
+        "latitude": 52.2869,
+        "longitude": 104.305,
+        "reportedOn": "2026-10-10",
+        "status": "Official Report",
+        "summary": "A worker at the Irkutsk Antiplague Research Institute in Russia died on 2 October after hospitalization for severe pneumonia on 29 September. Authorities quarantined the treating hospital and monitored contacts. WHO’s 10 October update reports negative tests for high-threat pathogens and no evidence of ongoing transmission. The cause remains unconfirmed. Russia denies a laboratory accident. [1]",
+        "assessment": "Negative tests and symptom-free contacts reduce concern about spread. The missing diagnosis limits confidence in containment. A confirmed pathogen or linked new case would change the assessment. An occupational cause remains unproven. [1]",
+        "sourceNumbers": [
+          1
+        ],
+        "pageID": "page-2"
+      },
+      {
+        "id": "riyadh-airport",
+        "countryID": "SAU",
+        "title": "Houthi Attacks Disrupt Saudi Air Travel",
+        "category": "Transport / Security",
+        "location": "Riyadh, Saudi Arabia",
+        "latitude": 24.9576,
+        "longitude": 46.6988,
+        "reportedOn": "2026-10-13",
+        "status": "Reported",
+        "summary": "Yemen’s Iran-backed Houthis claimed strikes on King Khalid International Airport in Riyadh, Saudi Arabia, on 10–11 October. Missile and projectile impacts killed more than a dozen people and injured hundreds. [17] The Houthis declared a blockade on Saudi Arabia, alleging Saudi attacks on Sanaa airport. Saudi Arabia backs Yemen’s government against them. The renewed fighting overlaps the U.S.–Iran war. [17] Riyadh airport is closed through 17 October, with longer airline suspensions possible. [2]",
+        "assessment": "Further strikes could delay reopening and disrupt regional connections. Check airport and airline notices separately. Reopening does not guarantee that suspended routes resume. [2]",
+        "sourceNumbers": [
+          17,
+          2
+        ],
+        "pageID": "page-3"
+      },
+      {
+        "id": "uk-state-threats",
+        "countryID": "GBR",
+        "title": "MI5 Warns Of Escalating Threats From States",
+        "category": "State Threats",
+        "location": "London, United Kingdom",
+        "latitude": 51.4936,
+        "longitude": -0.1255,
+        "reportedOn": "2026-10-13",
+        "status": "Official Report",
+        "summary": "On 13 October at Thames House in London, MI5 chief Ken McCallum warned of Iranian plans against UK military sites and Russian arson, sabotage and cyberattacks against Ukraine’s allies. He said Moscow pays criminals to destabilize Europe while avoiding open war with NATO. [3] British officials suspect Iran of a plot at RAF Fairford, Gloucestershire, a base used for U.S. strikes on Iran. Tehran denies involvement. Moscow also denies hostile acts in Britain. [16]",
+        "assessment": "Attacks on transport, energy or military facilities could disrupt civilian services and spread the effects of the Ukraine and Iran wars. The warning warrants protective measures. Public evidence does not establish an imminent attack. [3]",
+        "sourceNumbers": [
+          3,
+          16
+        ],
+        "pageID": "page-4"
+      },
+      {
+        "id": "arizona-courts",
+        "countryID": "USA",
+        "title": "Arizona Court Breach Raises Privacy Risks",
+        "category": "Cybersecurity",
+        "location": "Arizona, United States",
+        "latitude": 33.4472,
+        "longitude": -112.0933,
+        "reportedOn": "2026-10-06",
+        "status": "Official Report",
+        "summary": "Unidentified attackers copied backup files from Arizona’s state court system on 24 September. The Judicial Branch says the intrusion likely began when an employee clicked a malicious email link. Staff halted it within two hours of detection. Copied files included protective orders, foster-care reports and court debts. [4] AP’s 6 October report put the court-debt exposure at 1.3 million people. Court officials reported no evidence of sharing or delays to proceedings. The cited reporting does not establish the attackers’ motive. [5]",
+        "assessment": "Readable files could expose private circumstances or enable fraud. The extent of exposure and misuse remains unresolved. Affected residents should verify notices through the court’s official information page. [4]",
+        "sourceNumbers": [
+          4,
+          5
+        ],
+        "pageID": "page-5"
+      },
+      {
+        "id": "imf-outlook",
+        "countryID": "THA",
+        "title": "AI Investment Supports Uneven Global Growth",
+        "category": "Global Economy",
+        "location": "Bangkok, Thailand; Global Outlook",
+        "latitude": 13.7234,
+        "longitude": 100.5602,
+        "reportedOn": "2026-10-13",
+        "status": "Reported",
+        "summary": "On 13 October in Bangkok, the International Monetary Fund released its World Economic Outlook at the IMF–World Bank annual meetings. It forecasts 3.1% global growth in 2026 and 3.4% in 2027. AI investment supports growth, while war-related energy costs and debt constrain other economies. [6]",
+        "assessment": "Growth concentrated around AI investment leaves other economies more exposed to energy shocks. A prolonged Middle East conflict could raise household and business costs. The forecasts depend on improving conditions and continued investment. [6]",
+        "sourceNumbers": [
+          6
+        ],
+        "pageID": "page-6"
+      }
+    ],
+    "topics": [
+      {
+        "id": "saudi-air-travel",
+        "title": "Saudi Air Travel Disruption",
+        "countryIDs": [
+          "SAU"
+        ],
+        "eventID": "riyadh-airport",
+        "summary": "Airport closure and extended carrier suspensions complicate journeys through Saudi Arabia. Route-specific restart dates matter for travel planning. [2]",
+        "sourceNumbers": [
+          2
+        ]
+      },
+      {
+        "id": "court-data",
+        "title": "Arizona Court Data Exposure",
+        "countryIDs": [
+          "USA"
+        ],
+        "eventID": "arizona-courts",
+        "summary": "The court’s information page explains affected record categories and how residents can verify notices. The extent of readable data remains unresolved. [4]",
+        "sourceNumbers": [
+          4
+        ]
+      },
+      {
+        "id": "imf-growth",
+        "title": "AI Investment And Global Growth",
+        "countryIDs": [
+          "USA",
+          "THA"
+        ],
+        "eventID": "imf-outlook",
+        "summary": "The IMF outlook describes global growth supported by AI investment alongside continuing risks from energy costs and debt. [6]",
+        "sourceNumbers": [
+          6
+        ]
+      }
+    ],
+    "watchNext": [
+      {
+        "id": "riyadh-reopening",
+        "title": "Riyadh Airport And Carrier Notices",
+        "countryIDs": [
+          "SAU"
+        ],
+        "detail": "Reopening and route restart dates can change independently. Check confirmed airport operations and the airline operating a specific flight. [2]",
+        "sourceNumbers": [
+          2
+        ]
+      },
+      {
+        "id": "cornell-reforms",
+        "title": "Cornell Campus Safety Measures",
+        "countryIDs": [
+          "USA"
+        ],
+        "detail": "Cornell’s 13 October statement announces a fraternity-house party suspension and plans for independent state-police investigation of campus assault reports. Implementation will help assess whether the response addresses continuing grievances. The measures do not establish that protesters are violent. [14]",
+        "sourceNumbers": [
+          14
+        ]
+      },
+      {
+        "id": "election-security",
+        "title": "U.S. Election System Safeguards",
+        "countryIDs": [
+          "USA"
+        ],
+        "detail": "The FBI and CISA’s 8 October advisory describes insider access risks and mitigation steps for election systems. It does not report that a particular election result has been altered. Verified incident disclosures and implemented controls matter more than unsupported claims. [15]",
+        "sourceNumbers": [
+          15
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "number": 1,
+        "title": "Pneumonia of undetermined etiology — the Russian Federation",
+        "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON620"
+      },
+      {
+        "number": 2,
+        "title": "Airlines cancel flights to Saudi Arabia after Riyadh airport attacks",
+        "url": "https://interaksyon.philstar.com/politics-issues/2026/10/13/320426/airlines-cancel-flights-saudi-arabia-riyadh-airport-attacks/"
+      },
+      {
+        "number": 3,
+        "title": "MI5 Director General Delivers Annual Threat Update",
+        "url": "https://www.mi5.gov.uk/mi5-director-general-delivers-annual-threat-update"
+      },
+      {
+        "number": 4,
+        "title": "Cybersecurity Alert",
+        "url": "https://www.azcourts.gov/cybersecurityalert"
+      },
+      {
+        "number": 5,
+        "title": "Personal information for over 1 million people stolen in a cyberattack on Arizona’s court system",
+        "url": "https://www.clickorlando.com/tech/2026/10/06/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/"
+      },
+      {
+        "number": 6,
+        "title": "IMF / World Economic Outlook Annual Meetings, 2026",
+        "url": "https://mediacenter.imf.org/news/imf---world-economic-outlook-annual-meetings--2026/s/22f94667-d194-473b-87b2-34c692b5a5a3"
+      },
+      {
+        "number": 7,
+        "title": "Man Arrested and Charged for Role in Plotting to Conduct a Mass-Shooting Event in Support of ISIS at the Mall of America",
+        "url": "https://www.justice.gov/opa/pr/man-arrested-and-charged-role-plotting-conduct-mass-shooting-event-support-isis-mall-america"
+      },
+      {
+        "number": 8,
+        "title": "Butler County Man Indicted for Receiving Firearm and Ammunition With Intent to Commit Terrorism on Behalf of ISIS",
+        "url": "https://www.justice.gov/usao-wdpa/pr/butler-county-man-indicted-receiving-firearm-and-ammunition-intent-commit-terrorism"
+      },
+      {
+        "number": 9,
+        "title": "Safety and security — USA travel advice",
+        "url": "https://www.gov.uk/foreign-travel-advice/usa/safety-and-security"
+      },
+      {
+        "number": 10,
+        "title": "United States travel advice",
+        "url": "https://travel.gc.ca/destinations/united-states"
+      },
+      {
+        "number": 11,
+        "title": "Response to Day Hall vandalism",
+        "url": "https://statements.cornell.edu/2026/20261005-response.cfm"
+      },
+      {
+        "number": 12,
+        "title": "Cornell students stage anti-rape rally in support of 'Jane Doe'",
+        "url": "https://www.thestar.com.my/news/world/2026/10/06/cornell-students-stage-anti-rape-rally-in-support-of-039jane-doe039"
+      },
+      {
+        "number": 13,
+        "title": "ICE agents shoot NYC criminal suspect with a 5-year-old in back seat",
+        "url": "https://www.nbcnewyork.com/new-york-city/ice-shooting-manhattan-thursday/6557364/"
+      },
+      {
+        "number": 14,
+        "title": "Immediate measures to strengthen campus safety and better support survivors",
+        "url": "https://statements.cornell.edu/2026/20261013-immediate-measures.cfm"
+      },
+      {
+        "number": 15,
+        "title": "Mitigating Insider Threats to U.S. Election Systems",
+        "url": "https://www.ic3.gov/CSA/2026/261008-2.pdf"
+      },
+      {
+        "number": 16,
+        "title": "Iran and Russia are stepping up hybrid campaigns in Britain, UK spy chief says",
+        "url": "https://www.aol.com/articles/iran-russia-ramping-hybrid-campaigns-120209000.html"
+      },
+      {
+        "number": 17,
+        "title": "Airport in Saudi capital of Riyadh is struck again as toll rises",
+        "url": "https://apnews.com/article/saudi-yemen-houthi-riyadh-airport-d2e0868ffb18d883c16465d7d6a87ccb"
+      }
+    ]
+  }
+}

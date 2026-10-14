@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-14T02:34:27Z",
+  "editions": [
+    {
+      "id": "2026-10-13-weekly",
+      "revision": 4,
+      "publishedAt": "2026-10-13T22:00:00Z",
+      "displayDate": "13 OCT 2026",
+      "title": "Watchfront Weekly Brief",
+      "edition": "Weekly Edition",
+      "pageCount": 7,
+      "manifestPath": "archive/editions/2026-10-13-weekly-r4/brief.json",
+      "manifestSHA256": "88ad035d8df00c39243ad4ffc4e7650929e6c1593da0ff36b50982127b610505"
+    },
+    {
+      "id": "2026-10-08-review",
+      "revision": 6,
+      "publishedAt": "2026-10-08T23:00:00Z",
+      "displayDate": "08 OCT 2026",
+      "title": "Watchfront Daily Brief",
+      "edition": "Review Edition",
+      "pageCount": 7,
+      "manifestPath": "archive/editions/2026-10-08-review-r6/brief.json",
+      "manifestSHA256": "ceb89c54026fbc70f299e0bc4d5ae11f83706fa8e0a89cb4b2d10d4df0424e6d"
+    }
+  ]
+}
