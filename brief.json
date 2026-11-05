@@ -1,490 +1,633 @@
 {
   "schemaVersion": 1,
   "id": "wf_2026_11_05",
-  "revision": 1,
+  "revision": 2,
   "publishedAt": "2026-11-05T22:00:00Z",
   "displayDate": "November 5, 2026",
   "coveragePeriod": "October 25–November 5, 2026",
   "edition": "Weekly Intelligence Brief",
-  "title": "The World, In Focus — October 25–November 5, 2026",
+  "title": "Watchfront Weekly Brief — October 25–November 5, 2026",
   "width": 1200,
-  "height": 1600,
+  "height": 1900,
   "pages": [
     {
       "id": "cover",
-      "title": "WORLD WEEKLY BRIEF",
+      "title": "WEEKLY BRIEF",
       "kind": "cover",
-      "imagePath": "brief-2026-11-05-01-cover.png",
+      "imagePath": "brief-2026-11-05-r2-01-cover.png",
       "bundleAsset": "",
-      "sha256": "7f7a6c6494149e9b2faa2f236c872cfd2753ae5dddc91925af59e57470a6a190",
-      "accessibleText": "WORLD WEEKLY BRIEF\n\nCongress changes hands. Conflict around Iran continues to test maritime security. Across Europe, economic grievances fuel unrest. The war in Ukraine presses on, while coercion intensifies around Taiwan.\n\nReporting window: 25 OCT–05 NOV 2026. Published 05 NOV 2026.",
+      "sha256": "037c8527a9fa0f6c77ac980e69eb496c4468be274bff07ee5e3e28613bfd3cd4",
+      "accessibleText": "WEEKLY BRIEF\n\n25 OCTOBER – 5 NOVEMBER 2026",
       "links": []
     },
     {
       "id": "overview",
-      "title": "THE WEEK IN FIVE SIGNALS",
+      "title": "OVERVIEW",
       "kind": "story",
-      "imagePath": "brief-2026-11-05-02-overview.png",
+      "imagePath": "brief-2026-11-05-r2-02-overview.png",
       "bundleAsset": "",
-      "sha256": "41bd9b4c0ded8d550b8a4c0446489391e4c9dd241002fbdf1bd9dd2af8ab3f6d",
-      "accessibleText": "THE WEEK IN FIVE SIGNALS\n\n01  U.S. politics: Democratic control of Congress raises oversight pressure but does not by itself reverse U.S. military policy toward Iran.\n\n02  Middle East: Iranian maritime disruption seeks political leverage while U.S. military superiority constrains a complete closure of Hormuz.\n\n03  Europe: Unrest is geographically widespread but uneven in violence and organization.\n\n04  Ukraine: The attrition war and attacks on energy infrastructure continue despite renewed talks.\n\n05  Indo-Pacific: China is expanding the geography of maritime pressure without a confirmed invasion timetable.\n\nSupporting sources: [1], [4], [5], [7], [11].",
+      "sha256": "76b15acca00f87289a67720735c15b3ba32c401e28dc42ee36bb60b1003efdf9",
+      "accessibleText": "OVERVIEW\n\nDemocrats won control of the U.S. House and Senate in the November 3 midterms. The shift will bring greater scrutiny of the Iran war, but presidential military options remain. [1][2][3]\n\nAmerican strikes near the Strait of Hormuz, Russian attacks in Ukraine and Chinese coast guard pressure near Taiwan remain distinct crises with potential consequences for allied forces and trade. [4][12][14]\n\nIn Europe, airline bomb threats, refrigeration-system intrusions and a Polish espionage investigation expose vulnerabilities below the threshold of conventional war. Common timing warrants investigation; shared command has not been established. [7][8][10]",
       "links": [
         {
           "id": "citation_1",
           "sourceNumber": 1,
           "rect": {
-            "x": 0.07666666666666666,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
           }
         },
-        {
-          "id": "citation_4",
-          "sourceNumber": 4,
-          "rect": {
-            "x": 0.2175,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
-          }
-        },
-        {
-          "id": "citation_5",
-          "sourceNumber": 5,
-          "rect": {
-            "x": 0.35833333333333334,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
-          }
-        },
-        {
-          "id": "citation_7",
-          "sourceNumber": 7,
-          "rect": {
-            "x": 0.49916666666666665,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
-          }
-        },
-        {
-          "id": "citation_11",
-          "sourceNumber": 11,
-          "rect": {
-            "x": 0.64,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
-          }
-        }
-      ]
-    },
-    {
-      "id": "us-midterms",
-      "title": "U.S. MIDTERMS: POWER SHIFTS",
-      "kind": "story",
-      "imagePath": "brief-2026-11-05-03-us-midterms.png",
-      "bundleAsset": "",
-      "sha256": "cce713b9ee25d8bd778afe132f1b7a30cb9844d2daae4cd4898c7695a424d720",
-      "accessibleText": "U.S. MIDTERMS: POWER SHIFTS\n\nCONFIRMED: Reporting on the November 3 elections shows Democrats winning control of the House and Senate. Some individual races remain uncalled or uncertified at this edition’s cutoff. [1][2]\n\nASSESSMENT: Committee control, nominations, legislation and congressional investigations will shift when the new Congress convenes. But presidential veto and executive powers remain; a new majority cannot automatically end overseas operations.\n\nWATCH: Leadership contests, war-powers debates, fiscal bargaining and whether the Iran campaign becomes a central oversight issue.",
-      "links": [
-        {
-          "id": "citation_1",
-          "sourceNumber": 1,
-          "rect": {
-            "x": 0.07666666666666666,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
-          }
-        },
-        {
-          "id": "citation_2",
-          "sourceNumber": 2,
-          "rect": {
-            "x": 0.2175,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
-          }
-        }
-      ]
-    },
-    {
-      "id": "iran",
-      "title": "IRAN: THE HORMUZ LEVER",
-      "kind": "story",
-      "imagePath": "brief-2026-11-05-04-iran.png",
-      "bundleAsset": "",
-      "sha256": "750e0c0409766dfae3ec6a5c672cfdeba6a12a759e92f8c50adaa91310bee68e",
-      "accessibleText": "IRAN: THE HORMUZ LEVER\n\nCONFIRMED: U.S. forces struck Iranian air-defense targets around Qeshm Island on November 2. Incidents involving commercial vessels and Iranian claims of naval successes followed; some claims remain unverified. [3][4]\n\nASSESSMENT — MODERATE CONFIDENCE: Tehran is using low-cost maritime disruption and the threat of escalation to strengthen its bargaining position. U.S. military dominance limits Iran’s options but does not eliminate the danger to civilian shipping.\n\nWATCH: Missile engagements, shipping insurance, tanker diversions and whether mediators produce a verifiable agreement.",
-      "links": [
         {
           "id": "citation_3",
           "sourceNumber": 3,
           "rect": {
-            "x": 0.07666666666666666,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
           }
         },
         {
           "id": "citation_4",
           "sourceNumber": 4,
           "rect": {
-            "x": 0.2175,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
-          }
-        }
-      ]
-    },
-    {
-      "id": "europe",
-      "title": "EUROPE: UNREST, NOT ONE CRISIS",
-      "kind": "story",
-      "imagePath": "brief-2026-11-05-05-europe.png",
-      "bundleAsset": "",
-      "sha256": "128046f62241a5bf6c10ea1d50e49ade8e6d45394ac97aa006bb6a0e1a1ed76e",
-      "accessibleText": "EUROPE: UNREST, NOT ONE CRISIS\n\nCONFIRMED: France experienced damaging riots in October and mass protests and strikes in early November. Authorities prepared a substantial police deployment for November 5 demonstrations. [5]\n\nAcross Italy and Belgium, some protests included arrests, clashes and damage. Housing and cost-of-living demonstrations in Spain and Portugal have generally been peaceful; isolated violence should not define entire national movements. [6]\n\nASSESSMENT: Persistent pressure on wages, housing, energy costs and public services may sustain mobilization. There is no demonstrated single command structure directing unrest across Europe.",
-      "links": [
-        {
-          "id": "citation_5",
-          "sourceNumber": 5,
-          "rect": {
-            "x": 0.07666666666666666,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
+            "x": 0.27166666666666667,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
           }
         },
-        {
-          "id": "citation_6",
-          "sourceNumber": 6,
-          "rect": {
-            "x": 0.2175,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
-          }
-        }
-      ]
-    },
-    {
-      "id": "ukraine",
-      "title": "UKRAINE: THE COST OF ATTRITION",
-      "kind": "story",
-      "imagePath": "brief-2026-11-05-06-ukraine.png",
-      "bundleAsset": "",
-      "sha256": "853e341eb7c0fa47df96458025915981fedc1e59484095d8c6038b6fd2cc1bb9",
-      "accessibleText": "UKRAINE: THE COST OF ATTRITION\n\nCONFIRMED: Russian strikes hit Ukrainian energy infrastructure, while the reported death toll from an attack on an aid site in Zaporizhzhia reached 43 by November 5. Russia maintains it targeted military personnel; the civilian toll is contested. [7]\n\nLOSSES — NOT VERIFIED TOTALS: Ukraine claimed roughly 1.60 million Russian personnel casualties by November 5. For comparison, CSIS independently estimated about 1.4 million Russian casualties through June 2026. These measure killed, wounded and missing, not deaths alone. [8][9]\n\nASSESSMENT: High attrition and infrastructure attacks continue despite scheduled talks; a durable ceasefire is not assured.",
-      "links": [
         {
           "id": "citation_7",
           "sourceNumber": 7,
           "rect": {
-            "x": 0.07666666666666666,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
-          }
-        },
-        {
-          "id": "citation_8",
-          "sourceNumber": 8,
-          "rect": {
-            "x": 0.2175,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
-          }
-        },
-        {
-          "id": "citation_9",
-          "sourceNumber": 9,
-          "rect": {
-            "x": 0.35833333333333334,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
-          }
-        }
-      ]
-    },
-    {
-      "id": "yemen",
-      "title": "YEMEN: IRAN’S REGIONAL REACH",
-      "kind": "story",
-      "imagePath": "brief-2026-11-05-07-yemen.png",
-      "bundleAsset": "",
-      "sha256": "9cbef42e337e85ea60aef49b883a720d27e390682563c6655638c70781490b61",
-      "accessibleText": "YEMEN: IRAN’S REGIONAL REACH\n\nREPORTED: Houthi forces claimed missile and drone strikes against Saudi targets in early November; individual claims were not independently verified. The Yemeni government also alleged that Iranian IRGC and Hezbollah personnel advise Houthi operations. [4][10]\n\nASSESSMENT — MODERATE CONFIDENCE: Iran benefits when Houthi pressure diverts Saudi resources, threatens energy infrastructure and broadens the cost of the regional conflict. The Houthis also pursue their own territorial and political objectives.\n\nWATCH: Saudi defenses, Red Sea shipping, advances near Taiz and any credible evidence of expanding external command support.",
-      "links": [
-        {
-          "id": "citation_4",
-          "sourceNumber": 4,
-          "rect": {
-            "x": 0.07666666666666666,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
+            "x": 0.37083333333333335,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
           }
         },
         {
           "id": "citation_10",
           "sourceNumber": 10,
           "rect": {
-            "x": 0.2175,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
-          }
-        }
-      ]
-    },
-    {
-      "id": "taiwan",
-      "title": "TAIWAN: PRESSURE BELOW WAR",
-      "kind": "story",
-      "imagePath": "brief-2026-11-05-08-taiwan.png",
-      "bundleAsset": "",
-      "sha256": "9f19b436981f1f04c8fd39fa5005423a6c6a0d111158afe365435b18e0b78a06",
-      "accessibleText": "TAIWAN: PRESSURE BELOW WAR\n\nCONFIRMED: Taiwan reported a Chinese maritime deployment spanning waters near Japan, Taiwan and the Philippines. Chinese coast guard vessels also patrolled east of Taiwan and approached the Pratas Islands, drawing objections from Taipei. [11][12]\n\nASSESSMENT — MODERATE CONFIDENCE: Beijing is testing its ability to sustain maritime presence and assert jurisdiction without triggering an outright battle. Such activity could support a future blockade playbook, but it is not proof that an invasion has been ordered.\n\nWATCH: Carrier movements, coast guard incursions, military aircraft activity and responses by Japan, the Philippines and the United States.",
-      "links": [
-        {
-          "id": "citation_11",
-          "sourceNumber": 11,
-          "rect": {
-            "x": 0.07666666666666666,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
+            "x": 0.47,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
           }
         },
         {
           "id": "citation_12",
           "sourceNumber": 12,
           "rect": {
-            "x": 0.2175,
-            "y": 0.871875,
-            "width": 0.11583333333333333,
-            "height": 0.04
+            "x": 0.5691666666666667,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
           }
         }
       ]
     },
     {
-      "id": "watchlist",
-      "title": "NEXT INDICATORS",
+      "id": "midterms",
+      "title": "U.S. MIDTERMS",
       "kind": "story",
-      "imagePath": "brief-2026-11-05-09-watchlist.png",
+      "imagePath": "brief-2026-11-05-r2-03-midterms.png",
       "bundleAsset": "",
-      "sha256": "61187fe72150c5a72c2c7471a072301ae922e8d859052fee0546e6ac9eca356f",
-      "accessibleText": "NEXT INDICATORS\n\nUNITED STATES: The incoming Congress’ leadership and oversight agenda will clarify how the November election affects foreign-policy constraints. [1]\n\nHORMUZ: A confirmed reduction in ship attacks, verified re-opening arrangements or a major loss at sea would materially alter the risk picture. [3][4]\n\nUKRAINE: U.S.-brokered talks scheduled for November 10–11 could test the parties’ willingness to negotiate while strikes continue. [7]\n\nEUROPE: Follow whether France’s strike wave eases and whether violence stays localized or expands. [5]\n\nTAIWAN: Sustained maritime deployments matter more than any single day of aircraft sorties. [11][12]",
+      "sha256": "ea379288fd9174ccce4b1f8f0a3acf823cbdf2f5af50f16994e018424ef41d02",
+      "accessibleText": "U.S. MIDTERMS\n\nDemocrats secured majorities in both houses of Congress on November 3. Several individual races remained unresolved at the reporting cutoff, but control of the chambers was projected. [1][2]\n\nWhen the new Congress convenes, committee leadership and investigations will change. War-powers disputes, defense appropriations and oversight of the Iran campaign are likely to intensify. These constraints do not immediately remove the president’s capacity to direct limited strikes. [3]\n\nThe election creates two plausible responses in Washington: seek a negotiated endpoint to reduce political and economic costs, or act militarily before a more hostile Congress takes office. Neither course is assured. [3]",
       "links": [
         {
           "id": "citation_1",
           "sourceNumber": 1,
           "rect": {
-            "x": 0.07666666666666666,
-            "y": 0.8275,
-            "width": 0.11583333333333333,
-            "height": 0.04
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_2",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
           }
         },
         {
           "id": "citation_3",
           "sourceNumber": 3,
           "rect": {
-            "x": 0.2175,
-            "y": 0.8275,
-            "width": 0.11583333333333333,
-            "height": 0.04
+            "x": 0.27166666666666667,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "iran",
+      "title": "IRAN",
+      "kind": "story",
+      "imagePath": "brief-2026-11-05-r2-04-iran.png",
+      "bundleAsset": "",
+      "sha256": "bbd07799f3a111b0f32c9cf3db82e77a7e9d2f1417bf3b19b41d654d5f74d13b",
+      "accessibleText": "IRAN\n\nU.S. forces carried out limited strikes against Iranian targets near Qeshm Island on November 2, describing them as defensive measures against threats to American assets. Israel has urged further action, while mediators seek arrangements involving shipping and sanctions. [3][4]\n\nFurther limited U.S. strikes are plausible if Iranian forces threaten ships or U.S. personnel. A broader campaign would carry larger risks to oil supply and American political support. Israeli strikes are also possible if leaders conclude the nuclear or missile threat is worsening. [3][5]\n\nTehran is likely to preserve launch assets, replenish defenses and retain maritime pressure while testing whether the midterm result improves its negotiating leverage. The vote is an opportunity for Iran, not protection against renewed attacks. [3][17]",
+      "links": [
+        {
+          "id": "citation_3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
           }
         },
         {
           "id": "citation_4",
           "sourceNumber": 4,
           "rect": {
-            "x": 0.35833333333333334,
-            "y": 0.8275,
-            "width": 0.11583333333333333,
-            "height": 0.04
-          }
-        },
-        {
-          "id": "citation_7",
-          "sourceNumber": 7,
-          "rect": {
-            "x": 0.49916666666666665,
-            "y": 0.8275,
-            "width": 0.11583333333333333,
-            "height": 0.04
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
           }
         },
         {
           "id": "citation_5",
           "sourceNumber": 5,
           "rect": {
-            "x": 0.64,
-            "y": 0.8275,
-            "width": 0.11583333333333333,
-            "height": 0.04
+            "x": 0.27166666666666667,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
           }
         },
+        {
+          "id": "citation_17",
+          "sourceNumber": 17,
+          "rect": {
+            "x": 0.37083333333333335,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "iran-networks",
+      "title": "IRANIAN NETWORKS",
+      "kind": "story",
+      "imagePath": "brief-2026-11-05-r2-05-iran-networks.png",
+      "bundleAsset": "",
+      "sha256": "8f296ea0273b91eb98f185bdcf36c72ed8c60310347e1a6a3d7c6c8b827e9960",
+      "accessibleText": "IRANIAN NETWORKS\n\nIran-backed Houthi operations in and around Yemen keep Saudi infrastructure and Red Sea shipping exposed while U.S.–Iran negotiations remain unsettled. Reporting also describes allegations of IRGC and Hezbollah advisers inside Houthi-held territory. [3][6]\n\nThis network offers Tehran leverage without requiring Iranian conventional forces to engage directly on every front. Houthi leaders also have their own territorial and political objectives, so Iranian influence should not be confused with complete operational control. [6]\n\nA sustained increase in missile or drone strikes against Saudi energy sites, renewed attacks on shipping, or evidence of shared targeting would suggest a deliberate effort to raise the economic price of continued U.S. operations. [3][6]",
+      "links": [
+        {
+          "id": "citation_3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_6",
+          "sourceNumber": 6,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "europe-cyber",
+      "title": "EUROPEAN CYBERATTACKS",
+      "kind": "story",
+      "imagePath": "brief-2026-11-05-r2-06-europe-cyber.png",
+      "bundleAsset": "",
+      "sha256": "9c2a6039dd8e01c37be9119751268bdf146cacf805f1802119b47dc9d46757b7",
+      "accessibleText": "EUROPEAN CYBERATTACKS\n\nA new wave of intrusions disrupted refrigeration controllers at nearly 100 supermarkets in several European countries, following reports of hundreds of affected stores in France during October. Food spoilage imposed immediate commercial losses. [7]\n\nThe attacks exploited weaknesses in internet-exposed industrial equipment. The choice of targets is consistent with a disruptive campaign designed to generate cost and public unease without kinetic violence. That pattern alone does not identify the attacker. [7]\n\nRepeated targeting of shared vendors, the same infrastructure or common digital tools would strengthen a coordination hypothesis. Public evidence does not yet establish Russian direction or a link to the aviation threats. [7][8]",
+      "links": [
+        {
+          "id": "citation_7",
+          "sourceNumber": 7,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_8",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "aviation",
+      "title": "AIRLINE BOMB THREATS",
+      "kind": "story",
+      "imagePath": "brief-2026-11-05-r2-07-aviation.png",
+      "bundleAsset": "",
+      "sha256": "b074cd773c3df8d954417456826a1fe66617f2aec05cafbff7cc07fb64622e5a",
+      "accessibleText": "AIRLINE BOMB THREATS\n\nFalse bomb warnings affected passenger flights across Europe during November 3–5. Aircraft were diverted, fighter escorts launched and security searches conducted. Authorities reported no explosives in the inspected aircraft. [8][9]\n\nThe scale and timing suggest a possible organized disruption effort, but a single sender, copycat threats and state-linked activity remain competing explanations. No public attribution to Russia or another government has been established. [8][9]\n\nFurther synchronized warnings, common message infrastructure or links to known covert networks would materially strengthen the coordination case. For now, the clearest effect is the diversion of aviation and security resources. [9]",
+      "links": [
+        {
+          "id": "citation_8",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_9",
+          "sourceNumber": 9,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "poland",
+      "title": "POLAND",
+      "kind": "story",
+      "imagePath": "brief-2026-11-05-r2-08-poland.png",
+      "bundleAsset": "",
+      "sha256": "0ff7f70378302e6d4734781a6b73e71b3d63ec20ffd1d9d834152fd1519f62a2",
+      "accessibleText": "POLAND\n\nPolish authorities identified six suspects in an alleged military-component smuggling network supplying Russia. Four were detained on espionage charges; two faced non-custodial measures. Officials said the operation sought to bypass restrictions on supplies for ammunition and weapons production. [10]\n\nThe case indicates a possible procurement route serving Russian military needs despite export controls. Poland’s geography and role in supporting Ukraine make such networks strategically significant. [10]\n\nThis investigation does not prove who conducted the European freezer intrusions or airline threats. Shared financiers, communications or travel patterns would be needed before treating the incidents as parts of one directed campaign. [7][8][10]",
+      "links": [
+        {
+          "id": "citation_7",
+          "sourceNumber": 7,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_8",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_10",
+          "sourceNumber": 10,
+          "rect": {
+            "x": 0.27166666666666667,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "title": "FRANCE",
+      "kind": "story",
+      "imagePath": "brief-2026-11-05-r2-09-france.png",
+      "bundleAsset": "",
+      "sha256": "27bf3d5c2057ceef4cab7928ac1b12479c9bad1f57a954c7b8b2eb257a049996",
+      "accessibleText": "FRANCE\n\nLarge November 5 marches followed severe riots on October 17. The Interior Ministry counted 575,000 demonstrators; organizers offered a higher estimate. Most marches remained peaceful, but police reported 448 arrests and 53 injured officers after clashes and vandalism. [11]\n\nWage pressure, living costs and concern about public services are sustaining mobilization among unions, students and other groups. Continued large demonstrations are likely, although further nationwide rioting is not inevitable. [11]\n\nWatch whether violence spreads beyond isolated groups, whether union action expands into transport and energy, and whether government concessions reduce participation. Peaceful protest and violent disorder must be tracked separately. [11]",
+      "links": [
         {
           "id": "citation_11",
           "sourceNumber": 11,
           "rect": {
-            "x": 0.7808333333333334,
-            "y": 0.8275,
-            "width": 0.11583333333333333,
-            "height": 0.04
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "ukraine",
+      "title": "RUSSIA–UKRAINE",
+      "kind": "story",
+      "imagePath": "brief-2026-11-05-r2-10-ukraine.png",
+      "bundleAsset": "",
+      "sha256": "0a4ae4304da565f9c81d89778caa4532f193a6e0873b14e77058847171a40ad0",
+      "accessibleText": "RUSSIA–UKRAINE\n\nA Russian strike on a humanitarian aid point in Ukraine’s Zaporizhzhia region killed at least 43 people, according to Ukraine’s president on November 5. Reuters verified footage of a second strike on a shelter. Russia said it targeted Ukrainian forces. [12]\n\nThe war remains an attritional contest. CSIS estimated approximately 1.4 million Russian battlefield casualties through June 2026, including an estimated 400,000–450,000 deaths. These are estimates, not a verified count of every individual lost. [13]\n\nLong-range strikes and attacks on infrastructure are likely to continue while negotiations are explored. A genuine de-escalation would require a sustained fall in strikes and verifiable changes in force activity, not simply new diplomatic meetings. [12][13]",
+      "links": [
         {
           "id": "citation_12",
           "sourceNumber": 12,
           "rect": {
-            "x": 0.07666666666666666,
-            "y": 0.874375,
-            "width": 0.11583333333333333,
-            "height": 0.04
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_13",
+          "sourceNumber": 13,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "taiwan",
+      "title": "TAIWAN",
+      "kind": "story",
+      "imagePath": "brief-2026-11-05-r2-11-taiwan.png",
+      "bundleAsset": "",
+      "sha256": "e3b407e4576631bbfb0160652671b16ebb77536420b33abbb2edd74d9188590c",
+      "accessibleText": "TAIWAN\n\nTaiwan reported a Chinese coast guard vessel entering restricted waters near the Pratas Islands, where the two coast guard ships approached within about one nautical mile. China also announced patrols east of Taiwan. [14][15]\n\nThese operations strengthen Beijing’s ability to challenge jurisdiction and maintain presence around routes Taiwan would need in a blockade. They are consistent with coercive pressure and rehearsal of maritime control, not proof that an invasion order has been issued. [14][15]\n\nLonger patrol durations, military support to coast guard vessels, restrictions on commercial movement or unusual force concentrations would indicate a more serious escalation. [14]",
+      "links": [
+        {
+          "id": "citation_14",
+          "sourceNumber": 14,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_15",
+          "sourceNumber": 15,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "escalation",
+      "title": "ESCALATION PATHWAYS",
+      "kind": "story",
+      "imagePath": "brief-2026-11-05-r2-12-escalation.png",
+      "bundleAsset": "",
+      "sha256": "2e1e0a04db9fa1e17f7ef3ce3a1009dfc2a40070a1d4f2e77080a2432c06c585",
+      "accessibleText": "ESCALATION PATHWAYS\n\nThe principal danger is not that today’s conflicts share one proven command structure. It is that separate confrontations can interact through energy prices, allied commitments, maritime routes and the movement of scarce military forces. [3][13][16]\n\nA serious shipping loss in Hormuz could prompt larger U.S. strikes; an attack involving NATO personnel could sharpen confrontation with Russia; or a Taiwan maritime incident could demand a rapid U.S. response while American forces are committed elsewhere. These are conditional pathways, not predictions. [3][10][14]\n\nThe warning indicators are cross-theater force movements, repeated attacks on allied assets, breakdowns in diplomatic channels and verified links between covert incidents. No single episode establishes that a world war has begun.",
+      "links": [
+        {
+          "id": "citation_3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_10",
+          "sourceNumber": 10,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_14",
+          "sourceNumber": 14,
+          "rect": {
+            "x": 0.27166666666666667,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_16",
+          "sourceNumber": 16,
+          "rect": {
+            "x": 0.37083333333333335,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
           }
         }
       ]
     },
     {
       "id": "sources",
-      "title": "SOURCES & METHODS",
+      "title": "SOURCES",
       "kind": "sources",
-      "imagePath": "brief-2026-11-05-10-sources.png",
+      "imagePath": "brief-2026-11-05-r2-13-sources.png",
       "bundleAsset": "",
-      "sha256": "0ca167e8b2b0209cf5318df5375735d5d65133dc54473d548240acacaa8d9416",
-      "accessibleText": "SOURCES & METHODS\n\nPrimary reporting and analysis as of November 5, 2026. Statements labelled CONFIRMED reflect attributed reporting; assessments are Watchfront judgments. Numbers given by parties to a conflict are explicitly identified as claims.\n\n[1] AP | Democrats win Congress — https://apnews.com/article/ef6199e25927a9ac9f4c18eae0e497cd\n[2] Ballotpedia | 2026 election results — https://ballotpedia.org/Election_results\n[3] CFR | Conflict with Iran — https://www.cfr.org/global-conflict-tracker/conflict/confrontation-between-united-states-and-iran\n[4] ISW / CTP | Iran Update, Nov. 4 — https://www.criticalthreats.org/analysis/iran-update-november-04-2026\n[5] Reuters | France protests, Nov. 5 — https://www.investing.com/news/world-news/france-faces-new-protests-as-macron-seeks-to-prevent-repeat-of-october-unrest-5002765\n[6] Le Monde | Unrest across Europe — https://www.lemonde.fr/en/international/article/2026/10/20/italy-spain-belgium-portugal-social-unrest-spreads-across-europe-amid-soaring-energy-prices-and-a-housing-crisis_6759435_4.html\n[7] Reuters | Ukrainian aid-site strike — https://www.reuters.com/world/europe/death-toll-russian-strike-ukrainian-aid-centre-reaches-42-police-say-2026-11-05/\n[8] CSIS | Russian casualties through June — https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war\n[9] UNITED24 | Ukraine military loss claim — https://united24media.com/war-in-ukraine/daily-update-russia-loses-2380-troops-in-one-day-as-total-now-just-610-short-of-16-million-24097\n[10] AP | Yemen and regional conflict — https://apnews.com/article/ada824e7387edec2cd8d1f97045dff2b\n[11] Reuters | China patrol near Taiwan — https://www.reuters.com/world/china/taiwan-says-china-harassing-shipping-with-east-coast-patrol-2026-11-01/\n[12] Reuters | Chinese naval deployment — https://www.taipeitimes.com/News/taiwan/archives/2026/10/30/2003866865",
+      "sha256": "9f3a2124d1818c8685c743dc1e61506389adb7551319dc3a761fe14b473084e8",
+      "accessibleText": "SOURCES\n\n\n\n[1] AP — 2026 midterm results — https://apnews.com/article/f126e12e05b579a327b98481c0ae2226\n[2] Ballotpedia — Congressional majorities — https://news.ballotpedia.org/2026/11/04/democrats-win-u-s-house-and-senate-majorities/\n[3] AP — Trump weighs Iran war options — https://apnews.com/article/e92751dbcdf940c486c8d1e57dafbe99\n[4] AP — U.S. strikes in Hormuz — https://apnews.com/article/8722c8b5a9deb228e7a188d4760ea8ed\n[5] ABC — U.S.–Israel strike planning — https://abcnews.com/amp/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897\n[6] Critical Threats — Iran, 4 November — https://www.criticalthreats.org/analysis/iran-update-november-04-2026\n[7] FT — European refrigeration attacks — https://www.ft.com/content/90e63a7f-45d7-4e7a-940d-6d5145d51941\n[8] AP — Airline bomb threats — https://apnews.com/article/54591e18981c93e6c5aabe140404dab4\n[9] RTE — Flight disruptions, 5 November — https://www.rte.ie/news/europe/2026/1105/1598073-europe-flight-threats/\n[10] Reuters — Poland procurement arrests — https://www.reuters.com/world/poland-arrest-four-probe-into-military-supplies-sent-russia-2026-11-05/\n[11] Reuters — France demonstrations — https://www.reuters.com/world/europe/france-braces-fresh-protests-macron-seeks-prevent-repeat-october-unrest-2026-11-05/\n[12] Reuters — Zaporizhzhia aid-site strike — https://www.reuters.com/world/europe/death-toll-russian-strike-ukrainian-aid-centre-reaches-42-police-say-2026-11-05/\n[13] CSIS — Russian war casualties — https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war\n[14] AP — Coast guard confrontation, Taiwan — https://apnews.com/article/dfc441591994cb435e55eb8f3dc6aeda\n[15] Reuters — Patrols east of Taiwan — https://www.reuters.com/world/china/chinas-coast-guard-conducts-patrols-east-taiwan-cctv-reports-2026-10-31/\n[16] UK Parliament — Iran conflict background — https://commonslibrary.parliament.uk/research-briefings/cbp-11075/\n[17] The National — Iran after U.S. midterms — https://www.thenationalnews.com/news/gulf/2026/11/05/iran-sees-opening-after-trump-midterms-setback-but-warns-of-wider-conflict/",
       "links": [
         {
           "id": "source_1",
           "sourceNumber": 1,
           "rect": {
-            "x": 0.07333333333333333,
-            "y": 0.303125,
-            "width": 0.8516666666666667,
-            "height": 0.041875
+            "x": 0.07416666666666667,
+            "y": 0.2305263157894737,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
           }
         },
         {
           "id": "source_2",
           "sourceNumber": 2,
           "rect": {
-            "x": 0.07333333333333333,
-            "y": 0.35125,
-            "width": 0.8516666666666667,
-            "height": 0.041875
+            "x": 0.07416666666666667,
+            "y": 0.26842105263157895,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
           }
         },
         {
           "id": "source_3",
           "sourceNumber": 3,
           "rect": {
-            "x": 0.07333333333333333,
-            "y": 0.399375,
-            "width": 0.8516666666666667,
-            "height": 0.041875
+            "x": 0.07416666666666667,
+            "y": 0.3063157894736842,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
           }
         },
         {
           "id": "source_4",
           "sourceNumber": 4,
           "rect": {
-            "x": 0.07333333333333333,
-            "y": 0.4475,
-            "width": 0.8516666666666667,
-            "height": 0.041875
+            "x": 0.07416666666666667,
+            "y": 0.34421052631578947,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
           }
         },
         {
           "id": "source_5",
           "sourceNumber": 5,
           "rect": {
-            "x": 0.07333333333333333,
-            "y": 0.495625,
-            "width": 0.8516666666666667,
-            "height": 0.041875
+            "x": 0.07416666666666667,
+            "y": 0.3821052631578947,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
           }
         },
         {
           "id": "source_6",
           "sourceNumber": 6,
           "rect": {
-            "x": 0.07333333333333333,
-            "y": 0.54375,
-            "width": 0.8516666666666667,
-            "height": 0.041875
+            "x": 0.07416666666666667,
+            "y": 0.42,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
           }
         },
         {
           "id": "source_7",
           "sourceNumber": 7,
           "rect": {
-            "x": 0.07333333333333333,
-            "y": 0.591875,
-            "width": 0.8516666666666667,
-            "height": 0.041875
+            "x": 0.07416666666666667,
+            "y": 0.45789473684210524,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
           }
         },
         {
           "id": "source_8",
           "sourceNumber": 8,
           "rect": {
-            "x": 0.07333333333333333,
-            "y": 0.64,
-            "width": 0.8516666666666667,
-            "height": 0.041875
+            "x": 0.07416666666666667,
+            "y": 0.4957894736842105,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
           }
         },
         {
           "id": "source_9",
           "sourceNumber": 9,
           "rect": {
-            "x": 0.07333333333333333,
-            "y": 0.688125,
-            "width": 0.8516666666666667,
-            "height": 0.041875
+            "x": 0.07416666666666667,
+            "y": 0.5336842105263158,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
           }
         },
         {
           "id": "source_10",
           "sourceNumber": 10,
           "rect": {
-            "x": 0.07333333333333333,
-            "y": 0.73625,
-            "width": 0.8516666666666667,
-            "height": 0.041875
+            "x": 0.07416666666666667,
+            "y": 0.5715789473684211,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
           }
         },
         {
           "id": "source_11",
           "sourceNumber": 11,
           "rect": {
-            "x": 0.07333333333333333,
-            "y": 0.784375,
-            "width": 0.8516666666666667,
-            "height": 0.041875
+            "x": 0.07416666666666667,
+            "y": 0.6094736842105263,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
           }
         },
         {
           "id": "source_12",
           "sourceNumber": 12,
           "rect": {
-            "x": 0.07333333333333333,
-            "y": 0.8325,
-            "width": 0.8516666666666667,
-            "height": 0.041875
+            "x": 0.07416666666666667,
+            "y": 0.6473684210526316,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_13",
+          "sourceNumber": 13,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.6852631578947368,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_14",
+          "sourceNumber": 14,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.7231578947368421,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_15",
+          "sourceNumber": 15,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.7610526315789473,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_16",
+          "sourceNumber": 16,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.7989473684210526,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_17",
+          "sourceNumber": 17,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.8368421052631579,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
           }
         }
       ]
@@ -493,63 +636,88 @@
   "sources": [
     {
       "number": 1,
-      "title": "AP | Democrats win Congress",
-      "url": "https://apnews.com/article/ef6199e25927a9ac9f4c18eae0e497cd"
+      "title": "AP — 2026 midterm results",
+      "url": "https://apnews.com/article/f126e12e05b579a327b98481c0ae2226"
     },
     {
       "number": 2,
-      "title": "Ballotpedia | 2026 election results",
-      "url": "https://ballotpedia.org/Election_results"
+      "title": "Ballotpedia — Congressional majorities",
+      "url": "https://news.ballotpedia.org/2026/11/04/democrats-win-u-s-house-and-senate-majorities/"
     },
     {
       "number": 3,
-      "title": "CFR | Conflict with Iran",
-      "url": "https://www.cfr.org/global-conflict-tracker/conflict/confrontation-between-united-states-and-iran"
+      "title": "AP — Trump weighs Iran war options",
+      "url": "https://apnews.com/article/e92751dbcdf940c486c8d1e57dafbe99"
     },
     {
       "number": 4,
-      "title": "ISW / CTP | Iran Update, Nov. 4",
-      "url": "https://www.criticalthreats.org/analysis/iran-update-november-04-2026"
+      "title": "AP — U.S. strikes in Hormuz",
+      "url": "https://apnews.com/article/8722c8b5a9deb228e7a188d4760ea8ed"
     },
     {
       "number": 5,
-      "title": "Reuters | France protests, Nov. 5",
-      "url": "https://www.investing.com/news/world-news/france-faces-new-protests-as-macron-seeks-to-prevent-repeat-of-october-unrest-5002765"
+      "title": "ABC — U.S.–Israel strike planning",
+      "url": "https://abcnews.com/amp/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897"
     },
     {
       "number": 6,
-      "title": "Le Monde | Unrest across Europe",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/20/italy-spain-belgium-portugal-social-unrest-spreads-across-europe-amid-soaring-energy-prices-and-a-housing-crisis_6759435_4.html"
+      "title": "Critical Threats — Iran, 4 November",
+      "url": "https://www.criticalthreats.org/analysis/iran-update-november-04-2026"
     },
     {
       "number": 7,
-      "title": "Reuters | Ukrainian aid-site strike",
-      "url": "https://www.reuters.com/world/europe/death-toll-russian-strike-ukrainian-aid-centre-reaches-42-police-say-2026-11-05/"
+      "title": "FT — European refrigeration attacks",
+      "url": "https://www.ft.com/content/90e63a7f-45d7-4e7a-940d-6d5145d51941"
     },
     {
       "number": 8,
-      "title": "CSIS | Russian casualties through June",
-      "url": "https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war"
+      "title": "AP — Airline bomb threats",
+      "url": "https://apnews.com/article/54591e18981c93e6c5aabe140404dab4"
     },
     {
       "number": 9,
-      "title": "UNITED24 | Ukraine military loss claim",
-      "url": "https://united24media.com/war-in-ukraine/daily-update-russia-loses-2380-troops-in-one-day-as-total-now-just-610-short-of-16-million-24097"
+      "title": "RTE — Flight disruptions, 5 November",
+      "url": "https://www.rte.ie/news/europe/2026/1105/1598073-europe-flight-threats/"
     },
     {
       "number": 10,
-      "title": "AP | Yemen and regional conflict",
-      "url": "https://apnews.com/article/ada824e7387edec2cd8d1f97045dff2b"
+      "title": "Reuters — Poland procurement arrests",
+      "url": "https://www.reuters.com/world/poland-arrest-four-probe-into-military-supplies-sent-russia-2026-11-05/"
     },
     {
       "number": 11,
-      "title": "Reuters | China patrol near Taiwan",
-      "url": "https://www.reuters.com/world/china/taiwan-says-china-harassing-shipping-with-east-coast-patrol-2026-11-01/"
+      "title": "Reuters — France demonstrations",
+      "url": "https://www.reuters.com/world/europe/france-braces-fresh-protests-macron-seeks-prevent-repeat-october-unrest-2026-11-05/"
     },
     {
       "number": 12,
-      "title": "Reuters | Chinese naval deployment",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/30/2003866865"
+      "title": "Reuters — Zaporizhzhia aid-site strike",
+      "url": "https://www.reuters.com/world/europe/death-toll-russian-strike-ukrainian-aid-centre-reaches-42-police-say-2026-11-05/"
+    },
+    {
+      "number": 13,
+      "title": "CSIS — Russian war casualties",
+      "url": "https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war"
+    },
+    {
+      "number": 14,
+      "title": "AP — Coast guard confrontation, Taiwan",
+      "url": "https://apnews.com/article/dfc441591994cb435e55eb8f3dc6aeda"
+    },
+    {
+      "number": 15,
+      "title": "Reuters — Patrols east of Taiwan",
+      "url": "https://www.reuters.com/world/china/chinas-coast-guard-conducts-patrols-east-taiwan-cctv-reports-2026-10-31/"
+    },
+    {
+      "number": 16,
+      "title": "UK Parliament — Iran conflict background",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-11075/"
+    },
+    {
+      "number": 17,
+      "title": "The National — Iran after U.S. midterms",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/11/05/iran-sees-opening-after-trump-midterms-setback-but-warns-of-wider-conflict/"
     }
   ],
   "home": null
