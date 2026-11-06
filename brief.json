@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "wf_2026_11_05",
-  "revision": 2,
+  "revision": 3,
   "publishedAt": "2026-11-05T22:00:00Z",
   "displayDate": "November 5, 2026",
   "coveragePeriod": "October 25–November 5, 2026",
@@ -95,10 +95,10 @@
       "id": "midterms",
       "title": "U.S. MIDTERMS",
       "kind": "story",
-      "imagePath": "brief-2026-11-05-r2-03-midterms.png",
+      "imagePath": "brief-2026-11-05-r3-03-midterms.png",
       "bundleAsset": "",
-      "sha256": "ea379288fd9174ccce4b1f8f0a3acf823cbdf2f5af50f16994e018424ef41d02",
-      "accessibleText": "U.S. MIDTERMS\n\nDemocrats secured majorities in both houses of Congress on November 3. Several individual races remained unresolved at the reporting cutoff, but control of the chambers was projected. [1][2]\n\nWhen the new Congress convenes, committee leadership and investigations will change. War-powers disputes, defense appropriations and oversight of the Iran campaign are likely to intensify. These constraints do not immediately remove the president’s capacity to direct limited strikes. [3]\n\nThe election creates two plausible responses in Washington: seek a negotiated endpoint to reduce political and economic costs, or act militarily before a more hostile Congress takes office. Neither course is assured. [3]",
+      "sha256": "beca9e4a0b7bcb2ef7872328122461a69a3d47ee4cb89f9c2b98e9dd3dd992a5",
+      "accessibleText": "Congressional Control Shifts\n\nU.S. MIDTERMS\n\nDemocrats secured majorities in both houses of Congress on November 3. Several individual races remained unresolved at the reporting cutoff, but control of the chambers was projected. [1][2]\n\nWhen the new Congress convenes, committee leadership and investigations will change. War-powers disputes, defense appropriations and oversight of the Iran campaign are likely to intensify. These constraints do not immediately remove the president’s capacity to direct limited strikes. [3]\n\nThe election creates two plausible responses in Washington: seek a negotiated endpoint to reduce political and economic costs, or act militarily before a more hostile Congress takes office. Neither course is assured. [3]",
       "links": [
         {
           "id": "citation_1",
@@ -136,10 +136,10 @@
       "id": "iran",
       "title": "IRAN",
       "kind": "story",
-      "imagePath": "brief-2026-11-05-r2-04-iran.png",
+      "imagePath": "brief-2026-11-05-r3-04-iran.png",
       "bundleAsset": "",
-      "sha256": "bbd07799f3a111b0f32c9cf3db82e77a7e9d2f1417bf3b19b41d654d5f74d13b",
-      "accessibleText": "IRAN\n\nU.S. forces carried out limited strikes against Iranian targets near Qeshm Island on November 2, describing them as defensive measures against threats to American assets. Israel has urged further action, while mediators seek arrangements involving shipping and sanctions. [3][4]\n\nFurther limited U.S. strikes are plausible if Iranian forces threaten ships or U.S. personnel. A broader campaign would carry larger risks to oil supply and American political support. Israeli strikes are also possible if leaders conclude the nuclear or missile threat is worsening. [3][5]\n\nTehran is likely to preserve launch assets, replenish defenses and retain maritime pressure while testing whether the midterm result improves its negotiating leverage. The vote is an opportunity for Iran, not protection against renewed attacks. [3][17]",
+      "sha256": "d00fc95f17008f093a90dd21a5cb2f31bb59274bb63e6301bbdb82fd741d89d6",
+      "accessibleText": "Further Strikes Remain Possible\n\nIRAN\n\nU.S. forces carried out limited strikes against Iranian targets near Qeshm Island on November 2, describing them as defensive measures against threats to American assets. Israel has urged further action, while mediators seek arrangements involving shipping and sanctions. [3][4]\n\nFurther limited U.S. strikes are plausible if Iranian forces threaten ships or U.S. personnel. A broader campaign would carry larger risks to oil supply and American political support. Israeli strikes are also possible if leaders conclude the nuclear or missile threat is worsening. [3][5]\n\nTehran is likely to preserve launch assets, replenish defenses and retain maritime pressure while testing whether the midterm result improves its negotiating leverage. The vote is an opportunity for Iran, not protection against renewed attacks. [3][17]",
       "links": [
         {
           "id": "citation_3",
@@ -187,10 +187,10 @@
       "id": "iran-networks",
       "title": "IRANIAN NETWORKS",
       "kind": "story",
-      "imagePath": "brief-2026-11-05-r2-05-iran-networks.png",
+      "imagePath": "brief-2026-11-05-r3-05-iran-networks.png",
       "bundleAsset": "",
-      "sha256": "8f296ea0273b91eb98f185bdcf36c72ed8c60310347e1a6a3d7c6c8b827e9960",
-      "accessibleText": "IRANIAN NETWORKS\n\nIran-backed Houthi operations in and around Yemen keep Saudi infrastructure and Red Sea shipping exposed while U.S.–Iran negotiations remain unsettled. Reporting also describes allegations of IRGC and Hezbollah advisers inside Houthi-held territory. [3][6]\n\nThis network offers Tehran leverage without requiring Iranian conventional forces to engage directly on every front. Houthi leaders also have their own territorial and political objectives, so Iranian influence should not be confused with complete operational control. [6]\n\nA sustained increase in missile or drone strikes against Saudi energy sites, renewed attacks on shipping, or evidence of shared targeting would suggest a deliberate effort to raise the economic price of continued U.S. operations. [3][6]",
+      "sha256": "b24b436da0a0e0a1ffdcdce5028bb05433c81dd4ee6f12d8e8dae06e25649bac",
+      "accessibleText": "Proxies Retain Regional Leverage\n\nIRANIAN NETWORKS\n\nIran-backed Houthi operations in and around Yemen keep Saudi infrastructure and Red Sea shipping exposed while U.S.–Iran negotiations remain unsettled. Reporting also describes allegations of IRGC and Hezbollah advisers inside Houthi-held territory. [3][6]\n\nThis network offers Tehran leverage without requiring Iranian conventional forces to engage directly on every front. Houthi leaders also have their own territorial and political objectives, so Iranian influence should not be confused with complete operational control. [6]\n\nA sustained increase in missile or drone strikes against Saudi energy sites, renewed attacks on shipping, or evidence of shared targeting would suggest a deliberate effort to raise the economic price of continued U.S. operations. [3][6]",
       "links": [
         {
           "id": "citation_3",
@@ -218,10 +218,10 @@
       "id": "europe-cyber",
       "title": "EUROPEAN CYBERATTACKS",
       "kind": "story",
-      "imagePath": "brief-2026-11-05-r2-06-europe-cyber.png",
+      "imagePath": "brief-2026-11-05-r3-06-europe-cyber.png",
       "bundleAsset": "",
-      "sha256": "9c2a6039dd8e01c37be9119751268bdf146cacf805f1802119b47dc9d46757b7",
-      "accessibleText": "EUROPEAN CYBERATTACKS\n\nA new wave of intrusions disrupted refrigeration controllers at nearly 100 supermarkets in several European countries, following reports of hundreds of affected stores in France during October. Food spoilage imposed immediate commercial losses. [7]\n\nThe attacks exploited weaknesses in internet-exposed industrial equipment. The choice of targets is consistent with a disruptive campaign designed to generate cost and public unease without kinetic violence. That pattern alone does not identify the attacker. [7]\n\nRepeated targeting of shared vendors, the same infrastructure or common digital tools would strengthen a coordination hypothesis. Public evidence does not yet establish Russian direction or a link to the aviation threats. [7][8]",
+      "sha256": "533c4cff6d48f95f47a9e36680bae36637427e5e8c7a8225260bdae75bea8cf5",
+      "accessibleText": "Repeated Infrastructure Disruption\n\nEUROPEAN CYBERATTACKS\n\nA new wave of intrusions disrupted refrigeration controllers at nearly 100 supermarkets in several European countries, following reports of hundreds of affected stores in France during October. Food spoilage imposed immediate commercial losses. [7]\n\nThe attacks exploited weaknesses in internet-exposed industrial equipment. The choice of targets is consistent with a disruptive campaign designed to generate cost and public unease without kinetic violence. That pattern alone does not identify the attacker. [7]\n\nRepeated targeting of shared vendors, the same infrastructure or common digital tools would strengthen a coordination hypothesis. Public evidence does not yet establish Russian direction or a link to the aviation threats. [7][8]",
       "links": [
         {
           "id": "citation_7",
@@ -249,10 +249,10 @@
       "id": "aviation",
       "title": "AIRLINE BOMB THREATS",
       "kind": "story",
-      "imagePath": "brief-2026-11-05-r2-07-aviation.png",
+      "imagePath": "brief-2026-11-05-r3-07-aviation.png",
       "bundleAsset": "",
-      "sha256": "b074cd773c3df8d954417456826a1fe66617f2aec05cafbff7cc07fb64622e5a",
-      "accessibleText": "AIRLINE BOMB THREATS\n\nFalse bomb warnings affected passenger flights across Europe during November 3–5. Aircraft were diverted, fighter escorts launched and security searches conducted. Authorities reported no explosives in the inspected aircraft. [8][9]\n\nThe scale and timing suggest a possible organized disruption effort, but a single sender, copycat threats and state-linked activity remain competing explanations. No public attribution to Russia or another government has been established. [8][9]\n\nFurther synchronized warnings, common message infrastructure or links to known covert networks would materially strengthen the coordination case. For now, the clearest effect is the diversion of aviation and security resources. [9]",
+      "sha256": "950a932f4507e8c61d3e0d50bc4b3797059054b87758e5a3fcae4437dffce98a",
+      "accessibleText": "Origin Of Threats Unconfirmed\n\nAIRLINE BOMB THREATS\n\nFalse bomb warnings affected passenger flights across Europe during November 3–5. Aircraft were diverted, fighter escorts launched and security searches conducted. Authorities reported no explosives in the inspected aircraft. [8][9]\n\nThe scale and timing suggest a possible organized disruption effort, but a single sender, copycat threats and state-linked activity remain competing explanations. No public attribution to Russia or another government has been established. [8][9]\n\nFurther synchronized warnings, common message infrastructure or links to known covert networks would materially strengthen the coordination case. For now, the clearest effect is the diversion of aviation and security resources. [9]",
       "links": [
         {
           "id": "citation_8",
@@ -280,10 +280,10 @@
       "id": "poland",
       "title": "POLAND",
       "kind": "story",
-      "imagePath": "brief-2026-11-05-r2-08-poland.png",
+      "imagePath": "brief-2026-11-05-r3-08-poland.png",
       "bundleAsset": "",
-      "sha256": "0ff7f70378302e6d4734781a6b73e71b3d63ec20ffd1d9d834152fd1519f62a2",
-      "accessibleText": "POLAND\n\nPolish authorities identified six suspects in an alleged military-component smuggling network supplying Russia. Four were detained on espionage charges; two faced non-custodial measures. Officials said the operation sought to bypass restrictions on supplies for ammunition and weapons production. [10]\n\nThe case indicates a possible procurement route serving Russian military needs despite export controls. Poland’s geography and role in supporting Ukraine make such networks strategically significant. [10]\n\nThis investigation does not prove who conducted the European freezer intrusions or airline threats. Shared financiers, communications or travel patterns would be needed before treating the incidents as parts of one directed campaign. [7][8][10]",
+      "sha256": "1e1d6c91cc96bb48cfcd85194174f3911d031f03846660058b49b4b0d2653434",
+      "accessibleText": "Alleged Procurement Network For Russia\n\nPOLAND\n\nPolish authorities identified six suspects in an alleged military-component smuggling network supplying Russia. Four were detained on espionage charges; two faced non-custodial measures. Officials said the operation sought to bypass restrictions on supplies for ammunition and weapons production. [10]\n\nThe case indicates a possible procurement route serving Russian military needs despite export controls. Poland’s geography and role in supporting Ukraine make such networks strategically significant. [10]\n\nThis investigation does not prove who conducted the European freezer intrusions or airline threats. Shared financiers, communications or travel patterns would be needed before treating the incidents as parts of one directed campaign. [7][8][10]",
       "links": [
         {
           "id": "citation_7",
@@ -321,10 +321,10 @@
       "id": "france",
       "title": "FRANCE",
       "kind": "story",
-      "imagePath": "brief-2026-11-05-r2-09-france.png",
+      "imagePath": "brief-2026-11-05-r3-09-france.png",
       "bundleAsset": "",
-      "sha256": "27bf3d5c2057ceef4cab7928ac1b12479c9bad1f57a954c7b8b2eb257a049996",
-      "accessibleText": "FRANCE\n\nLarge November 5 marches followed severe riots on October 17. The Interior Ministry counted 575,000 demonstrators; organizers offered a higher estimate. Most marches remained peaceful, but police reported 448 arrests and 53 injured officers after clashes and vandalism. [11]\n\nWage pressure, living costs and concern about public services are sustaining mobilization among unions, students and other groups. Continued large demonstrations are likely, although further nationwide rioting is not inevitable. [11]\n\nWatch whether violence spreads beyond isolated groups, whether union action expands into transport and energy, and whether government concessions reduce participation. Peaceful protest and violent disorder must be tracked separately. [11]",
+      "sha256": "b006795cfc02371c77631b27c8d43eecac177ad06c4547da411fff2d14d04fc7",
+      "accessibleText": "Risk Of Further Violent Unrest\n\nFRANCE\n\nLarge November 5 marches followed severe riots on October 17. The Interior Ministry counted 575,000 demonstrators; organizers offered a higher estimate. Most marches remained peaceful, but police reported 448 arrests and 53 injured officers after clashes and vandalism. [11]\n\nWage pressure, living costs and concern about public services are sustaining mobilization among unions, students and other groups. Continued large demonstrations are likely, although further nationwide rioting is not inevitable. [11]\n\nWatch whether violence spreads beyond isolated groups, whether union action expands into transport and energy, and whether government concessions reduce participation. Peaceful protest and violent disorder must be tracked separately. [11]",
       "links": [
         {
           "id": "citation_11",
@@ -342,10 +342,10 @@
       "id": "ukraine",
       "title": "RUSSIA–UKRAINE",
       "kind": "story",
-      "imagePath": "brief-2026-11-05-r2-10-ukraine.png",
+      "imagePath": "brief-2026-11-05-r3-10-ukraine.png",
       "bundleAsset": "",
-      "sha256": "0a4ae4304da565f9c81d89778caa4532f193a6e0873b14e77058847171a40ad0",
-      "accessibleText": "RUSSIA–UKRAINE\n\nA Russian strike on a humanitarian aid point in Ukraine’s Zaporizhzhia region killed at least 43 people, according to Ukraine’s president on November 5. Reuters verified footage of a second strike on a shelter. Russia said it targeted Ukrainian forces. [12]\n\nThe war remains an attritional contest. CSIS estimated approximately 1.4 million Russian battlefield casualties through June 2026, including an estimated 400,000–450,000 deaths. These are estimates, not a verified count of every individual lost. [13]\n\nLong-range strikes and attacks on infrastructure are likely to continue while negotiations are explored. A genuine de-escalation would require a sustained fall in strikes and verifiable changes in force activity, not simply new diplomatic meetings. [12][13]",
+      "sha256": "2205c9943952e112f8e4251a01446b8429f044b5d4c0c5a96ffeeeac45dc6dd0",
+      "accessibleText": "Attrition And Infrastructure Strikes\n\nRUSSIA–UKRAINE\n\nA Russian strike on a humanitarian aid point in Ukraine’s Zaporizhzhia region killed at least 43 people, according to Ukraine’s president on November 5. Reuters verified footage of a second strike on a shelter. Russia said it targeted Ukrainian forces. [12]\n\nThe war remains an attritional contest. CSIS estimated approximately 1.4 million Russian battlefield casualties through June 2026, including an estimated 400,000–450,000 deaths. These are estimates, not a verified count of every individual lost. [13]\n\nLong-range strikes and attacks on infrastructure are likely to continue while negotiations are explored. A genuine de-escalation would require a sustained fall in strikes and verifiable changes in force activity, not simply new diplomatic meetings. [12][13]",
       "links": [
         {
           "id": "citation_12",
@@ -373,10 +373,10 @@
       "id": "taiwan",
       "title": "TAIWAN",
       "kind": "story",
-      "imagePath": "brief-2026-11-05-r2-11-taiwan.png",
+      "imagePath": "brief-2026-11-05-r3-11-taiwan.png",
       "bundleAsset": "",
-      "sha256": "e3b407e4576631bbfb0160652671b16ebb77536420b33abbb2edd74d9188590c",
-      "accessibleText": "TAIWAN\n\nTaiwan reported a Chinese coast guard vessel entering restricted waters near the Pratas Islands, where the two coast guard ships approached within about one nautical mile. China also announced patrols east of Taiwan. [14][15]\n\nThese operations strengthen Beijing’s ability to challenge jurisdiction and maintain presence around routes Taiwan would need in a blockade. They are consistent with coercive pressure and rehearsal of maritime control, not proof that an invasion order has been issued. [14][15]\n\nLonger patrol durations, military support to coast guard vessels, restrictions on commercial movement or unusual force concentrations would indicate a more serious escalation. [14]",
+      "sha256": "164238454c3894563a9e0ce987e8840c5f91861ef8b2c3cf21d8716d9d2fc613",
+      "accessibleText": "Increased Maritime Pressure\n\nTAIWAN\n\nTaiwan reported a Chinese coast guard vessel entering restricted waters near the Pratas Islands, where the two coast guard ships approached within about one nautical mile. China also announced patrols east of Taiwan. [14][15]\n\nThese operations strengthen Beijing’s ability to challenge jurisdiction and maintain presence around routes Taiwan would need in a blockade. They are consistent with coercive pressure and rehearsal of maritime control, not proof that an invasion order has been issued. [14][15]\n\nLonger patrol durations, military support to coast guard vessels, restrictions on commercial movement or unusual force concentrations would indicate a more serious escalation. [14]",
       "links": [
         {
           "id": "citation_14",
@@ -404,10 +404,10 @@
       "id": "escalation",
       "title": "ESCALATION PATHWAYS",
       "kind": "story",
-      "imagePath": "brief-2026-11-05-r2-12-escalation.png",
+      "imagePath": "brief-2026-11-05-r3-12-escalation.png",
       "bundleAsset": "",
-      "sha256": "2e1e0a04db9fa1e17f7ef3ce3a1009dfc2a40070a1d4f2e77080a2432c06c585",
-      "accessibleText": "ESCALATION PATHWAYS\n\nThe principal danger is not that today’s conflicts share one proven command structure. It is that separate confrontations can interact through energy prices, allied commitments, maritime routes and the movement of scarce military forces. [3][13][16]\n\nA serious shipping loss in Hormuz could prompt larger U.S. strikes; an attack involving NATO personnel could sharpen confrontation with Russia; or a Taiwan maritime incident could demand a rapid U.S. response while American forces are committed elsewhere. These are conditional pathways, not predictions. [3][10][14]\n\nThe warning indicators are cross-theater force movements, repeated attacks on allied assets, breakdowns in diplomatic channels and verified links between covert incidents. No single episode establishes that a world war has begun.",
+      "sha256": "9625603f1452eafc05393ec0b879f4e2186c3efe565e69d5216eb353e369da74",
+      "accessibleText": "Potential Cross-Theater Escalation\n\nESCALATION PATHWAYS\n\nThe principal danger is not that today’s conflicts share one proven command structure. It is that separate confrontations can interact through energy prices, allied commitments, maritime routes and the movement of scarce military forces. [3][13][16]\n\nA serious shipping loss in Hormuz could prompt larger U.S. strikes; an attack involving NATO personnel could sharpen confrontation with Russia; or a Taiwan maritime incident could demand a rapid U.S. response while American forces are committed elsewhere. These are conditional pathways, not predictions. [3][10][14]\n\nThe warning indicators are cross-theater force movements, repeated attacks on allied assets, breakdowns in diplomatic channels and verified links between covert incidents. No single episode establishes that a world war has begun.",
       "links": [
         {
           "id": "citation_3",
@@ -455,10 +455,10 @@
       "id": "sources",
       "title": "SOURCES",
       "kind": "sources",
-      "imagePath": "brief-2026-11-05-r2-13-sources.png",
+      "imagePath": "brief-2026-11-05-r3-13-sources.png",
       "bundleAsset": "",
-      "sha256": "9f3a2124d1818c8685c743dc1e61506389adb7551319dc3a761fe14b473084e8",
-      "accessibleText": "SOURCES\n\n\n\n[1] AP — 2026 midterm results — https://apnews.com/article/f126e12e05b579a327b98481c0ae2226\n[2] Ballotpedia — Congressional majorities — https://news.ballotpedia.org/2026/11/04/democrats-win-u-s-house-and-senate-majorities/\n[3] AP — Trump weighs Iran war options — https://apnews.com/article/e92751dbcdf940c486c8d1e57dafbe99\n[4] AP — U.S. strikes in Hormuz — https://apnews.com/article/8722c8b5a9deb228e7a188d4760ea8ed\n[5] ABC — U.S.–Israel strike planning — https://abcnews.com/amp/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897\n[6] Critical Threats — Iran, 4 November — https://www.criticalthreats.org/analysis/iran-update-november-04-2026\n[7] FT — European refrigeration attacks — https://www.ft.com/content/90e63a7f-45d7-4e7a-940d-6d5145d51941\n[8] AP — Airline bomb threats — https://apnews.com/article/54591e18981c93e6c5aabe140404dab4\n[9] RTE — Flight disruptions, 5 November — https://www.rte.ie/news/europe/2026/1105/1598073-europe-flight-threats/\n[10] Reuters — Poland procurement arrests — https://www.reuters.com/world/poland-arrest-four-probe-into-military-supplies-sent-russia-2026-11-05/\n[11] Reuters — France demonstrations — https://www.reuters.com/world/europe/france-braces-fresh-protests-macron-seeks-prevent-repeat-october-unrest-2026-11-05/\n[12] Reuters — Zaporizhzhia aid-site strike — https://www.reuters.com/world/europe/death-toll-russian-strike-ukrainian-aid-centre-reaches-42-police-say-2026-11-05/\n[13] CSIS — Russian war casualties — https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war\n[14] AP — Coast guard confrontation, Taiwan — https://apnews.com/article/dfc441591994cb435e55eb8f3dc6aeda\n[15] Reuters — Patrols east of Taiwan — https://www.reuters.com/world/china/chinas-coast-guard-conducts-patrols-east-taiwan-cctv-reports-2026-10-31/\n[16] UK Parliament — Iran conflict background — https://commonslibrary.parliament.uk/research-briefings/cbp-11075/\n[17] The National — Iran after U.S. midterms — https://www.thenationalnews.com/news/gulf/2026/11/05/iran-sees-opening-after-trump-midterms-setback-but-warns-of-wider-conflict/",
+      "sha256": "39496ef5723d42d54e0dd8a57bca9411cb549b567e01417f5e8ec1503331b6fa",
+      "accessibleText": "Primary Reporting And Sources\n\nSOURCES\n\n\n\n[1] AP — 2026 midterm results — https://apnews.com/article/f126e12e05b579a327b98481c0ae2226\n[2] Ballotpedia — Congressional majorities — https://news.ballotpedia.org/2026/11/04/democrats-win-u-s-house-and-senate-majorities/\n[3] AP — Trump weighs Iran war options — https://apnews.com/article/e92751dbcdf940c486c8d1e57dafbe99\n[4] AP — U.S. strikes in Hormuz — https://apnews.com/article/8722c8b5a9deb228e7a188d4760ea8ed\n[5] ABC — U.S.–Israel strike planning — https://abcnews.com/amp/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897\n[6] Critical Threats — Iran, 4 November — https://www.criticalthreats.org/analysis/iran-update-november-04-2026\n[7] FT — European refrigeration attacks — https://www.ft.com/content/90e63a7f-45d7-4e7a-940d-6d5145d51941\n[8] AP — Airline bomb threats — https://apnews.com/article/54591e18981c93e6c5aabe140404dab4\n[9] RTE — Flight disruptions, 5 November — https://www.rte.ie/news/europe/2026/1105/1598073-europe-flight-threats/\n[10] Reuters — Poland procurement arrests — https://www.reuters.com/world/poland-arrest-four-probe-into-military-supplies-sent-russia-2026-11-05/\n[11] Reuters — France demonstrations — https://www.reuters.com/world/europe/france-braces-fresh-protests-macron-seeks-prevent-repeat-october-unrest-2026-11-05/\n[12] Reuters — Zaporizhzhia aid-site strike — https://www.reuters.com/world/europe/death-toll-russian-strike-ukrainian-aid-centre-reaches-42-police-say-2026-11-05/\n[13] CSIS — Russian war casualties — https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war\n[14] AP — Coast guard confrontation, Taiwan — https://apnews.com/article/dfc441591994cb435e55eb8f3dc6aeda\n[15] Reuters — Patrols east of Taiwan — https://www.reuters.com/world/china/chinas-coast-guard-conducts-patrols-east-taiwan-cctv-reports-2026-10-31/\n[16] UK Parliament — Iran conflict background — https://commonslibrary.parliament.uk/research-briefings/cbp-11075/\n[17] The National — Iran after U.S. midterms — https://www.thenationalnews.com/news/gulf/2026/11/05/iran-sees-opening-after-trump-midterms-setback-but-warns-of-wider-conflict/",
       "links": [
         {
           "id": "source_1",
