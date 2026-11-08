@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "wf_2026_11_05",
-  "revision": 4,
+  "revision": 5,
   "publishedAt": "2026-11-05T22:00:00Z",
   "displayDate": "November 5, 2026",
   "coveragePeriod": "October 25–November 5, 2026",
@@ -27,7 +27,7 @@
       "imagePath": "brief-2026-11-05-r2-02-overview.png",
       "bundleAsset": "",
       "sha256": "76b15acca00f87289a67720735c15b3ba32c401e28dc42ee36bb60b1003efdf9",
-      "accessibleText": "OVERVIEW\n\nDemocrats won control of the U.S. House and Senate in the November 3 midterms. The shift will bring greater scrutiny of the Iran war, but presidential military options remain. [1][2][3]\n\nAmerican strikes near the Strait of Hormuz, Russian attacks in Ukraine and Chinese coast guard pressure near Taiwan remain distinct crises with potential consequences for allied forces and trade. [4][12][14]\n\nIn Europe, airline bomb threats, refrigeration-system intrusions and a Polish espionage investigation expose vulnerabilities below the threshold of conventional war. Common timing warrants investigation; shared command has not been established. [7][8][10]",
+      "accessibleText": "OVERVIEW\n\nDemocrats won control of the U.S. House and Senate in the November 3 midterms. The shift will bring greater scrutiny of the Iran war, but presidential military options remain. [1](source 2)[3]\n\nAmerican strikes near the Strait of Hormuz, Russian attacks in Ukraine and Chinese coast guard pressure near Taiwan remain distinct crises with potential consequences for allied forces and trade. [4][12](source 14)\n\nIn Europe, airline bomb threats, refrigeration-system intrusions and a Polish espionage investigation expose vulnerabilities below the threshold of conventional war. Common timing warrants investigation; shared command has not been established. [7](source 8)[10]",
       "links": [
         {
           "id": "citation_1",
@@ -407,7 +407,7 @@
       "imagePath": "brief-2026-11-05-r3-12-escalation.png",
       "bundleAsset": "",
       "sha256": "9625603f1452eafc05393ec0b879f4e2186c3efe565e69d5216eb353e369da74",
-      "accessibleText": "Potential Cross-Theater Escalation\n\nESCALATION PATHWAYS\n\nThe principal danger is not that today’s conflicts share one proven command structure. It is that separate confrontations can interact through energy prices, allied commitments, maritime routes and the movement of scarce military forces. [3][13][16]\n\nA serious shipping loss in Hormuz could prompt larger U.S. strikes; an attack involving NATO personnel could sharpen confrontation with Russia; or a Taiwan maritime incident could demand a rapid U.S. response while American forces are committed elsewhere. These are conditional pathways, not predictions. [3][10][14]\n\nThe warning indicators are cross-theater force movements, repeated attacks on allied assets, breakdowns in diplomatic channels and verified links between covert incidents. No single episode establishes that a world war has begun.",
+      "accessibleText": "Potential Cross-Theater Escalation\n\nESCALATION PATHWAYS\n\nThe principal danger is not that today’s conflicts share one proven command structure. It is that separate confrontations can interact through energy prices, allied commitments, maritime routes and the movement of scarce military forces. [3](source 13)[16]\n\nA serious shipping loss in Hormuz could prompt larger U.S. strikes; an attack involving NATO personnel could sharpen confrontation with Russia; or a Taiwan maritime incident could demand a rapid U.S. response while American forces are committed elsewhere. These are conditional pathways, not predictions. [3][10][14]\n\nThe warning indicators are cross-theater force movements, repeated attacks on allied assets, breakdowns in diplomatic channels and verified links between covert incidents. No single episode establishes that a world war has begun.",
       "links": [
         {
           "id": "citation_3",
