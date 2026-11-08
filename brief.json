@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "wf_2026_11_05",
-  "revision": 3,
+  "revision": 4,
   "publishedAt": "2026-11-05T22:00:00Z",
   "displayDate": "November 5, 2026",
   "coveragePeriod": "October 25–November 5, 2026",
@@ -720,5 +720,146 @@
       "url": "https://www.thenationalnews.com/news/gulf/2026/11/05/iran-sees-opening-after-trump-midterms-setback-but-warns-of-wider-conflict/"
     }
   ],
-  "home": null
+  "home": {
+    "schemaVersion": 1,
+    "reviewedAt": "2026-11-08T17:00:00Z",
+    "reviewCadence": "Weekly",
+    "editorialPolicyVersion": 1,
+    "sources": [
+      {
+        "number": 1,
+        "title": "ACLED — U.S. Monitor, late-October 2026 demonstrations and political violence",
+        "url": "https://acleddata.com/monitor/us-monitor"
+      },
+      {
+        "number": 2,
+        "title": "City of Richmond — Voting continues after reported threats, November 3, 2026",
+        "url": "https://www.rva.gov/elections-press-releases-and-announcements/news/voting-continues-precincts-following-reported"
+      },
+      {
+        "number": 3,
+        "title": "Nextgov/FCW — Election security center reports limited threats, November 3, 2026",
+        "url": "https://www.nextgov.com/cybersecurity/2026/11/election-security-center-reports-limited-threats-voting-glitches-fuel-fraud-claims/417013/"
+      },
+      {
+        "number": 4,
+        "title": "ODNI — 2026 Annual Threat Assessment",
+        "url": "https://www.dni.gov/files/ODNI/documents/assessments/ATA-2026-Unclassified-Report.pdf"
+      },
+      {
+        "number": 5,
+        "title": "U.S. Department of Justice — 2026–2030 strategy, terrorism and espionage",
+        "url": "https://www.justice.gov/index.php/doj/strategic-plan-fys-2026-2030/objective-1-1"
+      },
+      {
+        "number": 6,
+        "title": "U.S. Department of Homeland Security — National Terrorism Advisory System",
+        "url": "https://www.dhs.gov/national-terrorism-advisory-system"
+      },
+      {
+        "number": 7,
+        "title": "CSIS — Global Terrorism Threat Assessment 2026",
+        "url": "https://www.csis.org/analysis/global-terrorism-threat-assessment-2026"
+      },
+      {
+        "number": 8,
+        "title": "ACLED — Political violence and protest event data",
+        "url": "https://www.acleddata.com/data/"
+      }
+    ],
+    "assessments": [
+      {
+        "countryID": "USA",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Localized U.S. demonstrations and election-related disruptions; this is not a nationwide violence designation.",
+            "assessedAt": "2026-11-08T16:00:00Z",
+            "reviewBy": "2026-11-14T16:00:00Z",
+            "rationale": "ACLED described active U.S. protest movements before the November 3 elections [1]. Richmond election officials reported several threats at polling sites [2], while national election-security monitoring reported limited disruption and quick resolution of many incidents [3]. Additional localized disruptions are plausible, but sustained nationwide violent unrest is not established by these sources.",
+            "sourceNumbers": [
+              1,
+              2,
+              3
+            ],
+            "evidenceReview": {
+              "facts": "ACLED documented political demonstrations ahead of the midterms [1]. Richmond reported telephone threats at several polling locations, without confirmed suspicious activity at the assessed sites [2].",
+              "sourceClaims": "Richmond election officials described the local threats and police response [2]; national election-security monitoring characterized threat activity on election day as limited [3].",
+              "counterevidence": "The available national reporting does not establish widespread post-election violent disorder [3]. The Richmond threats were not confirmed as actual attacks [2].",
+              "alternativeExplanation": "The activity may reflect separate local grievances and hoaxes rather than an organized campaign. ACLED recorded distinct protest issues rather than one national command structure [1].",
+              "limitations": "Reporting does not cover every city or incident, and demonstrations alone do not establish violent civil unrest. National-level monitoring can undercount local disturbances [1][3].",
+              "revisionTriggers": "Reassess if corroborated violent incidents spread across several metropolitan areas, if repeated threats disrupt essential services, or if fresh incident data contradict the present localized pattern [1][2][3].",
+              "sourceNumbers": [
+                1,
+                2,
+                3
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "United States nationwide baseline; risk from disparate actors, not a finding of a specific imminent plot.",
+            "assessedAt": "2026-11-08T16:00:00Z",
+            "reviewBy": "2026-11-14T16:00:00Z",
+            "rationale": "The 2026 intelligence assessment describes a persistent, varied terrorism threat to U.S. interests and the homeland [4]. DOJ identifies lone-offender violence and online radicalization among the continuing challenges [5], while CSIS finds no single dominant terrorist actor [7]. This supports a continued, non-specific threat assessment rather than a claim of an imminent nationwide attack [6].",
+            "sourceNumbers": [
+              4,
+              5,
+              6,
+              7
+            ],
+            "evidenceReview": {
+              "facts": "ODNI evaluates a geographically varied terrorism threat and homeland risk [4]. DOJ describes evolving terrorist tactics and online mobilization [5].",
+              "sourceClaims": "DOJ characterizes the threat environment as heightened in its 2026–2030 strategic plan [5]. CSIS separately identifies a fragmented landscape of groups, networks, and individuals [7].",
+              "counterevidence": "The DHS National Terrorism Advisory System is the mechanism for public advisories, and its listed status should be checked separately; a persistent background threat does not itself mean a specific imminent operation [6].",
+              "alternativeExplanation": "Some apparent increases in public warnings may reflect intelligence collection and improved reporting, not a confirmed acceleration in attempted attacks. Threat actors and motivations are heterogeneous [7].",
+              "limitations": "Open reporting cannot determine the status of undisclosed investigations or forecast an individual attacker. Annual assessments are strategic baselines rather than real-time tactical warnings [4][6].",
+              "revisionTriggers": "Raise the assessment only after corroborated recent attacks, disrupted plots, or a credible specific advisory; lower it if sustained threat indicators weaken. Consult DHS advisories and current case reporting [5][6][7].",
+              "sourceNumbers": [
+                4,
+                5,
+                6,
+                7
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "Low",
+            "trend": "No Comparison",
+            "confidence": "Low",
+            "scope": "Armed fighting within U.S. territory only; U.S. deployments and combat operations overseas are excluded.",
+            "assessedAt": "2026-11-08T16:00:00Z",
+            "reviewBy": "2026-11-14T16:00:00Z",
+            "rationale": "ODNI describes threats to the U.S. homeland while emphasizing its geographic and deterrent advantages [4]. ACLED monitors U.S. political violence and demonstrations [8], but isolated criminal or political incidents do not by themselves constitute sustained organized armed conflict. The reviewed material does not establish an active domestic war; this is a low-confidence national baseline, not a guarantee against localized violence.",
+            "sourceNumbers": [
+              4,
+              8
+            ],
+            "evidenceReview": {
+              "facts": "The 2026 ODNI assessment differentiates threats to the homeland from broader overseas conflicts and notes U.S. geographic protective advantages [4]. ACLED maintains structured reporting on domestic political violence [8].",
+              "sourceClaims": "ODNI warns that hostile states and nonstate actors have capabilities to threaten the homeland; this is a capability assessment, not a declaration of active fighting within U.S. territory [4].",
+              "counterevidence": "A background threat of terrorism or political violence must not be misclassified as sustained armed conflict. ACLED tracks discrete violent events as well as conflicts [8].",
+              "alternativeExplanation": "Localized violent incidents may be criminal, ideological, or interpersonal rather than part of an organized armed campaign. Event classification must distinguish those possibilities [8].",
+              "limitations": "This baseline is derived from strategic public reporting and event-monitoring coverage, not an exhaustive audit of every U.S. jurisdiction. It may miss rapidly developing organized activity [4][8].",
+              "revisionTriggers": "Reclassify if verified sustained exchanges of fire between organized groups, seizure and defense of territory, or repeated coordinated military-style attacks emerge on U.S. soil [4][8].",
+              "sourceNumbers": [
+                4,
+                8
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "events": [],
+    "topics": [],
+    "watchNext": []
+  }
 }
