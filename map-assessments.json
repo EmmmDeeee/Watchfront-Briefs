@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T21:44:27Z",
+  "generatedAt": "2026-11-10T22:12:57Z",
   "methodologyVersion": "advisory-baseline-v1",
   "countries": [
     {
@@ -9122,7 +9122,7 @@
       "region": "Western Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "UCDP data show a continuing low-intensity Islamic State insurgency against Iraqi forces; regional missile and drone strikes also hit Iraq earlier in 2026.",
+      "explanation": "Localized, low-intensity armed conflict: UCDP records 17 clashes and 47 deaths between Iraqi forces and the Islamic State in Jan–Sep 2026, most in Kirkuk province. Regional missile and drone strikes hit Iraq mainly in March–April. Most of Iraq saw no recorded fighting.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-11-10T21:08:25Z",
       "sources": [
@@ -9141,7 +9141,7 @@
           "checkedAt": "2026-11-10T21:08:25Z"
         }
       ],
-      "conflictScope": "Areas affected by Islamic State attacks, mainly Kirkuk, Salahuddin, Diyala, Anbar and Nineveh, and locations hit by cross-border strikes",
+      "conflictScope": "Localized: mainly Kirkuk province, with occasional Islamic State attacks in Nineveh, Anbar and Diyala",
       "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
