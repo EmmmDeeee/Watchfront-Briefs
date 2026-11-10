@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T19:45:37Z",
+  "generatedAt": "2026-11-10T22:12:57Z",
   "methodologyVersion": "advisory-baseline-v1",
   "countries": [
     {
@@ -9,9 +9,9 @@
       "region": "Southern Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory explicitly identifies ongoing armed conflict alongside terrorism and detention risks.",
+      "explanation": "UCDP data show continuing fighting in 2026 between Taliban forces and armed opposition groups, and cross-border clashes with Pakistan; Canadian guidance cites ongoing armed conflict.",
       "officialAdvisory": "Level 4: Do not travel",
-      "checkedAt": "2026-10-13T20:55:49Z",
+      "checkedAt": "2026-11-10T21:08:02Z",
       "sources": [
         {
           "title": "Afghanistan travel advisory",
@@ -24,19 +24,19 @@
           "title": "Afghanistan travel advice",
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/afghanistan",
-          "updatedAt": "2026-05-26",
-          "checkedAt": "2026-10-13T20:55:49Z"
+          "updatedAt": "2026-10-14",
+          "checkedAt": "2026-11-10T21:08:02Z"
         }
       ],
-      "conflictScope": "Afghanistan; conditions vary locally",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictScope": "Afghanistan; fighting concentrated in border areas with Pakistan and areas of armed opposition activity",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Afghanistan travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/afghanistan",
           "updatedAt": "2026-07-30",
-          "checkedAt": "2026-10-13T20:58:37Z"
+          "checkedAt": "2026-11-10T21:08:02Z"
         }
       ],
       "editorial": {
@@ -3054,7 +3054,7 @@
       "region": "Western Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "Official travel guidance describes ongoing military operations and active violent armed groups outside the capital.",
+      "explanation": "UCDP data and Human Rights Watch report sustained fighting between government forces and Islamist armed groups, with frequent attacks on civilians and security forces.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-10-06T17:57:02Z",
       "sources": [
@@ -3067,21 +3067,21 @@
         }
       ],
       "conflictScope": "Conflict-affected areas beyond Ouagadougou",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Burkina Faso — Travel Advice",
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/burkina-faso",
-          "updatedAt": "2026-09-09",
-          "checkedAt": "2026-10-13T20:55:03Z"
+          "updatedAt": "2026-10-14",
+          "checkedAt": "2026-11-10T21:08:04Z"
         },
         {
           "title": "Burkina Faso travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/burkina-faso",
-          "updatedAt": "2025-12-10",
-          "checkedAt": "2026-10-13T20:58:24Z"
+          "updatedAt": "2026-10-26",
+          "checkedAt": "2026-11-10T21:08:05Z"
         }
       ],
       "editorial": {
@@ -3421,9 +3421,9 @@
       "region": "Middle Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "Moderate",
-      "explanation": "The cited travel advisory describes recurring clashes between armed groups and security forces in affected regions.",
+      "explanation": "UCDP data and UN agencies report continuing armed conflict, including separatist fighting in the North-West and South-West and armed-group attacks in the Far North.",
       "officialAdvisory": "Level 2: Exercise increased caution",
-      "checkedAt": "2026-10-13T20:55:16Z",
+      "checkedAt": "2026-11-10T21:08:10Z",
       "sources": [
         {
           "title": "Cameroon travel advisory",
@@ -3436,19 +3436,19 @@
           "title": "Cameroon travel advice",
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/cameroon",
-          "updatedAt": "2026-08-14",
-          "checkedAt": "2026-10-13T20:55:16Z"
+          "updatedAt": "2026-10-14",
+          "checkedAt": "2026-11-10T21:08:10Z"
         }
       ],
       "conflictScope": "North-West, South-West, and Far North regions",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Cameroon travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/cameroon",
-          "updatedAt": "2026-02-09",
-          "checkedAt": "2026-10-13T20:58:24Z"
+          "updatedAt": "2026-11-06",
+          "checkedAt": "2026-11-10T21:08:11Z"
         }
       ],
       "editorial": {
@@ -3679,7 +3679,7 @@
       "region": "Middle Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "Official travel guidance describes renewed armed conflict and armed opposition control of substantial areas.",
+      "explanation": "UCDP data and ICRC reporting show continuing low-intensity clashes between government forces, their allies and armed groups, especially in the south-east.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-10-06T17:57:07Z",
       "sources": [
@@ -3691,22 +3691,22 @@
           "checkedAt": "2026-10-06T17:57:07Z"
         }
       ],
-      "conflictScope": "Conflict-affected areas outside and around Bangui",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictScope": "Conflict-affected areas outside and around Bangui, notably the south-east",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Central African Republic — Travel Advice",
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/central-african-republic",
-          "updatedAt": "2026-05-26",
-          "checkedAt": "2026-10-13T20:55:57Z"
+          "updatedAt": "2026-10-14",
+          "checkedAt": "2026-11-10T21:08:13Z"
         },
         {
           "title": "Central African Republic travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/central-african-republic",
           "updatedAt": "2026-05-28",
-          "checkedAt": "2026-10-13T20:58:29Z"
+          "checkedAt": "2026-11-10T21:08:14Z"
         }
       ],
       "editorial": {
@@ -4087,7 +4087,7 @@
       "region": "South America",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "Official travel guidance describes armed conflict in specific regions, including the border with Venezuela.",
+      "explanation": "UCDP data and UNHCR report continuing armed conflict and territorial disputes between the state and non-state armed groups in several regions.",
       "officialAdvisory": "Level 3: Reconsider travel",
       "checkedAt": "2026-10-06T17:57:08Z",
       "sources": [
@@ -4100,21 +4100,21 @@
         }
       ],
       "conflictScope": "Conflict-affected departments and the Venezuela border region",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Colombia — Travel Advice",
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/colombia",
-          "updatedAt": "2026-10-09",
-          "checkedAt": "2026-10-13T20:54:42Z"
+          "updatedAt": "2026-11-02",
+          "checkedAt": "2026-11-10T21:08:16Z"
         },
         {
           "title": "Colombia travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/colombia",
-          "updatedAt": "2026-10-06",
-          "checkedAt": "2026-10-13T20:58:18Z"
+          "updatedAt": "2026-10-30",
+          "checkedAt": "2026-11-10T21:08:17Z"
         }
       ],
       "editorial": {
@@ -5002,9 +5002,9 @@
       "region": "Middle Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory reports continuing armed fighting in eastern DRC despite a ceasefire agreement.",
+      "explanation": "UCDP data and UN reporting show continuing fighting in eastern DRC involving the army, M23 and other armed groups, with frequent attacks on civilians.",
       "officialAdvisory": "Level 4: Do not travel",
-      "checkedAt": "2026-10-13T20:59:47Z",
+      "checkedAt": "2026-11-10T21:08:18Z",
       "sources": [
         {
           "title": "Democratic Republic of the Congo (D.R.C.) travel advisory",
@@ -5018,18 +5018,18 @@
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/congo-kinshasa",
           "updatedAt": "2026-09-28",
-          "checkedAt": "2026-10-13T20:59:47Z"
+          "checkedAt": "2026-11-10T21:08:18Z"
         }
       ],
       "conflictScope": "Eastern DRC, particularly North Kivu, South Kivu, and Ituri",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Democratic Republic of the Congo travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo",
           "updatedAt": "2026-10-08",
-          "checkedAt": "2026-10-13T20:57:23Z"
+          "checkedAt": "2026-11-10T21:08:19Z"
         }
       ],
       "editorial": {
@@ -6154,9 +6154,9 @@
       "region": "Eastern Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory explicitly identifies continuing fighting between armed groups and the military in affected regions.",
+      "explanation": "UCDP data and the ICRC report renewed hostilities in the north, with drone strikes and fighting in Tigray and continued armed violence in Amhara and Oromia.",
       "officialAdvisory": "Level 3: Reconsider travel",
-      "checkedAt": "2026-10-13T20:54:54Z",
+      "checkedAt": "2026-11-10T21:08:21Z",
       "sources": [
         {
           "title": "Ethiopia travel advisory",
@@ -6169,19 +6169,19 @@
           "title": "Ethiopia travel advice",
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/ethiopia",
-          "updatedAt": "2026-10-08",
-          "checkedAt": "2026-10-13T20:54:54Z"
+          "updatedAt": "2026-10-29",
+          "checkedAt": "2026-11-10T21:08:21Z"
         }
       ],
-      "conflictScope": "Affected northern and central regions, including Amhara and parts of Oromia",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictScope": "Affected northern and central regions, including Tigray, Amhara and parts of Oromia",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Ethiopia travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/ethiopia",
-          "updatedAt": "2026-10-07",
-          "checkedAt": "2026-10-13T20:57:23Z"
+          "updatedAt": "2026-10-30",
+          "checkedAt": "2026-11-10T21:08:22Z"
         }
       ],
       "editorial": {
@@ -9122,9 +9122,9 @@
       "region": "Western Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory describes recurring armed clashes involving militias, tribes, and security forces.",
+      "explanation": "Localized, low-intensity armed conflict: UCDP records 17 clashes and 47 deaths between Iraqi forces and the Islamic State in Jan–Sep 2026, most in Kirkuk province. Regional missile and drone strikes hit Iraq mainly in March–April. Most of Iraq saw no recorded fighting.",
       "officialAdvisory": "Level 4: Do not travel",
-      "checkedAt": "2026-10-13T20:55:36Z",
+      "checkedAt": "2026-11-10T21:08:25Z",
       "sources": [
         {
           "title": "Iraq travel advisory",
@@ -9138,18 +9138,18 @@
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/iraq",
           "updatedAt": "2026-07-23",
-          "checkedAt": "2026-10-13T20:55:36Z"
+          "checkedAt": "2026-11-10T21:08:25Z"
         }
       ],
-      "conflictScope": "Areas affected by militia, tribal, and security-force clashes",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictScope": "Localized: mainly Kirkuk province, with occasional Islamic State attacks in Nineveh, Anbar and Diyala",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Iraq travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/iraq",
-          "updatedAt": "2026-07-22",
-          "checkedAt": "2026-10-13T20:57:27Z"
+          "updatedAt": "2026-10-27",
+          "checkedAt": "2026-11-10T21:08:26Z"
         }
       ],
       "editorial": {
@@ -9383,11 +9383,11 @@
       "id": "ISR",
       "name": "Israel",
       "region": "Western Asia",
-      "level": "Ongoing Conflict",
+      "level": "High",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory identifies ongoing military operations along the Lebanon border and continuing border hostilities.",
+      "explanation": "Israel is a party to continuing hostilities in Gaza and Lebanon, which are classified separately. UCDP recorded no fatal state-based events inside Israel after June 2026; official guidance still advises against travel near the Gaza and Lebanon borders.",
       "officialAdvisory": "Level 3: Reconsider travel",
-      "checkedAt": "2026-10-13T20:59:48Z",
+      "checkedAt": "2026-11-10T21:08:28Z",
       "sources": [
         {
           "title": "Israel travel advisory",
@@ -9401,18 +9401,16 @@
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/israel-and-palestine",
           "updatedAt": "2026-07-29",
-          "checkedAt": "2026-10-13T20:59:48Z"
+          "checkedAt": "2026-11-10T21:08:28Z"
         }
       ],
-      "conflictScope": "Northern border areas and other conflict-affected zones",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
       "additionalSources": [
         {
           "title": "Israel travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/israel",
-          "updatedAt": "2026-07-22",
-          "checkedAt": "2026-10-13T20:57:23Z"
+          "updatedAt": "2026-10-27",
+          "checkedAt": "2026-11-10T21:08:29Z"
         }
       ],
       "editorial": {
@@ -10675,9 +10673,9 @@
       "region": "Western Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory describes repeated strikes and armed violence in affected areas of Lebanon.",
+      "explanation": "UCDP data and UN reporting show that hostilities with Israel persisted in southern Lebanon after the June ceasefire framework, at lower intensity than earlier in 2026.",
       "officialAdvisory": "Level 4: Do not travel",
-      "checkedAt": "2026-10-13T20:55:35Z",
+      "checkedAt": "2026-11-10T21:08:33Z",
       "sources": [
         {
           "title": "Lebanon travel advisory",
@@ -10691,18 +10689,18 @@
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/lebanon",
           "updatedAt": "2026-07-23",
-          "checkedAt": "2026-10-13T20:55:35Z"
+          "checkedAt": "2026-11-10T21:08:33Z"
         }
       ],
       "conflictScope": "Southern Lebanon, Beirut’s southern suburbs, and affected border areas",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Lebanon travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/lebanon",
           "updatedAt": "2026-08-10",
-          "checkedAt": "2026-10-13T20:57:59Z"
+          "checkedAt": "2026-11-10T21:08:34Z"
         }
       ],
       "editorial": {
@@ -11741,7 +11739,7 @@
       "region": "Western Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "Official travel guidance identifies recurring armed conflict between the government and armed groups.",
+      "explanation": "UCDP data and Human Rights Watch report continuing fighting between government forces, their allies and insurgent groups, including drone strikes and attacks on civilians.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-10-06T17:57:27Z",
       "sources": [
@@ -11754,21 +11752,21 @@
         }
       ],
       "conflictScope": "Areas affected by government, separatist, and militant fighting",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Mali — Travel Advice",
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/mali",
           "updatedAt": "2026-10-09",
-          "checkedAt": "2026-10-13T20:54:48Z"
+          "checkedAt": "2026-11-10T21:08:36Z"
         },
         {
           "title": "Mali travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/mali",
           "updatedAt": "2026-07-10",
-          "checkedAt": "2026-10-13T20:58:37Z"
+          "checkedAt": "2026-11-10T21:08:37Z"
         }
       ],
       "editorial": {
@@ -12995,9 +12993,9 @@
       "region": "Eastern Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "Moderate",
-      "explanation": "The cited travel advisory identifies an ongoing insurgency and continuing clashes in northern Mozambique.",
+      "explanation": "UCDP data and IOM report a continuing Islamic State-linked insurgency in Cabo Delgado, with fresh attacks displacing thousands since late September.",
       "officialAdvisory": "Level 2: Exercise increased caution",
-      "checkedAt": "2026-10-13T20:55:39Z",
+      "checkedAt": "2026-11-10T21:08:40Z",
       "sources": [
         {
           "title": "Mozambique travel advisory",
@@ -13010,19 +13008,19 @@
           "title": "Mozambique travel advice",
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/mozambique",
-          "updatedAt": "2026-07-13",
-          "checkedAt": "2026-10-13T20:55:39Z"
+          "updatedAt": "2026-10-15",
+          "checkedAt": "2026-11-10T21:08:40Z"
         }
       ],
       "conflictScope": "Cabo Delgado and affected areas of Nampula and Niassa",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Mozambique travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/mozambique",
           "updatedAt": "2026-08-20",
-          "checkedAt": "2026-10-13T20:58:37Z"
+          "checkedAt": "2026-11-10T21:08:41Z"
         }
       ],
       "editorial": {
@@ -13103,9 +13101,9 @@
       "region": "South-Eastern Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory reports escalating armed conflict involving military forces and organized armed groups.",
+      "explanation": "UCDP data and UN reporting show the civil war continuing across much of Myanmar, including regime airstrikes and fighting with armed opposition groups.",
       "officialAdvisory": "Level 4: Do not travel",
-      "checkedAt": "2026-10-13T20:56:12Z",
+      "checkedAt": "2026-11-10T21:08:43Z",
       "sources": [
         {
           "title": "Burma (Myanmar) travel advisory",
@@ -13118,19 +13116,19 @@
           "title": "Myanmar travel advice",
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/myanmar",
-          "updatedAt": "2026-05-26",
-          "checkedAt": "2026-10-13T20:56:12Z"
+          "updatedAt": "2026-11-06",
+          "checkedAt": "2026-11-10T21:08:43Z"
         }
       ],
       "conflictScope": "Multiple states and regions across Myanmar",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Myanmar travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/myanmar",
           "updatedAt": "2026-08-04",
-          "checkedAt": "2026-10-13T20:57:55Z"
+          "checkedAt": "2026-11-10T21:08:44Z"
         }
       ],
       "editorial": {
@@ -13834,7 +13832,7 @@
       "region": "Western Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "Official travel guidance identifies frequent armed conflict in the border areas of Niger, Mali, and Burkina Faso.",
+      "explanation": "UCDP data show frequent deadly fighting between government forces and Islamic State and other armed groups, notably in Tillabéri and Diffa; aid agencies report ongoing armed-group incursions.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-10-06T17:57:27Z",
       "sources": [
@@ -13846,22 +13844,20 @@
           "checkedAt": "2026-10-06T17:57:27Z"
         }
       ],
-      "conflictScope": "Border areas adjoining Mali and Burkina Faso",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
       "additionalSources": [
         {
           "title": "Niger — Travel Advice",
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/niger",
-          "updatedAt": "2026-05-26",
-          "checkedAt": "2026-10-13T20:56:12Z"
+          "updatedAt": "2026-10-15",
+          "checkedAt": "2026-11-10T21:08:48Z"
         },
         {
           "title": "Niger travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/niger",
-          "updatedAt": "2026-08-29",
-          "checkedAt": "2026-10-13T20:58:40Z"
+          "updatedAt": "2026-10-23",
+          "checkedAt": "2026-11-10T21:08:49Z"
         }
       ],
       "editorial": {
@@ -13874,7 +13870,7 @@
             ]
           },
           {
-            "text": "Official travel guidance advises against all travel and says in-person consular assistance is unavailable. Conditions around the capital therefore matter alongside the border-area conflict: an airport disruption or checkpoint can affect departure even when the traveller is away from fighting.",
+            "text": "Official travel guidance advises against all travel and says consular assistance is limited. Conditions around the capital therefore matter alongside attacks in border regions: an airport disruption or checkpoint can affect departure even when the traveller is away from the areas where attacks occur.",
             "sourceNumbers": [
               2,
               3
@@ -13883,7 +13879,7 @@
         ],
         "affectedAreas": [
           {
-            "text": "The Mali–Burkina Faso border zone, particularly Tillabéri; Diffa and the Lake Chad area; northern and other border regions; and Niamey, including the airport approach. The conflict flag concerns documented armed hostilities, while kidnapping and movement restrictions have a wider reach.",
+            "text": "The Mali–Burkina Faso border zone, particularly Tillabéri; Diffa and the Lake Chad area; northern and other border regions; and Niamey, including the airport approach. Reported attacks are concentrated in border regions, while kidnapping and movement restrictions have a wider reach.",
             "sourceNumbers": [
               2,
               3
@@ -13915,9 +13911,11 @@
             ]
           }
         ],
-        "reviewedAt": "2026-10-13T21:24:40Z",
-        "reviewBy": "2026-11-12T21:24:40Z"
-      }
+        "reviewedAt": "2026-11-10T21:13:37Z",
+        "reviewBy": "2026-12-10T21:13:37Z"
+      },
+      "conflictScope": "Tillabéri and Diffa regions and other border areas",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z"
     },
     {
       "id": "NGA",
@@ -13925,9 +13923,9 @@
       "region": "Western Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory describes recurring armed attacks and regional conflicts involving militant groups.",
+      "explanation": "UCDP data and UN reporting show continuing insurgency by Islamic State and Boko Haram factions in the north-east, alongside other armed violence.",
       "officialAdvisory": "Level 3: Reconsider travel",
-      "checkedAt": "2026-10-13T20:54:56Z",
+      "checkedAt": "2026-11-10T21:08:51Z",
       "sources": [
         {
           "title": "Nigeria travel advisory",
@@ -13940,19 +13938,19 @@
           "title": "Nigeria travel advice",
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/nigeria",
-          "updatedAt": "2026-09-21",
-          "checkedAt": "2026-10-13T20:54:56Z"
+          "updatedAt": "2026-10-21",
+          "checkedAt": "2026-11-10T21:08:51Z"
         }
       ],
       "conflictScope": "Conflict-affected northern areas and parts of the Niger Delta",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Nigeria travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/nigeria",
-          "updatedAt": "2026-09-28",
-          "checkedAt": "2026-10-13T20:58:40Z"
+          "updatedAt": "2026-11-10",
+          "checkedAt": "2026-11-10T21:08:52Z"
         }
       ],
       "editorial": {
@@ -14630,9 +14628,9 @@
       "region": "Southern Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory identifies a continuing nationalist insurgency and government counter-insurgency operations in Balochistan.",
+      "explanation": "UCDP data show sustained fighting between government forces and the TTP and Baloch insurgents in 2026, plus cross-border clashes with Afghanistan.",
       "officialAdvisory": "Level 3: Reconsider travel",
-      "checkedAt": "2026-10-13T20:54:42Z",
+      "checkedAt": "2026-11-10T21:08:54Z",
       "sources": [
         {
           "title": "Pakistan travel advisory",
@@ -14645,19 +14643,19 @@
           "title": "Pakistan travel advice",
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/pakistan",
-          "updatedAt": "2026-10-09",
-          "checkedAt": "2026-10-13T20:54:42Z"
+          "updatedAt": "2026-10-19",
+          "checkedAt": "2026-11-10T21:08:54Z"
         }
       ],
-      "conflictScope": "Balochistan and other insurgency-affected areas",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictScope": "Khyber Pakhtunkhwa, Balochistan and other insurgency-affected areas",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Pakistan travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/pakistan",
-          "updatedAt": "2026-10-13",
-          "checkedAt": "2026-10-13T20:57:17Z"
+          "updatedAt": "2026-10-27",
+          "checkedAt": "2026-11-10T21:08:55Z"
         }
       ],
       "editorial": {
@@ -14803,9 +14801,9 @@
       "region": "Western Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory describes continuing Gaza hostilities and ceasefire violations, alongside frequent military operations in the West Bank.",
+      "explanation": "UCDP data and UN reporting show continuing Israeli military operations and attacks in Gaza despite the October 2025 ceasefire, and frequent military operations in the West Bank.",
       "officialAdvisory": "Level 4: Do not travel",
-      "checkedAt": "2026-10-13T20:59:53Z",
+      "checkedAt": "2026-11-10T21:08:57Z",
       "sources": [
         {
           "title": "Gaza travel advisory",
@@ -14826,18 +14824,18 @@
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/israel-and-palestine",
           "updatedAt": "2026-07-29",
-          "checkedAt": "2026-10-13T20:59:53Z"
+          "checkedAt": "2026-11-10T21:08:57Z"
         }
       ],
       "conflictScope": "Gaza and conflict-affected areas of the West Bank",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Palestine travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/palestine",
-          "updatedAt": "2026-07-22",
-          "checkedAt": "2026-10-13T20:57:23Z"
+          "updatedAt": "2026-10-27",
+          "checkedAt": "2026-11-10T21:08:59Z"
         }
       ],
       "editorial": {
@@ -16015,9 +16013,9 @@
       "region": "Eastern Europe",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory reports frequent military activity within Russia, including armed incursions, shelling, and drone strikes.",
+      "explanation": "UCDP data and the ICRC record continuing hostilities of the Russia–Ukraine war inside Russia, including cross-border shelling, incursions and drone strikes.",
       "officialAdvisory": "Level 4: Do not travel",
-      "checkedAt": "2026-10-13T20:59:48Z",
+      "checkedAt": "2026-11-10T21:09:00Z",
       "sources": [
         {
           "title": "Russia travel advisory",
@@ -16030,19 +16028,19 @@
           "title": "Russia travel advice",
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/russia",
-          "updatedAt": "2026-06-18",
-          "checkedAt": "2026-10-13T20:59:48Z"
+          "updatedAt": "2026-11-02",
+          "checkedAt": "2026-11-10T21:09:00Z"
         }
       ],
       "conflictScope": "Ukraine-border regions; strikes also affect locations further inland",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Russia travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/russia",
           "updatedAt": "2026-09-18",
-          "checkedAt": "2026-10-13T20:59:39Z"
+          "checkedAt": "2026-11-10T21:09:02Z"
         }
       ],
       "editorial": {
@@ -18015,9 +18013,9 @@
       "region": "Eastern Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory describes ongoing fighting over territorial control between government forces and terrorist groups.",
+      "explanation": "UCDP data and aid agencies report continuing fighting between government forces and al-Shabaab, and clashes between federal and regional forces in Baidoa.",
       "officialAdvisory": "Level 4: Do not travel",
-      "checkedAt": "2026-10-13T20:56:23Z",
+      "checkedAt": "2026-11-10T21:09:03Z",
       "sources": [
         {
           "title": "Somalia travel advisory",
@@ -18030,19 +18028,19 @@
           "title": "Somalia travel advice",
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/somalia",
-          "updatedAt": "2026-05-26",
-          "checkedAt": "2026-10-13T20:56:23Z"
+          "updatedAt": "2026-10-15",
+          "checkedAt": "2026-11-10T21:09:03Z"
         }
       ],
-      "conflictScope": "Conflict-affected areas, including Mogadishu and parts of the north",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictScope": "Conflict-affected areas, including Mogadishu, Baidoa and parts of the north",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Somalia travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/somalia",
           "updatedAt": "2026-06-04",
-          "checkedAt": "2026-10-13T20:58:40Z"
+          "checkedAt": "2026-11-10T21:09:05Z"
         }
       ],
       "editorial": {
@@ -18456,9 +18454,9 @@
       "region": "Eastern Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory describes continuing violent clashes between security forces, opposition groups, and armed militias.",
+      "explanation": "UN reporting describes intensified military operations, airstrikes and ground offensives in Jonglei and Upper Nile; UCDP also records continuing armed-group and communal fighting.",
       "officialAdvisory": "Level 4: Do not travel",
-      "checkedAt": "2026-10-13T20:54:57Z",
+      "checkedAt": "2026-11-10T21:09:06Z",
       "sources": [
         {
           "title": "South Sudan travel advisory",
@@ -18472,18 +18470,18 @@
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/south-sudan",
           "updatedAt": "2026-09-28",
-          "checkedAt": "2026-10-13T20:54:57Z"
+          "checkedAt": "2026-11-10T21:09:06Z"
         }
       ],
-      "conflictScope": "States affected by security-force, opposition, and militia clashes",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictScope": "Jonglei, Upper Nile and other states affected by security-force, opposition, and militia clashes",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "South Sudan travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/south-sudan",
           "updatedAt": "2026-08-25",
-          "checkedAt": "2026-10-13T20:58:43Z"
+          "checkedAt": "2026-11-10T21:09:07Z"
         }
       ],
       "editorial": {
@@ -18819,9 +18817,9 @@
       "region": "Northern Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory describes ongoing hostilities and heavy fighting among the army, paramilitary forces, and affiliated groups.",
+      "explanation": "UCDP data and UN agencies report continuing war between the army and paramilitary forces, with daily drone strikes and fighting in Kordofan and Blue Nile.",
       "officialAdvisory": "Level 4: Do not travel",
-      "checkedAt": "2026-10-13T20:54:27Z",
+      "checkedAt": "2026-11-10T21:09:09Z",
       "sources": [
         {
           "title": "Sudan travel advisory",
@@ -18835,18 +18833,18 @@
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/sudan",
           "updatedAt": "2026-10-13",
-          "checkedAt": "2026-10-13T20:54:27Z"
+          "checkedAt": "2026-11-10T21:09:09Z"
         }
       ],
       "conflictScope": "Multiple areas across Sudan",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Sudan travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/sudan",
           "updatedAt": "2026-05-11",
-          "checkedAt": "2026-10-13T20:58:43Z"
+          "checkedAt": "2026-11-10T21:09:10Z"
         }
       ],
       "editorial": {
@@ -19193,9 +19191,9 @@
       "region": "Western Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory describes continuing airstrikes and armed clashes amid a volatile security environment.",
+      "explanation": "UCDP data and UN reporting show continuing lower-intensity hostilities, including Islamic State attacks, clashes in Sweida and Israeli incursions in the south.",
       "officialAdvisory": "Level 4: Do not travel",
-      "checkedAt": "2026-10-13T20:55:37Z",
+      "checkedAt": "2026-11-10T21:09:12Z",
       "sources": [
         {
           "title": "Syria travel advisory",
@@ -19209,18 +19207,18 @@
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/syria",
           "updatedAt": "2026-07-23",
-          "checkedAt": "2026-10-13T20:55:37Z"
+          "checkedAt": "2026-11-10T21:09:12Z"
         }
       ],
-      "conflictScope": "Conflict-affected areas across Syria",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictScope": "Conflict-affected areas across Syria, notably the south and Sweida",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Syria travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/syria",
-          "updatedAt": "2026-09-02",
-          "checkedAt": "2026-10-13T20:58:03Z"
+          "updatedAt": "2026-10-27",
+          "checkedAt": "2026-11-10T21:09:13Z"
         }
       ],
       "editorial": {
@@ -20553,7 +20551,7 @@
       "region": "Eastern Europe",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "Official travel guidance reports that the Russia-Ukraine war continues, with missile and drone attacks also reaching non-frontline regions.",
+      "explanation": "UCDP data and UN reporting show the Russia–Ukraine war continuing, with front-line fighting and large-scale missile and drone attacks across Ukraine.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-10-06T17:57:44Z",
       "sources": [
@@ -20566,21 +20564,21 @@
         }
       ],
       "conflictScope": "Countrywide exposure, with frontline and occupied regions especially affected",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Ukraine — Travel Advice",
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/ukraine",
           "updatedAt": "2026-05-26",
-          "checkedAt": "2026-10-13T20:56:23Z"
+          "checkedAt": "2026-11-10T21:09:16Z"
         },
         {
           "title": "Ukraine travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/ukraine",
           "updatedAt": "2026-10-02",
-          "checkedAt": "2026-10-13T20:57:27Z"
+          "checkedAt": "2026-11-10T21:09:17Z"
         }
       ],
       "editorial": {
@@ -21781,7 +21779,7 @@
       "region": "Western Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "Official travel guidance reports continuing civil war, armed violence, and artillery shelling despite reduced violence since the 2022 truce.",
+      "explanation": "UCDP data and UN agencies report that large-scale fighting resumed in 2026, displacing hundreds of thousands, especially around Taiz, Lahj and Aden.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-10-06T17:57:49Z",
       "sources": [
@@ -21793,22 +21791,22 @@
           "checkedAt": "2026-10-06T17:57:49Z"
         }
       ],
-      "conflictScope": "Areas affected by the continuing civil war and armed hostilities",
-      "conflictReviewedAt": "2026-10-06T18:01:08Z",
+      "conflictScope": "Areas affected by the renewed civil war, notably Taiz, Lahj and Aden",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Yemen — Travel Advice",
           "publisher": "Government of Canada",
           "url": "https://travel.gc.ca/destinations/yemen",
           "updatedAt": "2026-10-13",
-          "checkedAt": "2026-10-13T20:54:25Z"
+          "checkedAt": "2026-11-10T21:09:19Z"
         },
         {
           "title": "Yemen travel advice",
           "publisher": "UK Foreign, Commonwealth & Development Office",
           "url": "https://www.gov.uk/foreign-travel-advice/yemen",
-          "updatedAt": "2026-07-31",
-          "checkedAt": "2026-10-13T20:57:16Z"
+          "updatedAt": "2026-10-27",
+          "checkedAt": "2026-11-10T21:09:20Z"
         }
       ],
       "editorial": {

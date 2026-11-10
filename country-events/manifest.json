@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "generatedAt": "2026-11-10T19:00:00Z",
+  "windowDays": 30,
+  "countries": [
+    {
+      "countryID": "AUS",
+      "path": "AUS.json",
+      "sha256": "0ef84e4c3a2f95dd9af349206017bbcafefc0f155329d077102c6d427932b647",
+      "revision": 1,
+      "updatedAt": "2026-11-10T19:00:00Z",
+      "eventCount": 0
+    },
+    {
+      "countryID": "CAN",
+      "path": "CAN.json",
+      "sha256": "72ae905d507d93e12bbb10fc217e0f9139a51bc89d8bd4b890f371538d31356d",
+      "revision": 1,
+      "updatedAt": "2026-11-10T19:00:00Z",
+      "eventCount": 0
+    },
+    {
+      "countryID": "DEU",
+      "path": "DEU.json",
+      "sha256": "7d5adf546dcf2bd9516c1ace301acc5f0409afb7fc0a572bed75f47c2c73e8f0",
+      "revision": 1,
+      "updatedAt": "2026-11-10T19:00:00Z",
+      "eventCount": 0
+    },
+    {
+      "countryID": "FRA",
+      "path": "FRA.json",
+      "sha256": "f811a2e96fcf21e8e87e551821066a26de60207daed8eb6898515a97cb41a7fb",
+      "revision": 1,
+      "updatedAt": "2026-11-10T19:00:00Z",
+      "eventCount": 0
+    },
+    {
+      "countryID": "GBR",
+      "path": "GBR.json",
+      "sha256": "5aebd708701667c7a08fb44a786afe5b31acc4597f0a2579ced773ef65c2b526",
+      "revision": 1,
+      "updatedAt": "2026-11-10T19:00:00Z",
+      "eventCount": 0
+    },
+    {
+      "countryID": "NZL",
+      "path": "NZL.json",
+      "sha256": "9ff2a17a9937604970b9f44c2033e510c93feb988e734b580f981e64f17ea0bc",
+      "revision": 1,
+      "updatedAt": "2026-11-10T19:00:00Z",
+      "eventCount": 0
+    },
+    {
+      "countryID": "UKR",
+      "path": "UKR.json",
+      "sha256": "622954aa1fe7ed390ced3c4fa19ee434e0161b3b5d498ae1b6d28fef6957ead4",
+      "revision": 1,
+      "updatedAt": "2026-11-10T19:00:00Z",
+      "eventCount": 0
+    },
+    {
+      "countryID": "USA",
+      "path": "USA.json",
+      "sha256": "6b563daa512b2820b2f1f3b2c7b375279e560fb87206b6c4dc33e01cbe0f2c68",
+      "revision": 1,
+      "updatedAt": "2026-11-10T19:00:00Z",
+      "eventCount": 0
+    }
+  ]
+}
