@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T21:13:37Z",
+  "generatedAt": "2026-11-10T21:44:27Z",
   "methodologyVersion": "advisory-baseline-v1",
   "countries": [
     {
@@ -9,7 +9,7 @@
       "region": "Southern Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory explicitly identifies ongoing armed conflict alongside terrorism and detention risks.",
+      "explanation": "UCDP data show continuing fighting in 2026 between Taliban forces and armed opposition groups, and cross-border clashes with Pakistan; Canadian guidance cites ongoing armed conflict.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-11-10T21:08:02Z",
       "sources": [
@@ -28,8 +28,8 @@
           "checkedAt": "2026-11-10T21:08:02Z"
         }
       ],
-      "conflictScope": "Afghanistan; conditions vary locally",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictScope": "Afghanistan; fighting concentrated in border areas with Pakistan and areas of armed opposition activity",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Afghanistan travel advice",
@@ -3054,7 +3054,7 @@
       "region": "Western Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "Official travel guidance describes ongoing military operations and active violent armed groups outside the capital.",
+      "explanation": "UCDP data and Human Rights Watch report sustained fighting between government forces and Islamist armed groups, with frequent attacks on civilians and security forces.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-10-06T17:57:02Z",
       "sources": [
@@ -3067,7 +3067,7 @@
         }
       ],
       "conflictScope": "Conflict-affected areas beyond Ouagadougou",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Burkina Faso — Travel Advice",
@@ -3421,7 +3421,7 @@
       "region": "Middle Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "Moderate",
-      "explanation": "The cited travel advisory describes recurring clashes between armed groups and security forces in affected regions.",
+      "explanation": "UCDP data and UN agencies report continuing armed conflict, including separatist fighting in the North-West and South-West and armed-group attacks in the Far North.",
       "officialAdvisory": "Level 2: Exercise increased caution",
       "checkedAt": "2026-11-10T21:08:10Z",
       "sources": [
@@ -3441,7 +3441,7 @@
         }
       ],
       "conflictScope": "North-West, South-West, and Far North regions",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Cameroon travel advice",
@@ -3679,7 +3679,7 @@
       "region": "Middle Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "Official travel guidance reports ongoing incidents of armed conflict and armed groups occupying areas in the north and south east.",
+      "explanation": "UCDP data and ICRC reporting show continuing low-intensity clashes between government forces, their allies and armed groups, especially in the south-east.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-10-06T17:57:07Z",
       "sources": [
@@ -3691,8 +3691,8 @@
           "checkedAt": "2026-10-06T17:57:07Z"
         }
       ],
-      "conflictScope": "Conflict-affected areas outside and around Bangui",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictScope": "Conflict-affected areas outside and around Bangui, notably the south-east",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Central African Republic — Travel Advice",
@@ -4087,7 +4087,7 @@
       "region": "South America",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "Official travel guidance describes armed conflict in specific regions, including the border with Venezuela.",
+      "explanation": "UCDP data and UNHCR report continuing armed conflict and territorial disputes between the state and non-state armed groups in several regions.",
       "officialAdvisory": "Level 3: Reconsider travel",
       "checkedAt": "2026-10-06T17:57:08Z",
       "sources": [
@@ -4100,7 +4100,7 @@
         }
       ],
       "conflictScope": "Conflict-affected departments and the Venezuela border region",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Colombia — Travel Advice",
@@ -5002,7 +5002,7 @@
       "region": "Middle Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory reports continuing armed fighting in eastern DRC despite a ceasefire agreement.",
+      "explanation": "UCDP data and UN reporting show continuing fighting in eastern DRC involving the army, M23 and other armed groups, with frequent attacks on civilians.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-11-10T21:08:18Z",
       "sources": [
@@ -5022,7 +5022,7 @@
         }
       ],
       "conflictScope": "Eastern DRC, particularly North Kivu, South Kivu, and Ituri",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Democratic Republic of the Congo travel advice",
@@ -6154,7 +6154,7 @@
       "region": "Eastern Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory explicitly identifies continuing fighting between armed groups and the military in affected regions.",
+      "explanation": "UCDP data and the ICRC report renewed hostilities in the north, with drone strikes and fighting in Tigray and continued armed violence in Amhara and Oromia.",
       "officialAdvisory": "Level 3: Reconsider travel",
       "checkedAt": "2026-11-10T21:08:21Z",
       "sources": [
@@ -6173,8 +6173,8 @@
           "checkedAt": "2026-11-10T21:08:21Z"
         }
       ],
-      "conflictScope": "Affected northern and central regions, including Amhara and parts of Oromia",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictScope": "Affected northern and central regions, including Tigray, Amhara and parts of Oromia",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Ethiopia travel advice",
@@ -9122,7 +9122,7 @@
       "region": "Western Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory describes recurring armed clashes involving militias, tribes, and security forces.",
+      "explanation": "UCDP data show a continuing low-intensity Islamic State insurgency against Iraqi forces; regional missile and drone strikes also hit Iraq earlier in 2026.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-11-10T21:08:25Z",
       "sources": [
@@ -9141,8 +9141,8 @@
           "checkedAt": "2026-11-10T21:08:25Z"
         }
       ],
-      "conflictScope": "Areas affected by militia, tribal, and security-force clashes",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictScope": "Areas affected by Islamic State attacks, mainly Kirkuk, Salahuddin, Diyala, Anbar and Nineveh, and locations hit by cross-border strikes",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Iraq travel advice",
@@ -9383,9 +9383,9 @@
       "id": "ISR",
       "name": "Israel",
       "region": "Western Asia",
-      "level": "Ongoing Conflict",
+      "level": "High",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory identifies ongoing military operations along the Lebanon border and continuing border hostilities.",
+      "explanation": "Israel is a party to continuing hostilities in Gaza and Lebanon, which are classified separately. UCDP recorded no fatal state-based events inside Israel after June 2026; official guidance still advises against travel near the Gaza and Lebanon borders.",
       "officialAdvisory": "Level 3: Reconsider travel",
       "checkedAt": "2026-11-10T21:08:28Z",
       "sources": [
@@ -9404,8 +9404,6 @@
           "checkedAt": "2026-11-10T21:08:28Z"
         }
       ],
-      "conflictScope": "Northern border areas and other conflict-affected zones",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
       "additionalSources": [
         {
           "title": "Israel travel advice",
@@ -10675,7 +10673,7 @@
       "region": "Western Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory describes repeated strikes and armed violence in affected areas of Lebanon.",
+      "explanation": "UCDP data and UN reporting show that hostilities with Israel persisted in southern Lebanon after the June ceasefire framework, at lower intensity than earlier in 2026.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-11-10T21:08:33Z",
       "sources": [
@@ -10695,7 +10693,7 @@
         }
       ],
       "conflictScope": "Southern Lebanon, Beirut’s southern suburbs, and affected border areas",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Lebanon travel advice",
@@ -11741,7 +11739,7 @@
       "region": "Western Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "Official travel guidance identifies recurring armed conflict between the government and armed groups.",
+      "explanation": "UCDP data and Human Rights Watch report continuing fighting between government forces, their allies and insurgent groups, including drone strikes and attacks on civilians.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-10-06T17:57:27Z",
       "sources": [
@@ -11754,7 +11752,7 @@
         }
       ],
       "conflictScope": "Areas affected by government, separatist, and militant fighting",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Mali — Travel Advice",
@@ -12995,7 +12993,7 @@
       "region": "Eastern Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "Moderate",
-      "explanation": "The cited travel advisory identifies an ongoing insurgency and continuing clashes in northern Mozambique.",
+      "explanation": "UCDP data and IOM report a continuing Islamic State-linked insurgency in Cabo Delgado, with fresh attacks displacing thousands since late September.",
       "officialAdvisory": "Level 2: Exercise increased caution",
       "checkedAt": "2026-11-10T21:08:40Z",
       "sources": [
@@ -13015,7 +13013,7 @@
         }
       ],
       "conflictScope": "Cabo Delgado and affected areas of Nampula and Niassa",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Mozambique travel advice",
@@ -13103,7 +13101,7 @@
       "region": "South-Eastern Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory reports escalating armed conflict involving military forces and organized armed groups.",
+      "explanation": "UCDP data and UN reporting show the civil war continuing across much of Myanmar, including regime airstrikes and fighting with armed opposition groups.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-11-10T21:08:43Z",
       "sources": [
@@ -13123,7 +13121,7 @@
         }
       ],
       "conflictScope": "Multiple states and regions across Myanmar",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Myanmar travel advice",
@@ -13832,9 +13830,9 @@
       "id": "NER",
       "name": "Niger",
       "region": "Western Africa",
-      "level": "High",
+      "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "Official travel guidance advises against all travel to Niger because of terrorism, kidnapping, and political instability. Regional conditions may differ.",
+      "explanation": "UCDP data show frequent deadly fighting between government forces and Islamic State and other armed groups, notably in Tillabéri and Diffa; aid agencies report ongoing armed-group incursions.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-10-06T17:57:27Z",
       "sources": [
@@ -13915,7 +13913,9 @@
         ],
         "reviewedAt": "2026-11-10T21:13:37Z",
         "reviewBy": "2026-12-10T21:13:37Z"
-      }
+      },
+      "conflictScope": "Tillabéri and Diffa regions and other border areas",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z"
     },
     {
       "id": "NGA",
@@ -13923,7 +13923,7 @@
       "region": "Western Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory describes recurring armed attacks and regional conflicts involving militant groups.",
+      "explanation": "UCDP data and UN reporting show continuing insurgency by Islamic State and Boko Haram factions in the north-east, alongside other armed violence.",
       "officialAdvisory": "Level 3: Reconsider travel",
       "checkedAt": "2026-11-10T21:08:51Z",
       "sources": [
@@ -13943,7 +13943,7 @@
         }
       ],
       "conflictScope": "Conflict-affected northern areas and parts of the Niger Delta",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Nigeria travel advice",
@@ -14628,7 +14628,7 @@
       "region": "Southern Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory identifies a continuing nationalist insurgency and government counter-insurgency operations in Balochistan.",
+      "explanation": "UCDP data show sustained fighting between government forces and the TTP and Baloch insurgents in 2026, plus cross-border clashes with Afghanistan.",
       "officialAdvisory": "Level 3: Reconsider travel",
       "checkedAt": "2026-11-10T21:08:54Z",
       "sources": [
@@ -14647,8 +14647,8 @@
           "checkedAt": "2026-11-10T21:08:54Z"
         }
       ],
-      "conflictScope": "Balochistan and other insurgency-affected areas",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictScope": "Khyber Pakhtunkhwa, Balochistan and other insurgency-affected areas",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Pakistan travel advice",
@@ -14801,7 +14801,7 @@
       "region": "Western Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory describes continuing Gaza hostilities and ceasefire violations, alongside frequent military operations in the West Bank.",
+      "explanation": "UCDP data and UN reporting show continuing Israeli military operations and attacks in Gaza despite the October 2025 ceasefire, and frequent military operations in the West Bank.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-11-10T21:08:57Z",
       "sources": [
@@ -14828,7 +14828,7 @@
         }
       ],
       "conflictScope": "Gaza and conflict-affected areas of the West Bank",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Palestine travel advice",
@@ -16013,7 +16013,7 @@
       "region": "Eastern Europe",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory reports frequent military activity within Russia, including armed incursions, shelling, and drone strikes.",
+      "explanation": "UCDP data and the ICRC record continuing hostilities of the Russia–Ukraine war inside Russia, including cross-border shelling, incursions and drone strikes.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-11-10T21:09:00Z",
       "sources": [
@@ -16033,7 +16033,7 @@
         }
       ],
       "conflictScope": "Ukraine-border regions; strikes also affect locations further inland",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Russia travel advice",
@@ -18013,7 +18013,7 @@
       "region": "Eastern Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory describes ongoing fighting over territorial control between government forces and terrorist groups.",
+      "explanation": "UCDP data and aid agencies report continuing fighting between government forces and al-Shabaab, and clashes between federal and regional forces in Baidoa.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-11-10T21:09:03Z",
       "sources": [
@@ -18032,8 +18032,8 @@
           "checkedAt": "2026-11-10T21:09:03Z"
         }
       ],
-      "conflictScope": "Conflict-affected areas, including Mogadishu and parts of the north",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictScope": "Conflict-affected areas, including Mogadishu, Baidoa and parts of the north",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Somalia travel advice",
@@ -18454,7 +18454,7 @@
       "region": "Eastern Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory describes continuing violent clashes between security forces, opposition groups, and armed militias.",
+      "explanation": "UN reporting describes intensified military operations, airstrikes and ground offensives in Jonglei and Upper Nile; UCDP also records continuing armed-group and communal fighting.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-11-10T21:09:06Z",
       "sources": [
@@ -18473,8 +18473,8 @@
           "checkedAt": "2026-11-10T21:09:06Z"
         }
       ],
-      "conflictScope": "States affected by security-force, opposition, and militia clashes",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictScope": "Jonglei, Upper Nile and other states affected by security-force, opposition, and militia clashes",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "South Sudan travel advice",
@@ -18817,7 +18817,7 @@
       "region": "Northern Africa",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory describes ongoing hostilities and heavy fighting among the army, paramilitary forces, and affiliated groups.",
+      "explanation": "UCDP data and UN agencies report continuing war between the army and paramilitary forces, with daily drone strikes and fighting in Kordofan and Blue Nile.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-11-10T21:09:09Z",
       "sources": [
@@ -18837,7 +18837,7 @@
         }
       ],
       "conflictScope": "Multiple areas across Sudan",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Sudan travel advice",
@@ -19191,7 +19191,7 @@
       "region": "Western Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "The cited travel advisory describes continuing airstrikes and armed clashes amid a volatile security environment.",
+      "explanation": "UCDP data and UN reporting show continuing lower-intensity hostilities, including Islamic State attacks, clashes in Sweida and Israeli incursions in the south.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-11-10T21:09:12Z",
       "sources": [
@@ -19210,8 +19210,8 @@
           "checkedAt": "2026-11-10T21:09:12Z"
         }
       ],
-      "conflictScope": "Conflict-affected areas across Syria",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictScope": "Conflict-affected areas across Syria, notably the south and Sweida",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Syria travel advice",
@@ -20551,7 +20551,7 @@
       "region": "Eastern Europe",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "Official travel guidance reports that the Russia-Ukraine war continues, with missile and drone attacks also reaching non-frontline regions.",
+      "explanation": "UCDP data and UN reporting show the Russia–Ukraine war continuing, with front-line fighting and large-scale missile and drone attacks across Ukraine.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-10-06T17:57:44Z",
       "sources": [
@@ -20564,7 +20564,7 @@
         }
       ],
       "conflictScope": "Countrywide exposure, with frontline and occupied regions especially affected",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Ukraine — Travel Advice",
@@ -21779,7 +21779,7 @@
       "region": "Western Asia",
       "level": "Ongoing Conflict",
       "baselineLevel": "High",
-      "explanation": "Official travel guidance reports that large-scale fighting resumed in 2026, with ground combat, missile and drone attacks, artillery fire, and airstrikes.",
+      "explanation": "UCDP data and UN agencies report that large-scale fighting resumed in 2026, displacing hundreds of thousands, especially around Taiz, Lahj and Aden.",
       "officialAdvisory": "Level 4: Do not travel",
       "checkedAt": "2026-10-06T17:57:49Z",
       "sources": [
@@ -21791,8 +21791,8 @@
           "checkedAt": "2026-10-06T17:57:49Z"
         }
       ],
-      "conflictScope": "Areas affected by the continuing civil war and armed hostilities",
-      "conflictReviewedAt": "2026-11-10T21:13:37Z",
+      "conflictScope": "Areas affected by the renewed civil war, notably Taiz, Lahj and Aden",
+      "conflictReviewedAt": "2026-11-10T21:42:54Z",
       "additionalSources": [
         {
           "title": "Yemen — Travel Advice",
