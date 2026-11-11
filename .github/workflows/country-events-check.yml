@@ -1,12 +1,15 @@
 name: Country Event Map feed check
 
-# Validates every pull request that changes the published Country Event Map
+# Read-only. Validates every pull request that changes the published Country Event Map
 # files against the feed currently on main: schema, window, revisions, hashes,
 # no silent deletions, no unannounced edits. Free runners (public repository).
 on:
   pull_request:
     paths:
       - 'country-events/**'
+  # Started by the daily expiry job on its proposal branch, because pull requests
+  # opened with the built-in Actions token do not trigger pull_request runs.
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -26,5 +29,6 @@ jobs:
           python-version: '3.12'
       - name: Validate against the published feed
         run: |
+          set -o pipefail
           python tools/country_events.py validate country-events --previous published/country-events | tee result.txt
           { echo "### Country Event Map feed check"; echo '```'; cat result.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"

@@ -1,0 +1,34 @@
+name: Country Event Map expiry test
+
+# Read-only test of the expiry tool on pull requests that change it. It never
+# pushes, opens pull requests or writes anything.
+on:
+  pull_request:
+    paths:
+      - 'tools/**'
+      - '.github/workflows/country-events-expiry.yml'
+      - '.github/workflows/country-events-expiry-check.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  dry-run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Expire against today and the next week (no writes)
+        run: |
+          for offset in 0 3 7; do
+            day=$(date -u -d "+$offset day" +%Y-%m-%d)
+            echo "== $day"
+            python tools/country_event_edition.py expire country-events "$RUNNER_TEMP/dry-$offset" --date "$day" --at "${day}T00:37:00Z"
+          done
+      - name: Validate today's result against the published feed
+        run: |
+          python tools/country_event_edition.py expire country-events "$RUNNER_TEMP/today"
+          python tools/country_events.py validate "$RUNNER_TEMP/today" --previous country-events
