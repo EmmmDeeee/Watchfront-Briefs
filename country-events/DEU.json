@@ -1,8 +1,157 @@
 {
   "schemaVersion": 1,
   "countryID": "DEU",
-  "revision": 1,
-  "generatedAt": "2026-11-10T19:00:00Z",
+  "revision": 2,
+  "generatedAt": "2026-11-11T03:04:00Z",
   "windowDays": 30,
-  "events": []
+  "events": [
+    {
+      "id": "deu-2026-10-31-gen-z-protests-turn-violent",
+      "title": "Youth-Led Protests Turn To Rioting And Looting In German Cities",
+      "summary": "Youth-led \"Gen Z regelt\" demonstrations for education, health and affordable living took place in cities across Germany on 31 October. The marches were largely peaceful during the day, but rioting broke out after dark in cities including Frankfurt, Cologne, Hamburg and Berlin. In Frankfurt, shops were looted and a gun shop was attacked; police said they seized two weapons there. Organisers distanced themselves from the violence.",
+      "location": {
+        "city": "Frankfurt",
+        "region": "Hesse",
+        "country": "Germany"
+      },
+      "geo": {
+        "latitude": 50.11,
+        "longitude": 8.682,
+        "precision": "city"
+      },
+      "category": "civil-unrest",
+      "occurredOn": "2026-10-31",
+      "firstReportedAt": "2026-10-31",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z",
+        "motive": {
+          "status": "not-applicable"
+        },
+        "ideology": {
+          "label": "not-applicable",
+          "status": "not-applicable"
+        },
+        "terrorism": {
+          "status": "none"
+        }
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Euronews",
+          "title": "Germany 'Gen Z' protests turn violent as shops looted",
+          "url": "https://www.euronews.com/2026/11/01/germany-gen-z-protests-turn-violent-as-shops-looted",
+          "type": "national",
+          "publishedAt": "2026-11-01"
+        },
+        {
+          "publisher": "Reuters via Insurance Journal",
+          "title": "German Protests Turn Violent as Activists Clash With Police",
+          "url": "https://www.insurancejournal.com/news/international/2026/11/02/891102.htm",
+          "type": "national",
+          "publishedAt": "2026-11-02"
+        }
+      ],
+      "status": "active",
+      "subcategory": "riot"
+    },
+    {
+      "id": "deu-2026-10-23-eagles-nest-fire",
+      "title": "Fire Destroys Hitler's Former Eagle's Nest Retreat In Bavaria",
+      "summary": "A fire engulfed the Kehlsteinhaus, the mountain building near Berchtesgaden known as Hitler's Eagle's Nest, on 23 October. No injuries were reported. Police detained a 33-year-old man; prosecutors said he showed signs of mental illness but that they would also examine a possible political motive. German media reported that investigators suspected arson.",
+      "location": {
+        "city": "Berchtesgaden",
+        "region": "Bavaria",
+        "country": "Germany"
+      },
+      "geo": {
+        "latitude": 47.6117,
+        "longitude": 13.0419,
+        "precision": "locality"
+      },
+      "category": "other",
+      "occurredOn": "2026-10-23",
+      "firstReportedAt": "2026-10-23",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z",
+        "motive": {
+          "status": "under-investigation"
+        }
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "German police detain suspect after fire engulfs Hitler's Eagle's Nest",
+          "url": "https://aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest",
+          "type": "national",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "publisher": "Associated Press via KPRC",
+          "title": "A fire devastates the Eagle's Nest retreat built for Hitler in Germany. A suspect is detained",
+          "url": "https://www.click2houston.com/news/world/2026/10/24/fire-devastates-the-eagles-nest-retreat-built-for-hitler-in-germany-a-person-is-detained/",
+          "type": "national",
+          "publishedAt": "2026-10-24"
+        }
+      ],
+      "status": "active",
+      "subcategory": "suspected-arson"
+    },
+    {
+      "id": "deu-2026-10-14-nord-stream-sabotage-trial-opens",
+      "title": "Former Ukrainian Officer Goes On Trial Over Nord Stream Blasts",
+      "summary": "The first trial over the 2022 sabotage of the Nord Stream gas pipelines opened at the Hamburg Higher Regional Court on 14 October. Prosecutors accuse a former Ukrainian officer of leading a group of Ukrainian agents, including divers and an explosives expert, who carried out the blasts. He denies any involvement and is the only person on trial.",
+      "location": {
+        "city": "Hamburg",
+        "region": "Hamburg",
+        "country": "Germany"
+      },
+      "geo": {
+        "latitude": 53.551,
+        "longitude": 9.994,
+        "precision": "city"
+      },
+      "category": "other",
+      "occurredOn": "2026-10-14",
+      "firstReportedAt": "2026-10-14",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
+          "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts",
+          "type": "national",
+          "publishedAt": "2026-10-14"
+        },
+        {
+          "publisher": "ITV News",
+          "title": "Former Ukrainian officer goes on trial in Germany over Nord Stream gas pipeline blasts",
+          "url": "https://www.itv.com/news/2026-10-14/former-ukrainian-officer-goes-on-trial-over-nord-stream-gas-pipeline-blasts",
+          "type": "national",
+          "publishedAt": "2026-10-14"
+        }
+      ],
+      "status": "active",
+      "subcategory": "trial"
+    }
+  ]
 }

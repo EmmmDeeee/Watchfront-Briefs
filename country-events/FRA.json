@@ -1,8 +1,398 @@
 {
   "schemaVersion": 1,
   "countryID": "FRA",
-  "revision": 1,
-  "generatedAt": "2026-11-10T19:00:00Z",
+  "revision": 2,
+  "generatedAt": "2026-11-11T03:04:00Z",
   "windowDays": 30,
-  "events": []
+  "events": [
+    {
+      "id": "fra-2026-11-07-fourth-weekend-protests",
+      "title": "Police Block Banned Rally As Protests Enter Fourth Weekend",
+      "summary": "About 146,000 people protested across France on 7 November, including 46,000 in Paris, according to the Interior Ministry, while unions put the figure at 250,000. Police blocked a banned Yellow Vest rally in Paris, and about 70,000 security personnel were deployed nationwide. It was the fourth consecutive weekend of cost-of-living protests.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "France"
+      },
+      "geo": null,
+      "category": "protest",
+      "occurredOn": "2026-11-07",
+      "firstReportedAt": "2026-11-07",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z",
+        "motive": {
+          "status": "not-applicable"
+        },
+        "ideology": {
+          "label": "not-applicable",
+          "status": "not-applicable"
+        },
+        "terrorism": {
+          "status": "none"
+        }
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "More than 140,000 rally as new protests against rising costs sweep France",
+          "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france",
+          "type": "national",
+          "publishedAt": "2026-11-07"
+        },
+        {
+          "publisher": "CNBC",
+          "title": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
+          "url": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html",
+          "type": "national",
+          "publishedAt": "2026-11-08"
+        },
+        {
+          "publisher": "Ministère de l'Intérieur",
+          "title": "Journée de mobilisation du 7 novembre : fermeté contre les manifestations non-déclarées",
+          "url": "https://www.interieur.gouv.fr/actualites/actualites-du-ministere/journee-de-mobilisation-du-7-novembre-fermete-contre-manifestations-non-declarees",
+          "type": "official",
+          "publishedAt": "2026-11-07"
+        }
+      ],
+      "status": "active",
+      "subcategory": "mass-protest"
+    },
+    {
+      "id": "fra-2026-11-05-nationwide-cost-of-living-marches",
+      "title": "Hundreds Of Thousands Join National Day Of Strikes And Marches",
+      "summary": "A national day of strikes and demonstrations over wages and the cost of living took place across France on 5 November, organised by the main trade unions and joined by students and Yellow Vest protesters. The Interior Ministry estimated about 575,000 participants at roughly 200 demonstrations, including about 65,000 in Paris. At least 448 people were detained, the ministry said, though most marches were peaceful.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "France"
+      },
+      "geo": null,
+      "category": "protest",
+      "occurredOn": "2026-11-05",
+      "firstReportedAt": "2026-11-05",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 1,
+        "reviewedAt": "2026-11-11T03:04:00Z",
+        "motive": {
+          "status": "not-applicable"
+        },
+        "ideology": {
+          "label": "not-applicable",
+          "status": "not-applicable"
+        },
+        "terrorism": {
+          "status": "none"
+        }
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "CNN",
+          "title": "France strikes: largest day of protests in years as economy fuels unrest",
+          "url": "https://www.cnn.com/2026/11/05/world/live-news/france-strikes-protests-action-schools-intl",
+          "type": "national",
+          "publishedAt": "2026-11-05"
+        },
+        {
+          "publisher": "Ministère de l'Intérieur",
+          "title": "Bilan de la mobilisation lycéenne et de la journée nationale d'action du 5 novembre 2026",
+          "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-mobilisation-lyceenne-et-de-journee-nationale-daction-du-5-novembre-2026",
+          "type": "official",
+          "publishedAt": "2026-11-05"
+        }
+      ],
+      "status": "active",
+      "subcategory": "mass-protest"
+    },
+    {
+      "id": "fra-2026-10-24-second-national-protest-day",
+      "title": "More Than 1,300 Arrested As Second Wave Of Protests Sweeps France",
+      "summary": "About 410,000 people joined a second nationwide day of cost-of-living demonstrations on 24 October, according to the Interior Ministry, while the CGT union put the figure at around 800,000. Police used tear gas to disperse crowds in several places, including Lyon. Interior Minister Laurent Nuñez said the next day that 1,314 people had been arrested.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "France"
+      },
+      "geo": null,
+      "category": "civil-unrest",
+      "occurredOn": "2026-10-24",
+      "firstReportedAt": "2026-10-24",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z",
+        "motive": {
+          "status": "not-applicable"
+        },
+        "ideology": {
+          "label": "not-applicable",
+          "status": "not-applicable"
+        },
+        "terrorism": {
+          "status": "none"
+        }
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "title": "More than 1,000 arrested in France as protesters and police clash in several cities",
+          "url": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
+          "type": "national",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "publisher": "France 24",
+          "title": "Interior ministry says 410,000 protesters across France as organisers claim 'nearly 800,000'",
+          "url": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence",
+          "type": "national",
+          "publishedAt": "2026-10-24"
+        }
+      ],
+      "status": "active",
+      "subcategory": "violent-demonstration"
+    },
+    {
+      "id": "fra-2026-10-23-trappes-shootings",
+      "title": "Gunman Kills One And Wounds Seven In Paris Suburbs",
+      "summary": "A gunman opened fire in Trappes and La Verrière, in the Paris suburbs, on 23 October, killing a 26-year-old man and wounding seven other people. The national anti-terrorism prosecutor's office is leading the investigation into what it treats as a racist attack. The 39-year-old suspect was transferred to a Paris court to appear before an anti-terrorism investigating judge; prosecutors said he admitted the shootings but denied they were racist.",
+      "location": {
+        "city": "Trappes",
+        "region": "Île-de-France",
+        "country": "France"
+      },
+      "geo": {
+        "latitude": 48.777,
+        "longitude": 2.002,
+        "precision": "city"
+      },
+      "category": "terrorism",
+      "occurredOn": "2026-10-23",
+      "firstReportedAt": "2026-10-23",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-11T03:04:00Z",
+        "motive": {
+          "status": "attributed",
+          "attributedTo": "France's national anti-terrorism prosecutor's office (PNAT), which treats the attack as racist; the suspect denies it"
+        },
+        "ideology": {
+          "label": "other",
+          "status": "attributed",
+          "attributedTo": "PNAT (racist motive); the suspect disputes it"
+        },
+        "terrorism": {
+          "status": "investigated-as",
+          "authority": "Parquet national antiterroriste (PNAT)"
+        }
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Paris Match Belgique",
+          "title": "Attaque raciste à Trappes : l'assaillant transféré au tribunal dans la nuit en vue de sa mise en examen",
+          "url": "https://www.parismatch.be/actualites/monde/2026/10/29/attaque-raciste-a-trappes-lassaillant-transfere-au-tribunal-dans-la-nuit-en-vue-de-sa-mise-en-examen-UKWXK6GV65EKFA57PC4DNMJLTY/",
+          "type": "national",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "publisher": "Sud Radio",
+          "title": "Attaque raciste à Trappes : le tueur ciblait bien des Africains",
+          "url": "https://www.sudradio.fr/societe/attentat-raciste-dans-les-yvelines-kevin-t-reconnait-avoir-cible-des-personnes-musulmanes-africaines-ou-nord-africaines",
+          "type": "national",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "publisher": "BBC News",
+          "title": "Macron says deadly shooting near Paris is a 'racist terrorist attack'",
+          "url": "https://www.bbc.com/news/articles/c6ev38dj1g8zo",
+          "type": "national",
+          "publishedAt": "2026-10-23"
+        },
+        {
+          "publisher": "Le Club des Juristes",
+          "title": "Attentat de Trappes : le Parquet national antiterroriste ouvre une information judiciaire",
+          "url": "https://www.leclubdesjuristes.com/en-bref/attentat-de-trappes-le-parquet-national-antiterroriste-ouvre-une-information-judiciaire-18112/",
+          "type": "national",
+          "publishedAt": "2026-10-29"
+        }
+      ],
+      "status": "active",
+      "subcategory": "attack"
+    },
+    {
+      "id": "fra-2026-10-20-storm-adam-flooding",
+      "title": "Storm Adam Floods Kill At Least Three In Bouches-du-Rhône",
+      "summary": "Torrential rain from Storm Adam flooded parts of the Bouches-du-Rhône department in southern France on 20 and 21 October. The prefecture said at least three people died, including two women in a flooded cellar in Lançon-Provence, and another person was seriously injured.",
+      "location": {
+        "city": null,
+        "region": "Bouches-du-Rhône",
+        "country": "France"
+      },
+      "geo": {
+        "latitude": 43.55,
+        "longitude": 5.1,
+        "precision": "region"
+      },
+      "category": "disaster",
+      "occurredOn": "2026-10-20",
+      "firstReportedAt": "2026-10-20",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The Local France",
+          "title": "Four dead as storms lash south of France",
+          "url": "https://www.thelocal.fr/20261022/four-dead-as-storms-lash-south-of-france",
+          "type": "national",
+          "publishedAt": "2026-10-22"
+        },
+        {
+          "publisher": "Euronews",
+          "title": "Floods in southern France cause havoc, kill at least one",
+          "url": "https://euronews.com/2026/10/21/severe-weather-in-southern-france-one-dead-near-marseille-one-missing-in-corsica",
+          "type": "national",
+          "publishedAt": "2026-10-21"
+        }
+      ],
+      "status": "active",
+      "subcategory": "flood",
+      "occurredUntil": "2026-10-21"
+    },
+    {
+      "id": "fra-2026-10-17-limoges-city-hall-fire",
+      "title": "Fire Set During Protests Destroys Much Of Limoges City Hall",
+      "summary": "The historic Hôtel de Ville in Limoges, inaugurated in 1883, was largely destroyed by a deliberately set fire during the 17 October protests. Prosecutors said two suspects had been arrested by 22 October, one of them on suspicion of attempted murder.",
+      "location": {
+        "city": "Limoges",
+        "region": "Nouvelle-Aquitaine",
+        "country": "France"
+      },
+      "geo": {
+        "latitude": 45.834,
+        "longitude": 1.262,
+        "precision": "city"
+      },
+      "category": "civil-unrest",
+      "occurredOn": "2026-10-17",
+      "firstReportedAt": "2026-10-17",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z",
+        "motive": {
+          "status": "not-applicable"
+        },
+        "ideology": {
+          "label": "not-applicable",
+          "status": "not-applicable"
+        },
+        "terrorism": {
+          "status": "none"
+        }
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Sud Radio",
+          "title": "Incendie mairie Limoges : deux suspects arrêtés",
+          "url": "https://www.sudradio.fr/societe/mairie-incendiee-a-limoges-un-second-suspect-age-de-66-ans-arrete-dans-la-creuse",
+          "type": "national",
+          "publishedAt": "2026-10-22"
+        },
+        {
+          "publisher": "Le Parisien",
+          "title": "« C'est une catastrophe » : l'hôtel de ville de Limoges détruit par les flammes après la manifestation contre la vie chère",
+          "url": "https://www.leparisien.fr/faits-divers/cest-une-catastrophe-lhotel-de-ville-de-limoges-detruit-par-les-flammes-apres-la-manifestation-contre-la-vie-chere-17-10-2026-O3CCYJ32SVBSNFB5Q6XWNHTIGM.php",
+          "type": "national",
+          "publishedAt": "2026-10-17"
+        }
+      ],
+      "status": "active",
+      "subcategory": "riot"
+    },
+    {
+      "id": "fra-2026-10-17-cost-of-living-riots",
+      "title": "Cost-Of-Living Protests Turn To Rioting In Paris And Other Cities",
+      "summary": "Protests against the cost of living on 17 October turned to rioting and looting in Paris and other large French cities. Paris police reported 855 arrests in the capital alone, and the Associated Press reported more than 2,400 arrests nationwide in the following days. The government then imposed targeted night-time curfews in parts of Paris and other cities.",
+      "location": {
+        "city": "Paris",
+        "region": "Île-de-France",
+        "country": "France"
+      },
+      "geo": {
+        "latitude": 48.857,
+        "longitude": 2.352,
+        "precision": "city"
+      },
+      "category": "civil-unrest",
+      "occurredOn": "2026-10-17",
+      "firstReportedAt": "2026-10-17",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z",
+        "motive": {
+          "status": "not-applicable"
+        },
+        "ideology": {
+          "label": "not-applicable",
+          "status": "not-applicable"
+        },
+        "terrorism": {
+          "status": "none"
+        }
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Associated Press via NY1",
+          "title": "Curfews bring calm to Paris as France cracks down on weekend rioters",
+          "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/10/20/curfews-bring-calm-to-paris-as-france-cracks-down-on-weekend-rioters",
+          "type": "national",
+          "publishedAt": "2026-10-20"
+        },
+        {
+          "publisher": "AFP via The Star",
+          "title": "'Record' 855 people arrested over Paris protest violence: police",
+          "url": "https://www.thestar.com.my/news/world/2026/10/18/039record039-855-people-arrested-over-paris-protest-violence-police",
+          "type": "national",
+          "publishedAt": "2026-10-18"
+        }
+      ],
+      "status": "active",
+      "subcategory": "riot",
+      "occurredUntil": "2026-10-18"
+    }
+  ]
 }

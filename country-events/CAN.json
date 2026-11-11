@@ -1,8 +1,199 @@
 {
   "schemaVersion": 1,
   "countryID": "CAN",
-  "revision": 1,
-  "generatedAt": "2026-11-10T19:00:00Z",
+  "revision": 2,
+  "generatedAt": "2026-11-11T03:04:00Z",
   "windowDays": 30,
-  "events": []
+  "events": [
+    {
+      "id": "can-2026-11-05-federal-budget",
+      "title": "Carney Government Tables Budget With $142 Billion In New Measures",
+      "summary": "Finance Minister François-Philippe Champagne tabled the 2026 federal budget on 5 November, with $142.1 billion in new tax incentives, spending and other measures over five years. The government projected a deficit of $62.3 billion for the current fiscal year and deficits above $50 billion in each of the next four years. The government presented it as a plan to boost the economy and affordability.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Canada"
+      },
+      "geo": null,
+      "category": "economy",
+      "occurredOn": "2026-11-05",
+      "firstReportedAt": "2026-11-05",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The Canadian Press via CP24",
+          "title": "Carney government unveils $142B plan to boost economy, affordability in Budget 2026",
+          "url": "https://www.cp24.com/news/canada/2026/11/05/carney-government-adds-142b-in-new-spending-to-spur-economic-growth-address-affordability/",
+          "type": "national",
+          "publishedAt": "2026-11-05"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Canada's new budget targets affordability, sovereignty",
+          "url": "https://aa.com.tr/en/economy/canada-s-new-budget-targets-affordability-sovereignty/4113562",
+          "type": "national",
+          "publishedAt": "2026-11-06"
+        }
+      ],
+      "status": "active",
+      "subcategory": "budget"
+    },
+    {
+      "id": "can-2026-10-24-bc-conservatives-win-snap-election",
+      "title": "B.C. Conservatives Win Majority, Ending NDP Government",
+      "summary": "The Conservative Party of British Columbia won a majority in the province's snap election on 24 October, ending nine years of New Democratic Party government. Premier David Eby, who called the vote two years early, conceded and resigned as NDP leader. Preliminary results gave the Conservatives 64 of 93 seats.",
+      "location": {
+        "city": null,
+        "region": "British Columbia",
+        "country": "Canada"
+      },
+      "geo": {
+        "latitude": 54.0,
+        "longitude": -125.0,
+        "precision": "region"
+      },
+      "category": "politics",
+      "occurredOn": "2026-10-24",
+      "firstReportedAt": "2026-10-24",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The Hub",
+          "title": "B.C. Conservatives win majority as Eby's snap election gamble ends NDP rule",
+          "url": "https://thehub.ca/2026/10/26/b-c-conservatives-win-majority-as-ebys-snap-election-gamble-ends-ndp-rule/",
+          "type": "national",
+          "publishedAt": "2026-10-26"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Conservative Party wins first election in nearly a century in British Columbia",
+          "url": "https://www.reuters.com/legal/litigation/conservative-party-wins-first-election-nearly-century-british-columbia-2026-10-25/",
+          "type": "national",
+          "publishedAt": "2026-10-25"
+        }
+      ],
+      "status": "active",
+      "subcategory": "election"
+    },
+    {
+      "id": "can-2026-10-19-alberta-rejects-separation",
+      "title": "Alberta Votes To Remain Part Of Canada In Separation Referendum",
+      "summary": "Official results published by Elections Alberta on 29 October showed that 74.95 percent of voters chose to remain in Canada in the province's non-binding referendum on 19 October, while 25.05 percent backed starting a process toward a binding separation referendum. The result was a decisive defeat for the independence campaign.",
+      "location": {
+        "city": null,
+        "region": "Alberta",
+        "country": "Canada"
+      },
+      "geo": {
+        "latitude": 54.5,
+        "longitude": -115.0,
+        "precision": "region"
+      },
+      "category": "politics",
+      "occurredOn": "2026-10-19",
+      "firstReportedAt": "2026-10-19",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-11T03:04:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Elections Alberta",
+          "title": "Referendum Official Results",
+          "url": "https://www.elections.ab.ca/resources/media/news-releases/2026-10-29-2/",
+          "type": "official",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "publisher": "CNN",
+          "title": "Alberta rejects secession referendum, chooses to remain part of Canada",
+          "url": "https://www.cnn.com/2026/10/20/americas/alberta-rejects-independence-referendum-canada-intl-latam-hnk",
+          "type": "national",
+          "publishedAt": "2026-10-20"
+        },
+        {
+          "publisher": "Reuters via U.S. News",
+          "title": "Alberta Votes by Large Majority to Remain Part of Canada in Boost for Carney",
+          "url": "https://www.usnews.com/news/world/articles/2026-10-19/alberta-votes-on-leaving-canada-separatist-movement-likely-to-outlast-expected-defeat",
+          "type": "national",
+          "publishedAt": "2026-10-19"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Alberta rejects separation referendum: What's next for Canadian province",
+          "url": "https://www.aljazeera.com/amp/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province",
+          "type": "national",
+          "publishedAt": "2026-10-20"
+        }
+      ],
+      "status": "active",
+      "subcategory": "referendum"
+    },
+    {
+      "id": "can-2026-10-17-cfb-wainwright-training-fire",
+      "title": "Four Soldiers Killed In Fire During Training At CFB Wainwright",
+      "summary": "A fast-moving grass fire during a live-fire training exercise at Canadian Forces Base Wainwright in Alberta killed four soldiers on 17 October and injured 39. A military official later said grenades used in the exercise started the fire, which intensified after a shift in the wind.",
+      "location": {
+        "city": "Wainwright",
+        "region": "Alberta",
+        "country": "Canada"
+      },
+      "geo": {
+        "latitude": 52.828,
+        "longitude": -110.904,
+        "precision": "city"
+      },
+      "category": "disaster",
+      "occurredOn": "2026-10-17",
+      "firstReportedAt": "2026-10-17",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Stars and Stripes",
+          "title": "Fire at Alberta base kills 4 Canadian soldiers training for NATO mission, injures dozens more",
+          "url": "https://www.stripes.com/theaters/europe/2026-10-19/canada-fire-deaths-military-base-23198222.html",
+          "type": "national",
+          "publishedAt": "2026-10-19"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Grenade exercise sparked deadly fire at Canada military base, army says",
+          "url": "https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says",
+          "type": "national",
+          "publishedAt": "2026-10-23"
+        }
+      ],
+      "status": "active",
+      "subcategory": "military-training-accident"
+    }
+  ]
 }
