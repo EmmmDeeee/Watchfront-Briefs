@@ -1,8 +1,168 @@
 {
   "schemaVersion": 1,
   "countryID": "GBR",
-  "revision": 1,
-  "generatedAt": "2026-11-10T19:00:00Z",
+  "revision": 2,
+  "generatedAt": "2026-11-11T03:04:00Z",
   "windowDays": 30,
-  "events": []
+  "events": [
+    {
+      "id": "gbr-2026-11-10-us-army-member-arrested-gloucester",
+      "title": "US Army Member Arrested Near Gloucester In Russia-Linked Inquiry",
+      "summary": "A 41-year-old member of the US Army was arrested near Gloucester on 10 November on suspicion of offences under the National Security Act, the Metropolitan Police said. Police said the allegations relate to Russia and that the investigation is being carried out with US authorities, including the FBI. Officers searched two locations in Gloucestershire.",
+      "location": {
+        "city": "Gloucester",
+        "region": "Gloucestershire",
+        "country": "United Kingdom"
+      },
+      "geo": {
+        "latitude": 51.86,
+        "longitude": -2.24,
+        "precision": "region"
+      },
+      "category": "security-operation",
+      "occurredOn": "2026-11-10",
+      "firstReportedAt": "2026-11-10",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 1,
+        "reviewedAt": "2026-11-11T03:04:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Metropolitan Police",
+          "title": "Member of US army arrested as part of Counter Terrorism Policing investigation",
+          "url": "https://news.met.police.uk/news/member-of-us-army-arrested-as-part-of-counter-terrorism-policing-investigation-514875",
+          "type": "official",
+          "publishedAt": "2026-11-10"
+        }
+      ],
+      "status": "active",
+      "subcategory": "arrests"
+    },
+    {
+      "id": "gbr-2026-10-31-palestine-action-embassy-arrests",
+      "title": "Hundreds Arrested At London Protest Backing Banned Palestine Action",
+      "summary": "The Metropolitan Police arrested 325 people at a demonstration outside the US Embassy in London on 31 October, 320 of them for showing support for Palestine Action, a group banned by the government in 2025. The protest, organised by Defend Our Juries, came days before a Supreme Court hearing on the ban. Police had warned beforehand that anyone showing support for the group faced arrest.",
+      "location": {
+        "city": "London",
+        "region": "England",
+        "country": "United Kingdom"
+      },
+      "geo": {
+        "latitude": 51.483,
+        "longitude": -0.132,
+        "precision": "city"
+      },
+      "category": "protest",
+      "occurredOn": "2026-10-31",
+      "firstReportedAt": "2026-10-31",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-11T03:04:00Z",
+        "motive": {
+          "status": "not-applicable"
+        },
+        "ideology": {
+          "label": "not-applicable",
+          "status": "not-applicable"
+        },
+        "terrorism": {
+          "status": "none"
+        }
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "PA Media via The Irish News",
+          "title": "More than 300 arrested outside US embassy after supporting Palestine Action",
+          "url": "https://www.irishnews.com/news/uk/more-than-300-arrested-outside-us-embassy-after-supporting-palestine-action-WA64B7CGNJOZLI366MGKRKBVS4/",
+          "type": "national",
+          "publishedAt": "2026-11-01"
+        },
+        {
+          "publisher": "ITV News",
+          "title": "More than 300 arrested outside US embassy after supporting Palestine Action",
+          "url": "https://www.itv.com/news/2026-11-01/more-than-300-arrested-outside-us-embassy-after-supporting-palestine-action",
+          "type": "national",
+          "publishedAt": "2026-11-01"
+        },
+        {
+          "publisher": "Associated Press via KSAT",
+          "title": "London police arrest 139 people outside US Embassy for supporting banned pro-Palestinian group",
+          "url": "https://www.ksat.com/news/world/2026/10/31/dozens-arrested-outside-us-embassy-in-london-for-supporting-proscribed-pro-palestinian-group/",
+          "type": "national",
+          "publishedAt": "2026-10-31"
+        },
+        {
+          "publisher": "The Jewish Chronicle",
+          "title": "Police arrest 325 outside US embassy at Palestine Action protest",
+          "url": "https://www.thejc.com/news/uk/police-arrest-325-outside-us-embassy-at-palestine-action-protest-kgujzqo9",
+          "type": "national",
+          "publishedAt": "2026-11-01"
+        },
+        {
+          "publisher": "Metropolitan Police",
+          "title": "Met issues update ahead of planned Defend Our Juries activity this weekend",
+          "url": "https://news.met.police.uk/news/met-issues-update-ahead-of-planned-defend-our-juries-activity-this-weekend-514526",
+          "type": "official",
+          "publishedAt": "2026-10-30"
+        }
+      ],
+      "status": "active",
+      "subcategory": "mass-protest"
+    },
+    {
+      "id": "gbr-2026-10-27-raf-fairford-national-security-charges",
+      "title": "Two Men Charged Over Iran-Linked Activity Near RAF Fairford",
+      "summary": "Police charged two British men from London under the National Security Act on 27 October, following an investigation into activity near the perimeter of RAF Fairford, a Gloucestershire base used by US forces. One man is accused of assisting a foreign intelligence service, which police said they believe to be Iran's. Five other men arrested in the investigation remained on police bail.",
+      "location": {
+        "city": "Fairford",
+        "region": "Gloucestershire",
+        "country": "United Kingdom"
+      },
+      "geo": {
+        "latitude": 51.682,
+        "longitude": -1.79,
+        "precision": "city"
+      },
+      "category": "security-operation",
+      "occurredOn": "2026-10-27",
+      "firstReportedAt": "2026-10-27",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 1,
+        "reviewedAt": "2026-11-11T03:04:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Counter Terrorism Policing",
+          "title": "Two men charged under the National Security Act in RAF Fairford investigation",
+          "url": "https://www.counterterrorism.police.uk/news/new-arrest-made-in-the-raf-fairford-investigation/",
+          "type": "official",
+          "publishedAt": "2026-10-27"
+        },
+        {
+          "publisher": "U.S. Department of Justice",
+          "title": "Three Iranian-Backed Operatives Indicted for Their Roles in Nearly 20 Terrorist Attacks and Attempted Attacks Across Europe and the United States",
+          "url": "https://www.justice.gov/opa/pr/three-iranian-backed-operatives-indicted-their-roles-nearly-20-terrorist-attacks-and",
+          "type": "official",
+          "publishedAt": "2026-11-10"
+        }
+      ],
+      "status": "active",
+      "subcategory": "arrests"
+    }
+  ]
 }

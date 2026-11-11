@@ -1,8 +1,241 @@
 {
   "schemaVersion": 1,
   "countryID": "UKR",
-  "revision": 1,
-  "generatedAt": "2026-11-10T19:00:00Z",
+  "revision": 2,
+  "generatedAt": "2026-11-11T03:04:00Z",
   "windowDays": 30,
-  "events": []
+  "events": [
+    {
+      "id": "ukr-2026-11-02-komyshuvakha-aid-point-strike",
+      "title": "Russian Strike On Aid Point Kills Dozens In Zaporizhzhia Region",
+      "summary": "Russian aerial bombs struck a school building used as a shelter and humanitarian aid hub in the village of Komyshuvakha, in Ukraine's Zaporizhzhia region, on 2 November. President Volodymyr Zelensky said Russia dropped at least nine bombs on the building and called it one of the deadliest attacks of the war. By 7 November, Ukrainian authorities said the death toll had risen to 55.",
+      "location": {
+        "city": "Komyshuvakha",
+        "region": "Zaporizhzhia Oblast",
+        "country": "Ukraine"
+      },
+      "geo": {
+        "latitude": 47.719,
+        "longitude": 35.525,
+        "precision": "locality"
+      },
+      "category": "armed-conflict",
+      "occurredOn": "2026-11-02",
+      "firstReportedAt": "2026-11-02",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-11T03:04:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "Death toll from Russian strike on Komyshuvakha rises to 55 as search operation enters 6th day",
+          "url": "https://kyivindependent.com/death-toll-from-russian-strike-on-komyshuvakha-rises-to-53-as-search-operation-enters-5th-day/",
+          "type": "national",
+          "publishedAt": "2026-11-06"
+        },
+        {
+          "publisher": "CNN",
+          "title": "Russian bombing of Ukrainian aid center is one of the war's 'deadliest attacks,' Zelensky says",
+          "url": "https://www.cnn.com/2026/11/03/europe/ukraine-russia-zaporiszhzha-school-strike-intl",
+          "type": "national",
+          "publishedAt": "2026-11-03"
+        },
+        {
+          "publisher": "UNN",
+          "title": "The death toll following the Russian airstrike on Komyshuvakha has risen to 55",
+          "url": "https://unn.ua/en/news/the-death-toll-following-the-russian-airstrike-on-komyshuvakha-has-risen-to-55",
+          "type": "national",
+          "publishedAt": "2026-11-07"
+        }
+      ],
+      "status": "active",
+      "subcategory": "air-strike"
+    },
+    {
+      "id": "ukr-2026-10-29-dnipro-station-drone-strike",
+      "title": "Drone Strike On Dnipro Railway Station Kills At Least 14",
+      "summary": "A Russian drone strike on a busy platform at Dnipro's main railway station on 29 October killed at least 14 people, Ukrainian officials said. Russian attacks across Ukraine killed at least 19 people that day. The strike drew outrage in Europe.",
+      "location": {
+        "city": "Dnipro",
+        "region": "Dnipropetrovsk Oblast",
+        "country": "Ukraine"
+      },
+      "geo": {
+        "latitude": 48.477,
+        "longitude": 35.015,
+        "precision": "city"
+      },
+      "category": "armed-conflict",
+      "occurredOn": "2026-10-29",
+      "firstReportedAt": "2026-10-29",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "At least 14 people killed in Russian attack on Dnipro train station",
+          "url": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight",
+          "type": "national",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "publisher": "The Guardian",
+          "title": "Ukraine war briefing: Outrage in Europe after Russian drone kills 14 on rail platform in Dnipro",
+          "url": "https://www.theguardian.com/world/2026/oct/30/ukraine-war-briefing-russian-drone-attack-dnipro-rail-platform",
+          "type": "national",
+          "publishedAt": "2026-10-30"
+        }
+      ],
+      "status": "active",
+      "subcategory": "drone-strike"
+    },
+    {
+      "id": "ukr-2026-10-29-chernihiv-strike-kills-teenagers",
+      "title": "Russian Strike On Central Chernihiv Kills Two Teenage Girls",
+      "summary": "A daytime Russian strike on central Chernihiv on 29 October killed two 15-year-old girls and injured 31 people, including a baby, according to Ukrainian officials. The city's mayor said a Banderol drone-launched cruise missile hit the crowded city centre.",
+      "location": {
+        "city": "Chernihiv",
+        "region": "Chernihiv Oblast",
+        "country": "Ukraine"
+      },
+      "geo": {
+        "latitude": 51.494,
+        "longitude": 31.289,
+        "precision": "city"
+      },
+      "category": "armed-conflict",
+      "occurredOn": "2026-10-29",
+      "firstReportedAt": "2026-10-29",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Ukrainska Pravda",
+          "title": "Two 15-year-old girls killed and 31 people injured, including baby, in Russian attack on central Chernihiv – photos, video",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060232/",
+          "type": "national",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "publisher": "Euronews",
+          "title": "Video. Ukraine: Russian strike kills two teenage girls in Chernihiv",
+          "url": "https://www.euronews.com/video/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv",
+          "type": "national",
+          "publishedAt": "2026-10-30"
+        }
+      ],
+      "status": "active",
+      "subcategory": "air-strike"
+    },
+    {
+      "id": "ukr-2026-10-23-oleshky-humanitarian-ceasefire",
+      "title": "Russia And Ukraine Agree Local Ceasefire For Occupied Oleshky",
+      "summary": "The White House said on 23 October that Russia and Ukraine had agreed to a localized ceasefire in the Russian-occupied town of Oleshky, in the Kherson region, to let humanitarian aid in and prepare a civilian evacuation. The agreement was brokered by US first lady Melania Trump. About 24,000 people lived in Oleshky before the war; between 1,700 and 2,000 remain.",
+      "location": {
+        "city": "Oleshky",
+        "region": "Kherson Oblast",
+        "country": "Ukraine"
+      },
+      "geo": {
+        "latitude": 46.625,
+        "longitude": 32.718,
+        "precision": "city"
+      },
+      "category": "politics",
+      "occurredOn": "2026-10-23",
+      "firstReportedAt": "2026-10-23",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The White House",
+          "title": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine Localized to Oleshky",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/",
+          "type": "official",
+          "publishedAt": "2026-10-23"
+        },
+        {
+          "publisher": "The Moscow Times",
+          "title": "Russia, Ukraine agree on ceasefire in embattled Oleshky, plan new peace talks next month",
+          "url": "https://www.themoscowtimes.com/2026/10/24/russia-ukraine-agree-on-ceasefire-in-embattled-oleshky-plan-new-peace-talks-next-month-a94069",
+          "type": "national",
+          "publishedAt": "2026-10-24"
+        }
+      ],
+      "status": "active",
+      "subcategory": "ceasefire"
+    },
+    {
+      "id": "ukr-2026-10-14-kyiv-energy-strikes",
+      "title": "Ballistic Missile Barrage Targets Ukraine's Energy Grid",
+      "summary": "Russia launched 39 ballistic missiles and more than 120 drones at Ukraine overnight into 14 October, according to President Volodymyr Zelensky, targeting energy facilities in Kyiv, the Kyiv region and Kharkiv. At least nine people were killed across Ukraine, and about 600,000 people lost electricity.",
+      "location": {
+        "city": "Kyiv",
+        "region": "Kyiv",
+        "country": "Ukraine"
+      },
+      "geo": {
+        "latitude": 50.45,
+        "longitude": 30.524,
+        "precision": "city"
+      },
+      "category": "armed-conflict",
+      "occurredOn": "2026-10-14",
+      "firstReportedAt": "2026-10-14",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "'Massive' Russian attack on Ukraine kills at least 9, damages power sites",
+          "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv",
+          "type": "national",
+          "publishedAt": "2026-10-14"
+        },
+        {
+          "publisher": "Ukrainska Pravda",
+          "title": "Russia launches massive ballistic missile strike on energy grid: air defence brings down 4 out of 39 missiles and 115 drones",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/14/8057918/",
+          "type": "national",
+          "publishedAt": "2026-10-14"
+        }
+      ],
+      "status": "active",
+      "subcategory": "missile-strike"
+    }
+  ]
 }

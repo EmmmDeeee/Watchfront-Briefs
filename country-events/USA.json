@@ -1,8 +1,243 @@
 {
   "schemaVersion": 1,
   "countryID": "USA",
-  "revision": 1,
-  "generatedAt": "2026-11-10T19:00:00Z",
+  "revision": 2,
+  "generatedAt": "2026-11-11T03:04:00Z",
   "windowDays": 30,
-  "events": []
+  "events": [
+    {
+      "id": "usa-2026-11-03-illinois-county-separation-referendums",
+      "title": "Twelve Illinois Counties Back Non-Binding Separation Referendums",
+      "summary": "Voters in 12 more Illinois counties approved non-binding referendums on 3 November supporting separation from the state, citing the political influence of Chicago and Cook County, FOX 32 Chicago reported. Voters in 45 counties have now approved such measures since 2020. The votes are advisory; creating a new state would require approval from the Illinois General Assembly and Congress.",
+      "location": {
+        "city": null,
+        "region": "Illinois",
+        "country": "United States"
+      },
+      "geo": {
+        "latitude": 39.5,
+        "longitude": -89.5,
+        "precision": "region"
+      },
+      "category": "politics",
+      "occurredOn": "2026-11-03",
+      "firstReportedAt": "2026-11-04",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "FOX 32 Chicago",
+          "title": "Illinois secession movement grows as 12 more counties back split",
+          "url": "https://www.fox32chicago.com/news/illinois-secession-movement-grows-12-more-counties-back-split",
+          "type": "local",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "publisher": "NBC Chicago",
+          "title": "More Illinois counties vote to explore new state, separating from Cook County",
+          "url": "https://www.nbcchicago.com/elections/more-illinois-counties-vote-to-explore-new-state-separating-from-cook-county/4012422/",
+          "type": "local",
+          "publishedAt": "2026-11-04"
+        }
+      ],
+      "status": "active",
+      "subcategory": "referendum"
+    },
+    {
+      "id": "usa-2026-11-03-democrats-win-control-of-congress",
+      "title": "Democrats Win Control Of Both Houses Of Congress",
+      "summary": "Democrats won majorities in both the House of Representatives and the Senate in the 3 November midterm elections, Ballotpedia reported. Al Jazeera reported that the party had won control of the Senate. Some individual races were still uncalled while ballots were counted.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "United States"
+      },
+      "geo": null,
+      "category": "politics",
+      "occurredOn": "2026-11-03",
+      "firstReportedAt": "2026-11-04",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Ballotpedia",
+          "title": "Democrats win U.S. House and Senate majorities",
+          "url": "https://news.ballotpedia.org/2026/11/04/democrats-win-u-s-house-and-senate-majorities/",
+          "type": "national",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Democratic Party wins US Senate in 2026 midterm elections",
+          "url": "https://aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections",
+          "type": "national",
+          "publishedAt": "2026-11-04"
+        }
+      ],
+      "status": "active",
+      "subcategory": "election"
+    },
+    {
+      "id": "usa-2026-10-24-famu-homecoming-shooting",
+      "title": "Eleven Shot Near Florida A&M Stadium After Homecoming Game",
+      "summary": "Eleven people, including six juveniles, were shot near Bragg Memorial Stadium at Florida A&M University in Tallahassee on the night of 24 October, hours after the school's homecoming football game. Twelve people were injured in all, and police said the shooting followed a physical altercation among people who knew one another. A 15-year-old will be charged as an adult.",
+      "location": {
+        "city": "Tallahassee",
+        "region": "Florida",
+        "country": "United States"
+      },
+      "geo": {
+        "latitude": 30.425,
+        "longitude": -84.287,
+        "precision": "city"
+      },
+      "category": "other",
+      "occurredOn": "2026-10-24",
+      "firstReportedAt": "2026-10-24",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z",
+        "motive": {
+          "status": "attributed",
+          "attributedTo": "Tallahassee police, who said it stemmed from an altercation among a small group"
+        }
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "CNN",
+          "title": "15-year-old will be charged as an adult after 11 people were shot near Florida A&M University stadium",
+          "url": "https://edition.cnn.com/2026/10/25/us/11-shot-florida-tallahassee-shooting-hnk",
+          "type": "national",
+          "publishedAt": "2026-10-25"
+        },
+        {
+          "publisher": "Gray News via FOX5 Las Vegas",
+          "title": "Police in Florida are seeking information and videos after a shooting injured 12 at football game",
+          "url": "https://www.fox5vegas.com/2026/10/25/least-12-injured-including-6-children-shooting-near-florida-am-stadium/",
+          "type": "national",
+          "publishedAt": "2026-10-25"
+        }
+      ],
+      "status": "active",
+      "subcategory": "mass-shooting"
+    },
+    {
+      "id": "usa-2026-10-17-no-kings-early-voting-rallies",
+      "title": "No Kings Protests Held Nationwide Ahead Of Midterms",
+      "summary": "Hundreds of No Kings rallies against President Donald Trump's administration drew crowds in New York and other US cities on 17 October. This round aimed to get people out to vote early ahead of the 3 November midterm elections.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "United States"
+      },
+      "geo": null,
+      "category": "protest",
+      "occurredOn": "2026-10-17",
+      "firstReportedAt": "2026-10-17",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z",
+        "motive": {
+          "status": "not-applicable"
+        },
+        "ideology": {
+          "label": "not-applicable",
+          "status": "not-applicable"
+        },
+        "terrorism": {
+          "status": "none"
+        }
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "FOX 5 New York",
+          "title": "No Kings rallies draw crowds in major US cities ahead of midterms",
+          "url": "https://www.fox5ny.com/news/no-kings-rallies-united-states-oct-17-2026-midterm-elections",
+          "type": "national",
+          "publishedAt": "2026-10-17"
+        },
+        {
+          "publisher": "NPR via KPBS",
+          "title": "No Kings draws crowds with focus on early voting",
+          "url": "https://www.kpbs.org/news/national/2026/10/17/no-kings-draws-crowds-with-focus-on-early-voting",
+          "type": "national",
+          "publishedAt": "2026-10-17"
+        }
+      ],
+      "status": "active",
+      "subcategory": "mass-protest"
+    },
+    {
+      "id": "usa-2026-10-15-bend-elementary-school-shooting",
+      "title": "Three Children And A Teacher Killed In Oregon School Shooting",
+      "summary": "A 16-year-old opened fire at Silver Rail Elementary School in Bend, Oregon, on 15 October, killing three children and a teacher, according to police. The suspected shooter was then shot and killed by a bystander.",
+      "location": {
+        "city": "Bend",
+        "region": "Oregon",
+        "country": "United States"
+      },
+      "geo": {
+        "latitude": 44.058,
+        "longitude": -121.315,
+        "precision": "city"
+      },
+      "category": "other",
+      "occurredOn": "2026-10-15",
+      "firstReportedAt": "2026-10-15",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z",
+        "motive": {
+          "status": "unknown"
+        }
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "OPB",
+          "title": "3 children among the dead after shooting at Bend elementary school",
+          "url": "https://www.opb.org/article/2026/10/15/children-shooter-dead-bend-school/",
+          "type": "local",
+          "publishedAt": "2026-10-15"
+        },
+        {
+          "publisher": "The Guardian",
+          "title": "Shooter kills three children and one teacher at Oregon elementary school",
+          "url": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
+          "type": "national",
+          "publishedAt": "2026-10-16"
+        }
+      ],
+      "status": "active",
+      "subcategory": "mass-shooting"
+    }
+  ]
 }

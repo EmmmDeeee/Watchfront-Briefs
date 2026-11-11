@@ -1,8 +1,50 @@
 {
   "schemaVersion": 1,
   "countryID": "NZL",
-  "revision": 1,
-  "generatedAt": "2026-11-10T19:00:00Z",
+  "revision": 2,
+  "generatedAt": "2026-11-11T03:04:00Z",
   "windowDays": 30,
-  "events": []
+  "events": [
+    {
+      "id": "nzl-2026-11-07-general-election-no-clear-winner",
+      "title": "New Zealand Election Produces No Clear Winner",
+      "summary": "New Zealand's 7 November general election did not produce a decisive result for either the right or the left, according to preliminary results, as voters shifted support from National and Labour to smaller parties. Nearly 400,000 special votes remained to be counted. Final results are due on 27 November, and Prime Minister Christopher Luxon leads a caretaker government until then.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "New Zealand"
+      },
+      "geo": null,
+      "category": "politics",
+      "occurredOn": "2026-11-07",
+      "firstReportedAt": "2026-11-07",
+      "publishedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-11T03:04:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T03:04:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "NPR via OPB",
+          "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+          "url": "https://www.opb.org/article/2026/11/08/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks/",
+          "type": "national",
+          "publishedAt": "2026-11-08"
+        },
+        {
+          "publisher": "Associated Press via The Boston Globe",
+          "title": "New Zealanders won't know for weeks who won the election as neither side secures clear victory",
+          "url": "https://www.bostonglobe.com/2026/11/08/world/new-zealanders-wont-know-for-weeks-who-won-election/",
+          "type": "national",
+          "publishedAt": "2026-11-08"
+        }
+      ],
+      "status": "active",
+      "subcategory": "election"
+    }
+  ]
 }
