@@ -1,10 +1,99 @@
 {
   "schemaVersion": 1,
   "countryID": "AUS",
-  "revision": 2,
-  "generatedAt": "2026-11-11T03:04:00Z",
+  "revision": 3,
+  "generatedAt": "2026-11-11T17:05:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "aus-2026-11-09-bushfire-preparedness-funding",
+      "title": "Albanese Announces Bushfire Funding Ahead Of Tough Summer",
+      "summary": "Prime Minister Anthony Albanese announced extra bushfire preparedness funding on 9 November, warning that a super El Niño would have a particular impact this summer. The package supports the national fire danger rating system, bushfire intelligence and mental health services for emergency responders.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Australia"
+      },
+      "geo": null,
+      "category": "politics",
+      "occurredOn": "2026-11-09",
+      "firstReportedAt": "2026-11-09",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "North Coast Times",
+          "title": "$12m boost as tough summer looms",
+          "url": "https://nctimes.com.au/2026/11/11/12m-boost-as-tough-summer-looms/",
+          "type": "local",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "Prime Minister of Australia",
+          "title": "Press conference - National Situation Room",
+          "url": "https://www.pm.gov.au/media/press-conference-national-situation-room",
+          "type": "official",
+          "publishedAt": "2026-11-09"
+        }
+      ],
+      "status": "active",
+      "subcategory": "emergency-preparedness"
+    },
+    {
+      "id": "aus-2026-11-03-rba-raises-cash-rate-to-4-85",
+      "title": "Reserve Bank Raises Cash Rate To 4.85 Percent In Split Vote",
+      "summary": "The Reserve Bank of Australia raised its cash rate by 25 basis points to 4.85 percent on 3 November, its fifth increase this year and the highest level since 2008. Six board members voted for the rise and three voted to hold. The bank said global oil prices were part of the reason inflation was staying higher for longer.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Australia"
+      },
+      "geo": null,
+      "category": "economy",
+      "occurredOn": "2026-11-03",
+      "firstReportedAt": "2026-11-03",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Market Index",
+          "title": "RBA hikes interest rate to 4.85% but a split vote hints the end may be near",
+          "url": "https://www.marketindex.com.au/news/rba-hikes-interest-rate-to-4-85-but-a-split-vote-hints-the-end-may-be-near",
+          "type": "national",
+          "publishedAt": "2026-11-03"
+        },
+        {
+          "publisher": "IT Brief Australia",
+          "title": "Reserve Bank of Australia lifts cash rate to 18-year high",
+          "url": "https://itbrief.com.au/story/reserve-bank-of-australia-lifts-cash-rate-to-18-year-high",
+          "type": "national",
+          "publishedAt": "2026-11-03"
+        },
+        {
+          "publisher": "SBS News",
+          "title": "RBA November 2026 interest rates decision: live",
+          "url": "https://www.sbs.com.au/news/live-blog/rba-november-2026-interest-rates-decision-live/f6csn2n1w",
+          "type": "national",
+          "publishedAt": "2026-11-03"
+        }
+      ],
+      "status": "active",
+      "subcategory": "interest-rates"
+    },
     {
       "id": "aus-2026-11-02-armed-police-patrols-sydney",
       "title": "Rifle-Armed Police Unit Begins Patrols In Sydney",
@@ -42,6 +131,120 @@
       ],
       "status": "active",
       "subcategory": "deployment"
+    },
+    {
+      "id": "aus-2026-10-30-perth-man-terrorism-charge-upgraded",
+      "title": "Perth Man Charged With Preparing A Terrorist Act",
+      "summary": "Western Australia's Joint Counter Terrorism Team upgraded charges against a 22-year-old Perth man on 30 October to include acts in preparation for a terrorist act, which carries a maximum penalty of life imprisonment. Police allege he sought help on a messaging platform with explosive devices, weapons manufacturing and fake documents as part of planning a terrorist attack. He was first arrested and charged on 4 December 2025.",
+      "location": {
+        "city": "Perth",
+        "region": "Western Australia",
+        "country": "Australia"
+      },
+      "geo": {
+        "latitude": -31.952,
+        "longitude": 115.861,
+        "precision": "city"
+      },
+      "category": "terrorism",
+      "occurredOn": "2026-10-30",
+      "firstReportedAt": "2026-10-30",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z",
+        "motive": {
+          "status": "unknown"
+        },
+        "ideology": {
+          "label": "unknown",
+          "status": "unknown"
+        },
+        "terrorism": {
+          "status": "charged-as",
+          "authority": "Western Australia Joint Counter Terrorism Team"
+        }
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Australian Federal Police",
+          "title": "Charges upgraded against WA man to acts in preparation for terrorist act",
+          "url": "https://www.afp.gov.au/news-centre/media-release/charges-upgraded-against-wa-man-acts-preparation-terrorist-act",
+          "type": "official",
+          "publishedAt": "2026-10-30"
+        },
+        {
+          "publisher": "The Nightly",
+          "title": "Perth man, 22, charged with allegedly planning terrorist attack after seeking explosives and military training advice",
+          "url": "https://thenightly.com.au/australia/perth-man-22-charged-with-allegedly-planning-terrorist-attack-after-seeking-explosives-and-military-training-advice-c-23091917",
+          "type": "national",
+          "publishedAt": "2026-10-30"
+        }
+      ],
+      "status": "active",
+      "subcategory": "arrests"
+    },
+    {
+      "id": "aus-2026-10-28-darwin-teenagers-terrorism-charges",
+      "title": "Two Darwin Teenagers Charged In Counter-Terrorism Investigation",
+      "summary": "Two Darwin teenagers have been charged with collecting or making documents likely to facilitate terrorist acts, in a Northern Territory Joint Counter Terrorism Team investigation that began after a Crime Stoppers tip about violent extremist material posted online. The first was charged on 28 October. The second was arrested on 3 November and appeared in a children's court on 4 November; police said material on his devices showed a mixed ideological motivation, including glorification of mass-casualty attacks at schools.",
+      "location": {
+        "city": "Darwin",
+        "region": "Northern Territory",
+        "country": "Australia"
+      },
+      "geo": {
+        "latitude": -12.463,
+        "longitude": 130.842,
+        "precision": "city"
+      },
+      "category": "terrorism",
+      "occurredOn": "2026-10-28",
+      "firstReportedAt": "2026-10-28",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z",
+        "motive": {
+          "status": "unknown"
+        },
+        "ideology": {
+          "label": "other",
+          "status": "attributed",
+          "attributedTo": "Australian Federal Police: mixed ideological motivation in the second teenager's material"
+        },
+        "terrorism": {
+          "status": "charged-as",
+          "authority": "Australian Federal Police and Northern Territory Joint Counter Terrorism Team"
+        }
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The Nightly",
+          "title": "Darwin teen charged with terrorism offences as AFP reveals disturbing findings on child radicalisation",
+          "url": "https://thenightly.com.au/australia/darwin-teen-charged-with-terrorism-offences-as-afp-reveals-disturbing-findings-on-child-radicalisation-c-23088215",
+          "type": "national",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "publisher": "Australian Federal Police",
+          "title": "Second Darwin teen charged as part of ongoing Joint Counter Terrorism Team investigation",
+          "url": "https://www.afp.gov.au/news-centre/media-release/second-darwin-teen-charged-part-ongoing-joint-counter-terrorism-team",
+          "type": "official",
+          "publishedAt": "2026-11-04"
+        }
+      ],
+      "status": "active",
+      "subcategory": "arrests",
+      "occurredUntil": "2026-11-04"
     },
     {
       "id": "aus-2026-10-25-western-sydney-airport-opens",

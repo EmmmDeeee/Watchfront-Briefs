@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "countryID": "GBR",
-  "revision": 2,
-  "generatedAt": "2026-11-11T03:04:00Z",
+  "revision": 3,
+  "generatedAt": "2026-11-11T17:05:00Z",
   "windowDays": 30,
   "events": [
     {
@@ -42,6 +42,47 @@
       ],
       "status": "active",
       "subcategory": "arrests"
+    },
+    {
+      "id": "gbr-2026-11-05-bank-of-england-raises-rate",
+      "title": "Bank Of England Raises Interest Rates For First Time Since 2023",
+      "summary": "The Bank of England's Monetary Policy Committee voted 8–1 to raise Bank Rate by a quarter point to 4 percent, announced on 5 November, its first increase since August 2023. One member voted for a larger rise, to 4.25 percent. The Bank said global energy prices had continued to rise as the conflict in the Middle East entered its ninth month.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "United Kingdom"
+      },
+      "geo": null,
+      "category": "economy",
+      "occurredOn": "2026-11-05",
+      "firstReportedAt": "2026-11-05",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 1,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Bank of England",
+          "title": "Bank Rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+          "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+          "type": "official",
+          "publishedAt": "2026-11-05"
+        },
+        {
+          "publisher": "MoneyWeek",
+          "title": "Live: Bank of England raises interest rates",
+          "url": "https://moneyweek.com/economy/news/live/uk-interest-rates-november-bank-of-england",
+          "type": "national",
+          "publishedAt": "2026-11-05"
+        }
+      ],
+      "status": "active",
+      "subcategory": "interest-rates"
     },
     {
       "id": "gbr-2026-10-31-palestine-action-embassy-arrests",
@@ -120,6 +161,54 @@
       "subcategory": "mass-protest"
     },
     {
+      "id": "gbr-2026-10-28-autumn-budget",
+      "title": "Chancellor John Healey Delivers First Budget",
+      "summary": "Chancellor John Healey delivered his first Budget on 28 October, presenting it as breathing space for households facing higher energy costs linked to the war in the Middle East. Measures included a £100 Household Energy Payment for up to 20 million households in England, a plan to abolish gas standing charges and a higher corporation tax surcharge on banks. Healey said growth would slow to 1 percent next year.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "United Kingdom"
+      },
+      "geo": null,
+      "category": "economy",
+      "occurredOn": "2026-10-28",
+      "firstReportedAt": "2026-10-28",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Five key takeaways from the UK Autumn Budget",
+          "url": "https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget",
+          "type": "national",
+          "publishedAt": "2026-10-28"
+        },
+        {
+          "publisher": "Euronews",
+          "title": "UK Budget: Here's five key takeaways from the Chancellor's speech",
+          "url": "https://www.euronews.com/2026/10/28/uk-budget-heres-five-key-takeaways-from-the-chancellors-speech",
+          "type": "national",
+          "publishedAt": "2026-10-28"
+        },
+        {
+          "publisher": "GOV.UK",
+          "title": "Budget 2026: breathing space for today, hope for the future",
+          "url": "https://www.gov.uk/government/news/budget-2026-breathing-space-for-today-hope-for-the-future",
+          "type": "official",
+          "publishedAt": "2026-10-28"
+        }
+      ],
+      "status": "active",
+      "subcategory": "budget"
+    },
+    {
       "id": "gbr-2026-10-27-raf-fairford-national-security-charges",
       "title": "Two Men Charged Over Iran-Linked Activity Near RAF Fairford",
       "summary": "Police charged two British men from London under the National Security Act on 27 October, following an investigation into activity near the perimeter of RAF Fairford, a Gloucestershire base used by US forces. One man is accused of assisting a foreign intelligence service, which police said they believe to be Iran's. Five other men arrested in the investigation remained on police bail.",
@@ -163,6 +252,143 @@
       ],
       "status": "active",
       "subcategory": "arrests"
+    },
+    {
+      "id": "gbr-2026-10-25-storm-boelo",
+      "title": "Storm Boelo Kills Two And Cuts Power To Thousands Of Homes",
+      "summary": "Storm Boelo brought gusts of up to 84 mph to the UK on 25 October. Two men were killed by falling trees: a 60-year-old near Castle Douglas in Dumfries and Galloway, and a man in his 20s in north London when a tree fell on his car. More than 160,000 homes initially lost power.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "United Kingdom"
+      },
+      "geo": null,
+      "category": "disaster",
+      "occurredOn": "2026-10-25",
+      "firstReportedAt": "2026-10-25",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Radio X",
+          "title": "Met Office issues new weather warning for wind - as two men killed by falling trees",
+          "url": "https://www.radiox.co.uk/news/uk-world/two-men-killed-by-falling-trees-and-90000-wit/",
+          "type": "national",
+          "publishedAt": "2026-10-26"
+        },
+        {
+          "publisher": "LBC",
+          "title": "Two killed by falling trees as Storm Boelo batters UK leaving thousands of homes without power",
+          "url": "https://www.lbc.co.uk/article/storm-boelo-batters-uk-homes-without-power-5HjdkQH_2/",
+          "type": "national",
+          "publishedAt": "2026-10-25"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Two storms slam northern Europe, cut power to 150,000 homes",
+          "url": "https://aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes",
+          "type": "national",
+          "publishedAt": "2026-10-26"
+        }
+      ],
+      "status": "active",
+      "subcategory": "storm"
+    },
+    {
+      "id": "gbr-2026-10-20-raf-typhoons-saudi-deployment",
+      "title": "UK To Deploy RAF Typhoons To Help Defend Saudi Arabia",
+      "summary": "The government said on 20 October it would deploy RAF Typhoon jets to Saudi Arabia to fly defensive missions against Houthi missile and drone attacks on Saudi infrastructure. Officials said the jets would not carry out offensive strikes against the Houthis. The deployment adds to an RAF Voyager refuelling aircraft already sent to support Saudi Arabia.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "United Kingdom"
+      },
+      "geo": null,
+      "category": "security-operation",
+      "occurredOn": "2026-10-20",
+      "firstReportedAt": "2026-10-20",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
+          "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks",
+          "type": "national",
+          "publishedAt": "2026-10-20"
+        },
+        {
+          "publisher": "The National",
+          "title": "UK mission to defend Saudi Arabia adds Typhoon jets",
+          "url": "https://www.thenationalnews.com/news/uk/2026/10/20/uk-mission-to-defend-saudi-arabia-adds-typhoon-jets/",
+          "type": "national",
+          "publishedAt": "2026-10-20"
+        },
+        {
+          "publisher": "The Aviationist",
+          "title": "Royal Air Force Deploys Typhoon Fighters to Saudi Arabia to Defend Against Houthi Attacks",
+          "url": "https://theaviationist.com/2026/10/20/raf-deploys-typhoons-to-saudi-arabia/",
+          "type": "national",
+          "publishedAt": "2026-10-20"
+        }
+      ],
+      "status": "active",
+      "subcategory": "deployment"
+    },
+    {
+      "id": "gbr-2026-10-15-severe-drought-southern-england",
+      "title": "Severe Drought Declared In Parts Of Southern England",
+      "summary": "The government declared severe drought in parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex on 15 October. Water companies in the affected areas were told to step up drought planning to protect supplies.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "United Kingdom"
+      },
+      "geo": null,
+      "category": "disaster",
+      "occurredOn": "2026-10-15",
+      "firstReportedAt": "2026-10-15",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "GOV.UK",
+          "title": "Government activates plan to protect consumers as severe drought declared in parts of England",
+          "url": "https://www.gov.uk/government/news/government-activates-plan-to-protect-consumers-as-severe-drought-declared-in-parts-of-england",
+          "type": "official",
+          "publishedAt": "2026-10-15"
+        },
+        {
+          "publisher": "PA Media via The Irish News",
+          "title": "Parts of England in severe drought as water supplies under immense pressure",
+          "url": "https://www.irishnews.com/news/uk/parts-of-england-in-severe-drought-as-water-supplies-under-immense-pressure-L32RN5GNJRJDNIRO5AQVPWZWIE/",
+          "type": "national",
+          "publishedAt": "2026-10-15"
+        }
+      ],
+      "status": "active",
+      "subcategory": "drought"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "countryID": "UKR",
-  "revision": 2,
-  "generatedAt": "2026-11-11T03:04:00Z",
+  "revision": 3,
+  "generatedAt": "2026-11-11T17:05:00Z",
   "windowDays": 30,
   "events": [
     {
@@ -191,6 +191,40 @@
       ],
       "status": "active",
       "subcategory": "ceasefire"
+    },
+    {
+      "id": "ukr-2026-10-16-attacks-cut-power-to-a-million",
+      "title": "Russian Attacks Kill At Least Eight And Cut Power To A Million",
+      "summary": "Russian attacks on 16 October killed at least eight people in Ukraine and cut power to about a million people, with strikes reported in Kharkiv, Kramatorsk, Volyn and Rivne. Ukraine's energy ministry said repair crews later restored power to more than a million people.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Ukraine"
+      },
+      "geo": null,
+      "category": "armed-conflict",
+      "occurredOn": "2026-10-16",
+      "firstReportedAt": "2026-10-17",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 1,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
+          "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million",
+          "type": "national",
+          "publishedAt": "2026-10-17"
+        }
+      ],
+      "status": "active",
+      "subcategory": "air-strike"
     },
     {
       "id": "ukr-2026-10-14-kyiv-energy-strikes",

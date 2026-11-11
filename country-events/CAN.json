@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "countryID": "CAN",
-  "revision": 2,
-  "generatedAt": "2026-11-11T03:04:00Z",
+  "revision": 3,
+  "generatedAt": "2026-11-11T17:05:00Z",
   "windowDays": 30,
   "events": [
     {
@@ -45,6 +45,95 @@
       ],
       "status": "active",
       "subcategory": "budget"
+    },
+    {
+      "id": "can-2026-10-29-ottawa-stake-in-cohere",
+      "title": "Ottawa Takes Stake Of Up To $1.6 Billion In AI Firm Cohere",
+      "summary": "Prime Minister Mark Carney announced on 29 October that Ottawa would make an equity investment of up to $1.6 billion in Toronto-based artificial intelligence company Cohere. In return, Cohere committed to keep its headquarters in Canada and invest at least $1.7 billion in Canadian computing infrastructure by 2030. Carney made the announcement in Montreal as he hosted European Union leaders.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Canada"
+      },
+      "geo": null,
+      "category": "economy",
+      "occurredOn": "2026-10-29",
+      "firstReportedAt": "2026-10-29",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The Canadian Press via CP24",
+          "title": "Ottawa investing up to $1.6B in Canadian AI company Cohere",
+          "url": "https://cp24.com/news/canada/2026/10/29/ottawa-investing-up-to-16b-in-canadian-ai-company-cohere",
+          "type": "national",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "publisher": "Global News",
+          "title": "Ottawa AI investment in Cohere",
+          "url": "https://globalnews.ca/news/12126174/ottawa-ai-investment-cohere/",
+          "type": "national",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "publisher": "CTV News",
+          "title": "Canadian taxpayers now own a part of Cohere AI: What that means for digital sovereignty",
+          "url": "https://www.ctvnews.ca/business/article/canadian-taxpayers-now-own-a-part-of-cohere-ai-what-that-means-for-digital-sovereignty/",
+          "type": "national",
+          "publishedAt": "2026-11-01"
+        }
+      ],
+      "status": "active",
+      "subcategory": "investment"
+    },
+    {
+      "id": "can-2026-10-28-bank-of-canada-rate-hike",
+      "title": "Bank Of Canada Raises Interest Rate To 2.5 Percent",
+      "summary": "The Bank of Canada raised its target for the overnight rate by 25 basis points to 2.5 percent on 28 October. The bank said global economic activity had remained resilient despite higher energy prices. Its next scheduled rate announcement is on 9 December.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Canada"
+      },
+      "geo": null,
+      "category": "economy",
+      "occurredOn": "2026-10-28",
+      "firstReportedAt": "2026-10-28",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 1,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Bank of Canada",
+          "title": "Bank of Canada raises the policy rate by 25 basis points to 2½%",
+          "url": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/",
+          "type": "official",
+          "publishedAt": "2026-10-28"
+        },
+        {
+          "publisher": "The Canadian Press via Advisor.ca",
+          "title": "Bank of Canada delivers 1st hike in three years",
+          "url": "https://www.advisor.ca/economy/policy/bank-of-canada-delivers-1st-hike-in-three-years/",
+          "type": "national",
+          "publishedAt": "2026-10-28"
+        }
+      ],
+      "status": "active",
+      "subcategory": "interest-rates"
     },
     {
       "id": "can-2026-10-24-bc-conservatives-win-snap-election",
@@ -90,6 +179,58 @@
       ],
       "status": "active",
       "subcategory": "election"
+    },
+    {
+      "id": "can-2026-10-21-quebec-premier-sworn-in",
+      "title": "Paul St-Pierre Plamondon Sworn In As Quebec Premier",
+      "summary": "Paul St-Pierre Plamondon was sworn in as Quebec's 34th premier on 21 October, returning the sovereigntist Parti Québécois to power after more than a decade. He named a cabinet of 22 ministers, including one responsible for Quebec independence. He has said his priorities are tackling the province's deficit and preparing for a promised referendum on independence.",
+      "location": {
+        "city": "Quebec City",
+        "region": "Quebec",
+        "country": "Canada"
+      },
+      "geo": {
+        "latitude": 46.813,
+        "longitude": -71.208,
+        "precision": "city"
+      },
+      "category": "politics",
+      "occurredOn": "2026-10-21",
+      "firstReportedAt": "2026-10-21",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The Canadian Press via MTL Blog",
+          "title": "Paul St-Pierre Plamondon sworn in as Quebec premier, unveils cabinet",
+          "url": "https://www.mtlblog.com/quebec-premier-designate-to-be-sworn-in",
+          "type": "national",
+          "publishedAt": "2026-10-21"
+        },
+        {
+          "publisher": "Global News",
+          "title": "New Quebec cabinet: Parti Québécois government sworn in",
+          "url": "https://globalnews.ca/news/12112237/new-quebec-cabinet-pq-plamondon/",
+          "type": "national",
+          "publishedAt": "2026-10-21"
+        },
+        {
+          "publisher": "CTV News",
+          "title": "Quebec premier-designate Paul St-Pierre Plamondon to be sworn in and unveil cabinet",
+          "url": "https://www.ctvnews.ca/montreal/article/quebec-premier-designate-paul-st-pierre-plamondon-to-be-sworn-in-and-unveil-cabinet/",
+          "type": "national",
+          "publishedAt": "2026-10-21"
+        }
+      ],
+      "status": "active",
+      "subcategory": "government"
     },
     {
       "id": "can-2026-10-19-alberta-rejects-separation",
