@@ -1,0 +1,127 @@
+name: Country Event Map expiry
+
+# Once a day (or when started by hand), removes events that have left the 30-day
+# window from the published feed, and nothing else: every other event and every
+# unaffected file stays byte-for-byte the same. The job validates its own change,
+# then proposes it as a pull request on `automation/country-events-expiry`.
+# It never merges: the owner merges.
+#
+# About GitHub's rules for this pull request: changes pushed and pull requests
+# opened with the built-in GITHUB_TOKEN do not start other workflows, so the feed
+# check would not run on the proposal by itself. This job therefore (1) runs the
+# full validator on exactly what it pushes and puts the result in the pull
+# request, and (2) starts the read-only feed check on the proposal branch with a
+# workflow_dispatch event, the one trigger GitHub allows from GITHUB_TOKEN. No
+# manual workflow approval is needed; the owner only reviews and merges.
+#
+# Until it is merged, the app already hides events older than 30 days on the
+# device, so an expired story does not stay visible.
+# Free runners (public repository). No secrets.
+on:
+  schedule:
+    - cron: '37 0 * * *'   # 00:37 UTC daily, just after the date changes
+  workflow_dispatch:
+
+# Nothing by default; the job below asks only for what it uses.
+permissions: {}
+
+concurrency:
+  group: country-events-expiry
+  cancel-in-progress: false
+
+jobs:
+  propose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write        # push the proposal branch
+      pull-requests: write   # open or refresh the proposal pull request
+      actions: write         # start the read-only feed check on the proposal branch
+      issues: write          # fallback notice if Actions may not open pull requests
+    env:
+      BRANCH: automation/country-events-expiry
+      GH_TOKEN: ${{ github.token }}
+      RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Remove expired events
+        id: expire
+        run: |
+          set -euo pipefail
+          today=$(date -u +%Y-%m-%d)
+          python tools/country_event_edition.py expire country-events "$RUNNER_TEMP/expired" --date "$today" | tee expire.log
+          count=$(tail -1 expire.log | cut -d' ' -f1)
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+          echo "today=$today" >> "$GITHUB_OUTPUT"
+
+      - name: Close a proposal that is no longer needed
+        if: steps.expire.outputs.count == '0'
+        run: |
+          pr=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number')
+          if [ -n "$pr" ]; then
+            gh pr close "$pr" --comment "Nothing in the published feed is past the 30-day window any more (another update already removed it). Closing." --delete-branch
+          fi
+          echo "No events have expired today."
+
+      - name: Commit the proposal and validate exactly what will be pushed
+        if: steps.expire.outputs.count != '0'
+        env:
+          COUNT: ${{ steps.expire.outputs.count }}
+          TODAY: ${{ steps.expire.outputs.today }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B "$BRANCH" origin/main
+          rm country-events/*.json
+          cp "$RUNNER_TEMP"/expired/*.json country-events/
+          git add country-events
+          git commit -m "Country Event Map: remove $COUNT expired event(s) ($TODAY)" -m "Automatic expiry: only events whose last day is more than 30 days before $TODAY are removed. Nothing else changes."
+          # Validate the committed files (not the scratch copy) against main.
+          mkdir -p "$RUNNER_TEMP/published"
+          git archive origin/main country-events | tar -x -C "$RUNNER_TEMP/published"
+          python tools/country_events.py validate country-events --previous "$RUNNER_TEMP/published/country-events" | tee validate.log
+          # Only expired events may differ; the tool's own self-check already ran, this repeats it on the commit.
+          git diff --stat origin/main -- country-events
+
+      - name: Push and open or refresh the pull request
+        if: steps.expire.outputs.count != '0'
+        env:
+          TODAY: ${{ steps.expire.outputs.today }}
+        run: |
+          git push --force origin "$BRANCH"
+          {
+            echo "Daily expiry check for **$TODAY** (UTC). These events have left the Country Event Map's 30-day window and are removed. **No other event changes**; files without an expired event are byte-for-byte unchanged."
+            echo ""
+            grep '^expired ' expire.log | sed 's/^expired /- /'
+            echo ""
+            echo "**Validation** (run by this job on the committed files, [run]($RUN_URL)):"
+            echo '```'
+            tail -5 validate.log
+            echo '```'
+            echo "**Checks on this pull request:** GitHub does not start workflows for pull requests opened with the built-in Actions token, so this job starts the read-only **Country Event Map feed check** on this branch itself; it appears under Checks. No workflow approval is needed."
+            echo ""
+            echo "The app already hides these events on the device, so nothing stale is shown while this waits. **Merge to update the published files.** This pull request is refreshed daily and closed automatically if it is no longer needed."
+          } > body.md
+          pr=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number')
+          if [ -n "$pr" ]; then
+            gh pr edit "$pr" --title "Country Event Map: remove expired events ($TODAY)" --body-file body.md
+          elif ! gh pr create --base main --head "$BRANCH" --title "Country Event Map: remove expired events ($TODAY)" --body-file body.md; then
+            # Opening pull requests from Actions needs Settings → Actions → General →
+            # "Allow GitHub Actions to create and approve pull requests". Without it, leave an issue.
+            link="https://github.com/${GITHUB_REPOSITORY}/compare/main...${BRANCH}?expand=1"
+            issue=$(gh issue list --state open --search "Country Event Map expiry in:title" --json number --jq '.[0].number')
+            { cat body.md; echo ""; echo "Open the pull request: $link"; } > issue.md
+            if [ -n "$issue" ]; then gh issue edit "$issue" --body-file issue.md; else gh issue create --title "Country Event Map expiry ready to merge" --body-file issue.md; fi
+          fi
+
+      - name: Start the read-only feed check on the proposal branch
+        if: steps.expire.outputs.count != '0'
+        run: gh workflow run country-events-check.yml --ref "$BRANCH"

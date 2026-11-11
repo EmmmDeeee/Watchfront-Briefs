@@ -1,0 +1,3 @@
+# Python caches from running the tools locally
+__pycache__/
+*.py[cod]
