@@ -1,10 +1,96 @@
 {
   "schemaVersion": 1,
   "countryID": "USA",
-  "revision": 2,
-  "generatedAt": "2026-11-11T03:04:00Z",
+  "revision": 3,
+  "generatedAt": "2026-11-11T17:05:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "usa-2026-11-06-record-measles-cases",
+      "title": "US Measles Cases Reach Highest Level Since 1991",
+      "summary": "The Centers for Disease Control and Prevention reported 5,182 confirmed measles cases in the United States so far in 2026, the highest annual total since 1991 and more than double the 2,289 cases recorded in 2025. Four people have died of measles this year.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "United States"
+      },
+      "geo": null,
+      "category": "other",
+      "occurredOn": "2026-11-06",
+      "firstReportedAt": "2026-11-06",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Euronews",
+          "title": "US measles cases exceed 5,000 in 2026, reaching their highest level in 35 years",
+          "url": "https://www.euronews.com/2026/11/06/us-measles-cases-exceed-5000-in-2026-reaching-their-highest-level-in-35-years",
+          "type": "national",
+          "publishedAt": "2026-11-06"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+          "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years",
+          "type": "national",
+          "publishedAt": "2026-11-07"
+        }
+      ],
+      "status": "active",
+      "subcategory": "public-health"
+    },
+    {
+      "id": "usa-2026-11-05-tennessee-georgia-flood",
+      "title": "Catastrophic Flood Hits Tennessee-Georgia State Line",
+      "summary": "Storms caused catastrophic flooding along the Tennessee–Georgia state line on 5 November, described as a 1-in-1,000-year flood event. Swift-water teams rescued dozens of people in the twin towns of McCaysville, Georgia, and Copperhill, Tennessee, and a 56-year-old woman died in floodwaters in Murray County, Georgia. Governor Brian Kemp declared a state of emergency for four counties.",
+      "location": {
+        "city": "McCaysville",
+        "region": "Georgia",
+        "country": "United States"
+      },
+      "geo": {
+        "latitude": 34.982,
+        "longitude": -84.371,
+        "precision": "city"
+      },
+      "category": "disaster",
+      "occurredOn": "2026-11-05",
+      "firstReportedAt": "2026-11-05",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Associated Press via NY1",
+          "title": "Storms that caused 1-in-1,000-year flood event in Tennessee and Georgia move up Atlantic coast",
+          "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/06/storms-that-caused-1-in-1000-year-flood-event-in-tennessee-and-georgia-move-up-atlantic-coast",
+          "type": "national",
+          "publishedAt": "2026-11-06"
+        },
+        {
+          "publisher": "NewsChannel 9",
+          "title": "GEMA confirms 1 death after catastrophic flooding in Polk, Fannin and Murray County",
+          "url": "https://newschannel9.com/news/local/georgia-emergency-officials-confirm-one-death-after-catastrophic-flooding-in-murray-county",
+          "type": "local",
+          "publishedAt": "2026-11-06"
+        }
+      ],
+      "status": "active",
+      "subcategory": "flood"
+    },
     {
       "id": "usa-2026-11-03-illinois-county-separation-referendums",
       "title": "Twelve Illinois Counties Back Non-Binding Separation Referendums",
@@ -92,6 +178,51 @@
       "subcategory": "election"
     },
     {
+      "id": "usa-2026-11-01-greenacres-learjet-crash",
+      "title": "Nine Killed As Business Jet Crashes In Florida",
+      "summary": "A Learjet 60 flying from Austin, Texas, to North Eleuthera in the Bahamas crashed near South Military Trail in Palm Beach County, Florida, near Greenacres, on 1 November, killing all nine people on board. The NTSB said the crew had reported light clear ice and moderate turbulence shortly before the crash.",
+      "location": {
+        "city": "Greenacres",
+        "region": "Florida",
+        "country": "United States"
+      },
+      "geo": {
+        "latitude": 26.627,
+        "longitude": -80.125,
+        "precision": "city"
+      },
+      "category": "disaster",
+      "occurredOn": "2026-11-01",
+      "firstReportedAt": "2026-11-01",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "FLYING Magazine",
+          "title": "9 killed in Learjet crash in Florida",
+          "url": "https://www.flyingmag.com/9-killed-in-learjet-crash-in-florida/",
+          "type": "national",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "publisher": "Sinclair via WJLA",
+          "title": "NTSB: Learjet crew reported ice, turbulence before deadly Florida crash",
+          "url": "https://wjla.com/news/nation-world/national-transportation-safety-board-share-new-details-palm-beach-county-learjet-60-emergency-operation-center-crash-greenacres-south-military-trail-co-pilot-identified-nathalia-filgueiras-florida-news",
+          "type": "national",
+          "publishedAt": "2026-11-02"
+        }
+      ],
+      "status": "active",
+      "subcategory": "aviation-accident"
+    },
+    {
       "id": "usa-2026-10-24-famu-homecoming-shooting",
       "title": "Eleven Shot Near Florida A&M Stadium After Homecoming Game",
       "summary": "Eleven people, including six juveniles, were shot near Bragg Memorial Stadium at Florida A&M University in Tallahassee on the night of 24 October, hours after the school's homecoming football game. Twelve people were injured in all, and police said the shooting followed a physical altercation among people who knew one another. A 15-year-old will be charged as an adult.",
@@ -139,6 +270,104 @@
       ],
       "status": "active",
       "subcategory": "mass-shooting"
+    },
+    {
+      "id": "usa-2026-10-20-toledo-chemical-release",
+      "title": "Chemical Tank Rupture Forces Evacuations In Toledo",
+      "summary": "A tank ruptured at MC Tank Transport in north Toledo, Ohio, on the night of 20 October, releasing glycidyl methacrylate, an industrial chemical used in plastics, paints and coatings. People within one mile were evacuated and those within three miles were told to shelter in place. By 23 October the city had lifted the evacuation orders after crews found no detectable hazards.",
+      "location": {
+        "city": "Toledo",
+        "region": "Ohio",
+        "country": "United States"
+      },
+      "geo": {
+        "latitude": 41.664,
+        "longitude": -83.556,
+        "precision": "city"
+      },
+      "category": "disaster",
+      "occurredOn": "2026-10-20",
+      "firstReportedAt": "2026-10-21",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Cleveland 19",
+          "title": "North Toledo evacuation order in place due to hazardous material release",
+          "url": "https://www.cleveland19.com/2026/10/21/watch-live-north-toledo-evacuation-order-due-hazardous-material-release-tps-wls-closed/",
+          "type": "local",
+          "publishedAt": "2026-10-21"
+        },
+        {
+          "publisher": "FOX19",
+          "title": "Neighbors describe toxic smell, dizziness after Toledo chemical release",
+          "url": "https://www.fox19.com/2026/10/22/neighbors-describe-toxic-smell-dizziness-after-toledo-chemical-release/",
+          "type": "local",
+          "publishedAt": "2026-10-22"
+        },
+        {
+          "publisher": "ClickOnDetroit",
+          "title": "Evacuation orders lifted days after chemical leak in Toledo",
+          "url": "https://www.clickondetroit.com/news/local/2026/10/23/evacuation-orders-lifted-days-after-chemical-leak-in-toledo/",
+          "type": "local",
+          "publishedAt": "2026-10-23"
+        }
+      ],
+      "status": "active",
+      "subcategory": "industrial-accident",
+      "occurredUntil": "2026-10-23"
+    },
+    {
+      "id": "usa-2026-10-18-dc-national-guard-member-shot",
+      "title": "National Guard Member Shot While Breaking Up Fight In Washington",
+      "summary": "A National Guard member deployed in Washington, D.C., was shot in the leg on the night of 18 October while breaking up a fight in the Eastern Market neighbourhood, police said. Police said the suspect pointed a gun at the troops and was shot in return fire, then arrested. Both injuries were described as non-life-threatening.",
+      "location": {
+        "city": "Washington",
+        "region": "District of Columbia",
+        "country": "United States"
+      },
+      "geo": {
+        "latitude": 38.884,
+        "longitude": -76.995,
+        "precision": "city"
+      },
+      "category": "other",
+      "occurredOn": "2026-10-18",
+      "firstReportedAt": "2026-10-19",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Associated Press via WRDW",
+          "title": "National Guard member is shot while breaking up a fight in Washington, suspect is hit in return fire",
+          "url": "https://www.wrdw.com/2026/10/19/national-guard-member-is-shot-while-breaking-up-fight-washington-suspect-is-hit-return-fire/",
+          "type": "national",
+          "publishedAt": "2026-10-19"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "title": "National Guard member shot in Washington",
+          "url": "https://www.bostonglobe.com/2026/10/19/nation/national-guard-shooting-washington/",
+          "type": "national",
+          "publishedAt": "2026-10-19"
+        }
+      ],
+      "status": "active",
+      "subcategory": "shooting"
     },
     {
       "id": "usa-2026-10-17-no-kings-early-voting-rallies",

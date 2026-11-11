@@ -1,10 +1,52 @@
 {
   "schemaVersion": 1,
   "countryID": "DEU",
-  "revision": 2,
-  "generatedAt": "2026-11-11T03:04:00Z",
+  "revision": 3,
+  "generatedAt": "2026-11-11T17:05:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "deu-2026-11-01-ig-metall-warning-strikes",
+      "title": "Hundreds Of Thousands Join Metal Industry Warning Strikes",
+      "summary": "Workers in Germany's metal and electrical industries began warning strikes on 1 November, after the peace obligation in the IG Metall pay talks expired. The union said more than 413,000 employees had joined strikes and rallies by 6 November. IG Metall is seeking a 5 percent pay rise, while employers have offered 1.3 percent from July 2028.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Germany"
+      },
+      "geo": null,
+      "category": "protest",
+      "occurredOn": "2026-11-01",
+      "firstReportedAt": "2026-11-01",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "German unions launch wave of strikes over cost-of-living pressures",
+          "url": "https://www.aljazeera.com/news/2026/11/2/german-unions-launch-wave-of-strikes-over-cost-of-living-pressures",
+          "type": "national",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "publisher": "IG Metall",
+          "title": "Warnstreik-Welle: 413.000 Beschäftigte fordern von Arbeitgebern Bewegung und Verbindlichkeit",
+          "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/warnstreik-welle-ueber-400000-beschaeftigte-fordern-von-arbeitgebern-bewegung-und-verbindlichkeit",
+          "type": "national",
+          "publishedAt": "2026-11-06"
+        }
+      ],
+      "status": "active",
+      "subcategory": "strike",
+      "occurredUntil": "2026-11-06"
+    },
     {
       "id": "deu-2026-10-31-gen-z-protests-turn-violent",
       "title": "Youth-Led Protests Turn To Rioting And Looting In German Cities",
@@ -107,6 +149,123 @@
       ],
       "status": "active",
       "subcategory": "suspected-arson"
+    },
+    {
+      "id": "deu-2026-10-22-russia-spying-arrest-brandenburg",
+      "title": "Suspected Russian Spy Arrested In Brandenburg",
+      "summary": "Federal Criminal Police officers arrested a Ukrainian national in the Oder-Spree district of Brandenburg on 22 October on suspicion of working for a Russian intelligence service, the Federal Prosecutor's Office said. Prosecutors allege he gathered information on the production of armoured vehicles, ammunition and explosives, and on military sites securing NATO's eastern flank. The case followed information from Germany's domestic intelligence agency.",
+      "location": {
+        "city": null,
+        "region": "Brandenburg",
+        "country": "Germany"
+      },
+      "geo": {
+        "latitude": 52.2,
+        "longitude": 14.2,
+        "precision": "region"
+      },
+      "category": "security-operation",
+      "occurredOn": "2026-10-22",
+      "firstReportedAt": "2026-10-22",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Federal Prosecutor General (Generalbundesanwalt)",
+          "title": "Festnahme wegen mutmaßlicher geheimdienstlicher Agententätigkeit",
+          "url": "https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2026/Pressemitteilung-vom-22-10-2026.html",
+          "type": "official",
+          "publishedAt": "2026-10-22"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Germany arrests Ukrainian man accused of spying for Russia",
+          "url": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia",
+          "type": "national",
+          "publishedAt": "2026-10-22"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "Germany arrests Ukrainian national suspected of spying for Russia",
+          "url": "https://kyivindependent.com/germany-arrests-ukrainian-national-suspected-of-spying-for-russia/",
+          "type": "national",
+          "publishedAt": "2026-10-22"
+        }
+      ],
+      "status": "active",
+      "subcategory": "arrests"
+    },
+    {
+      "id": "deu-2026-10-15-hamburg-court-iran-plot-verdict",
+      "title": "Court Jails Two Men Over Iran-Directed Plot Against Jewish Leaders",
+      "summary": "A court in Hamburg on 15 October sentenced a Danish national to eight and a half years and an Afghan national to four and a half years in prison over a plot steered by Iran's intelligence service against Jewish and pro-Israel figures in Germany. The targets included Josef Schuster, president of the Central Council of Jews in Germany, and Volker Beck, head of the German-Israeli Society. Iran denied any role.",
+      "location": {
+        "city": "Hamburg",
+        "region": "Hamburg",
+        "country": "Germany"
+      },
+      "geo": {
+        "latitude": 53.551,
+        "longitude": 9.994,
+        "precision": "city"
+      },
+      "category": "terrorism",
+      "occurredOn": "2026-10-15",
+      "firstReportedAt": "2026-10-15",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-11T17:05:00Z",
+        "motive": {
+          "status": "attributed",
+          "attributedTo": "Hamburg court, which found the men were steered by Iran's intelligence service"
+        },
+        "ideology": {
+          "label": "other",
+          "status": "attributed",
+          "attributedTo": "Hamburg court (Iranian state direction); Iran denies it"
+        },
+        "terrorism": {
+          "status": "charged-as",
+          "authority": "Federal Prosecutor General; convicted by a Hamburg court"
+        }
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Reuters via TimesLIVE",
+          "title": "German court jails two men over alleged Iran-backed assassination plot",
+          "url": "https://www.timeslive.co.za/news/world/2026-10-15-german-court-jails-two-men-over-alleged-iran-backed-assassination-plot/",
+          "type": "national",
+          "publishedAt": "2026-10-15"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "title": "Germany jails two men for Iran-backed plots against pro-Israel figures, spying on Jews",
+          "url": "https://www.timesofisrael.com/germany-jails-two-men-for-iran-backed-plots-against-pro-israel-figures-spying-on-jews/",
+          "type": "national",
+          "publishedAt": "2026-10-15"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
+          "url": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups",
+          "type": "national",
+          "publishedAt": "2026-10-19"
+        }
+      ],
+      "status": "active",
+      "subcategory": "foiled-plot"
     },
     {
       "id": "deu-2026-10-14-nord-stream-sabotage-trial-opens",

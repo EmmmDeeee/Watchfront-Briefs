@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "countryID": "FRA",
-  "revision": 2,
-  "generatedAt": "2026-11-11T03:04:00Z",
+  "revision": 3,
+  "generatedAt": "2026-11-11T17:05:00Z",
   "windowDays": 30,
   "events": [
     {
@@ -64,6 +64,51 @@
       "subcategory": "mass-protest"
     },
     {
+      "id": "fra-2026-11-06-lent-bus-crash",
+      "title": "Bus Crash In Ain Kills Two, Including A Child",
+      "summary": "A regional bus carrying schoolchildren and other passengers left the road near Lent, in the Ain department, on 6 November, struck trees and landed in a ditch, killing a 7-year-old girl and an 18-year-old. Sixteen people were injured, three of them seriously. Preliminary tests found no trace of alcohol or drugs in the driver's blood.",
+      "location": {
+        "city": "Lent",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      },
+      "geo": {
+        "latitude": 46.12,
+        "longitude": 5.198,
+        "precision": "city"
+      },
+      "category": "disaster",
+      "occurredOn": "2026-11-06",
+      "firstReportedAt": "2026-11-06",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Associated Press via KSAT",
+          "title": "Bus carrying schoolchildren crashes in eastern France killing 2 and injuring 16",
+          "url": "https://www.ksat.com/news/2026/11/06/bus-carrying-schoolchildren-crashes-in-eastern-france-killing-2-and-injuring-16/",
+          "type": "national",
+          "publishedAt": "2026-11-06"
+        },
+        {
+          "publisher": "Sud Radio",
+          "title": "Grave accident de car près de Bourg-en-Bresse : deux morts, 16 blessés",
+          "url": "https://www.sudradio.fr/societe/grave-accident-de-car-pres-de-bourg-en-bresse-deux-morts-16-blesses",
+          "type": "national",
+          "publishedAt": "2026-11-06"
+        }
+      ],
+      "status": "active",
+      "subcategory": "road-accident"
+    },
+    {
       "id": "fra-2026-11-05-nationwide-cost-of-living-marches",
       "title": "Hundreds Of Thousands Join National Day Of Strikes And Marches",
       "summary": "A national day of strikes and demonstrations over wages and the cost of living took place across France on 5 November, organised by the main trade unions and joined by students and Yellow Vest protesters. The Interior Ministry estimated about 575,000 participants at roughly 200 demonstrations, including about 65,000 in Paris. At least 448 people were detained, the ministry said, though most marches were peaceful.",
@@ -113,6 +158,146 @@
       ],
       "status": "active",
       "subcategory": "mass-protest"
+    },
+    {
+      "id": "fra-2026-11-04-credit-mutuel-arkea-cyberattack",
+      "title": "Cyberattack On Crédit Mutuel Arkéa Diverts More Than €100 Million",
+      "summary": "French bank Crédit Mutuel Arkéa confirmed on 4 November that a cyberattack had allowed fraudulent transactions. Reports put the amount diverted at more than 100 million euros, with one estimate as high as 118 million, and said the funds were converted into cryptocurrency. The bank said its customers would not suffer any financial loss, and an investigation has been opened.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "France"
+      },
+      "geo": null,
+      "category": "infrastructure-cyber",
+      "occurredOn": "2026-11-04",
+      "firstReportedAt": "2026-11-04",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "AFP via La DH",
+          "title": "Crédit Mutuel Arkéa : les questions en suspens après la cyberattaque",
+          "url": "https://www.dhnet.be/dernieres-depeches/2026/11/05/credit-mutuel-arkea-les-questions-en-suspens-apres-la-cyberattaque-67MPJWJ2UZBBHIKE46XTENGMGQ/",
+          "type": "national",
+          "publishedAt": "2026-11-05"
+        },
+        {
+          "publisher": "Le Monde Informatique",
+          "title": "Crédit Mutuel Arkéa victime d'un piratage de 118 M€",
+          "url": "https://www.lemondeinformatique.fr/actualites/lire-credit-mutuel-arkea-victime-d-un-piratage-de-118-meteuro-100910.html",
+          "type": "national",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "publisher": "La Presse",
+          "title": "Cyberattaque contre le Crédit Mutuel Arkéa en France : plus de 100 millions d'euros détournés, une enquête a été ouverte",
+          "url": "https://www.lapresse.tn/2026/11/06/cyberattaque-contre-le-credit-mutuel-arkea-en-france-plus-de-100-millions-deuros-detournes-une-enquete-a-ete-ouverte/",
+          "type": "national",
+          "publishedAt": "2026-11-06"
+        }
+      ],
+      "status": "active",
+      "subcategory": "cyberattack"
+    },
+    {
+      "id": "fra-2026-10-31-third-weekend-protests",
+      "title": "Third Weekend Of Cost-Of-Living Protests Draws Smaller Crowds",
+      "summary": "About 320,000 people took part in a third Saturday of cost-of-living protests across France on 31 October, including 70,000 in Paris, according to the Interior Ministry, a smaller turnout than on the previous two weekends. The ministry reported 565 arrests by the evening, and 779 by the next day.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "France"
+      },
+      "geo": null,
+      "category": "protest",
+      "occurredOn": "2026-10-31",
+      "firstReportedAt": "2026-10-31",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z",
+        "motive": {
+          "status": "not-applicable"
+        },
+        "ideology": {
+          "label": "not-applicable",
+          "status": "not-applicable"
+        },
+        "terrorism": {
+          "status": "none"
+        }
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Paris Match Belgique",
+          "title": "Manifestations en France : 565 interpellations au niveau national",
+          "url": "https://www.parismatch.be/actualites/monde/2026/11/01/manifestations-en-france-565-interpellations-au-niveau-national-SKZ7WZC245DYJE2CNC4TAFBOVQ/",
+          "type": "national",
+          "publishedAt": "2026-11-01"
+        },
+        {
+          "publisher": "Demócrata",
+          "title": "France: 779 arrested in the 'Third Act' of protests",
+          "url": "https://www.democrata.es/en/international/less-than-800-arrests-in-france-after-the-third-act-of-saturday-protests/",
+          "type": "national",
+          "publishedAt": "2026-11-01"
+        },
+        {
+          "publisher": "Ministère de l'Intérieur",
+          "title": "Bilan de la journée de mobilisation du 31 octobre 2026 et de la soirée d'Halloween",
+          "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-du-31-octobre-2026-et-de-soiree-dhalloween",
+          "type": "official",
+          "publishedAt": "2026-11-01"
+        }
+      ],
+      "status": "active",
+      "subcategory": "mass-protest"
+    },
+    {
+      "id": "fra-2026-10-25-le-pen-campaign-launch",
+      "title": "Marine Le Pen Launches 2027 Presidential Campaign",
+      "summary": "National Rally leader Marine Le Pen launched her campaign for the 2027 presidential election at a rally in Orléans on 25 October. She is campaigning while appealing a conviction for embezzling European Parliament funds. On the economy she pledged spending restraint and lower business taxes.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "France"
+      },
+      "geo": null,
+      "category": "politics",
+      "occurredOn": "2026-10-25",
+      "firstReportedAt": "2026-10-25",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 1,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Reuters via The Star",
+          "title": "France's Le Pen launches presidential bid as protests rattle the nation",
+          "url": "https://www.thestar.com.my/news/world/2026/10/26/france039s-le-pen-launches-presidential-bid-as-protests-rattle-the-nation",
+          "type": "national",
+          "publishedAt": "2026-10-26"
+        }
+      ],
+      "status": "active",
+      "subcategory": "election"
     },
     {
       "id": "fra-2026-10-24-second-national-protest-day",

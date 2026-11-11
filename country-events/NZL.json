@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "countryID": "NZL",
-  "revision": 2,
-  "generatedAt": "2026-11-11T03:04:00Z",
+  "revision": 3,
+  "generatedAt": "2026-11-11T17:05:00Z",
   "windowDays": 30,
   "events": [
     {
@@ -45,6 +45,47 @@
       ],
       "status": "active",
       "subcategory": "election"
+    },
+    {
+      "id": "nzl-2026-10-28-rbnz-holds-ocr-split-vote",
+      "title": "Reserve Bank Holds Cash Rate In Surprise Split Decision",
+      "summary": "The Reserve Bank of New Zealand held the official cash rate at 2.75 percent on 28 October in a 4–3 vote, surprising markets that had expected a rise. The committee said tighter monetary policy was likely to be needed, depending on the economic outlook. Several bank economists said they still expected a rate rise in December.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "New Zealand"
+      },
+      "geo": null,
+      "category": "economy",
+      "occurredOn": "2026-10-28",
+      "firstReportedAt": "2026-10-28",
+      "publishedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-11T17:05:00Z",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-11T17:05:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The Spinoff",
+          "title": "Reserve Bank's surprise OCR hold: economists 'flabbergasted', borrowers relieved, savers stuck",
+          "url": "https://thespinoff.co.nz/politics/29-10-2026/reserve-banks-surprise-ocr-hold-economists-flabbergasted-borrowers-relieved-savers-stuck",
+          "type": "national",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "publisher": "MPA New Zealand",
+          "title": "Split RBNZ holds OCR at 2.75%, but economists still tip December hike",
+          "url": "https://www.mpamag.com/nz/specialty/residential/split-rbnz-holds-ocr-at-275-but-economists-still-tip-december-hike/595213",
+          "type": "national",
+          "publishedAt": "2026-10-28"
+        }
+      ],
+      "status": "active",
+      "subcategory": "interest-rates"
     }
   ]
 }
