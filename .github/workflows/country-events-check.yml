@@ -1,0 +1,30 @@
+name: Country Event Map feed check
+
+# Validates every pull request that changes the published Country Event Map
+# files against the feed currently on main: schema, window, revisions, hashes,
+# no silent deletions, no unannounced edits. Free runners (public repository).
+on:
+  pull_request:
+    paths:
+      - 'country-events/**'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: published
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate against the published feed
+        run: |
+          python tools/country_events.py validate country-events --previous published/country-events | tee result.txt
+          { echo "### Country Event Map feed check"; echo '```'; cat result.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"

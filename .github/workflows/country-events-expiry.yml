@@ -1,0 +1,112 @@
+name: Country Event Map expiry
+
+# Once a day, removes events that have left the 30-day window from the published
+# feed, and nothing else: every other event and every unaffected file stays
+# byte-for-byte the same. The change is validated and proposed as a pull request
+# on the `automation/country-events-expiry` branch. It is never merged
+# automatically: the owner merges it.
+#
+# Until it is merged, the app already hides events older than 30 days on the
+# device (CountryEvents.swift), so an expired story does not stay visible.
+#
+# Runs on GitHub's free runners for public repositories. No secrets.
+on:
+  schedule:
+    - cron: '37 0 * * *'   # 00:37 UTC daily, just after the date changes
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'tools/**'
+      - '.github/workflows/country-events-expiry.yml'
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: country-events-expiry
+  cancel-in-progress: false
+
+jobs:
+  expire:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      BRANCH: automation/country-events-expiry
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Dry run (pull requests)
+        if: github.event_name == 'pull_request'
+        run: |
+          for offset in 0 3 7; do
+            day=$(date -u -d "+$offset day" +%Y-%m-%d)
+            echo "== $day"
+            python tools/country_event_edition.py expire country-events "$RUNNER_TEMP/dry-$offset" --date "$day" --at "${day}T00:37:00Z"
+          done
+          python tools/country_event_edition.py expire country-events "$RUNNER_TEMP/today"
+          python tools/country_events.py validate "$RUNNER_TEMP/today" --previous country-events
+
+      - name: Remove expired events
+        id: expire
+        if: github.event_name != 'pull_request'
+        run: |
+          today=$(date -u +%Y-%m-%d)
+          python tools/country_event_edition.py expire country-events "$RUNNER_TEMP/expired" --date "$today" | tee expire.log
+          count=$(tail -1 expire.log | cut -d' ' -f1)
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+          echo "today=$today" >> "$GITHUB_OUTPUT"
+
+      - name: Validate
+        if: github.event_name != 'pull_request' && steps.expire.outputs.count != '0'
+        run: python tools/country_events.py validate "$RUNNER_TEMP/expired" --previous country-events
+
+      - name: Close a proposal that is no longer needed
+        if: github.event_name != 'pull_request' && steps.expire.outputs.count == '0'
+        run: |
+          pr=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number')
+          if [ -n "$pr" ]; then
+            gh pr close "$pr" --comment "Nothing in the published feed is past the 30-day window any more (it was removed by another update). Closing." --delete-branch
+          fi
+          echo "No events have expired today."
+
+      - name: Propose the removal
+        if: github.event_name != 'pull_request' && steps.expire.outputs.count != '0'
+        env:
+          COUNT: ${{ steps.expire.outputs.count }}
+          TODAY: ${{ steps.expire.outputs.today }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B "$BRANCH" origin/main
+          rm country-events/*.json
+          cp "$RUNNER_TEMP"/expired/*.json country-events/
+          git add country-events
+          git commit -m "Country Event Map: remove $COUNT expired event(s) ($TODAY)" -m "Automatic expiry: only events whose last day is more than 30 days before $TODAY are removed. Nothing else changes."
+          git push --force origin "$BRANCH"
+          {
+            echo "Daily expiry check for **$TODAY** (UTC). These events have left the Country Event Map's 30-day window and are removed. **No other event changes**, and files without an expired event are byte-for-byte unchanged; the validator passed."
+            echo ""
+            grep '^expired ' expire.log | sed 's/^expired /- /'
+            echo ""
+            echo "The app already hides these events on the device, so nothing stale is shown while this waits. Merge to update the published files. This pull request is refreshed daily and closed automatically if it is no longer needed."
+          } > body.md
+          pr=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number')
+          if [ -n "$pr" ]; then
+            gh pr edit "$pr" --title "Country Event Map: remove expired events ($TODAY)" --body-file body.md
+          elif ! gh pr create --base main --head "$BRANCH" --title "Country Event Map: remove expired events ($TODAY)" --body-file body.md; then
+            # Pull requests from Actions need "Allow GitHub Actions to create and approve pull requests"
+            # (Settings → Actions → General). Without it, leave an issue with the comparison link.
+            link="https://github.com/${GITHUB_REPOSITORY}/compare/main...${BRANCH}?expand=1"
+            issue=$(gh issue list --state open --search "Country Event Map expiry in:title" --json number --jq '.[0].number')
+            { cat body.md; echo ""; echo "Open the pull request: $link"; } > issue.md
+            if [ -n "$issue" ]; then gh issue edit "$issue" --body-file issue.md; else gh issue create --title "Country Event Map expiry ready to merge" --body-file issue.md; fi
+          fi
