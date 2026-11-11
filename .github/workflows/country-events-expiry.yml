@@ -38,7 +38,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: main
+          # Scheduled runs work on the published feed; pull requests test their own files.
+          ref: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.sha || 'main' }}
           fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
