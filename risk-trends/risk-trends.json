@@ -1,0 +1,1660 @@
+{
+ "schemaVersion": 1,
+ "revision": 1,
+ "trackingSince": "2026-10-06T18:14:24Z",
+ "generatedAt": "2026-11-12T04:43:08Z",
+ "methodologyVersion": "watchfront-trends-v1",
+ "sources": [
+  {
+   "number": 1,
+   "publisher": "Reuters",
+   "title": "France boosts police presence to prevent renewed riots — 23 October 2026",
+   "url": "https://www.reuters.com/world/europe/french-businesses-events-close-with-more-weekend-protests-expected-2026-10-23/"
+  },
+  {
+   "number": 2,
+   "publisher": "UN Human Rights Monitoring Mission in Ukraine",
+   "title": "Civilian casualties remain at record levels amid intensifying attacks on energy as winter approaches",
+   "url": "https://ukraine.ohchr.org/en/Civilian-casualties-remain-at-record-levels-amid-intensifying-attacks-on-energy-as-winter-approaches"
+  },
+  {
+   "number": 3,
+   "publisher": "UN News",
+   "title": "Ukraine: Civilian casualty rates among 'deadliest' in years, as energy attacks intensify (October 2026)",
+   "url": "https://news.un.org/en/story/2026/10/1168614"
+  },
+  {
+   "number": 4,
+   "publisher": "Dawn",
+   "title": "Terrorist attacks drop by 37pc in October: PICSS (1 November 2026)",
+   "url": "https://www.dawn.com/news/2041388/terrorist-attacks-drop-37pc-in-october-picss"
+  },
+  {
+   "number": 5,
+   "publisher": "The Nation",
+   "title": "Militant attacks surge to 12-year high in September as conflict toll rises (2 October 2026)",
+   "url": "https://www.nation.com.pk/02-Oct-2026/militant-attacks-surge-12-year-high-september-conflict-toll-rises"
+  },
+  {
+   "number": 6,
+   "publisher": "Pakistan Today",
+   "title": "Terror attacks plunge 37pc in October but kidnappings hit 12-month high: PICSS (2 November 2026)",
+   "url": "https://www.pakistantoday.com.pk/2026/11/02/terror-attacks-plunge-37pc-in-october-but-kidnappings-hit-12-month-high-picss"
+  },
+  {
+   "number": 7,
+   "publisher": "Amnesty International",
+   "title": "Ukraine: Russia's increased attacks on energy and heating infrastructure 'creating a deadly situation for civilians' (November 2026)",
+   "url": "https://www.amnesty.org/en/latest/news/2026/11/ukraine-russias-increased-attacks-on-energy-and-heating-infrastructure-creating-a-deadly-situation-for-civilians/"
+  }
+ ],
+ "countries": [
+  {
+   "countryID": "AFG",
+   "name": "Afghanistan",
+   "classification": {
+    "level": "Ongoing Conflict",
+    "assessedAt": "2026-11-10T22:12:57Z",
+    "basis": "World Map: government-advisory baseline with separately reviewed conflict flags"
+   },
+   "overall": {
+    "direction": "insufficient",
+    "assessedAt": null,
+    "summary": null,
+    "comparison": null,
+    "basis": null,
+    "sourceNumbers": [],
+    "historyDates": []
+   },
+   "categories": [
+    {
+     "category": "Armed Conflict",
+     "level": "High",
+     "confidence": "High",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Civil Unrest",
+     "level": "Moderate",
+     "confidence": "Moderate",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Terrorism",
+     "level": "High",
+     "confidence": "Moderate",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    }
+   ],
+   "history": {
+    "Overall": [
+     {
+      "date": "2026-10-06T18:14:24Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-10-13T21:24:40Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-05T19:45:37Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-10T22:12:57Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     }
+    ],
+    "Armed Conflict": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "High",
+      "confidence": "High",
+      "source": "Country Outlook"
+     }
+    ],
+    "Civil Unrest": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "Moderate",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     }
+    ],
+    "Terrorism": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "High",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     }
+    ]
+   },
+   "assessmentUnchanged": null
+  },
+  {
+   "countryID": "AUS",
+   "name": "Australia",
+   "classification": {
+    "level": "Low",
+    "assessedAt": "2026-11-10T22:12:57Z",
+    "basis": "World Map: government-advisory baseline with separately reviewed conflict flags"
+   },
+   "overall": {
+    "direction": "insufficient",
+    "assessedAt": null,
+    "summary": null,
+    "comparison": null,
+    "basis": null,
+    "sourceNumbers": [],
+    "historyDates": []
+   },
+   "categories": [
+    {
+     "category": "Armed Conflict",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Civil Unrest",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Terrorism",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    }
+   ],
+   "history": {
+    "Overall": [
+     {
+      "date": "2026-10-06T18:14:24Z",
+      "level": "Low",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-10-13T21:24:40Z",
+      "level": "Low",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-05T19:45:37Z",
+      "level": "Low",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-10T22:12:57Z",
+      "level": "Low",
+      "source": "World Map edition"
+     }
+    ],
+    "Armed Conflict": [],
+    "Civil Unrest": [],
+    "Terrorism": []
+   },
+   "assessmentUnchanged": null
+  },
+  {
+   "countryID": "CAN",
+   "name": "Canada",
+   "classification": {
+    "level": "Low",
+    "assessedAt": "2026-11-10T22:12:57Z",
+    "basis": "World Map: government-advisory baseline with separately reviewed conflict flags"
+   },
+   "overall": {
+    "direction": "insufficient",
+    "assessedAt": null,
+    "summary": null,
+    "comparison": null,
+    "basis": null,
+    "sourceNumbers": [],
+    "historyDates": []
+   },
+   "categories": [
+    {
+     "category": "Armed Conflict",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Civil Unrest",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Terrorism",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    }
+   ],
+   "history": {
+    "Overall": [
+     {
+      "date": "2026-10-06T18:14:24Z",
+      "level": "Low",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-10-13T21:24:40Z",
+      "level": "Low",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-05T19:45:37Z",
+      "level": "Low",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-10T22:12:57Z",
+      "level": "Low",
+      "source": "World Map edition"
+     }
+    ],
+    "Armed Conflict": [],
+    "Civil Unrest": [],
+    "Terrorism": []
+   },
+   "assessmentUnchanged": null
+  },
+  {
+   "countryID": "DEU",
+   "name": "Germany",
+   "classification": {
+    "level": "Moderate",
+    "assessedAt": "2026-11-10T22:12:57Z",
+    "basis": "World Map: government-advisory baseline with separately reviewed conflict flags"
+   },
+   "overall": {
+    "direction": "insufficient",
+    "assessedAt": null,
+    "summary": null,
+    "comparison": null,
+    "basis": null,
+    "sourceNumbers": [],
+    "historyDates": []
+   },
+   "categories": [
+    {
+     "category": "Armed Conflict",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Civil Unrest",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Terrorism",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    }
+   ],
+   "history": {
+    "Overall": [
+     {
+      "date": "2026-10-06T18:14:24Z",
+      "level": "Moderate",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-10-13T21:24:40Z",
+      "level": "Moderate",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-05T19:45:37Z",
+      "level": "Moderate",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-10T22:12:57Z",
+      "level": "Moderate",
+      "source": "World Map edition"
+     }
+    ],
+    "Armed Conflict": [],
+    "Civil Unrest": [],
+    "Terrorism": []
+   },
+   "assessmentUnchanged": null
+  },
+  {
+   "countryID": "FRA",
+   "name": "France",
+   "classification": {
+    "level": "Ongoing Conflict",
+    "assessedAt": "2026-11-10T22:12:57Z",
+    "basis": "World Map: government-advisory baseline with separately reviewed conflict flags"
+   },
+   "overall": {
+    "direction": "insufficient",
+    "assessedAt": null,
+    "summary": null,
+    "comparison": null,
+    "basis": null,
+    "sourceNumbers": [],
+    "historyDates": []
+   },
+   "categories": [
+    {
+     "category": "Armed Conflict",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Civil Unrest",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Terrorism",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    }
+   ],
+   "history": {
+    "Overall": [
+     {
+      "date": "2026-10-06T18:14:24Z",
+      "level": "Moderate",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-10-13T21:24:40Z",
+      "level": "Moderate",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-10-23T12:00:00Z",
+      "level": "Ongoing Conflict",
+      "source": "Civil-unrest review (in-app, 23–30 October)",
+      "note": "Watchfront raised France to Ongoing Conflict from 23 to 30 October under a temporary civil-unrest review, after protests escalated into riots, looting and confrontations in several major cities. The review expired on 30 October.",
+      "noteType": "documented-change",
+      "sourceNumbers": [
+       1
+      ]
+     },
+     {
+      "date": "2026-11-05T19:45:37Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition",
+      "note": "Flagged Ongoing Conflict in the 5 November edition under the earlier advisory-based standard, because of severe civil unrest. Under the current standard civil unrest alone does not qualify, and the flag is due for re-review by 5 December.",
+      "noteType": "documented-change",
+      "sourceNumbers": []
+     },
+     {
+      "date": "2026-11-10T22:12:57Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     }
+    ],
+    "Armed Conflict": [],
+    "Civil Unrest": [],
+    "Terrorism": []
+   },
+   "assessmentUnchanged": null
+  },
+  {
+   "countryID": "GBR",
+   "name": "United Kingdom",
+   "classification": {
+    "level": "Moderate",
+    "assessedAt": "2026-11-10T22:12:57Z",
+    "basis": "World Map: government-advisory baseline with separately reviewed conflict flags"
+   },
+   "overall": {
+    "direction": "insufficient",
+    "assessedAt": null,
+    "summary": null,
+    "comparison": null,
+    "basis": null,
+    "sourceNumbers": [],
+    "historyDates": []
+   },
+   "categories": [
+    {
+     "category": "Armed Conflict",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Civil Unrest",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Terrorism",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    }
+   ],
+   "history": {
+    "Overall": [
+     {
+      "date": "2026-10-06T18:14:24Z",
+      "level": "Moderate",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-10-13T21:24:40Z",
+      "level": "Moderate",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-05T19:45:37Z",
+      "level": "Moderate",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-10T22:12:57Z",
+      "level": "Moderate",
+      "source": "World Map edition"
+     }
+    ],
+    "Armed Conflict": [],
+    "Civil Unrest": [],
+    "Terrorism": []
+   },
+   "assessmentUnchanged": null
+  },
+  {
+   "countryID": "HTI",
+   "name": "Haiti",
+   "classification": {
+    "level": "High",
+    "assessedAt": "2026-11-10T22:12:57Z",
+    "basis": "World Map: government-advisory baseline with separately reviewed conflict flags"
+   },
+   "overall": {
+    "direction": "insufficient",
+    "assessedAt": null,
+    "summary": null,
+    "comparison": null,
+    "basis": null,
+    "sourceNumbers": [],
+    "historyDates": []
+   },
+   "categories": [
+    {
+     "category": "Armed Conflict",
+     "level": "Ongoing Conflict",
+     "confidence": "High",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Civil Unrest",
+     "level": "High",
+     "confidence": "High",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Terrorism",
+     "level": "High",
+     "confidence": "Moderate",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    }
+   ],
+   "history": {
+    "Overall": [
+     {
+      "date": "2026-10-06T18:14:24Z",
+      "level": "High",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-10-13T21:24:40Z",
+      "level": "High",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-05T19:45:37Z",
+      "level": "High",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-10T22:12:57Z",
+      "level": "High",
+      "source": "World Map edition"
+     }
+    ],
+    "Armed Conflict": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "Ongoing Conflict",
+      "confidence": "High",
+      "source": "Country Outlook"
+     }
+    ],
+    "Civil Unrest": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "High",
+      "confidence": "High",
+      "source": "Country Outlook"
+     }
+    ],
+    "Terrorism": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "High",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     }
+    ]
+   },
+   "assessmentUnchanged": null
+  },
+  {
+   "countryID": "MMR",
+   "name": "Myanmar",
+   "classification": {
+    "level": "Ongoing Conflict",
+    "assessedAt": "2026-11-10T22:12:57Z",
+    "basis": "World Map: government-advisory baseline with separately reviewed conflict flags"
+   },
+   "overall": {
+    "direction": "insufficient",
+    "assessedAt": null,
+    "summary": null,
+    "comparison": null,
+    "basis": null,
+    "sourceNumbers": [],
+    "historyDates": []
+   },
+   "categories": [
+    {
+     "category": "Armed Conflict",
+     "level": "Ongoing Conflict",
+     "confidence": "High",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Civil Unrest",
+     "level": "High",
+     "confidence": "Moderate",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Terrorism",
+     "level": "Moderate",
+     "confidence": "Low",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    }
+   ],
+   "history": {
+    "Overall": [
+     {
+      "date": "2026-10-06T18:14:24Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-10-13T21:24:40Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-05T19:45:37Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-10T22:12:57Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     }
+    ],
+    "Armed Conflict": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "Ongoing Conflict",
+      "confidence": "High",
+      "source": "Country Outlook"
+     }
+    ],
+    "Civil Unrest": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "High",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     }
+    ],
+    "Terrorism": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "Moderate",
+      "confidence": "Low",
+      "source": "Country Outlook"
+     }
+    ]
+   },
+   "assessmentUnchanged": null
+  },
+  {
+   "countryID": "NZL",
+   "name": "New Zealand",
+   "classification": {
+    "level": "Low",
+    "assessedAt": "2026-11-10T22:12:57Z",
+    "basis": "World Map: government-advisory baseline with separately reviewed conflict flags"
+   },
+   "overall": {
+    "direction": "insufficient",
+    "assessedAt": null,
+    "summary": null,
+    "comparison": null,
+    "basis": null,
+    "sourceNumbers": [],
+    "historyDates": []
+   },
+   "categories": [
+    {
+     "category": "Armed Conflict",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Civil Unrest",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Terrorism",
+     "level": null,
+     "confidence": null,
+     "levelAssessedAt": null,
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    }
+   ],
+   "history": {
+    "Overall": [
+     {
+      "date": "2026-10-06T18:14:24Z",
+      "level": "Low",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-10-13T21:24:40Z",
+      "level": "Low",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-05T19:45:37Z",
+      "level": "Low",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-10T22:12:57Z",
+      "level": "Low",
+      "source": "World Map edition"
+     }
+    ],
+    "Armed Conflict": [],
+    "Civil Unrest": [],
+    "Terrorism": []
+   },
+   "assessmentUnchanged": null
+  },
+  {
+   "countryID": "PAK",
+   "name": "Pakistan",
+   "classification": {
+    "level": "Ongoing Conflict",
+    "assessedAt": "2026-11-10T22:12:57Z",
+    "basis": "World Map: government-advisory baseline with separately reviewed conflict flags"
+   },
+   "overall": {
+    "direction": "insufficient",
+    "assessedAt": null,
+    "summary": null,
+    "comparison": null,
+    "basis": null,
+    "sourceNumbers": [],
+    "historyDates": []
+   },
+   "categories": [
+    {
+     "category": "Armed Conflict",
+     "level": "High",
+     "confidence": "Moderate",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Civil Unrest",
+     "level": "Moderate",
+     "confidence": "Moderate",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Terrorism",
+     "level": "High",
+     "confidence": "High",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    }
+   ],
+   "history": {
+    "Overall": [
+     {
+      "date": "2026-10-06T18:14:24Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-10-13T21:24:40Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-05T19:45:37Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-10T22:12:57Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     }
+    ],
+    "Armed Conflict": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "High",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     }
+    ],
+    "Civil Unrest": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "Moderate",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     }
+    ],
+    "Terrorism": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "High",
+      "confidence": "High",
+      "source": "Country Outlook"
+     }
+    ]
+   },
+   "assessmentUnchanged": null
+  },
+  {
+   "countryID": "SDN",
+   "name": "Sudan",
+   "classification": {
+    "level": "Ongoing Conflict",
+    "assessedAt": "2026-11-10T22:12:57Z",
+    "basis": "World Map: government-advisory baseline with separately reviewed conflict flags"
+   },
+   "overall": {
+    "direction": "insufficient",
+    "assessedAt": null,
+    "summary": null,
+    "comparison": null,
+    "basis": null,
+    "sourceNumbers": [],
+    "historyDates": []
+   },
+   "categories": [
+    {
+     "category": "Armed Conflict",
+     "level": "Ongoing Conflict",
+     "confidence": "High",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Civil Unrest",
+     "level": "High",
+     "confidence": "Moderate",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Terrorism",
+     "level": "Moderate",
+     "confidence": "Low",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    }
+   ],
+   "history": {
+    "Overall": [
+     {
+      "date": "2026-10-06T18:14:24Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-10-13T21:24:40Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-05T19:45:37Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-10T22:12:57Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     }
+    ],
+    "Armed Conflict": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "Ongoing Conflict",
+      "confidence": "High",
+      "source": "Country Outlook"
+     }
+    ],
+    "Civil Unrest": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "High",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     }
+    ],
+    "Terrorism": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "Moderate",
+      "confidence": "Low",
+      "source": "Country Outlook"
+     }
+    ]
+   },
+   "assessmentUnchanged": null
+  },
+  {
+   "countryID": "SYR",
+   "name": "Syria",
+   "classification": {
+    "level": "Ongoing Conflict",
+    "assessedAt": "2026-11-10T22:12:57Z",
+    "basis": "World Map: government-advisory baseline with separately reviewed conflict flags"
+   },
+   "overall": {
+    "direction": "insufficient",
+    "assessedAt": null,
+    "summary": null,
+    "comparison": null,
+    "basis": null,
+    "sourceNumbers": [],
+    "historyDates": []
+   },
+   "categories": [
+    {
+     "category": "Armed Conflict",
+     "level": "High",
+     "confidence": "Moderate",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Civil Unrest",
+     "level": "High",
+     "confidence": "Moderate",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Terrorism",
+     "level": "High",
+     "confidence": "Moderate",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    }
+   ],
+   "history": {
+    "Overall": [
+     {
+      "date": "2026-10-06T18:14:24Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-10-13T21:24:40Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-05T19:45:37Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-10T22:12:57Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     }
+    ],
+    "Armed Conflict": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "High",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     }
+    ],
+    "Civil Unrest": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "High",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     }
+    ],
+    "Terrorism": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "High",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     }
+    ]
+   },
+   "assessmentUnchanged": null
+  },
+  {
+   "countryID": "UKR",
+   "name": "Ukraine",
+   "classification": {
+    "level": "Ongoing Conflict",
+    "assessedAt": "2026-11-10T22:12:57Z",
+    "basis": "World Map: government-advisory baseline with separately reviewed conflict flags"
+   },
+   "overall": {
+    "direction": "insufficient",
+    "assessedAt": null,
+    "summary": null,
+    "comparison": null,
+    "basis": null,
+    "sourceNumbers": [],
+    "historyDates": []
+   },
+   "categories": [
+    {
+     "category": "Armed Conflict",
+     "level": "Ongoing Conflict",
+     "confidence": "High",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "deteriorating",
+     "assessedAt": "2026-11-12T03:00:00Z",
+     "summary": "UN monitors verified at least 328 civilians killed and 2,105 injured in September 2026; the combined total was 85% higher than in September 2025 (249 killed and 1,068 injured). UN News describes civilian casualty rates as among the deadliest in years, with attacks on energy infrastructure intensifying as winter approaches. The classification remains Ongoing Conflict.",
+     "comparison": "UN Human Rights Monitoring Mission in Ukraine verified civilian casualties for September 2026 (328 killed, 2,105 injured) compared with September 2025 (249 killed, 1,068 injured): the combined total rose 85%.",
+     "basis": "documented-change",
+     "sourceNumbers": [
+      2,
+      3
+     ],
+     "historyDates": []
+    },
+    {
+     "category": "Civil Unrest",
+     "level": "Moderate",
+     "confidence": "Moderate",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Terrorism",
+     "level": "Moderate",
+     "confidence": "Moderate",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    }
+   ],
+   "history": {
+    "Overall": [
+     {
+      "date": "2026-10-06T18:14:24Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-10-13T21:24:40Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-05T19:45:37Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-10T22:12:57Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     }
+    ],
+    "Armed Conflict": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "Ongoing Conflict",
+      "confidence": "High",
+      "source": "Country Outlook"
+     }
+    ],
+    "Civil Unrest": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "Moderate",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     }
+    ],
+    "Terrorism": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "Moderate",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     }
+    ]
+   },
+   "assessmentUnchanged": null
+  },
+  {
+   "countryID": "USA",
+   "name": "United States",
+   "classification": {
+    "level": "Low",
+    "assessedAt": "2026-11-10T22:12:57Z",
+    "basis": "World Map: government-advisory baseline with separately reviewed conflict flags"
+   },
+   "overall": {
+    "direction": "insufficient",
+    "assessedAt": null,
+    "summary": null,
+    "comparison": null,
+    "basis": null,
+    "sourceNumbers": [],
+    "historyDates": []
+   },
+   "categories": [
+    {
+     "category": "Armed Conflict",
+     "level": "Low",
+     "confidence": "Low",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Civil Unrest",
+     "level": "Moderate",
+     "confidence": "Moderate",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Terrorism",
+     "level": "Moderate",
+     "confidence": "Moderate",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    }
+   ],
+   "history": {
+    "Overall": [
+     {
+      "date": "2026-10-06T18:14:24Z",
+      "level": "Low",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-10-13T21:24:40Z",
+      "level": "Low",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-05T19:45:37Z",
+      "level": "Low",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-10T22:12:57Z",
+      "level": "Low",
+      "source": "World Map edition"
+     }
+    ],
+    "Armed Conflict": [
+     {
+      "date": "2026-10-10T00:46:27Z",
+      "level": "Low",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     },
+     {
+      "date": "2026-10-13T22:00:00Z",
+      "level": "Low",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     },
+     {
+      "date": "2026-11-08T16:00:00Z",
+      "level": "Low",
+      "confidence": "Low",
+      "source": "Country Outlook"
+     },
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "Low",
+      "confidence": "Low",
+      "source": "Country Outlook"
+     }
+    ],
+    "Civil Unrest": [
+     {
+      "date": "2026-10-10T00:46:27Z",
+      "level": "Moderate",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     },
+     {
+      "date": "2026-10-13T22:00:00Z",
+      "level": "Moderate",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     },
+     {
+      "date": "2026-11-08T16:00:00Z",
+      "level": "Moderate",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     },
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "Moderate",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     }
+    ],
+    "Terrorism": [
+     {
+      "date": "2026-10-10T00:46:27Z",
+      "level": "Moderate",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     },
+     {
+      "date": "2026-10-13T22:00:00Z",
+      "level": "Moderate",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     },
+     {
+      "date": "2026-11-08T16:00:00Z",
+      "level": "Moderate",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     },
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "Moderate",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     }
+    ]
+   },
+   "assessmentUnchanged": {
+    "from": "2026-10-10T00:46:27Z",
+    "to": "2026-11-10T15:00:00Z",
+    "assessments": 4
+   }
+  },
+  {
+   "countryID": "YEM",
+   "name": "Yemen",
+   "classification": {
+    "level": "Ongoing Conflict",
+    "assessedAt": "2026-11-10T22:12:57Z",
+    "basis": "World Map: government-advisory baseline with separately reviewed conflict flags"
+   },
+   "overall": {
+    "direction": "insufficient",
+    "assessedAt": null,
+    "summary": null,
+    "comparison": null,
+    "basis": null,
+    "sourceNumbers": [],
+    "historyDates": []
+   },
+   "categories": [
+    {
+     "category": "Armed Conflict",
+     "level": "Ongoing Conflict",
+     "confidence": "High",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Civil Unrest",
+     "level": "High",
+     "confidence": "Moderate",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    },
+    {
+     "category": "Terrorism",
+     "level": "High",
+     "confidence": "Moderate",
+     "levelAssessedAt": "2026-11-10T15:00:00Z",
+     "direction": "insufficient",
+     "assessedAt": null,
+     "summary": null,
+     "comparison": null,
+     "basis": null,
+     "sourceNumbers": [],
+     "historyDates": []
+    }
+   ],
+   "history": {
+    "Overall": [
+     {
+      "date": "2026-10-06T18:14:24Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-10-13T21:24:40Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-05T19:45:37Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     },
+     {
+      "date": "2026-11-10T22:12:57Z",
+      "level": "Ongoing Conflict",
+      "source": "World Map edition"
+     }
+    ],
+    "Armed Conflict": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "Ongoing Conflict",
+      "confidence": "High",
+      "source": "Country Outlook"
+     }
+    ],
+    "Civil Unrest": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "High",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     }
+    ],
+    "Terrorism": [
+     {
+      "date": "2026-11-10T15:00:00Z",
+      "level": "High",
+      "confidence": "Moderate",
+      "source": "Country Outlook"
+     }
+    ]
+   },
+   "assessmentUnchanged": null
+  }
+ ],
+ "developments": [
+  {
+   "id": "pak-2026-10-attacks-fall-kidnappings-rise",
+   "countryID": "PAK",
+   "region": null,
+   "whatChanged": "Independent tracking recorded 143 terrorist attacks in October 2026, 37% fewer than September's 226, after attacks rose for two consecutive months to a 12-year high in September. Deaths from attacks fell 57%, while kidnappings linked to militant violence rose to their highest monthly level in a year.",
+   "whyItMatters": "A single month's decline after an unusual peak does not establish a trend, and the rise in kidnappings cuts against it. Watchfront is not assigning a direction until November's data show whether the decline holds; Pakistan's terrorism level remains High.",
+   "assessedAt": "2026-11-12T03:00:00Z",
+   "evidence": "confirmed-event",
+   "direction": "mixed",
+   "title": "Attacks In Pakistan Fall From A 12-Year High As Kidnappings Rise",
+   "eventIDs": [],
+   "sourceNumbers": [
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "id": "ukr-2026-11-energy-strikes-civilian-harm",
+   "countryID": "UKR",
+   "region": null,
+   "whatChanged": "UN monitors verified 328 civilians killed and 2,105 injured in September 2026, a combined total 85% higher than a year earlier, and reported intensifying attacks on energy infrastructure. Russian strikes hit six major substations on 11 November, after attacks in October cut power to about a million people.",
+   "whyItMatters": "Attacks on power and heating ahead of winter raise the risk to civilians beyond the front line, including in Kyiv and central Ukraine.",
+   "assessedAt": "2026-11-12T03:00:00Z",
+   "evidence": "confirmed-event",
+   "direction": "deteriorating",
+   "title": "Civilian Harm In Ukraine At Record Levels As Strikes On Energy Intensify",
+   "eventIDs": [
+    "ukr-2026-11-11-strikes-on-power-substations",
+    "ukr-2026-10-16-attacks-cut-power-to-a-million",
+    "ukr-2026-10-14-kyiv-energy-strikes"
+   ],
+   "sourceNumbers": [
+    2,
+    7
+   ]
+  }
+ ]
+}
