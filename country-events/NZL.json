@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "countryID": "NZL",
-  "revision": 3,
-  "generatedAt": "2026-11-11T17:05:00Z",
+  "revision": 4,
+  "generatedAt": "2026-11-12T00:34:00Z",
   "windowDays": 30,
   "events": [
     {
       "id": "nzl-2026-11-07-general-election-no-clear-winner",
       "title": "New Zealand Election Produces No Clear Winner",
-      "summary": "New Zealand's 7 November general election did not produce a decisive result for either the right or the left, according to preliminary results, as voters shifted support from National and Labour to smaller parties. Nearly 400,000 special votes remained to be counted. Final results are due on 27 November, and Prime Minister Christopher Luxon leads a caretaker government until then.",
+      "summary": "New Zealand's 7 November general election did not produce a decisive result for either the right or the left, according to preliminary results, as voters shifted support from National and Labour to smaller parties. Preliminary results put National and its partners ACT and New Zealand First on track for 67 seats in a projected 131-seat Parliament, where 66 are needed for a majority, with nearly 400,000 special votes still to be counted. Final results are due on 27 November, and Prime Minister Christopher Luxon leads a caretaker government until then.",
       "location": {
         "city": null,
         "region": null,
@@ -19,12 +19,12 @@
       "occurredOn": "2026-11-07",
       "firstReportedAt": "2026-11-07",
       "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z",
       "significance": "national",
       "verification": {
         "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z"
+        "independentSources": 3,
+        "reviewedAt": "2026-11-12T00:34:00Z"
       },
       "primarySource": 0,
       "sources": [
@@ -41,10 +41,21 @@
           "url": "https://www.bostonglobe.com/2026/11/08/world/new-zealanders-wont-know-for-weeks-who-won-election/",
           "type": "national",
           "publishedAt": "2026-11-08"
+        },
+        {
+          "publisher": "Reuters via The Star",
+          "title": "New Zealand preliminary vote leaves unclear who will govern",
+          "url": "https://www.thestar.com.my/news/world/2026/11/08/new-zealand-preliminary-vote-leaves-unclear-who-will-govern",
+          "type": "national",
+          "publishedAt": "2026-11-08"
         }
       ],
-      "status": "active",
-      "subcategory": "election"
+      "status": "updated",
+      "subcategory": "election",
+      "correction": {
+        "note": "Added the preliminary seat count reported by Reuters: National, ACT and New Zealand First on track for 67 of a projected 131 seats.",
+        "correctedAt": "2026-11-12T00:34:00Z"
+      }
     },
     {
       "id": "nzl-2026-10-28-rbnz-holds-ocr-split-vote",

@@ -1,10 +1,229 @@
 {
   "schemaVersion": 1,
   "countryID": "USA",
-  "revision": 3,
-  "generatedAt": "2026-11-11T17:05:00Z",
+  "revision": 4,
+  "generatedAt": "2026-11-12T00:34:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "usa-2026-11-10-october-inflation-report",
+      "title": "US Consumer Prices Rise More Than Expected In October",
+      "summary": "US consumer prices rose a seasonally adjusted 0.4 percent in October, more than expected, the Bureau of Labor Statistics reported on 10 November. Core prices, which exclude food and energy, rose 0.3 percent, also more than expected. The bureau did not estimate a yearly inflation rate because last year's government shutdown prevented it from collecting data.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "United States"
+      },
+      "geo": null,
+      "category": "economy",
+      "subcategory": "inflation",
+      "occurredOn": "2026-11-10",
+      "firstReportedAt": "2026-11-10",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 1,
+        "reviewedAt": "2026-11-12T00:34:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "CNBC",
+          "title": "CPI inflation report: October 2026",
+          "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "publisher": "U.S. Bureau of Labor Statistics",
+          "title": "Consumer Price Index News Release - 2026 M10 Results",
+          "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+          "type": "official",
+          "publishedAt": "2026-11-10"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-12T00:34:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z"
+    },
+    {
+      "id": "usa-2026-11-10-iran-backed-operatives-indicted",
+      "title": "US Charges Three Alleged Iran-Backed Operatives Over Attacks In Europe And US",
+      "summary": "Federal prosecutors in New York unsealed an eight-count superseding indictment on 10 November charging three men with terrorism-related offences over nearly 20 attacks and attempted attacks in Europe and the United States, which the Justice Department says were carried out in support of Iran's Islamic Revolutionary Guard Corps and the Iraqi militia Kata'ib Hizballah. The charges include a September 2026 plot at RAF Fairford in England, where US forces were stationed, and an attempt to bomb a synagogue in New York. One of the men, Mohammad Baqer Saad Dawood al-Saadi, has been in US custody since May; the others are Mohsen Mohajeri and Mohammad Ali al-Hassani.",
+      "location": {
+        "city": "New York",
+        "region": "New York",
+        "country": "United States"
+      },
+      "geo": {
+        "latitude": 40.713,
+        "longitude": -74.006,
+        "precision": "city"
+      },
+      "category": "terrorism",
+      "subcategory": "arrests",
+      "occurredOn": "2026-11-10",
+      "firstReportedAt": "2026-11-10",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "motive": {
+          "status": "attributed",
+          "attributedTo": "US Justice Department, which alleges the men acted in support of Iran's IRGC and Kata'ib Hizballah"
+        },
+        "ideology": {
+          "label": "other",
+          "status": "attributed",
+          "attributedTo": "US Justice Department (alleged Iranian state and Kata'ib Hizballah direction)"
+        },
+        "terrorism": {
+          "status": "charged-as",
+          "authority": "US Justice Department; US Attorney's Office for the Southern District of New York"
+        },
+        "reviewedAt": "2026-11-12T00:34:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "US charges 3 men over alleged Iranian-backed plot at UK Fairford airbase",
+          "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "NPR",
+          "title": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "publisher": "France 24",
+          "title": "US charges three 'Iranian operatives' over RAF Fairford terror plot",
+          "url": "https://www.france24.com/en/americas/20261110-us-iranian-operatives-raf-fairford-terror-plot",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "publisher": "U.S. Department of Justice",
+          "title": "Three Iranian-Backed Operatives Indicted for Their Roles in Nearly 20 Terrorist Attacks and Attempted Attacks Across Europe and the United States",
+          "url": "https://www.justice.gov/opa/pr/three-iranian-backed-operatives-indicted-their-roles-nearly-20-terrorist-attacks-and",
+          "type": "official",
+          "publishedAt": "2026-11-10"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-12T00:34:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z"
+    },
+    {
+      "id": "usa-2026-11-10-idaho-isis-church-plot-sentence",
+      "title": "Idaho Man Sentenced To 18 Years Over ISIS-Inspired Church Attack Plot",
+      "summary": "Alexander Scott Mercurio, 21, of Coeur d'Alene, Idaho, was sentenced in federal court on 10 November to 18 years in prison for attempting to provide material support to the Islamic State group, the Justice Department said. Prosecutors said he had planned to take his father's firearms for a mass-casualty attack on Idaho churches \"in the name of ISIS\", and also planned to use explosives, knives and a machete. The FBI arrested him on 6 April 2024, one day before the planned attack.",
+      "location": {
+        "city": "Coeur d'Alene",
+        "region": "Idaho",
+        "country": "United States"
+      },
+      "geo": {
+        "latitude": 47.678,
+        "longitude": -116.78,
+        "precision": "city"
+      },
+      "category": "terrorism",
+      "subcategory": "foiled-plot",
+      "occurredOn": "2026-11-10",
+      "firstReportedAt": "2026-11-10",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 1,
+        "motive": {
+          "status": "attributed",
+          "attributedTo": "US Justice Department, which said he planned the attack in the name of ISIS"
+        },
+        "ideology": {
+          "label": "islamist",
+          "status": "attributed",
+          "attributedTo": "US Justice Department (pledged allegiance to ISIS)"
+        },
+        "terrorism": {
+          "status": "charged-as",
+          "authority": "US Justice Department National Security Division; US Attorney's Office for the District of Idaho"
+        },
+        "reviewedAt": "2026-11-12T00:34:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Associated Press via WSLS",
+          "title": "An Idaho man gets 18 years in prison for an Islamic State support plot",
+          "url": "https://www.wsls.com/news/national/2026/11/11/an-idaho-man-gets-18-years-in-prison-for-an-islamic-state-support-plot/",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "U.S. Department of Justice",
+          "title": "Idaho Man Sentenced to 18 Years in Prison for Attempting to Provide Material Support to ISIS in Plot to Attack Churches",
+          "url": "https://www.justice.gov/opa/pr/idaho-man-sentenced-18-years-prison-attempting-provide-material-support-isis-plot-attack",
+          "type": "official",
+          "publishedAt": "2026-11-10"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-12T00:34:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z"
+    },
+    {
+      "id": "usa-2026-11-10-house-blocks-hegseth-impeachment",
+      "title": "House Shelves Effort To Impeach Defense Secretary Hegseth",
+      "summary": "The House of Representatives voted 211 to 204 on 10 November to refer articles of impeachment against Defense Secretary Pete Hegseth to the Judiciary Committee, effectively ending the effort. Republican Representative Thomas Massie, who filed the resolution with eight articles of impeachment largely over the war with Iran, was the only Republican to vote with Democrats against the referral.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "United States"
+      },
+      "geo": null,
+      "category": "politics",
+      "subcategory": "impeachment",
+      "occurredOn": "2026-11-10",
+      "firstReportedAt": "2026-11-10",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-12T00:34:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "NPR",
+          "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "House blocks Massie's effort to impeach Hegseth, voting to kill resolution",
+          "url": "https://www.cbsnews.com/news/massie-hegseth-impeachment/",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "publisher": "Stars and Stripes",
+          "title": "Republican-led House blocks effort to impeach Hegseth",
+          "url": "https://www.stripes.com/theaters/us/2026-11-10/house-vote-hegseth-impeachment-massie-23427346.html",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-12T00:34:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z"
+    },
     {
       "id": "usa-2026-11-06-record-measles-cases",
       "title": "US Measles Cases Reach Highest Level Since 1991",

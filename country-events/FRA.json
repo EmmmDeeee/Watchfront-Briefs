@@ -1,10 +1,67 @@
 {
   "schemaVersion": 1,
   "countryID": "FRA",
-  "revision": 3,
-  "generatedAt": "2026-11-11T17:05:00Z",
+  "revision": 4,
+  "generatedAt": "2026-11-12T00:34:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "fra-2026-11-09-france-blames-iran-supermarket-cyberattacks",
+      "title": "France Blames Iran's Revolutionary Guards For Supermarket Cyberattacks",
+      "summary": "French authorities blamed Iran's Revolutionary Guards on 9 November for the 12 October cyberattack that sent refrigerator temperatures soaring at about 700 of France's 10,000 supermarkets, and Paris prosecutor Laure Beccuau said she had opened an investigation into Shahid Kaveh, a cyber unit of the Guards. Foreign Minister Jean-Noël Barrot said Iran's ambassador would be summoned and that France would seek European-level sanctions. Iran's foreign ministry called the accusations \"baseless and one-sided\".",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "France"
+      },
+      "geo": null,
+      "category": "infrastructure-cyber",
+      "subcategory": "cyberattack",
+      "occurredOn": "2026-11-09",
+      "occurredUntil": "2026-11-10",
+      "firstReportedAt": "2026-11-09",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "disputed": true,
+        "reviewedAt": "2026-11-12T00:34:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "France 24",
+          "title": "France vows sanctions for supermarket hacks as Iran rejects 'baseless accusations'",
+          "url": "https://www.france24.com/en/france/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "publisher": "RFI",
+          "title": "Cyberattaques attribuées à l'Iran: Téhéran nie, Paris à l'offensive",
+          "url": "https://www.rfi.fr/fr/france/20261110-cyberattaques-attribu%C3%A9es-%C3%A0-l-iran-t%C3%A9h%C3%A9ran-nie-paris-%C3%A0-l-offensive",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "publisher": "Associated Press via WFTV",
+          "title": "France blames Iran for cyberattacks on store fridges",
+          "url": "https://www.wftv.com/news/world/france-blames-iran/GRMXH4NFIY3OLB4PJI2W6X7IRM/",
+          "type": "national",
+          "publishedAt": "2026-11-09"
+        },
+        {
+          "publisher": "The National Desk via WJLA",
+          "title": "France blames Iran-linked hackers for supermarket fridge attack, vows sanctions",
+          "url": "https://wjla.com/news/nation-world/france-foreign-minister-jean-noel-barrot-groupd-of-seven-blames-iran-linked-hackers-for-supermarket-fridge-attack-vows-sanctions-islamic-revolutionary-guard-corps-shahid-kaveh-ip-addresses",
+          "type": "national",
+          "publishedAt": "2026-11-09"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-12T00:34:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z"
+    },
     {
       "id": "fra-2026-11-07-fourth-weekend-protests",
       "title": "Police Block Banned Rally As Protests Enter Fourth Weekend",

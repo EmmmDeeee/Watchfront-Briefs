@@ -1,72 +1,72 @@
 {
   "schemaVersion": 1,
-  "revision": 3,
-  "generatedAt": "2026-11-11T17:05:00Z",
+  "revision": 4,
+  "generatedAt": "2026-11-12T00:34:00Z",
   "windowDays": 30,
   "countries": [
     {
       "countryID": "AUS",
       "path": "AUS.json",
-      "sha256": "0bd739074fc3167152c1ee4b4b7c72b4632e04e89f07c25a45cc35f2eef14bee",
-      "revision": 3,
-      "updatedAt": "2026-11-11T17:05:00Z",
-      "eventCount": 7
+      "sha256": "78f276c6a4d22f3af3239d102ddf63d1ceb12a08a01ddc772a95f08d5d7ad37b",
+      "revision": 4,
+      "updatedAt": "2026-11-12T00:34:00Z",
+      "eventCount": 8
     },
     {
       "countryID": "CAN",
       "path": "CAN.json",
-      "sha256": "abf8b41beea3433c678301d8353fe295ebb679126bdda5aa8977f5ed89b18346",
-      "revision": 3,
-      "updatedAt": "2026-11-11T17:05:00Z",
-      "eventCount": 7
+      "sha256": "018ff858de4a433738c729caf942a108ce3524287d7931a6ddae1cbdca5d7395",
+      "revision": 4,
+      "updatedAt": "2026-11-12T00:34:00Z",
+      "eventCount": 10
     },
     {
       "countryID": "DEU",
       "path": "DEU.json",
-      "sha256": "e7da009be26a4c90ee6452e8388216e4eef109f4fe0fbc86577577104cffbbba",
-      "revision": 3,
-      "updatedAt": "2026-11-11T17:05:00Z",
-      "eventCount": 6
+      "sha256": "b6a04c249fbc8e1aff6ae259e9d672d79d6f7205f2d387d8678b9600ed9db489",
+      "revision": 4,
+      "updatedAt": "2026-11-12T00:34:00Z",
+      "eventCount": 7
     },
     {
       "countryID": "FRA",
       "path": "FRA.json",
-      "sha256": "c1d9fc7ac9c0701d5a03fafd9d1e5e9ae448bb91a400694989f939b9b71d037e",
-      "revision": 3,
-      "updatedAt": "2026-11-11T17:05:00Z",
-      "eventCount": 11
+      "sha256": "95070b180789e32b751f459dc77aac84c1a652ab88c4e5e9f1ffea07a6ea45de",
+      "revision": 4,
+      "updatedAt": "2026-11-12T00:34:00Z",
+      "eventCount": 12
     },
     {
       "countryID": "GBR",
       "path": "GBR.json",
-      "sha256": "45d40fc2a56292b26caa380e6a6a9e40d6c79ac68ff55d1edb6d29eeec0fa12b",
-      "revision": 3,
-      "updatedAt": "2026-11-11T17:05:00Z",
-      "eventCount": 8
+      "sha256": "35e7e42c083376124b9b5231bee79c25b470a36e4df47eb5c698f8e8ed44e9c9",
+      "revision": 4,
+      "updatedAt": "2026-11-12T00:34:00Z",
+      "eventCount": 9
     },
     {
       "countryID": "NZL",
       "path": "NZL.json",
-      "sha256": "a0abddcde3698cababbace2ad3ca7454801b965426ff9a9ecdd372b6efa54a7d",
-      "revision": 3,
-      "updatedAt": "2026-11-11T17:05:00Z",
+      "sha256": "630bad9aaf805bbb5fad20f352287dbffdd977b41cca9a04be37caca91dc5596",
+      "revision": 4,
+      "updatedAt": "2026-11-12T00:34:00Z",
       "eventCount": 2
     },
     {
       "countryID": "UKR",
       "path": "UKR.json",
-      "sha256": "96b546274b4c2c70a306c0e3dba975960f44203833cb2652de5162269f67a6a6",
-      "revision": 3,
-      "updatedAt": "2026-11-11T17:05:00Z",
-      "eventCount": 6
+      "sha256": "58ba0df596ae398f4d44df97072bbd629ace86e112471ff62c36acdd3f37163b",
+      "revision": 4,
+      "updatedAt": "2026-11-12T00:34:00Z",
+      "eventCount": 10
     },
     {
       "countryID": "USA",
       "path": "USA.json",
-      "sha256": "48cb46db3ba0a20c2a31139e8015ee36d980a0830a5b082c095b3247aad617ad",
-      "revision": 3,
-      "updatedAt": "2026-11-11T17:05:00Z",
-      "eventCount": 10
+      "sha256": "3d5be6910420dda71515a4bd438e51f58e424dfac9ad71702649fd52a89f76de",
+      "revision": 4,
+      "updatedAt": "2026-11-12T00:34:00Z",
+      "eventCount": 14
     }
   ]
 }
