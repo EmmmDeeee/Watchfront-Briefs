@@ -1,10 +1,186 @@
 {
   "schemaVersion": 1,
   "countryID": "UKR",
-  "revision": 3,
-  "generatedAt": "2026-11-11T17:05:00Z",
+  "revision": 4,
+  "generatedAt": "2026-11-12T00:34:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "ukr-2026-11-11-ukrinform-website-hacked",
+      "title": "Hackers Deface Website Of State News Agency Ukrinform",
+      "summary": "Hackers replaced the homepage of Ukraine's state news agency Ukrinform on 11 November with the word ZELENET, an image of a crossed-out Ukrainian flag and a link to a Telegram channel, and renamed the agency's X account. Director General Serhii Cherevatyi said the agency was working with the Security Service of Ukraine and the State Service of Special Communications and Information Protection to deal with the consequences.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Ukraine"
+      },
+      "geo": null,
+      "category": "infrastructure-cyber",
+      "subcategory": "cyberattack",
+      "occurredOn": "2026-11-11",
+      "firstReportedAt": "2026-11-11",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-12T00:34:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "Hackers target Ukraine's state news agency Ukrinform, replace website with anti-Ukrainian messages",
+          "url": "https://kyivindependent.com/hackers-target-ukraines-state-news-agency-ukrinform-replace-website-with-anti-ukrainian-messages/",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "Ukrainska Pravda",
+          "title": "Crossed-out flag and pro-Russian slogan: hackers attack state news agency Ukrinform",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/11/8062364/",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-12T00:34:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z"
+    },
+    {
+      "id": "ukr-2026-11-11-strikes-on-power-substations",
+      "title": "Russian Strikes On Six Substations Cause Outages Across Ukraine",
+      "summary": "Russia attacked six major power substations in Vinnytsia, Kirovohrad, Zhytomyr and Cherkasy oblasts overnight into 11 November, causing power outages across Ukraine, Prime Minister Serhii Koretskyi said. He said power lines were also damaged in Kirovohrad and Rivne oblasts.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Ukraine"
+      },
+      "geo": null,
+      "category": "armed-conflict",
+      "subcategory": "air-strike",
+      "occurredOn": "2026-11-11",
+      "firstReportedAt": "2026-11-11",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-12T00:34:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "Russia strikes 6 major power substations, causing outages across Ukraine",
+          "url": "https://kyivindependent.com/russia-strikes-6-major-power-substations-causing-outages-across-ukraine/",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "Interfax-Ukraine",
+          "title": "Koretsky: Russia attacked six major power substations in four regions overnight",
+          "url": "https://en.interfax.com.ua/news/general/1234548.html",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-12T00:34:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z"
+    },
+    {
+      "id": "ukr-2026-11-11-chornomorsk-market-strike",
+      "title": "Russian Drone Strike On Chornomorsk Market Kills Four",
+      "summary": "A Russian jet-powered drone struck a market in central Chornomorsk, Odesa Oblast, on 11 November, killing four people and injuring at least eight, Odesa regional governor Oleh Kiper said. The Ukrainian Air Force had warned shortly before that a jet-powered drone was heading towards the city. Kiper said the blast also damaged nearby residential buildings and cars.",
+      "location": {
+        "city": "Chornomorsk",
+        "region": "Odesa Oblast",
+        "country": "Ukraine"
+      },
+      "geo": {
+        "latitude": 46.302,
+        "longitude": 30.657,
+        "precision": "city"
+      },
+      "category": "armed-conflict",
+      "subcategory": "drone-strike",
+      "occurredOn": "2026-11-11",
+      "firstReportedAt": "2026-11-11",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-12T00:34:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Ukrainska Pravda",
+          "title": "Russian strike on market in Chornomorsk kills four, injures nine – photos",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/11/8062304/",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "Russian strike on crowded market in Odesa Oblast kills at least 4, injures 8",
+          "url": "https://kyivindependent.com/russian-strike-on-crowded-market-in-odesa-oblast-kills-at-least-3-injures-8/",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-12T00:34:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z"
+    },
+    {
+      "id": "ukr-2026-11-10-abu-dhabi-talks-prisoner-exchange",
+      "title": "Abu Dhabi Talks End With Large Prisoner Exchange Agreed",
+      "summary": "Two days of US-mediated talks between Ukrainian and Russian delegations in Abu Dhabi ended on 11 November with agreement on a large-scale prisoner exchange but no breakthrough on ending the war. Ukraine's chief negotiator Rustem Umerov and Russia's Vladimir Medinsky both confirmed the planned exchange. US envoys Steve Witkoff and Jared Kushner said they would travel to Moscow to meet President Vladimir Putin and then to Dublin to meet President Volodymyr Zelensky.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Ukraine"
+      },
+      "geo": null,
+      "category": "politics",
+      "subcategory": "peace-talks",
+      "occurredOn": "2026-11-10",
+      "occurredUntil": "2026-11-11",
+      "firstReportedAt": "2026-11-11",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-12T00:34:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
+          "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "'Large-scale' prisoner exchange agreed as 2nd day of Abu Dhabi talks concludes, Umerov says",
+          "url": "https://kyivindependent.com/large-scale-prisoner-exchange-agreed-as-2nd-day-of-abu-dhabi-talks-concludes-umerov-says/",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "ABC News (Australia)",
+          "title": "Ukraine and Russia agree to large prisoner swap after two days of talks in Abu Dhabi",
+          "url": "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462",
+          "type": "national",
+          "publishedAt": "2026-11-12"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-12T00:34:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z"
+    },
     {
       "id": "ukr-2026-11-02-komyshuvakha-aid-point-strike",
       "title": "Russian Strike On Aid Point Kills Dozens In Zaporizhzhia Region",

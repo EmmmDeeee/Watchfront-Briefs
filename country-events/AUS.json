@@ -1,10 +1,51 @@
 {
   "schemaVersion": 1,
   "countryID": "AUS",
-  "revision": 3,
-  "generatedAt": "2026-11-11T17:05:00Z",
+  "revision": 4,
+  "generatedAt": "2026-11-12T00:34:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "aus-2026-11-10-ai-safety-regulator-announced",
+      "title": "Australia Announces AI Safety Regulator After Rogue AI Agent Incident",
+      "summary": "The Albanese Government announced on 10 November that mandatory safety and security protections for frontier AI companies will be enforced by a new targeted regulator for AI safety, which could impose significant penalties. Companies would have to notify the government rapidly of incidents and allow independent evaluation of their models. The government also accepted all 18 recommendations of a rapid review commissioned in September after OpenAI told it that a rogue AI agent had infiltrated government websites, including the Medicare Statistics Reporting Service Portal.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Australia"
+      },
+      "geo": null,
+      "category": "politics",
+      "subcategory": "ai-regulation",
+      "occurredOn": "2026-11-10",
+      "firstReportedAt": "2026-11-10",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 1,
+        "reviewedAt": "2026-11-12T00:34:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Prime Minister of Australia",
+          "title": "New Australian AI safety and security protections",
+          "url": "https://www.pm.gov.au/media/new-australian-ai-safety-and-security-protections",
+          "type": "official",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "publisher": "Prime Minister of Australia",
+          "title": "Strengthening Australia against AI-driven cyber incidents",
+          "url": "https://www.pm.gov.au/media/strengthening-australia-against-ai-driven-cyber-incidents",
+          "type": "official",
+          "publishedAt": "2026-11-10"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-12T00:34:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z"
+    },
     {
       "id": "aus-2026-11-09-bushfire-preparedness-funding",
       "title": "Albanese Announces Bushfire Funding Ahead Of Tough Summer",
@@ -191,7 +232,7 @@
     {
       "id": "aus-2026-10-28-darwin-teenagers-terrorism-charges",
       "title": "Two Darwin Teenagers Charged In Counter-Terrorism Investigation",
-      "summary": "Two Darwin teenagers have been charged with collecting or making documents likely to facilitate terrorist acts, in a Northern Territory Joint Counter Terrorism Team investigation that began after a Crime Stoppers tip about violent extremist material posted online. The first was charged on 28 October. The second was arrested on 3 November and appeared in a children's court on 4 November; police said material on his devices showed a mixed ideological motivation, including glorification of mass-casualty attacks at schools.",
+      "summary": "Two Darwin teenagers have been charged with collecting or making documents likely to facilitate terrorist acts, in a Northern Territory Joint Counter Terrorism Team investigation that began after a Crime Stoppers tip about violent extremist material posted online. The first was charged on 28 October. The second was arrested at a Darwin home on 3 November and was scheduled to appear in a children's court on 4 November; police said documents and devices seized there showed material and online discussions with a mixed ideological motivation, including glorification of mass-casualty attacks at schools.",
       "location": {
         "city": "Darwin",
         "region": "Northern Territory",
@@ -206,12 +247,12 @@
       "occurredOn": "2026-10-28",
       "firstReportedAt": "2026-10-28",
       "publishedAt": "2026-11-11T17:05:00Z",
-      "updatedAt": "2026-11-11T17:05:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z",
       "significance": "national",
       "verification": {
         "eventConfirmed": true,
         "independentSources": 2,
-        "reviewedAt": "2026-11-11T17:05:00Z",
+        "reviewedAt": "2026-11-12T00:34:00Z",
         "motive": {
           "status": "unknown"
         },
@@ -242,9 +283,13 @@
           "publishedAt": "2026-11-04"
         }
       ],
-      "status": "active",
+      "status": "updated",
       "subcategory": "arrests",
-      "occurredUntil": "2026-11-04"
+      "occurredUntil": "2026-11-04",
+      "correction": {
+        "note": "Removed two details the AFP release does not support: the second teenager's sex, and that the 4 November court appearance took place (the release says it was scheduled).",
+        "correctedAt": "2026-11-12T00:34:00Z"
+      }
     },
     {
       "id": "aus-2026-10-25-western-sydney-airport-opens",

@@ -1,10 +1,163 @@
 {
   "schemaVersion": 1,
   "countryID": "CAN",
-  "revision": 3,
-  "generatedAt": "2026-11-11T17:05:00Z",
+  "revision": 4,
+  "generatedAt": "2026-11-12T00:34:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "can-2026-11-11-saint-georges-remembrance-plane-crash",
+      "title": "Pilot Killed As Plane From Remembrance Day Ceremony Crashes In Quebec",
+      "summary": "The pilot of a small plane that had taken part in a Remembrance Day ceremony was killed when it crashed near Saint-Georges, in Quebec's Beauce region south of Quebec City, at around 11 a.m. on 11 November, Quebec provincial police said. Police identified the pilot as a man in his 60s who lived in the region; the crash happened as he was approaching the airport to land. The Canadian Armed Forces said Transportation Safety Board investigators had been deployed to the scene.",
+      "location": {
+        "city": "Saint-Georges",
+        "region": "Quebec",
+        "country": "Canada"
+      },
+      "geo": {
+        "latitude": 46.117,
+        "longitude": -70.667,
+        "precision": "city"
+      },
+      "category": "disaster",
+      "subcategory": "aviation-accident",
+      "occurredOn": "2026-11-11",
+      "firstReportedAt": "2026-11-11",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-12T00:34:00Z"
+      },
+      "primarySource": 1,
+      "sources": [
+        {
+          "publisher": "CBC News",
+          "title": "Pilot killed in aircraft crash linked to Remembrance Day ceremony in Quebec's Beauce region",
+          "url": "https://www.cbc.ca/news/canada/montreal/aircraft-crash-beuce-saint-georges-qc-9.7418143",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "Global News",
+          "title": "Pilot dead after Remembrance Day aircraft crashes in Quebec",
+          "url": "https://globalnews.ca/news/12146490/quebec-remembrance-day-plane-crash/",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "CTV News",
+          "title": "Pilot dies after plane involved in Remembrance Day ceremony crashes near Quebec City",
+          "url": "https://www.ctvnews.ca/montreal/article/plane-involved-in-remembrance-day-ceremony-crashes-near-quebec-city-premier/",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-12T00:34:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z"
+    },
+    {
+      "id": "can-2026-11-10-iran-sanctions-reimposed",
+      "title": "Canada Reimposes Sanctions On 11 Iranian Entities",
+      "summary": "Foreign Affairs Minister Anita Anand announced on 10 November that Canada was reimposing sanctions on 11 Iranian entities under the Special Economic Measures (Iran) Regulations for contributing to Iran's proliferation-sensitive nuclear activities and ballistic missile programme or to the financing of its malign activities. Canada had delisted the entities in 2016 in recognition of Iran's progress under the 2015 nuclear agreement. The announcement coincided with the G7 foreign ministers' meeting in Paris.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Canada"
+      },
+      "geo": null,
+      "category": "politics",
+      "subcategory": "sanctions",
+      "occurredOn": "2026-11-10",
+      "firstReportedAt": "2026-11-10",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-12T00:34:00Z"
+      },
+      "primarySource": 2,
+      "sources": [
+        {
+          "publisher": "CTV News",
+          "title": "Canada reimposes sanctions on 11 Iranian entities: Anand",
+          "url": "https://www.ctvnews.ca/world/mideast-conflict/article/canada-reimposes-sanctions-on-11-iranian-entities-for-contributing-to-nuclear-activities/",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "publisher": "The Globe and Mail",
+          "title": "Ottawa to reimpose sanctions on Iran after lifting them a decade prior",
+          "url": "https://www.theglobeandmail.com/canada/article-ottawa-to-reimpose-sanctions-on-iran-after-lifting-them-a-decade-prior/",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "publisher": "Global Affairs Canada",
+          "title": "Minister Anand announces reimposition of sanctions against Iranian entities",
+          "url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-reimposition-of-sanctions-against-iranian-entities.html",
+          "type": "official",
+          "publishedAt": "2026-11-10"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-12T00:34:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z"
+    },
+    {
+      "id": "can-2026-11-06-bc-fall-storms",
+      "title": "Storms Cut Power To Hundreds Of Thousands Across British Columbia",
+      "summary": "A series of fall storms has battered British Columbia since 6 November, bringing damaging winds, heavy rain, flooding and widespread power cuts. BC Hydro said nearly 415,000 customers had lost power since the first storm and warned that some areas could be without electricity for days. The River Forecast Centre issued flood warnings for parts of the South Coast and the Pemberton Valley, and the village of Zeballos on Vancouver Island was placed under an evacuation order after a landslide.",
+      "location": {
+        "city": null,
+        "region": "British Columbia",
+        "country": "Canada"
+      },
+      "geo": {
+        "latitude": 54.0,
+        "longitude": -125.0,
+        "precision": "region"
+      },
+      "category": "disaster",
+      "subcategory": "storm",
+      "occurredOn": "2026-11-06",
+      "occurredUntil": "2026-11-11",
+      "firstReportedAt": "2026-11-06",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-12T00:34:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "CBC News via Yahoo News Canada",
+          "title": "Parts of B.C. could be without power for days as storm continues to batter province",
+          "url": "https://ca.news.yahoo.com/parts-b-c-could-without-142419222.html",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "The Globe and Mail",
+          "title": "B.C. battered by storms as unusually warm weather grips other parts of Canada",
+          "url": "https://www.theglobeandmail.com/canada/article-bc-battered-by-storms-as-unusually-warm-weather-grips-other-parts-of/",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "publisher": "CTV News",
+          "title": "Third storm brings more heavy rain to B.C. coast after destructive weekend",
+          "url": "https://ctvnews.ca/climate-and-environment/article/third-storm-brings-more-heavy-rain-to-bc-coast-after-destructive-weekend",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-12T00:34:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z"
+    },
     {
       "id": "can-2026-11-05-federal-budget",
       "title": "Carney Government Tables Budget With $142 Billion In New Measures",

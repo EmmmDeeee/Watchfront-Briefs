@@ -1,10 +1,44 @@
 {
   "schemaVersion": 1,
   "countryID": "DEU",
-  "revision": 3,
-  "generatedAt": "2026-11-11T17:05:00Z",
+  "revision": 4,
+  "generatedAt": "2026-11-12T00:34:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "deu-2026-11-11-cabinet-approves-gas-reserve",
+      "title": "German Cabinet Approves Strategic Gas Reserve For Crises",
+      "summary": "The German cabinet on 11 November approved plans for a new strategic gas reserve to prepare for sabotage or attacks on energy infrastructure. The reserve is to hold 24 terawatt-hours of additional physical gas, enough to secure supply for 30 days if deliveries fail completely, and is to be built up by Trading Hub Europe from 2027. It could be released only after the Federal Network Agency declares an emergency over a threatened gas shortage, and the government estimates the levy will cost households about four to seven euros a year.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Germany"
+      },
+      "geo": null,
+      "category": "economy",
+      "subcategory": "energy-security",
+      "occurredOn": "2026-11-11",
+      "firstReportedAt": "2026-11-11",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 1,
+        "reviewedAt": "2026-11-12T00:34:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Federal Government of Germany (Bundesregierung)",
+          "title": "Neue Gasreserve zur Krisenvorsorge",
+          "url": "https://www.bundesregierung.de/breg-de/aktuelles/kabinett-gasreserve-krisenvorsorge-2460538",
+          "type": "official",
+          "publishedAt": "2026-11-11"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-12T00:34:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z"
+    },
     {
       "id": "deu-2026-11-01-ig-metall-warning-strikes",
       "title": "Hundreds Of Thousands Join Metal Industry Warning Strikes",

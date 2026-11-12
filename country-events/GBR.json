@@ -1,10 +1,58 @@
 {
   "schemaVersion": 1,
   "countryID": "GBR",
-  "revision": 3,
-  "generatedAt": "2026-11-11T17:05:00Z",
+  "revision": 4,
+  "generatedAt": "2026-11-12T00:34:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "gbr-2026-11-11-hoax-school-bomb-threats",
+      "title": "Hoax Bomb Threats Emailed To Hundreds Of Schools In Scotland And Northern Ireland",
+      "summary": "Hundreds of schools in Scotland and Northern Ireland received hoax bomb threats by email on 11 November, and some were evacuated as a precaution. Police Scotland said about 1,000 schools received the email and that the warnings were immediately assessed as hoaxes. Similar hoax threats had been made to schools last month.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "United Kingdom"
+      },
+      "geo": null,
+      "category": "other",
+      "subcategory": "hoax-threat",
+      "occurredOn": "2026-11-11",
+      "firstReportedAt": "2026-11-11",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-12T00:34:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "title": "Hoax bomb threats made to hundreds of schools in Scotland and Northern Ireland",
+          "url": "https://www.theguardian.com/education/2026/nov/11/bomb-threats-hoax-schools-scotland-northern-ireland",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "BBC News",
+          "title": "No risk to public from hoax school bomb threats, says government minister",
+          "url": "https://www.bbc.co.uk/news/articles/cr868l17yj4jo",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "STV News",
+          "title": "Schools across Scotland evacuated after receiving 'bomb threats'",
+          "url": "https://news.stv.tv/scotland/schools-across-scotland-evacuated-after-receiving-bomb-threats",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-12T00:34:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z"
+    },
     {
       "id": "gbr-2026-11-10-us-army-member-arrested-gloucester",
       "title": "US Army Member Arrested Near Gloucester In Russia-Linked Inquiry",
@@ -211,7 +259,7 @@
     {
       "id": "gbr-2026-10-27-raf-fairford-national-security-charges",
       "title": "Two Men Charged Over Iran-Linked Activity Near RAF Fairford",
-      "summary": "Police charged two British men from London under the National Security Act on 27 October, following an investigation into activity near the perimeter of RAF Fairford, a Gloucestershire base used by US forces. One man is accused of assisting a foreign intelligence service, which police said they believe to be Iran's. Five other men arrested in the investigation remained on police bail.",
+      "summary": "Police charged two British men from London under the National Security Act on 27 October, following an investigation into activity near the perimeter of RAF Fairford, a Gloucestershire base used by US forces. One man is accused of assisting a foreign intelligence service, which police said they believe to be Iran's. On 10 November the US Justice Department unsealed an indictment accusing three men it describes as Iranian-backed operatives of helping to plan and direct the September incident at the base.",
       "location": {
         "city": "Fairford",
         "region": "Gloucestershire",
@@ -226,12 +274,12 @@
       "occurredOn": "2026-10-27",
       "firstReportedAt": "2026-10-27",
       "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-12T00:34:00Z",
       "significance": "national",
       "verification": {
         "eventConfirmed": true,
-        "independentSources": 1,
-        "reviewedAt": "2026-11-11T03:04:00Z"
+        "independentSources": 2,
+        "reviewedAt": "2026-11-12T00:34:00Z"
       },
       "primarySource": 0,
       "sources": [
@@ -248,10 +296,28 @@
           "url": "https://www.justice.gov/opa/pr/three-iranian-backed-operatives-indicted-their-roles-nearly-20-terrorist-attacks-and",
           "type": "official",
           "publishedAt": "2026-11-10"
+        },
+        {
+          "publisher": "NPR",
+          "title": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "publisher": "France 24",
+          "title": "US charges three 'Iranian operatives' over RAF Fairford terror plot",
+          "url": "https://www.france24.com/en/americas/20261110-us-iranian-operatives-raf-fairford-terror-plot",
+          "type": "national",
+          "publishedAt": "2026-11-10"
         }
       ],
-      "status": "active",
-      "subcategory": "arrests"
+      "status": "updated",
+      "subcategory": "arrests",
+      "correction": {
+        "note": "Added the 10 November US indictment, which alleges Iranian-backed operatives helped plan and direct the September incident at the base, and removed an unconfirmed statement that five other men remained on police bail.",
+        "correctedAt": "2026-11-12T00:34:00Z"
+      }
     },
     {
       "id": "gbr-2026-10-25-storm-boelo",
