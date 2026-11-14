@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "countryID": "DEU",
-  "revision": 4,
-  "generatedAt": "2026-11-12T00:34:00Z",
+  "revision": 5,
+  "generatedAt": "2026-11-14T06:55:00Z",
   "windowDays": 30,
   "events": [
     {
@@ -300,51 +300,6 @@
       ],
       "status": "active",
       "subcategory": "foiled-plot"
-    },
-    {
-      "id": "deu-2026-10-14-nord-stream-sabotage-trial-opens",
-      "title": "Former Ukrainian Officer Goes On Trial Over Nord Stream Blasts",
-      "summary": "The first trial over the 2022 sabotage of the Nord Stream gas pipelines opened at the Hamburg Higher Regional Court on 14 October. Prosecutors accuse a former Ukrainian officer of leading a group of Ukrainian agents, including divers and an explosives expert, who carried out the blasts. He denies any involvement and is the only person on trial.",
-      "location": {
-        "city": "Hamburg",
-        "region": "Hamburg",
-        "country": "Germany"
-      },
-      "geo": {
-        "latitude": 53.551,
-        "longitude": 9.994,
-        "precision": "city"
-      },
-      "category": "other",
-      "occurredOn": "2026-10-14",
-      "firstReportedAt": "2026-10-14",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z"
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "Al Jazeera",
-          "title": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
-          "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts",
-          "type": "national",
-          "publishedAt": "2026-10-14"
-        },
-        {
-          "publisher": "ITV News",
-          "title": "Former Ukrainian officer goes on trial in Germany over Nord Stream gas pipeline blasts",
-          "url": "https://www.itv.com/news/2026-10-14/former-ukrainian-officer-goes-on-trial-over-nord-stream-gas-pipeline-blasts",
-          "type": "national",
-          "publishedAt": "2026-10-14"
-        }
-      ],
-      "status": "active",
-      "subcategory": "trial"
     }
   ]
 }
