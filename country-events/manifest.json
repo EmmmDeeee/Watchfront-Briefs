@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 4,
-  "generatedAt": "2026-11-12T00:34:00Z",
+  "revision": 5,
+  "generatedAt": "2026-11-14T06:55:00Z",
   "windowDays": 30,
   "countries": [
     {
@@ -23,10 +23,10 @@
     {
       "countryID": "DEU",
       "path": "DEU.json",
-      "sha256": "b6a04c249fbc8e1aff6ae259e9d672d79d6f7205f2d387d8678b9600ed9db489",
-      "revision": 4,
-      "updatedAt": "2026-11-12T00:34:00Z",
-      "eventCount": 7
+      "sha256": "015fa42682a6ff90088275a2e2abb453c649febed0555248d0032902e874d3d9",
+      "revision": 5,
+      "updatedAt": "2026-11-14T06:55:00Z",
+      "eventCount": 6
     },
     {
       "countryID": "FRA",
@@ -55,10 +55,10 @@
     {
       "countryID": "UKR",
       "path": "UKR.json",
-      "sha256": "58ba0df596ae398f4d44df97072bbd629ace86e112471ff62c36acdd3f37163b",
-      "revision": 4,
-      "updatedAt": "2026-11-12T00:34:00Z",
-      "eventCount": 10
+      "sha256": "22ba342aab95f6ce0daedbddd8f88723052c72abaa5d2a6689eb10cb53b6783f",
+      "revision": 5,
+      "updatedAt": "2026-11-14T06:55:00Z",
+      "eventCount": 9
     },
     {
       "countryID": "USA",

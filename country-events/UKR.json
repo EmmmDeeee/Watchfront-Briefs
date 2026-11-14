@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "countryID": "UKR",
-  "revision": 4,
-  "generatedAt": "2026-11-12T00:34:00Z",
+  "revision": 5,
+  "generatedAt": "2026-11-14T06:55:00Z",
   "windowDays": 30,
   "events": [
     {
@@ -401,51 +401,6 @@
       ],
       "status": "active",
       "subcategory": "air-strike"
-    },
-    {
-      "id": "ukr-2026-10-14-kyiv-energy-strikes",
-      "title": "Ballistic Missile Barrage Targets Ukraine's Energy Grid",
-      "summary": "Russia launched 39 ballistic missiles and more than 120 drones at Ukraine overnight into 14 October, according to President Volodymyr Zelensky, targeting energy facilities in Kyiv, the Kyiv region and Kharkiv. At least nine people were killed across Ukraine, and about 600,000 people lost electricity.",
-      "location": {
-        "city": "Kyiv",
-        "region": "Kyiv",
-        "country": "Ukraine"
-      },
-      "geo": {
-        "latitude": 50.45,
-        "longitude": 30.524,
-        "precision": "city"
-      },
-      "category": "armed-conflict",
-      "occurredOn": "2026-10-14",
-      "firstReportedAt": "2026-10-14",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z"
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "Al Jazeera",
-          "title": "'Massive' Russian attack on Ukraine kills at least 9, damages power sites",
-          "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv",
-          "type": "national",
-          "publishedAt": "2026-10-14"
-        },
-        {
-          "publisher": "Ukrainska Pravda",
-          "title": "Russia launches massive ballistic missile strike on energy grid: air defence brings down 4 out of 39 missiles and 115 drones",
-          "url": "https://www.pravda.com.ua/eng/news/2026/10/14/8057918/",
-          "type": "national",
-          "publishedAt": "2026-10-14"
-        }
-      ],
-      "status": "active",
-      "subcategory": "missile-strike"
     }
   ]
 }
