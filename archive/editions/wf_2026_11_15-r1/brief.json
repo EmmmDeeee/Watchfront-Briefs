@@ -1,0 +1,3721 @@
+{
+  "schemaVersion": 1,
+  "id": "wf_2026_11_15",
+  "revision": 1,
+  "publishedAt": "2026-11-15T16:34:00Z",
+  "displayDate": "November 15, 2026",
+  "coveragePeriod": "November 8–15, 2026",
+  "edition": "Weekly Intelligence Brief",
+  "title": "Watchfront Weekly Brief — November 8–15, 2026",
+  "width": 1200,
+  "height": 1900,
+  "pages": [
+    {
+      "id": "cover",
+      "title": "WEEKLY BRIEF",
+      "kind": "cover",
+      "imagePath": "pages/cover.png",
+      "bundleAsset": "",
+      "sha256": "0913645323c8f9e68af92eecad95e226415a25883c26230a0157c1e06063465f",
+      "accessibleText": "WEEKLY BRIEF\n\n8 – 15 NOVEMBER 2026",
+      "links": []
+    },
+    {
+      "id": "overview",
+      "title": "OVERVIEW",
+      "kind": "story",
+      "imagePath": "pages/overview.png",
+      "bundleAsset": "",
+      "sha256": "f20893f259e37759a2dc9968f6e98b5ecab261e1017817430ff32c5086c64263",
+      "accessibleText": "8–15 NOV 2026 · CUTOFF 15 NOV, 16:30 UTC\n\nOVERVIEW\n\nA nationwide FAA ground stop on 13 November halted U.S. departures for more than four hours. A preliminary finding traces it to contractor L3Harris replacing a router during a network upgrade; officials say it does not appear to have been a cyberattack. [1][2][3]\n\nNvidia's chief executive resigned during a board inquiry into a reported foreign intelligence approach. Russia and Ukraine agreed a prisoner exchange in Abu Dhabi, and U.S. envoys say Europe will join the next round, but strikes on energy continue. A large, unannounced Chinese naval deployment persisted east of Taiwan. [4][5][6][7]\n\nIn Europe, France attributed October's supermarket refrigeration sabotage to an IRGC unit, hoax bomb emails disrupted schools, and ESET exposed Russian espionage inside government email. Shared methods are evident; a single coordinating hand is not. [8][9][10]\n\nReporting cutoff: 15 November 2026, 16:30 UTC. Developments later on 15 November may not be included.",
+      "links": [
+        {
+          "id": "citation_1",
+          "sourceNumber": 1,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8452631578947368,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_2",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.165,
+            "y": 0.8452631578947368,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.26,
+            "y": 0.8452631578947368,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_4",
+          "sourceNumber": 4,
+          "rect": {
+            "x": 0.355,
+            "y": 0.8452631578947368,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_5",
+          "sourceNumber": 5,
+          "rect": {
+            "x": 0.45,
+            "y": 0.8452631578947368,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_6",
+          "sourceNumber": 6,
+          "rect": {
+            "x": 0.545,
+            "y": 0.8452631578947368,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_7",
+          "sourceNumber": 7,
+          "rect": {
+            "x": 0.64,
+            "y": 0.8452631578947368,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_8",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.735,
+            "y": 0.8452631578947368,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_9",
+          "sourceNumber": 9,
+          "rect": {
+            "x": 0.83,
+            "y": 0.8452631578947368,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_10",
+          "sourceNumber": 10,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "faa-outage",
+      "title": "FAA GROUND STOP",
+      "kind": "story",
+      "imagePath": "pages/faa-outage.png",
+      "bundleAsset": "",
+      "sha256": "78e57b8362f91fb1271ba3a83d7d072d07dbf6d52e23b350e58eefbcca9b81d5",
+      "accessibleText": "NATIONWIDE TELECOMMUNICATIONS FAILURE\n\nFAA GROUND STOP\n\nOn Friday, 13 November, the FAA halted departures at every U.S. airport \"due to extraordinary circumstances and for reasons of safety,\" citing communications problems at regional air traffic control centers. [11]\n\nIt was the first nationwide ground stop since January 2023, and the second since the aftermath of 11 September 2001. More than 9,000 U.S. flights, about a third of the day's schedule, were cancelled on Friday, and nearly 6,500 more on Saturday. [11][3]\n\nThe stop began around 4 p.m. Eastern and lasted more than four hours, the longest pause on departures in 25 years. The FAA said flights should return to normal by Sunday night, 15 November. [3][12]",
+      "links": [
+        {
+          "id": "citation_11",
+          "sourceNumber": 11,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_12",
+          "sourceNumber": 12,
+          "rect": {
+            "x": 0.26046875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "faa-cause",
+      "title": "THE OFFICIAL ACCOUNT",
+      "kind": "story",
+      "imagePath": "pages/faa-cause.png",
+      "bundleAsset": "",
+      "sha256": "6693d7dc11ac5ef4990804cd0b41403fd231109f459c50e37847c987a936b8f8",
+      "accessibleText": "PRELIMINARY CAUSE: A ROUTER SWAP\n\nTHE OFFICIAL ACCOUNT\n\nOfficials say contractor L3Harris was replacing aging copper lines with fiber at a remote FAA facility in El Dorado, Arkansas. As the router was switched, it began flooding other routers and overloaded the system. Duffy said L3Harris owns the network the FAA uses to control airspace. [2][13]\n\nThe FAA called it an \"equipment issue\" during a telecommunications network upgrade, and is examining why the installation began broadcasting data. L3Harris said it has completed more than 70% of the copper-to-fiber conversion and is supporting the investigation. [14][2][13]\n\nOn 13 November Homeland Security Secretary Markwayne Mullin said there was no indication of anything nefarious, while declining to rule out a cyberattack. Administration officials have since repeatedly said it did not appear to be one. [15][16][3]",
+      "links": [
+        {
+          "id": "citation_2",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_13",
+          "sourceNumber": 13,
+          "rect": {
+            "x": 0.165,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_14",
+          "sourceNumber": 14,
+          "rect": {
+            "x": 0.26046875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_15",
+          "sourceNumber": 15,
+          "rect": {
+            "x": 0.3559375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_16",
+          "sourceNumber": 16,
+          "rect": {
+            "x": 0.45140625,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.546875,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "hypothesis-smart",
+      "title": "THE SMART SYSTEM",
+      "kind": "story",
+      "imagePath": "pages/hypothesis-smart.png",
+      "bundleAsset": "",
+      "sha256": "002e571f5415fc57ee667d09f0365d68797a2af8dfb08c06cb56d94136106252",
+      "accessibleText": "AI TOOL WENT NATIONWIDE THREE DAYS EARLIER\n\nTHE SMART SYSTEM\n\nOn 10 November the FAA said SMART — Strategic Management of Airspace, Routes and Trajectories — was active at all 22 en route centers. It combines about 200 data streams to generate routing and scheduling recommendations for controllers. [17][18]\n\nSMART advises controllers rather than directing aircraft; the FAA says it has helped reroute 180 flights. The controllers' association, NATCA, has raised concerns about its non-involvement, and more than two dozen lawmakers had asked the FAA to suspend the rollout over safety evaluation, training and oversight. [17][18]\n\nThe timing invited scrutiny: a system newly connected to every en route center went nationwide days before those centers lost communications. Its developer, Air Space Intelligence, said the ground stop \"is not based on or a result of the SMART system\" or its integration with the FAA. [16][15]",
+      "links": [
+        {
+          "id": "citation_17",
+          "sourceNumber": 17,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_18",
+          "sourceNumber": 18,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_16",
+          "sourceNumber": 16,
+          "rect": {
+            "x": 0.2609375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_15",
+          "sourceNumber": 15,
+          "rect": {
+            "x": 0.35640625,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "hypothesis-smart-test",
+      "title": "SMART: EVIDENCE TEST",
+      "kind": "story",
+      "imagePath": "pages/hypothesis-smart-test.png",
+      "bundleAsset": "",
+      "sha256": "7ef253ae0a5ab4132809a2bd6e04a077f5c372f70b180cdf8095b87041a6a1cb",
+      "accessibleText": "TIMING IS NOT CAUSATION\n\nSMART: EVIDENCE TEST\n\nSupporting: the confirmed rollout date and its nationwide footprint. Nothing more: no official or investigator has linked SMART to the outage. [17][16]\n\nAgainst: the preliminary finding places the failure in a router switched during network work, which then flooded other routers. That is the telecommunications layer that carries voice and data, not an advisory application. [2]\n\nReviving the hypothesis would require logs showing SMART traffic or configuration changes on the failed network, or evidence that the flooding began in SMART systems. The FAA's open question — why the installation began broadcasting data — is where that evidence would appear. [2]",
+      "links": [
+        {
+          "id": "citation_17",
+          "sourceNumber": 17,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_16",
+          "sourceNumber": 16,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_2",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.2609375,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "hypothesis-iran",
+      "title": "IRANIAN CYBER OPERATIONS",
+      "kind": "story",
+      "imagePath": "pages/hypothesis-iran.png",
+      "bundleAsset": "",
+      "sha256": "f4c94c5c7101e77aa54d28e67a88dccadbd1999f1ac374972b0130f18f06e576",
+      "accessibleText": "CAPABILITY AND MOTIVE, NO EVIDENCE OF INVOLVEMENT\n\nIRANIAN CYBER OPERATIONS\n\nU.S. agencies document Iranian capability. A 2026 CISA–FBI advisory, updated in July, says Iranian-affiliated actors disrupted industrial controllers across several U.S. infrastructure sectors, causing operational disruption and financial loss. It links the activity to CyberAv3ngers, also called the Shahid Kaveh Group, part of the IRGC's Cyber-Electronic Command. [19]\n\nInterest is plausible: this week France attributed physical sabotage of retail refrigeration to the same Shahid Kaveh unit. Google reports that Iran's APT42 has used AI models for reconnaissance, and that government-backed groups use them to research vulnerabilities and write phishing lures. [8][20]\n\nCapability and interest are not evidence. No official has reported an intrusion, indicators of compromise or a claim of responsibility connected to the outage, and officials say it does not appear to have been a cyberattack. [16][3]",
+      "links": [
+        {
+          "id": "citation_19",
+          "sourceNumber": 19,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_8",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_20",
+          "sourceNumber": 20,
+          "rect": {
+            "x": 0.26046875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_16",
+          "sourceNumber": 16,
+          "rect": {
+            "x": 0.3559375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.45140625,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "hypothesis-iran-test",
+      "title": "IRAN: EVIDENCE TEST",
+      "kind": "story",
+      "imagePath": "pages/hypothesis-iran-test.png",
+      "bundleAsset": "",
+      "sha256": "34f2e3735d09c0331dbd290dffe9067e30ceecf8bbe14c129538c48a631b3a67",
+      "accessibleText": "WHAT INVESTIGATORS WOULD NEED\n\nIRAN: EVIDENCE TEST\n\nSupporting: documented IRGC targeting of U.S. operational technology and an active campaign against Western infrastructure. AI tools could shorten reconnaissance and tool development, but no such use is reported here. [19][20]\n\nMissing: any forensic trace. Establishing involvement would require evidence of unauthorized access to FAA or L3Harris systems, attacker infrastructure matching known Iranian clusters, and access that predates the failure. [19][21]\n\nThe preliminary finding of an internal cause — router work during a network upgrade — substantially weakens the hypothesis. A completed review that confirms it and finds no unauthorized access would exclude it. [2][14]",
+      "links": [
+        {
+          "id": "citation_19",
+          "sourceNumber": 19,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_20",
+          "sourceNumber": 20,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_21",
+          "sourceNumber": 21,
+          "rect": {
+            "x": 0.2609375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_2",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.35640625,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_14",
+          "sourceNumber": 14,
+          "rect": {
+            "x": 0.45140625,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "faa-assessment",
+      "title": "FAA OUTAGE: VERDICT",
+      "kind": "story",
+      "imagePath": "pages/faa-assessment.png",
+      "bundleAsset": "",
+      "sha256": "f359f1c0fc64b5da2a5151e7ae0e85564368d2efafeb36bc69d879ade7b66ff0",
+      "accessibleText": "BOTH HYPOTHESES NOW UNLIKELY\n\nFAA OUTAGE: VERDICT\n\nNeither hypothesis has direct support, and the preliminary investigation points elsewhere: a router swapped during L3Harris network work flooded the system. If confirmed, that makes both hypotheses unnecessary. [2][13]\n\nSMART had the stronger circumstantial case on timing, but the fault lies in the telecommunications layer, not an advisory tool. The Iranian case rests on capability and motive alone. Both remain unconfirmed; the FAA has not published a final finding. [17][14]\n\nRegardless of cause, routine work at one remote site halted departures nationwide. GAO has warned that FAA modernization is racing to replace outdated systems, after antiquated telecommunications lines failed repeatedly at Philadelphia in 2025. [2][22]",
+      "links": [
+        {
+          "id": "citation_2",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_13",
+          "sourceNumber": 13,
+          "rect": {
+            "x": 0.165,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_17",
+          "sourceNumber": 17,
+          "rect": {
+            "x": 0.26046875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_14",
+          "sourceNumber": 14,
+          "rect": {
+            "x": 0.3559375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_22",
+          "sourceNumber": 22,
+          "rect": {
+            "x": 0.45140625,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "us-infrastructure",
+      "title": "THE WIDER THREAT",
+      "kind": "story",
+      "imagePath": "pages/us-infrastructure.png",
+      "bundleAsset": "",
+      "sha256": "b9348baea59e092bd140eaf03314913510eb8360c47c41f1edc417080910a7a2",
+      "accessibleText": "CONTEXT, NOT ATTRIBUTION\n\nTHE WIDER THREAT\n\nU.S. and allied agencies assess that China's Volt Typhoon has pre-positioned in critical infrastructure IT networks for disruptive attacks in a crisis, keeping some footholds for at least five years. [23]\n\nIranian actors have disrupted U.S. industrial controllers, and Russia's FSB-linked Turla was shown this week stealing government email through compromised Exchange servers. In aviation, an accidentally cut Verizon fiber cable disrupted Newark and Philadelphia flights in September. [19][10][1]\n\nAdversaries are capable and present in U.S. networks. That broader activity does not establish that any of them took part in the 13 November outage. [23]",
+      "links": [
+        {
+          "id": "citation_23",
+          "sourceNumber": 23,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_19",
+          "sourceNumber": 19,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_10",
+          "sourceNumber": 10,
+          "rect": {
+            "x": 0.2609375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_1",
+          "sourceNumber": 1,
+          "rect": {
+            "x": 0.35640625,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "nvidia",
+      "title": "NVIDIA",
+      "kind": "story",
+      "imagePath": "pages/nvidia.png",
+      "bundleAsset": "",
+      "sha256": "8bb1576c42691ac20dbd22107436286d98197d222d1c676f3e027a0d8410cd98",
+      "accessibleText": "CEO RESIGNS AMID BOARD INQUIRY\n\nNVIDIA\n\nOn 8 November, Jensen Huang told staff he had an affair with Alice Huang, who is affiliated with Nvidia customer Megaspeed. The New York Times and Financial Times reported U.S. intelligence concerns that she passed information to Beijing. [24]\n\nNvidia's board opened an independent inquiry into whether Huang was the target of a foreign intelligence effort, saying it had \"no reason to believe\" national security or company secrets were compromised. China's foreign ministry called the allegations smears. [24][25]\n\nNvidia said its board accepted Huang's resignation on 11 November. CFO Colette Kress became interim chief executive while a permanent successor is sought. Reports describe further relationships, including with Nvidia employees. [4][26][27]",
+      "links": [
+        {
+          "id": "citation_24",
+          "sourceNumber": 24,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_25",
+          "sourceNumber": 25,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_4",
+          "sourceNumber": 4,
+          "rect": {
+            "x": 0.2609375,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_26",
+          "sourceNumber": 26,
+          "rect": {
+            "x": 0.3559375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_27",
+          "sourceNumber": 27,
+          "rect": {
+            "x": 0.45140625,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "nvidia-assessment",
+      "title": "NVIDIA: THE RECORD",
+      "kind": "story",
+      "imagePath": "pages/nvidia-assessment.png",
+      "bundleAsset": "",
+      "sha256": "ea597c67cc9849dc90d13c5aad21656971988661cd76b690f2b0bbf6eb8c981d",
+      "accessibleText": "ESPIONAGE ALLEGATIONS UNPROVEN\n\nNVIDIA: THE RECORD\n\nConfirmed: the board inquiry, the resignation, interim leadership and Huang's admission of the affair. Unproven: that Alice Huang is an intelligence agent, that any information was passed, or that export-controlled technology was compromised. She has not been charged in any reporting reviewed. [24][4]\n\nThe policy fallout is real regardless. Senate Banking chairman Tim Scott has asked Huang and Commerce Secretary Howard Lutnick to testify on 3 and 10 December, warning of subpoenas, and lawmakers want tougher chip-export controls in the defense authorization bill. [28][27]\n\nMegaspeed has bought more than $4 billion of Nvidia chips, and renting out computing capacity can give Chinese companies access to advanced U.S. chips despite export controls. The case will sharpen scrutiny of cloud access in the U.S.–China computing contest. [29]",
+      "links": [
+        {
+          "id": "citation_24",
+          "sourceNumber": 24,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_4",
+          "sourceNumber": 4,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_28",
+          "sourceNumber": 28,
+          "rect": {
+            "x": 0.26046875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_27",
+          "sourceNumber": 27,
+          "rect": {
+            "x": 0.3559375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_29",
+          "sourceNumber": 29,
+          "rect": {
+            "x": 0.45140625,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "ukraine-talks",
+      "title": "ABU DHABI TALKS",
+      "kind": "story",
+      "imagePath": "pages/ukraine-talks.png",
+      "bundleAsset": "",
+      "sha256": "07571775dddec52b7fe6722ab7c24bae2fa8e03e4dbfaaa05da99ffa960efc60",
+      "accessibleText": "PRISONER DEAL, NO CEASEFIRE\n\nABU DHABI TALKS\n\nU.S.-mediated talks in Abu Dhabi on 10–11 November, the first such session since February, produced agreement on a large prisoner exchange. Delegation heads Vladimir Medinsky and Rustem Umerov confirmed it; Medinsky called it agreed \"in principle,\" and Jared Kushner said numbers would be finalized. [5][30]\n\nThere was no breakthrough on territory, security guarantees or a ceasefire. ISW assesses that Putin still demands the unoccupied parts of four oblasts and rejects any future demilitarized zone. [5][31]\n\nU.S. envoys Steve Witkoff and Kushner met Putin at the Kremlin on 12 November, then briefed Zelenskyy at Casement Aerodrome near Dublin. Kushner said both sides agreed that Europeans would join the next round; the Kremlin neither endorsed nor rejected it. [32][33][6]",
+      "links": [
+        {
+          "id": "citation_5",
+          "sourceNumber": 5,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_30",
+          "sourceNumber": 30,
+          "rect": {
+            "x": 0.165,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_31",
+          "sourceNumber": 31,
+          "rect": {
+            "x": 0.26046875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_32",
+          "sourceNumber": 32,
+          "rect": {
+            "x": 0.3559375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_33",
+          "sourceNumber": 33,
+          "rect": {
+            "x": 0.45140625,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_6",
+          "sourceNumber": 6,
+          "rect": {
+            "x": 0.546875,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "ukraine-strikes",
+      "title": "STRIKES CONTINUE",
+      "kind": "story",
+      "imagePath": "pages/ukraine-strikes.png",
+      "bundleAsset": "",
+      "sha256": "d4bf411c3737208bd1085e652cd502ab3f000a3bc810b6f239101ede5c1fd6bb",
+      "accessibleText": "THE ENERGY WAR INTENSIFIES\n\nSTRIKES CONTINUE\n\nRussian strikes on 8 November cut power to about 850,000 people in Dnipropetrovsk and Kharkiv regions. Ukrenergo scheduled all-day cuts on 13 November after strikes from Rivne to Odesa that killed people in Odesa and Zaporizhzhia. Zelenskyy said energy facilities had been hit more than 310 times this month. [34][35]\n\nUkraine extended its refinery campaign, striking Omsk for a third time with drones flying 3,000 kilometres, and the Lukoil-owned Volgograd refinery again on 13 November, killing four workers. [36][37]\n\nISW observed no advances by either side on 12 November, while Russian offensive operations continued. Over the day to 14 November, Russian attacks killed at least seven people and injured 80, most in Zaporizhzhia Oblast. Starshield disruptions are hampering Ukraine's drone interception. [31][38][39]",
+      "links": [
+        {
+          "id": "citation_34",
+          "sourceNumber": 34,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_35",
+          "sourceNumber": 35,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_36",
+          "sourceNumber": 36,
+          "rect": {
+            "x": 0.2609375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_37",
+          "sourceNumber": 37,
+          "rect": {
+            "x": 0.35640625,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_31",
+          "sourceNumber": 31,
+          "rect": {
+            "x": 0.451875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_38",
+          "sourceNumber": 38,
+          "rect": {
+            "x": 0.54734375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_39",
+          "sourceNumber": 39,
+          "rect": {
+            "x": 0.6428125,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "ukraine-assessment",
+      "title": "TALKS UNDER FIRE",
+      "kind": "story",
+      "imagePath": "pages/ukraine-assessment.png",
+      "bundleAsset": "",
+      "sha256": "16cc6aedf1c26b7df231d7b5fe4e18e03fb1f3e9b0598dc79df03d4c8d1f9f6c",
+      "accessibleText": "A LIMITED ACHIEVEMENT\n\nTALKS UNDER FIRE\n\nThe prisoner agreement is a real humanitarian result but not a turning point. Kushner said terms finalized in Moscow could free thousands, but no exchange had been reported by 15 November. Europe's role remains contested: the Kremlin has neither endorsed nor rejected a European delegation. [30][33][6]\n\nNegotiating while striking lets Moscow test whether winter energy pressure moves Kyiv; analysts say strikes are hitting harder and earlier this year. Zelenskyy said Russia's negotiators had no permission to discuss halting strikes. Ukraine's refinery attacks apply reciprocal economic pressure. [35][40]\n\nMeaningful progress would look like a ceasefire mechanism, a moratorium on energy strikes or written terms on territory and guarantees. None existed as of 15 November; Kyiv still rejects Putin's demand for all of eastern Donbas. [41]",
+      "links": [
+        {
+          "id": "citation_30",
+          "sourceNumber": 30,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_33",
+          "sourceNumber": 33,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_6",
+          "sourceNumber": 6,
+          "rect": {
+            "x": 0.2609375,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_35",
+          "sourceNumber": 35,
+          "rect": {
+            "x": 0.3559375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_40",
+          "sourceNumber": 40,
+          "rect": {
+            "x": 0.45140625,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_41",
+          "sourceNumber": 41,
+          "rect": {
+            "x": 0.546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "taiwan",
+      "title": "PLA DEPLOYMENT",
+      "kind": "story",
+      "imagePath": "pages/taiwan.png",
+      "bundleAsset": "",
+      "sha256": "5413496f9084b58c8e9a21dc42871d67431cf38b207856a871697d72670631d9",
+      "accessibleText": "UNANNOUNCED AND LARGER THAN JUSTICE MISSION\n\nPLA DEPLOYMENT\n\nTaiwan's National Security Council secretary-general, Joseph Wu, said on 3 November that more than 100 Chinese navy and coast guard vessels were deployed across the western Pacific, drawn from the Northern, Eastern and Southern theater commands in at least four surface task groups, including the Liaoning carrier group. [42][43]\n\nBeijing named no exercise and called the carrier's activity routine. A senior Taiwan security official told Reuters the deployment was larger than Justice Mission 2025 and included simulated attacks on other militaries and cities. [7]\n\nUnderlying tracking data has not been published, and France 24 found a viral map of an \"airtight blockade\" misleading. By 13 November, two Taiwan security officials said, about 70 vessels remained within the first island chain. China hosts the APEC summit in Shenzhen next week, where Presidents Trump and Xi are expected to meet. [43][44]",
+      "links": [
+        {
+          "id": "citation_42",
+          "sourceNumber": 42,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_43",
+          "sourceNumber": 43,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_7",
+          "sourceNumber": 7,
+          "rect": {
+            "x": 0.2609375,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_44",
+          "sourceNumber": 44,
+          "rect": {
+            "x": 0.3559375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "taiwan-assessment",
+      "title": "BLOCKADE OR REHEARSAL?",
+      "kind": "story",
+      "imagePath": "pages/taiwan-assessment.png",
+      "bundleAsset": "",
+      "sha256": "c9efa419334ec3041579eba4d13ab7349faa8dffcc9331dccf8ad0fe7fd5c73b",
+      "accessibleText": "NO SIGN OF IMMINENT ACTION\n\nBLOCKADE OR REHEARSAL?\n\nISW assessed on 6 November that the PLA may be conducting an unannounced exercise simulating Taiwan's isolation, with warships positioned to deter outside intervention. That is an analytical judgment, not a confirmed blockade drill. The Diplomat reads the pattern as long-distance deployment and joint command training. [45][42]\n\nEither reading matters. Task groups toward Guam rehearse holding U.S. and Japanese forces at a distance, and coast guard participation supports law-enforcement pressure short of war. Australia, Japan, the Philippines and the U.S. agreed on 10 November to expand joint exercises. [45][46]\n\nEscalation indicators would include declared closure zones, inspections of merchant ships or concentration near Taiwan's ports. Watchfront found no verified reporting of these through 14 November. Taipei calls the campaign \"silent intimidation\" ahead of major international meetings. [43][47]",
+      "links": [
+        {
+          "id": "citation_45",
+          "sourceNumber": 45,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_42",
+          "sourceNumber": 42,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_46",
+          "sourceNumber": 46,
+          "rect": {
+            "x": 0.2609375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_43",
+          "sourceNumber": 43,
+          "rect": {
+            "x": 0.35640625,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_47",
+          "sourceNumber": 47,
+          "rect": {
+            "x": 0.451875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "schools",
+      "title": "HOAX BOMB THREATS",
+      "kind": "story",
+      "imagePath": "pages/schools.png",
+      "bundleAsset": "",
+      "sha256": "95b1640579d828b9f2c57378a018b9159112e076be88b412d554a223f79dfb9f",
+      "accessibleText": "THOUSANDS OF SCHOOLS, NO DEVICES FOUND\n\nHOAX BOMB THREATS\n\nOn 11 November about 6,300 Italian schools received the same emailed bomb threat; the education minister said at least 300 were affected. A second wave on 12 November reached more than 1,800. Northern Ireland police said more than 300 schools there received an email originating outside the UK and treated it as a hoax; Scotland and the Republic of Ireland were also targeted. Reports differ on whether UK schools evacuated. [9][48][49][50]\n\nThe Italian email was signed \"Mikhail Andropov, leader of the Vilayat of Misoginistan,\" according to a copy seen by Reuters — the same purported author of threats to newsrooms in Ireland and Bulgaria the previous week. Around 400 Munster schools received a separate email; Ireland said there was no need to evacuate. [51][52]\n\nItaly's government said buildings should not be evacuated on a mass email alone, and Meloni said there was no concrete danger. The hoaxes have also disrupted flights and newsrooms since early November. No explosives have been found, and officials have not said who is sending them. [48][53]",
+      "links": [
+        {
+          "id": "citation_9",
+          "sourceNumber": 9,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_48",
+          "sourceNumber": 48,
+          "rect": {
+            "x": 0.165,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_49",
+          "sourceNumber": 49,
+          "rect": {
+            "x": 0.26046875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_50",
+          "sourceNumber": 50,
+          "rect": {
+            "x": 0.3559375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_51",
+          "sourceNumber": 51,
+          "rect": {
+            "x": 0.45140625,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_52",
+          "sourceNumber": 52,
+          "rect": {
+            "x": 0.546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_53",
+          "sourceNumber": 53,
+          "rect": {
+            "x": 0.64234375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "france-iran",
+      "title": "REFRIGERATION SABOTAGE",
+      "kind": "story",
+      "imagePath": "pages/france-iran.png",
+      "bundleAsset": "",
+      "sha256": "5a844a2315ec0fd598b96f2b6896daa8f9cedc4d6279af5ea2eb2a6d8a94ed9d",
+      "accessibleText": "FRANCE NAMES AN IRGC UNIT\n\nREFRIGERATION SABOTAGE\n\nOn the night of 11 October attackers took remote control of Danfoss and Dixell refrigeration controllers at about 700 French retail sites through web interfaces, forcing defrost cycles at high temperatures and disabling alarms. Food losses ran to tens of millions of euros, and at least 15 fires followed. [54][55]\n\nOn 9 November France attributed the attack to Shahid Kaveh, a cyber unit of Iran's Revolutionary Guard. Paris summoned Iran's ambassador, weighed sanctions including entry bans and asset freezes, and prosecutors requested international arrest warrants. [8][55]\n\nIran denies involvement. France's attribution covers October only. A second wave on 1–2 November hit retailers in Belgium, Luxembourg, Sweden, the Netherlands, Ireland, Estonia and Portugal and is unattributed. Two Russian-aligned hacktivist groups, NoName057(16) and Z-Pentest, reportedly claimed the supermarket attacks. [8][56]",
+      "links": [
+        {
+          "id": "citation_54",
+          "sourceNumber": 54,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_55",
+          "sourceNumber": 55,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_8",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.2609375,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_56",
+          "sourceNumber": 56,
+          "rect": {
+            "x": 0.3559375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "turla",
+      "title": "TURLA AND EXCHANGE",
+      "kind": "story",
+      "imagePath": "pages/turla.png",
+      "bundleAsset": "",
+      "sha256": "5176ff38343a430316d5b0b68f2b2d009b7b0a710255992fc92121fca340f7bb",
+      "accessibleText": "RUSSIAN SPIES INSIDE GOVERNMENT EMAIL\n\nTURLA AND EXCHANGE\n\nESET disclosed on 10 November a toolset it calls Cereal, used by Turla — assessed to be part of Russia's FSB — on Microsoft Exchange servers at government organizations in Kazakhstan and Romania. It was first found in November 2025. [10][57]\n\nCereal runs in memory, receives commands, maps the network and copies selected email straight out of the mail flow. Its backdoor listens on paths disguised as Outlook Web Access and Autodiscover traffic, so no attacker-owned server is needed. [10][58]\n\nThe breach was of national governments' servers, not NATO or EU systems; Cereal was configured to collect email to and from NATO and the EU. ESET attributes it to Turla with high confidence. [10]",
+      "links": [
+        {
+          "id": "citation_10",
+          "sourceNumber": 10,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_57",
+          "sourceNumber": 57,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_58",
+          "sourceNumber": 58,
+          "rect": {
+            "x": 0.2609375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "grey-zone",
+      "title": "EUROPE'S GREY ZONE",
+      "kind": "story",
+      "imagePath": "pages/grey-zone.png",
+      "bundleAsset": "",
+      "sha256": "b4a5de77c8bee7c95caf16de1a4e4755c1e68fa881b47202ed4f78581888732d",
+      "accessibleText": "SHARED EFFECTS, SEPARATE ACTORS\n\nEUROPE'S GREY ZONE\n\nAttribution differs by case. France formally attributes the October refrigeration sabotage to the IRGC, though Russian-aligned hacktivists also claimed the attacks; ESET attributes Cereal to Turla with high confidence; the school hoaxes are unattributed. [8][56][10][53]\n\nThe episodes share effects — cost, fear and stretched public services below the threshold of armed attack — and exploit the same weaknesses: exposed devices, public email addresses and internet-facing servers. That is convergence of method and interest, not evidence of coordination. [59][51]\n\nCoordination would require shared infrastructure, tools or operators, or intelligence showing joint tasking. None has been reported. The hacktivist claim is unverified and does not by itself show Russian–Iranian cooperation. [10][56]",
+      "links": [
+        {
+          "id": "citation_8",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_56",
+          "sourceNumber": 56,
+          "rect": {
+            "x": 0.165,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_10",
+          "sourceNumber": 10,
+          "rect": {
+            "x": 0.26046875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_53",
+          "sourceNumber": 53,
+          "rect": {
+            "x": 0.3559375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_59",
+          "sourceNumber": 59,
+          "rect": {
+            "x": 0.45140625,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_51",
+          "sourceNumber": 51,
+          "rect": {
+            "x": 0.546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "snowball",
+      "title": "OPERATION SNOWBALL",
+      "kind": "story",
+      "imagePath": "pages/snowball.png",
+      "bundleAsset": "",
+      "sha256": "98209aa96f90fd692b93e1dbbfef507daf3234bdd9b527fd7d1f26c6ca447898",
+      "accessibleText": "AN AI AGENT RAN A TWO-WEEK INTRUSION\n\nOPERATION SNOWBALL\n\nMalbear Labs reported on 8 November that an exposed open directory held the live workspace of an autonomous intrusion harness: about 70 session transcripts of a jailbroken DeepSeek agent attacking a European telecom provider and 13 organizations hosted on it for two weeks. [60][61]\n\nA Chinese-speaking operator set the targets; the agent ran reconnaissance, exploited known flaws including in Cisco BroadWorks voice systems, and rebuilt its attack chain when blocked. Malbear reports credential and data theft; its scale has not been independently confirmed and the telecom is unnamed. [60]\n\nMalbear made no state attribution; the operator's language does not establish nationality or government links. [60]",
+      "links": [
+        {
+          "id": "citation_60",
+          "sourceNumber": 60,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_61",
+          "sourceNumber": 61,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "proxies-github",
+      "title": "PROXIES AND PIPELINES",
+      "kind": "story",
+      "imagePath": "pages/proxies-github.png",
+      "bundleAsset": "",
+      "sha256": "213ace1095e42b66bbce5552324287f473506622f4518263cf50704945abc12c",
+      "accessibleText": "WHITE HOUSE TRAFFIC, STOLEN GITHUB TOKENS\n\nPROXIES AND PIPELINES\n\nLayer3 Intel saw 28 residential proxy services exit through the Executive Office of the President's network 236 times between 5 October and 3 November, mostly in the evening. Synthient tied some to Windows installations of Infatica proxy software. No compromise of classified systems has been reported. [62][63]\n\nFrom 10 November the wfx-loot campaign used 4,837 compromised GitHub accounts to open probe pull requests in 61,764 repositories, with its secret stealer confirmed to run in more than 1,800. SafeDep counted 8,093 repositories receiving malicious commits. [64]\n\nThe stealer takes cloud keys, package-publishing tokens and AI-provider keys. The lesson: short-lived tokens, approval for workflow changes, and rapid secret rotation. [65]",
+      "links": [
+        {
+          "id": "citation_62",
+          "sourceNumber": 62,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_63",
+          "sourceNumber": 63,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_64",
+          "sourceNumber": 64,
+          "rect": {
+            "x": 0.2609375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_65",
+          "sourceNumber": 65,
+          "rect": {
+            "x": 0.35640625,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "ai-assessment",
+      "title": "THE AI CYBER THREAT",
+      "kind": "story",
+      "imagePath": "pages/ai-assessment.png",
+      "bundleAsset": "",
+      "sha256": "3759c2eb5686c3f03903139d30c3c8cf13d5503161d9425e974110b98c96b9b6",
+      "accessibleText": "DEMONSTRATED, NOT YET DECISIVE\n\nTHE AI CYBER THREAT\n\nDemonstrated: an AI agent can chain reconnaissance, known exploits and tool rebuilding over weeks with little direction, and state groups use AI models for targeting and phishing. [60][20]\n\nNot demonstrated: novel AI-discovered exploits, or AI-driven attacks causing physical disruption. Snowball relied on known vulnerabilities and was exposed by its own careless operational security. [60]\n\nThe economics are shifting nonetheless. One operator can sustain a multi-week campaign cheaply, raising the cost of leaving known flaws unpatched on internet-facing systems. [60]",
+      "links": [
+        {
+          "id": "citation_60",
+          "sourceNumber": 60,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_20",
+          "sourceNumber": 20,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "central-assessment",
+      "title": "A COORDINATED CAMPAIGN?",
+      "kind": "story",
+      "imagePath": "pages/central-assessment.png",
+      "bundleAsset": "",
+      "sha256": "493736a434ddd1a2bf4170e4e754f58246ec27e67dfd9f8bab2618852ca72bcc",
+      "accessibleText": "CONVERGENCE, NOT CONFIRMED COORDINATION\n\nA COORDINATED CAMPAIGN?\n\nTwo links are established. France names Shahid Kaveh for the refrigeration sabotage, and U.S. agencies link the same IRGC unit to disruption of American industrial controllers: one actor, two theaters. Turla's espionage is attributed with high confidence. [8][19][10]\n\nNothing connects these to the FAA outage, which officials trace to contractor network work, to the unattributed school hoaxes, or to Snowball, which has no state attribution. No shared infrastructure, tooling or command link across Russian, Iranian and Chinese operations has been reported. [2][53][60]\n\nOne complication: Russian-aligned hacktivists claimed the supermarket attacks France attributes to the IRGC. The overlap is unverified and fits opportunistic claiming as well as cooperation. Moscow, Tehran and Beijing share an interest in exposing Western fragility and exploit the same weaknesses independently. [56][23][19]",
+      "links": [
+        {
+          "id": "citation_8",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_19",
+          "sourceNumber": 19,
+          "rect": {
+            "x": 0.165,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_10",
+          "sourceNumber": 10,
+          "rect": {
+            "x": 0.26046875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_2",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.3559375,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_53",
+          "sourceNumber": 53,
+          "rect": {
+            "x": 0.4509375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_60",
+          "sourceNumber": 60,
+          "rect": {
+            "x": 0.54640625,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_56",
+          "sourceNumber": 56,
+          "rect": {
+            "x": 0.641875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_23",
+          "sourceNumber": 23,
+          "rect": {
+            "x": 0.73734375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "judgment",
+      "title": "WHAT WOULD CHANGE IT",
+      "kind": "story",
+      "imagePath": "pages/judgment.png",
+      "bundleAsset": "",
+      "sha256": "98ec18e25dc9adb074fad7347f387ec827b1b2386db16c0bea739751853e3e23",
+      "accessibleText": "TESTS FOR COORDINATION\n\nWHAT WOULD CHANGE IT\n\nCoordination would be shown by common infrastructure across operations, shared malware or personnel, verified joint participation such as Russian-aligned groups in the refrigeration operation, action timed to political events, or intelligence showing joint tasking. [23][56]\n\nCoincidence and independent failure explain more of this week than design. Preliminary findings trace the FAA outage to contractor network work, mass hoax emails need little skill, and adversaries independently probe the same exposed systems. [2][22][51]\n\nWatchfront's judgment: converging interests and parallel opportunism, with confirmed state action by Iran and Russia. A coordinated destabilization campaign is not supported by current evidence. [8][10]",
+      "links": [
+        {
+          "id": "citation_23",
+          "sourceNumber": 23,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_56",
+          "sourceNumber": 56,
+          "rect": {
+            "x": 0.16546875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_2",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.2609375,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_22",
+          "sourceNumber": 22,
+          "rect": {
+            "x": 0.3559375,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_51",
+          "sourceNumber": 51,
+          "rect": {
+            "x": 0.45140625,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_8",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.546875,
+            "y": 0.8831578947368421,
+            "width": 0.08333333333333333,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_10",
+          "sourceNumber": 10,
+          "rect": {
+            "x": 0.641875,
+            "y": 0.8831578947368421,
+            "width": 0.08380208333333333,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "sources",
+      "title": "SOURCES",
+      "kind": "sources",
+      "imagePath": "pages/sources.png",
+      "bundleAsset": "",
+      "sha256": "25b142ffe5cca36f192cf8185fa5ace7efa11e562532be136a07ba58743d8b0e",
+      "accessibleText": "Primary Reporting And Sources\n\nSOURCES\n\n\n\n[1] CNBC — Ground stop, past outages — https://www.cnbc.com/2026/11/13/faa-ground-stop.html\n[2] CBS — Duffy: router flooded network — https://www.cbsnews.com/news/ground-stop-faa-telecom-network-sean-duffy-face-the-nation/\n[3] CNBC — Longest pause in 25 years — https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html\n[4] TechCrunch — Kress interim CEO — https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/\n[5] AP/NPR — Abu Dhabi talks end — https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks\n[6] CNN — Europe to join next talks — https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl\n[7] Reuters — Silent intimidation — https://whbl.com/2026/11/12/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/\n[8] AP/NPR — Iran denies fridge attack — https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks\n[9] Al Jazeera — Italy evacuations — https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts\n[10] ESET — Turla Cereal toolset — https://www.eset.com/us/about/newsroom/research/eset-research-turla-cereal-exchange-email-espionage/\n[11] AP/PBS — FAA grounds all flights — https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems\n[12] CBS — Normal by Sunday night — https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/\n[13] Fox Business — L3Harris statement — https://www.foxbusiness.com/fox-news-air-space/who-l3harris-federal-contractor-sec-duffy-says-may-have-caused-faa-outage\n[14] NPR — 'Equipment issue' in upgrade — https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel\n[15] NBC — Ground stop live updates — https://www.nbcnews.com/news/us-news/live-blog/live-updates-flights-grounded-faa-communications-outage-rcna609268\n[16] ABC — No sign of 'nefarious attack' — https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848\n[17] Flying — SMART at all 22 centers — https://www.flyingmag.com/faa-smart-ai-now-active-at-22-artccs-nationwide/\n[18] AVweb — SMART expansion concerns — https://avweb.com/aviation-news/faa-expands-ai-assisted-traffic-management/\n[19] CISA/FBI — Iranian PLC attacks — https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a\n[20] Infosecurity — State hackers use AI — https://www.infosecurity-magazine.com/news/nation-state-hackers-gemini-ai/\n[21] The Register — FAA telecoms network — https://www.theregister.com/offbeat/2026/11/13/all-us-flights-grounded-by-faa/5309912\n[22] GAO — FAA modernization — https://files.gao.gov/reports/GAO-26-107992/index.html\n[23] CISA/NSA/FBI — Volt Typhoon — https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a\n[24] CNBC — Nvidia board inquiry — https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html\n[25] Fox Business — China denies plot — https://www.foxbusiness.com/technology/china-denies-spy-plot-targeting-nvidia-ceo-jensen-huang-calls-allegations-smear\n[26] NBC — Huang resigns — https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402\n[27] Roll Call — Export limits push — https://rollcall.com/2026/11/12/calls-for-nvidia-probes-new-chip-export-limits-intensify/\n[28] CNBC — Nvidia fallout live — https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html\n[29] CNN — Huang to testify — https://www.cnn.com/2026/11/11/business/live-news/nvidia-jensen-huang-investigation-fallout\n[30] AP/PBS — Prisoner exchange deal — https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough\n[31] ISW — Russian offensive, 12 Nov — https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-12-2026\n[32] The National — Envoys meet Putin — https://www.thenationalnews.com/news/uk/2026/11/12/us-envoys-seek-to-build-on-progress-made-in-ukraine-peace-talks-in-abu-dhabi/\n[33] Hromadske — Envoys meet Zelenskyy — https://hromadske.ua/en/amp/war/274297-zelenskyy-zustrivsia-iz-vitkoffom-ta-kushnerom-u-dublini\n[34] Al Jazeera — Power cuts, 8 Nov — https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity\n[35] Euromaidan — Ukrenergo blackouts — https://euromaidanpress.com/2026/11/13/ukraines-grid-operator-kept-all-day-blackouts-in-parts-of-the-country-after-russias-latest-strikes-on-the-grid/\n[36] Ukrainska Pravda — Omsk strike — https://www.pravda.com.ua/eng/news/2026/11/12/8062494/\n[37] Kyiv Post — Volgograd refinery — https://www.kyivpost.com/post/89990\n[38] Kyiv Independent — 7 killed, 80 injured — https://kyivindependent.com/at-least-7-killed-80-injured-in-russian-attacks-across-ukraine-zaporizhzhia-among-worst-hit/\n[39] CNN/ABC17 — Starshield disruptions — https://abc17news.com/politics/national-politics/cnn-us-politics/2026/11/13/witkoff-and-kushner-to-meet-zelensky-after-talks-with-putin-as-ukraine-says-starshield-restricted-again/\n[40] CNN — Energy strikes, economy — https://edition.cnn.com/2026/11/08/europe/ukraine-russia-attacks-energy-infrastructure-economy-intl\n[41] Time — Envoys meet Putin — https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/\n[42] The Diplomat — 'Silent' exercise — https://thediplomat.com/2026/11/beyond-a-taiwan-blockade-the-strategic-implications-behind-the-plas-silent-military-exercise/\n[43] France 24 — PLA drills explained — https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan\n[44] LBC/Reuters — About 70 vessels remain — https://www.lbc.co.uk/article/china-taiwan-pacific-drills-5HjdmKb_2/\n[45] ISW — China–Taiwan, 6 Nov — https://understandingwar.org/research/china-taiwan/china-taiwan-update-november-6-2026/\n[46] Japan MOD — Four-nation statement — https://www.mod.go.jp/en/article/2026/11/e52df2477bcd20e95b37f73f95781be40c3f86aa.html\n[47] Taipei Times — 'Silent intimidation' — https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867710\n[48] Al Jazeera — 1,800 schools — https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts\n[49] CNN — UK and Ireland alerts — https://www.cnn.com/2026/11/11/europe/italy-europe-bomb-threat-intl\n[50] CNBC — Scotland, N. Ireland — https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html\n[51] Reuters/NBC — Andropov emails — https://www.nbcnews.com/world/italy/italy-schools-evacuated-identical-bomb-threat-russia-iran-rcna608717\n[52] TheJournal — Irish schools — https://www.thejournal.ie/bomb-threats-schools-media-thejournal-7222128-Nov2026/\n[53] HNGN — Hoax threats across Europe — https://www.hngn.com/articles/273828/20261113/hoax-bomb-threats-hit-thousands-european-schools.htm\n[54] Hacker News — 700 sites sabotaged — https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html\n[55] CNBC — France weighs sanctions — https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html\n[56] DomainTools — Refrigeration sabotage — https://dti.domaintools.com/research/european-refrigeration-systems-cyber-sabotage\n[57] CyberScoop — Turla and FSB — https://cyberscoop.com/russian-turla-group-used-new-toolset-to-silently-pilfer-emails-from-kazakhstan-romanian-governments/\n[58] Help Net — Cereal backdoor — https://www.helpnetsecurity.com/2026/11/10/eset-turla-exchange-malware/\n[59] Al Jazeera — Second wave — https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk\n[60] Malbear Labs — Operation Snowball — https://malbearlabs.com/posts/operation-snowball-inside-an-autonomous-ai-intrusion-campaign\n[61] SC Media — Snowball — https://www.scworld.com/brief/autonomous-ai-agent-executes-multi-week-cyberattack-on-european-telecommunications-provider\n[62] The Register — Layer3 findings — https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969\n[63] Krebs — White House proxies — https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/\n[64] Chainguard — wfx-loot campaign — https://www.chainguard.dev/unchained/wfx-loot-stolen-github-tokens-pushed-a-ci-secret-stealer-into-60-000-repositories-november-2026\n[65] OX Security — wfx-loot stealer — https://www.ox.security/blog/thousands-of-github-accounts-hijacked-with-wfx-loot-ci-secret-stealing-malware-via-github-actions-npm/",
+      "links": [
+        {
+          "id": "source_1",
+          "sourceNumber": 1,
+          "rect": {
+            "x": 0.07,
+            "y": 0.21654605263157894,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_2",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.07,
+            "y": 0.23601973684210525,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.07,
+            "y": 0.25549342105263156,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_4",
+          "sourceNumber": 4,
+          "rect": {
+            "x": 0.07,
+            "y": 0.2749671052631579,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_5",
+          "sourceNumber": 5,
+          "rect": {
+            "x": 0.07,
+            "y": 0.2944407894736842,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_6",
+          "sourceNumber": 6,
+          "rect": {
+            "x": 0.07,
+            "y": 0.31391447368421055,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_7",
+          "sourceNumber": 7,
+          "rect": {
+            "x": 0.07,
+            "y": 0.33338815789473686,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_8",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.07,
+            "y": 0.35286184210526317,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_9",
+          "sourceNumber": 9,
+          "rect": {
+            "x": 0.07,
+            "y": 0.3723355263157895,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_10",
+          "sourceNumber": 10,
+          "rect": {
+            "x": 0.07,
+            "y": 0.3918092105263158,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_11",
+          "sourceNumber": 11,
+          "rect": {
+            "x": 0.07,
+            "y": 0.4112828947368421,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_12",
+          "sourceNumber": 12,
+          "rect": {
+            "x": 0.07,
+            "y": 0.4307565789473684,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_13",
+          "sourceNumber": 13,
+          "rect": {
+            "x": 0.07,
+            "y": 0.4502302631578947,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_14",
+          "sourceNumber": 14,
+          "rect": {
+            "x": 0.07,
+            "y": 0.469703947368421,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_15",
+          "sourceNumber": 15,
+          "rect": {
+            "x": 0.07,
+            "y": 0.4891776315789474,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_16",
+          "sourceNumber": 16,
+          "rect": {
+            "x": 0.07,
+            "y": 0.5086513157894736,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_17",
+          "sourceNumber": 17,
+          "rect": {
+            "x": 0.07,
+            "y": 0.528125,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_18",
+          "sourceNumber": 18,
+          "rect": {
+            "x": 0.07,
+            "y": 0.5475986842105263,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_19",
+          "sourceNumber": 19,
+          "rect": {
+            "x": 0.07,
+            "y": 0.5670723684210527,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_20",
+          "sourceNumber": 20,
+          "rect": {
+            "x": 0.07,
+            "y": 0.586546052631579,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_21",
+          "sourceNumber": 21,
+          "rect": {
+            "x": 0.07,
+            "y": 0.6060197368421053,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_22",
+          "sourceNumber": 22,
+          "rect": {
+            "x": 0.07,
+            "y": 0.6254934210526316,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_23",
+          "sourceNumber": 23,
+          "rect": {
+            "x": 0.07,
+            "y": 0.6449671052631579,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_24",
+          "sourceNumber": 24,
+          "rect": {
+            "x": 0.07,
+            "y": 0.6644407894736842,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_25",
+          "sourceNumber": 25,
+          "rect": {
+            "x": 0.07,
+            "y": 0.6839144736842105,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_26",
+          "sourceNumber": 26,
+          "rect": {
+            "x": 0.07,
+            "y": 0.7033881578947369,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_27",
+          "sourceNumber": 27,
+          "rect": {
+            "x": 0.07,
+            "y": 0.7228618421052632,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_28",
+          "sourceNumber": 28,
+          "rect": {
+            "x": 0.07,
+            "y": 0.7423355263157895,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_29",
+          "sourceNumber": 29,
+          "rect": {
+            "x": 0.07,
+            "y": 0.7618092105263158,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_30",
+          "sourceNumber": 30,
+          "rect": {
+            "x": 0.07,
+            "y": 0.7812828947368421,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_31",
+          "sourceNumber": 31,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8007565789473684,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_32",
+          "sourceNumber": 32,
+          "rect": {
+            "x": 0.07,
+            "y": 0.8202302631578947,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_33",
+          "sourceNumber": 33,
+          "rect": {
+            "x": 0.07,
+            "y": 0.839703947368421,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_34",
+          "sourceNumber": 34,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.21654605263157894,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_35",
+          "sourceNumber": 35,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.23601973684210525,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_36",
+          "sourceNumber": 36,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.25549342105263156,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_37",
+          "sourceNumber": 37,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.2749671052631579,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_38",
+          "sourceNumber": 38,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.2944407894736842,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_39",
+          "sourceNumber": 39,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.31391447368421055,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_40",
+          "sourceNumber": 40,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.33338815789473686,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_41",
+          "sourceNumber": 41,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.35286184210526317,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_42",
+          "sourceNumber": 42,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.3723355263157895,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_43",
+          "sourceNumber": 43,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.3918092105263158,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_44",
+          "sourceNumber": 44,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.4112828947368421,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_45",
+          "sourceNumber": 45,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.4307565789473684,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_46",
+          "sourceNumber": 46,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.4502302631578947,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_47",
+          "sourceNumber": 47,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.469703947368421,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_48",
+          "sourceNumber": 48,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.4891776315789474,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_49",
+          "sourceNumber": 49,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.5086513157894736,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_50",
+          "sourceNumber": 50,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.528125,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_51",
+          "sourceNumber": 51,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.5475986842105263,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_52",
+          "sourceNumber": 52,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.5670723684210527,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_53",
+          "sourceNumber": 53,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.586546052631579,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_54",
+          "sourceNumber": 54,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.6060197368421053,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_55",
+          "sourceNumber": 55,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.6254934210526316,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_56",
+          "sourceNumber": 56,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.6449671052631579,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_57",
+          "sourceNumber": 57,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.6644407894736842,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_58",
+          "sourceNumber": 58,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.6839144736842105,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_59",
+          "sourceNumber": 59,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.7033881578947369,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_60",
+          "sourceNumber": 60,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.7228618421052632,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_61",
+          "sourceNumber": 61,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.7423355263157895,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_62",
+          "sourceNumber": 62,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.7618092105263158,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_63",
+          "sourceNumber": 63,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.7812828947368421,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_64",
+          "sourceNumber": 64,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.8007565789473684,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        },
+        {
+          "id": "source_65",
+          "sourceNumber": 65,
+          "rect": {
+            "x": 0.5075,
+            "y": 0.8202302631578947,
+            "width": 0.42916666666666664,
+            "height": 0.01631578947368421
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "number": 1,
+      "title": "CNBC — FAA grounds departing flights nationwide",
+      "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
+    },
+    {
+      "number": 2,
+      "title": "CBS — Duffy on the telecom network",
+      "url": "https://www.cbsnews.com/news/ground-stop-faa-telecom-network-sean-duffy-face-the-nation/"
+    },
+    {
+      "number": 3,
+      "title": "CNBC — Flights resume after ground stop",
+      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+    },
+    {
+      "number": 4,
+      "title": "TechCrunch — Huang resigns; CFO Colette Kress named interim CEO",
+      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+    },
+    {
+      "number": 5,
+      "title": "NPR — Russia and Ukraine agree to a prisoner exchange as talks end",
+      "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks"
+    },
+    {
+      "number": 6,
+      "title": "CNN — Envoys meet Putin",
+      "url": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl"
+    },
+    {
+      "number": 7,
+      "title": "Reuters via WHBL — China stages unannounced Pacific drills",
+      "url": "https://whbl.com/2026/11/12/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/"
+    },
+    {
+      "number": 8,
+      "title": "NPR — Iran denies it was behind cyber fridge attacks targeting France",
+      "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks"
+    },
+    {
+      "number": 9,
+      "title": "Al Jazeera — Schools across Italy evacuated after email bomb alerts",
+      "url": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts"
+    },
+    {
+      "number": 10,
+      "title": "ESET — Turla uses novel Exchange tool to spy on EU, NATO emails",
+      "url": "https://www.eset.com/us/about/newsroom/research/eset-research-turla-cereal-exchange-email-espionage/"
+    },
+    {
+      "number": 11,
+      "title": "PBS NewsHour/AP — FAA grounds all flights at U.S. airports",
+      "url": "https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems"
+    },
+    {
+      "number": 12,
+      "title": "CBS — What travelers need to know",
+      "url": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/"
+    },
+    {
+      "number": 13,
+      "title": "Fox Business — Who is L3Harris",
+      "url": "https://www.foxbusiness.com/fox-news-air-space/who-l3harris-federal-contractor-sec-duffy-says-may-have-caused-faa-outage"
+    },
+    {
+      "number": 14,
+      "title": "NPR — FAA cites equipment issue during upgrade",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel"
+    },
+    {
+      "number": 15,
+      "title": "NBC News — Live updates: FAA grounds flights nationwide",
+      "url": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-flights-grounded-faa-communications-outage-rcna609268"
+    },
+    {
+      "number": 16,
+      "title": "ABC News — FAA issues rare nationwide ground stop",
+      "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
+    },
+    {
+      "number": 17,
+      "title": "Flying — FAA's SMART AI system now active at all 22 ARTCCs",
+      "url": "https://www.flyingmag.com/faa-smart-ai-now-active-at-22-artccs-nationwide/"
+    },
+    {
+      "number": 18,
+      "title": "AVweb — FAA expands AI-assisted traffic management nationwide",
+      "url": "https://avweb.com/aviation-news/faa-expands-ai-assisted-traffic-management/"
+    },
+    {
+      "number": 19,
+      "title": "CISA, FBI and partners — AA26-097A Iranian-affiliated actors exploit PLCs",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+    },
+    {
+      "number": 20,
+      "title": "Infosecurity Magazine — Nation-state hackers embrace Gemini AI",
+      "url": "https://www.infosecurity-magazine.com/news/nation-state-hackers-gemini-ai/"
+    },
+    {
+      "number": 21,
+      "title": "The Register — All US flights grounded by FAA",
+      "url": "https://www.theregister.com/offbeat/2026/11/13/all-us-flights-grounded-by-faa/5309912"
+    },
+    {
+      "number": 22,
+      "title": "GAO-26-107992 — FAA air traffic control modernization",
+      "url": "https://files.gao.gov/reports/GAO-26-107992/index.html"
+    },
+    {
+      "number": 23,
+      "title": "CISA, NSA, FBI — AA24-038A PRC state-sponsored actors (Volt Typhoon)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a"
+    },
+    {
+      "number": 24,
+      "title": "CNBC — Nvidia investigates CEO's relationship with alleged Chinese spy",
+      "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+    },
+    {
+      "number": 25,
+      "title": "Fox Business — China rejects spy plot allegations",
+      "url": "https://www.foxbusiness.com/technology/china-denies-spy-plot-targeting-nvidia-ceo-jensen-huang-calls-allegations-smear"
+    },
+    {
+      "number": 26,
+      "title": "NBC News — Nvidia CEO Jensen Huang resigns",
+      "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402"
+    },
+    {
+      "number": 27,
+      "title": "Roll Call — Calls for Nvidia probes, new chip export limits intensify",
+      "url": "https://rollcall.com/2026/11/12/calls-for-nvidia-probes-new-chip-export-limits-intensify/"
+    },
+    {
+      "number": 28,
+      "title": "CNBC — Nvidia CEO resigns: live updates",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"
+    },
+    {
+      "number": 29,
+      "title": "CNN — Huang summoned to testify after resigning",
+      "url": "https://www.cnn.com/2026/11/11/business/live-news/nvidia-jensen-huang-investigation-fallout"
+    },
+    {
+      "number": 30,
+      "title": "PBS NewsHour/AP — Large prisoner exchange, no major breakthrough",
+      "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough"
+    },
+    {
+      "number": 31,
+      "title": "ISW/Critical Threats — Russian Offensive Campaign Assessment, 12 November 2026",
+      "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-12-2026"
+    },
+    {
+      "number": 32,
+      "title": "The National — US envoys meet Putin to build on Abu Dhabi talks",
+      "url": "https://www.thenationalnews.com/news/uk/2026/11/12/us-envoys-seek-to-build-on-progress-made-in-ukraine-peace-talks-in-abu-dhabi/"
+    },
+    {
+      "number": 33,
+      "title": "Hromadske — Zelensky meets envoys in Dublin",
+      "url": "https://hromadske.ua/en/amp/war/274297-zelenskyy-zustrivsia-iz-vitkoffom-ta-kushnerom-u-dublini"
+    },
+    {
+      "number": 34,
+      "title": "Al Jazeera — Russian strikes leave hundreds of thousands without electricity",
+      "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity"
+    },
+    {
+      "number": 35,
+      "title": "Euromaidan Press — Ukrenergo keeps all-day blackouts after strikes",
+      "url": "https://euromaidanpress.com/2026/11/13/ukraines-grid-operator-kept-all-day-blackouts-in-parts-of-the-country-after-russias-latest-strikes-on-the-grid/"
+    },
+    {
+      "number": 36,
+      "title": "Ukrainska Pravda — Ukraine strikes Omsk refinery for third time",
+      "url": "https://www.pravda.com.ua/eng/news/2026/11/12/8062494/"
+    },
+    {
+      "number": 37,
+      "title": "Kyiv Post — Ukraine confirms Volgograd refinery strike",
+      "url": "https://www.kyivpost.com/post/89990"
+    },
+    {
+      "number": 38,
+      "title": "Kyiv Independent — 7 killed, 80 injured across Ukraine",
+      "url": "https://kyivindependent.com/at-least-7-killed-80-injured-in-russian-attacks-across-ukraine-zaporizhzhia-among-worst-hit/"
+    },
+    {
+      "number": 39,
+      "title": "ABC17/CNN — Starshield restricted again",
+      "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/11/13/witkoff-and-kushner-to-meet-zelensky-after-talks-with-putin-as-ukraine-says-starshield-restricted-again/"
+    },
+    {
+      "number": 40,
+      "title": "CNN — Putin appears set on wrecking Ukraine's economy",
+      "url": "https://edition.cnn.com/2026/11/08/europe/ukraine-russia-attacks-energy-infrastructure-economy-intl"
+    },
+    {
+      "number": 41,
+      "title": "Time — Envoys meet Putin and Zelensky",
+      "url": "https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/"
+    },
+    {
+      "number": 42,
+      "title": "The Diplomat — Beyond a Taiwan blockade: the PLA's 'silent' exercise",
+      "url": "https://thediplomat.com/2026/11/beyond-a-taiwan-blockade-the-strategic-implications-behind-the-plas-silent-military-exercise/"
+    },
+    {
+      "number": 43,
+      "title": "France 24 — What we know about China's military exercises around Taiwan",
+      "url": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan"
+    },
+    {
+      "number": 44,
+      "title": "LBC — China's Pacific deployment",
+      "url": "https://www.lbc.co.uk/article/china-taiwan-pacific-drills-5HjdmKb_2/"
+    },
+    {
+      "number": 45,
+      "title": "ISW — China–Taiwan Update, 6 November 2026",
+      "url": "https://understandingwar.org/research/china-taiwan/china-taiwan-update-november-6-2026/"
+    },
+    {
+      "number": 46,
+      "title": "Japan Ministry of Defense — Joint statement of Australia, Japan, Philippines and U.S. defense ministers, 10 Nov 2026",
+      "url": "https://www.mod.go.jp/en/article/2026/11/e52df2477bcd20e95b37f73f95781be40c3f86aa.html"
+    },
+    {
+      "number": 47,
+      "title": "Taipei Times — China's silent intimidation",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867710"
+    },
+    {
+      "number": 48,
+      "title": "Al Jazeera — More than 1,800 Italian schools targeted by new hoax alerts",
+      "url": "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts"
+    },
+    {
+      "number": 49,
+      "title": "CNN — Bomb threat hoaxes prompt evacuation of Italian schools, alarm in UK and Ireland",
+      "url": "https://www.cnn.com/2026/11/11/europe/italy-europe-bomb-threat-intl"
+    },
+    {
+      "number": 50,
+      "title": "CNBC — Hundreds of schools in Italy, UK evacuated over hoax threats",
+      "url": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html"
+    },
+    {
+      "number": 51,
+      "title": "NBC News — Italy schools evacuated over identical bomb threat",
+      "url": "https://www.nbcnews.com/world/italy/italy-schools-evacuated-identical-bomb-threat-russia-iran-rcna608717"
+    },
+    {
+      "number": 52,
+      "title": "TheJournal.ie — Hundreds of schools receive hoax bomb threat emails",
+      "url": "https://www.thejournal.ie/bomb-threats-schools-media-thejournal-7222128-Nov2026/"
+    },
+    {
+      "number": 53,
+      "title": "HNGN — Hoax threats hit European schools",
+      "url": "https://www.hngn.com/articles/273828/20261113/hoax-bomb-threats-hit-thousands-european-schools.htm"
+    },
+    {
+      "number": 54,
+      "title": "The Hacker News — France blames Iran for sabotage of refrigeration controllers",
+      "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html"
+    },
+    {
+      "number": 55,
+      "title": "CNBC — France blames Iran for supermarket refrigerator cyberattacks",
+      "url": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html"
+    },
+    {
+      "number": 56,
+      "title": "DomainTools — European refrigeration sabotage",
+      "url": "https://dti.domaintools.com/research/european-refrigeration-systems-cyber-sabotage"
+    },
+    {
+      "number": 57,
+      "title": "CyberScoop — Turla used new toolset to pilfer emails",
+      "url": "https://cyberscoop.com/russian-turla-group-used-new-toolset-to-silently-pilfer-emails-from-kazakhstan-romanian-governments/"
+    },
+    {
+      "number": 58,
+      "title": "Help Net Security — Turla's Cereal turns Exchange servers into spy hubs",
+      "url": "https://www.helpnetsecurity.com/2026/11/10/eset-turla-exchange-malware/"
+    },
+    {
+      "number": 59,
+      "title": "Al Jazeera — If hackers can take over a supermarket fridge, what else is at risk?",
+      "url": "https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk"
+    },
+    {
+      "number": 60,
+      "title": "Malbear Labs — Operation Snowball: inside an autonomous AI intrusion campaign",
+      "url": "https://malbearlabs.com/posts/operation-snowball-inside-an-autonomous-ai-intrusion-campaign"
+    },
+    {
+      "number": 61,
+      "title": "SC Media — Autonomous AI agent executes multi-week cyberattack on European telecom",
+      "url": "https://www.scworld.com/brief/autonomous-ai-agent-executes-multi-week-cyberattack-on-european-telecommunications-provider"
+    },
+    {
+      "number": 62,
+      "title": "The Register — The White House is apparently a residential proxy exit spot",
+      "url": "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969"
+    },
+    {
+      "number": 63,
+      "title": "KrebsOnSecurity — Want to rent an internet address at the White House?",
+      "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/"
+    },
+    {
+      "number": 64,
+      "title": "Chainguard — wfx-loot: stolen GitHub tokens pushed a CI secret stealer",
+      "url": "https://www.chainguard.dev/unchained/wfx-loot-stolen-github-tokens-pushed-a-ci-secret-stealer-into-60-000-repositories-november-2026"
+    },
+    {
+      "number": 65,
+      "title": "OX Security — Thousands of GitHub accounts hijacked with wfx-loot",
+      "url": "https://www.ox.security/blog/thousands-of-github-accounts-hijacked-with-wfx-loot-ci-secret-stealing-malware-via-github-actions-npm/"
+    }
+  ],
+  "home": {
+    "schemaVersion": 1,
+    "reviewedAt": "2026-11-15T16:20:00Z",
+    "reviewCadence": "Weekly",
+    "editorialPolicyVersion": 1,
+    "sources": [
+      {
+        "number": 1,
+        "title": "ACLED — U.S. Monitor, late-October 2026 demonstrations and political violence",
+        "url": "https://acleddata.com/monitor/us-monitor"
+      },
+      {
+        "number": 2,
+        "title": "City of Richmond — Voting continues after reported threats, November 3, 2026",
+        "url": "https://www.rva.gov/elections-press-releases-and-announcements/news/voting-continues-precincts-following-reported"
+      },
+      {
+        "number": 3,
+        "title": "Nextgov/FCW — Election security center reports limited threats, November 3, 2026",
+        "url": "https://www.nextgov.com/cybersecurity/2026/11/election-security-center-reports-limited-threats-voting-glitches-fuel-fraud-claims/417013/"
+      },
+      {
+        "number": 4,
+        "title": "ODNI — 2026 Annual Threat Assessment",
+        "url": "https://www.dni.gov/files/ODNI/documents/assessments/ATA-2026-Unclassified-Report.pdf"
+      },
+      {
+        "number": 5,
+        "title": "U.S. Department of Justice — 2026–2030 strategy, terrorism and espionage",
+        "url": "https://www.justice.gov/index.php/doj/strategic-plan-fys-2026-2030/objective-1-1"
+      },
+      {
+        "number": 6,
+        "title": "U.S. Department of Homeland Security — National Terrorism Advisory System",
+        "url": "https://www.dhs.gov/national-terrorism-advisory-system"
+      },
+      {
+        "number": 7,
+        "title": "CSIS — Global Terrorism Threat Assessment 2026",
+        "url": "https://www.csis.org/analysis/global-terrorism-threat-assessment-2026"
+      },
+      {
+        "number": 8,
+        "title": "ACLED — Political violence and protest event data",
+        "url": "https://www.acleddata.com/data/"
+      },
+      {
+        "number": 9,
+        "title": "Reuters — Ukraine probes November 2 clash near military recruitment dorm (3 November 2026)",
+        "url": "https://www.reuters.com/world/ukraine-probes-clashes-military-recruitment-dorm-2026-11-03/"
+      },
+      {
+        "number": 10,
+        "title": "Security Service of Ukraine — arrests following Kyiv-region riots (4 November 2026)",
+        "url": "https://www.ssu.gov.ua/en/novyny/sbu-zatrymala-i-povidomyla-pro-pidozru-orhanizatoram-zavorushen-u-petropavlivskii-borshchahivtsi"
+      },
+      {
+        "number": 11,
+        "title": "Security Service of Ukraine — suspected planned IED attack in Rivne (23 September 2026)",
+        "url": "https://ssu.gov.ua/en/novyny/sbu-zatrymala-ahenta-rf-yakyi-hotuvav-terakt-u-tsentri-rivnoho"
+      },
+      {
+        "number": 12,
+        "title": "Security Service of Ukraine — suspected attack plans in central Kyiv (20 October 2026)",
+        "url": "https://ssu.gov.ua/en/novyny/sbu-ta-natspolitsiia-zatrymaly-retsydyvistiv-yaki-na-zamovlennia-rf-hotuvaly-seriiu-teraktiv-u-tsentri-kyieva-video"
+      },
+      {
+        "number": 13,
+        "title": "UN Human Rights Monitoring Mission — Protection of Civilians, September 2026 (15 October)",
+        "url": "https://ukraine.ohchr.org/en/Protection-of-Civilians-in-Armed-Conflict-September-2026"
+      },
+      {
+        "number": 14,
+        "title": "Al Jazeera — Khartoum teachers strike over salaries and conditions (9 November 2026)",
+        "url": "https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools"
+      },
+      {
+        "number": 15,
+        "title": "Committee for Justice — Khartoum teachers strike (26 October 2026)",
+        "url": "https://www.cfjustice.org/sudan-committee-for-justice-documents-khartoum-teachers-strike-demanding-an-increase-in-the-minimum-wage-and-calls-for-their-demands-to-be-addressed/"
+      },
+      {
+        "number": 16,
+        "title": "U.S. Office of the Federal Register — FTO designation, Sudanese Muslim Brotherhood (16 March 2026)",
+        "url": "https://www.govinfo.gov/app/details/FR-2026-03-16/2026-05072"
+      },
+      {
+        "number": 17,
+        "title": "U.S. State Department — Sudan Travel Advisory (15 May 2026)",
+        "url": "https://travel.state.gov/en/international-travel/travel-advisories/sudan.html"
+      },
+      {
+        "number": 18,
+        "title": "United Nations — Deadly drone strikes in Sudan (19 October 2026)",
+        "url": "https://news.un.org/en/story/2026/10/1168628"
+      },
+      {
+        "number": 19,
+        "title": "Government of Canada — Myanmar Travel Advice, civil unrest and demonstrations (6 November 2026)",
+        "url": "https://travel.gc.ca/destinations/myanmar"
+      },
+      {
+        "number": 20,
+        "title": "Mizzima reporting — Yangon protest for political prisoners (4 November 2026)",
+        "url": "https://www.crphsupportgroup.no/post/spring-revolution-mizzima-daily-notes-74"
+      },
+      {
+        "number": 21,
+        "title": "UK Foreign, Commonwealth and Development Office — Myanmar: security, explosions and attacks on public sites",
+        "url": "https://www.gov.uk/foreign-travel-advice/myanmar/safety-and-security"
+      },
+      {
+        "number": 22,
+        "title": "UN Myanmar investigative mechanism — Rakhine market airstrike investigation (30 September 2026)",
+        "url": "https://iimm.un.org/en/deadly-airstrike-near-market-rakhine-state-myanmar-mechanism-calls-information"
+      },
+      {
+        "number": 23,
+        "title": "Associated Press — military claims capture of resistance positions (10 November 2026)",
+        "url": "https://apnews.com/article/b87feab3fa1e6d0ddb4b602a5ca09539"
+      },
+      {
+        "number": 24,
+        "title": "Sana’a Center for Strategic Studies — Yemen Review, July–September 2026",
+        "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026/28560"
+      },
+      {
+        "number": 25,
+        "title": "Human Rights Watch — Excessive force against Yemen protesters (26 August 2026)",
+        "url": "https://www.hrw.org/news/2026/08/26/update-on-the-human-rights-situation-in-yemen-and-the-need-to-secure-the-release-of"
+      },
+      {
+        "number": 26,
+        "title": "U.S. State Department — Yemen Travel Advisory (23 October 2026)",
+        "url": "https://travel.state.gov/en/international-travel/travel-advisories/yemen.html"
+      },
+      {
+        "number": 27,
+        "title": "South24 — Suspected AQAP operative targeted near Mukalla (8 October 2026)",
+        "url": "https://south24.net/news/news.php?nid=5781"
+      },
+      {
+        "number": 28,
+        "title": "United Nations Special Envoy — Yemen returns to full-scale war (9 October 2026)",
+        "url": "https://dppa.un.org/en/news/yemen-has-returned-to-full-scale-war-Special-Envoy-warns"
+      },
+      {
+        "number": 29,
+        "title": "Reuters — Haitian security operations and pro-intervention demonstrations (7 November 2026)",
+        "url": "https://www.reuters.com/world/americas/haiti-pm-says-gang-leader-mathias-saintil-dead-2026-11-07/"
+      },
+      {
+        "number": 30,
+        "title": "UN DPPA — Security crisis and postponed Haiti elections (19 October 2026)",
+        "url": "https://dppa.un.org/en/news/haiti-elections-on-hold-as-gangs-adapt-to-security-crackdown-security-council-hears"
+      },
+      {
+        "number": 31,
+        "title": "Associated Press — Police open fire during student protest in Port-au-Prince (1 July 2026)",
+        "url": "https://apnews.com/article/3d4ffba8708026809aa40ce89785b03c"
+      },
+      {
+        "number": 32,
+        "title": "Rezo Nòdwès — Protest dispersed by tear gas in Port-au-Prince (4 September 2026)",
+        "url": "https://rezonodwes.com/2026/09/haiti-la-police-disperse-violemment-des-manifestants-non-armes-a-port-au-prince-tandis-qua-kenscoff-les-gangs-sont-toujours-actifs/"
+      },
+      {
+        "number": 33,
+        "title": "U.S. Treasury OFAC — Viv Ansanm and Gran Grif FTO/terrorism designations (2 May 2025)",
+        "url": "https://ofac.treasury.gov/recent-actions/20250502"
+      },
+      {
+        "number": 34,
+        "title": "UN BINUH — Second-quarter 2026 killings and rival gang fighting (25 August 2026)",
+        "url": "https://binuh.unmissions.org/en/node/136551"
+      },
+      {
+        "number": 35,
+        "title": "ACLED — Students and road-blocking protests in Suwayda (2026)",
+        "url": "https://acleddata.com/expert-comment/why-are-students-protesting-syrias-al-suwayda"
+      },
+      {
+        "number": 36,
+        "title": "United Nations Deputy Special Envoy — Syria Security Council briefing (12 October 2026)",
+        "url": "https://daleel-madani.org/civil-society-directory/united-nations-office-special-envoy-syria/press-releases/deputy-special-envoy-secretary-general-syria-claudio-cordone-briefing-security-council-12-october"
+      },
+      {
+        "number": 37,
+        "title": "U.S. State Department — Syria Travel Advisory (23 October 2026)",
+        "url": "https://travel.state.gov/en/international-travel/travel-advisories/syria.html"
+      },
+      {
+        "number": 38,
+        "title": "UK House of Commons Library — Syrian armed groups and minority protection (1 September 2026)",
+        "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10429/"
+      },
+      {
+        "number": 39,
+        "title": "Human Rights Watch — Taliban lethal force on Herat protest (11 June 2026)",
+        "url": "https://www.hrw.org/news/2026/06/11/afghanistan-taliban-use-excessive-force-against-protesters"
+      },
+      {
+        "number": 40,
+        "title": "UNAMA — Arrests of women and girls in Afghanistan (8 October 2026)",
+        "url": "https://unama.unmissions.org/en/press-releases/unama-expresses-concern-over-de-facto-authority-arrests-of-afghan-women-and"
+      },
+      {
+        "number": 41,
+        "title": "U.S. State Department — Afghanistan Travel Advisory (February 2026)",
+        "url": "https://travel.state.gov/en/international-travel/travel-advisories/afghanistan.html"
+      },
+      {
+        "number": 42,
+        "title": "UNAMA — October cross-border armed strikes and civilian casualties (1 October 2026)",
+        "url": "https://unama.unmissions.org/en/news/unama-confirms-civilian-casualties-in-afghanistan"
+      },
+      {
+        "number": 43,
+        "title": "Dawn — Qila Abdullah sit-in ended after government talks (7 November 2026)",
+        "url": "https://www.dawn.com/news/2042697"
+      },
+      {
+        "number": 44,
+        "title": "Express Tribune — Fatal AJK protest clashes and police reports (9 November 2026)",
+        "url": "https://tribune.com.pk/story/2639465/ttap-calls-for-immediate-end-to-violence-resumption-of-talks-to-quell-ajk-unrest"
+      },
+      {
+        "number": 45,
+        "title": "Dawn and PICSS — 143 terrorist attacks recorded October 2026 (1 November 2026)",
+        "url": "https://www.dawn.com/news/2041388"
+      },
+      {
+        "number": 46,
+        "title": "U.S. State Department — Pakistan Travel Advisory (16 June 2026)",
+        "url": "https://travel.state.gov/en/international-travel/travel-advisories/pakistan.html"
+      },
+      {
+        "number": 47,
+        "title": "Arab News — Security forces and Baloch insurgency incidents (10 October 2026)",
+        "url": "https://www.arabnews.pk/pakistan/pakistan-counterterrorism-police-kill-10-suspectedmilitants-in-balochistan-3003771"
+      },
+      {
+        "number": 48,
+        "title": "UK Home Office — Country policy and information note: Sudan, security situation (July 2026)",
+        "url": "https://www.gov.uk/government/publications/sudan-country-policy-and-information-notes/country-policy-and-information-note-security-situation-sudan-july-2026-accessible"
+      },
+      {
+        "number": 49,
+        "title": "Reuters — UN warns millions of displaced Sudanese risk losing shelter as funds run low (6 November 2026)",
+        "url": "https://www.reuters.com/world/africa/millions-displaced-sudanese-risk-losing-shelter-funds-run-low-un-warns-2026-11-06/"
+      },
+      {
+        "number": 50,
+        "title": "ACLED — State repression increases under Myanmar military’s new leadership",
+        "url": "https://acleddata.com/report/state-repression-increases-under-myanmar-militarys-new-leadership"
+      },
+      {
+        "number": 51,
+        "title": "International Center for Not-for-Profit Law — Civic Freedom Monitor: Myanmar (29 October 2026)",
+        "url": "https://www.icnl.org/resources/civic-freedom-monitor/myanmar"
+      },
+      {
+        "number": 52,
+        "title": "Reuters — Myanmar military strikes on maternity clinic and school (2 November 2026)",
+        "url": "https://www.reuters.com/world/asia-pacific/newborn-among-15-killed-myanmar-military-strikes-maternity-clinic-school-sources-2026-11-02/"
+      },
+      {
+        "number": 53,
+        "title": "Office of the UN Special Envoy for Yemen — Hans Grundberg briefing to the Security Council (10 September 2026)",
+        "url": "https://osesgy.unmissions.org/en/news/briefing-by-the-un-special-envoy-for-yemen-hans-grundberg-to-the-security-council-2"
+      },
+      {
+        "number": 54,
+        "title": "Reuters — Saudi-led coalition says it intercepted Houthi missiles fired towards Riyadh (10 November 2026)",
+        "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/"
+      },
+      {
+        "number": 55,
+        "title": "ACLED — Haiti: four officers missing from Gang Suppression Force",
+        "url": "https://acleddata.com/expert-comment/haiti-four-officers-missing-gang-suppression-force-trouble"
+      },
+      {
+        "number": 56,
+        "title": "Geneva Academy War WATCH — Non-international armed conflict in Haiti: classification",
+        "url": "https://warwatch.ch/situations/non-international-armed-conflict-in-haiti/classification/"
+      },
+      {
+        "number": 57,
+        "title": "Geneva Academy War WATCH — Non-international armed conflict in Haiti: violations, October 2026 legal review",
+        "url": "https://warwatch.ch/situations/non-international-armed-conflict-in-haiti/violations/"
+      },
+      {
+        "number": 58,
+        "title": "Security Council Report — Syria, November 2026 Monthly Forecast",
+        "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-11/syria-97.php"
+      },
+      {
+        "number": 59,
+        "title": "UK House of Commons Library — Syria research briefing CBP-10430 (September 2026)",
+        "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10430/"
+      },
+      {
+        "number": 60,
+        "title": "Kyiv Independent — Russian attacks kill 7, injure 80 across Ukraine (14 November 2026)",
+        "url": "https://kyivindependent.com/at-least-7-killed-80-injured-in-russian-attacks-across-ukraine-zaporizhzhia-among-worst-hit/"
+      },
+      {
+        "number": 61,
+        "title": "Euromaidan Press — Ukrenergo keeps all-day blackouts after strikes on the grid (13 November 2026)",
+        "url": "https://euromaidanpress.com/2026/11/13/ukraines-grid-operator-kept-all-day-blackouts-in-parts-of-the-country-after-russias-latest-strikes-on-the-grid/"
+      },
+      {
+        "number": 62,
+        "title": "Anadolu via aNews — Sudanese army advances in West Kordofan (13 November 2026)",
+        "url": "https://anews.com.tr/world/2026/11/13/sudanese-army-advances-in-west-kordofan-says-it-downed-drone-from-ethiopia"
+      },
+      {
+        "number": 63,
+        "title": "Al Jazeera — Yemeni forces and Houthis exchange attacks (11 November 2026)",
+        "url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses"
+      },
+      {
+        "number": 64,
+        "title": "HNGN — Houthis say they hit Saudi pipeline that bypasses Hormuz (13 November 2026)",
+        "url": "https://www.hngn.com/articles/273825/20261113/houthis-claim-strikes-saudi-pipeline-that-bypasses-hormuz.htm"
+      },
+      {
+        "number": 65,
+        "title": "Al Jazeera — Haitian police operation kills Boston gang leader (7 November 2026)",
+        "url": "https://aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation"
+      },
+      {
+        "number": 66,
+        "title": "Associated Press via KSAT — 400 Mawozo contacts disarmament body as gunfights persist (7 November 2026)",
+        "url": "https://www.ksat.com/news/world/2026/11/07/powerful-haitian-gang-reaches-out-to-state-disarmament-group-as-gunfights-persist/"
+      },
+      {
+        "number": 67,
+        "title": "Global Voices via NewsGram — Kenscoff under armed gangs (10 November 2026)",
+        "url": "https://www.newsgram.com/america/2026/11/10/haiti-kenscoff-from-quiet-life-to-armed-gangs"
+      },
+      {
+        "number": 68,
+        "title": "Al Jazeera — Two Syrian security officers killed in raid on ISIL cell (22 October 2026)",
+        "url": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus"
+      },
+      {
+        "number": 69,
+        "title": "Shafaq News — Suspected ISIS movements raise security alert in Suwayda (1 November 2026)",
+        "url": "https://shafaq.com/en/World/Suspected-ISIS-movements-raise-security-alert-in-Suwayda"
+      },
+      {
+        "number": 70,
+        "title": "Afghanistan International — Taliban say ISIS operates from Pakistan (7 November 2026)",
+        "url": "https://www.afintl.com/en/202611072239"
+      },
+      {
+        "number": 71,
+        "title": "Al Jazeera — Pakistan military reports 74 'terrorists' killed in raids (13 November 2026)",
+        "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids"
+      },
+      {
+        "number": 72,
+        "title": "Afghanistan International — Pakistan strikes Taliban border posts (2 November 2026)",
+        "url": "https://www.afintl.com/en/202611021501"
+      }
+    ],
+    "assessments": [
+      {
+        "countryID": "USA",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Localized U.S. demonstrations and election-related disruptions; this is not a nationwide violence designation.",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "ACLED described active U.S. protest movements before the November 3 elections [1]. Richmond election officials reported several threats at polling sites [2], while national election-security monitoring reported limited disruption and quick resolution of many incidents [3]. Additional localized disruptions are plausible, but sustained nationwide violent unrest is not established by these sources.",
+            "sourceNumbers": [
+              1,
+              2,
+              3
+            ],
+            "evidenceReview": {
+              "facts": "ACLED documented political demonstrations ahead of the midterms [1]. Richmond reported telephone threats at several polling locations, without confirmed suspicious activity at the assessed sites [2].",
+              "sourceClaims": "Richmond election officials described the local threats and police response [2]; national election-security monitoring characterized threat activity on election day as limited [3].",
+              "counterevidence": "The available national reporting does not establish widespread post-election violent disorder [3]. The Richmond threats were not confirmed as actual attacks [2].",
+              "alternativeExplanation": "The activity may reflect separate local grievances and hoaxes rather than an organized campaign. ACLED recorded distinct protest issues rather than one national command structure [1].",
+              "limitations": "Reporting does not cover every city or incident, and demonstrations alone do not establish violent civil unrest. National-level monitoring can undercount local disturbances [1][3]. Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [1]",
+              "revisionTriggers": "Reassess if corroborated violent incidents spread across several metropolitan areas, if repeated threats disrupt essential services, or if fresh incident data contradict the present localized pattern [1][2][3].",
+              "sourceNumbers": [
+                1,
+                2,
+                3
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "United States nationwide baseline; risk from disparate actors, not a finding of a specific imminent plot.",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "The 2026 intelligence assessment describes a persistent, varied terrorism threat to U.S. interests and the homeland [4]. DOJ identifies lone-offender violence and online radicalization among the continuing challenges [5], while CSIS finds no single dominant terrorist actor [7]. This supports a continued, non-specific threat assessment rather than a claim of an imminent nationwide attack [6].",
+            "sourceNumbers": [
+              4,
+              5,
+              6,
+              7
+            ],
+            "evidenceReview": {
+              "facts": "ODNI evaluates a geographically varied terrorism threat and homeland risk [4]. DOJ describes evolving terrorist tactics and online mobilization [5].",
+              "sourceClaims": "DOJ characterizes the threat environment as heightened in its 2026–2030 strategic plan [5]. CSIS separately identifies a fragmented landscape of groups, networks, and individuals [7].",
+              "counterevidence": "The DHS National Terrorism Advisory System is the mechanism for public advisories, and its listed status should be checked separately; a persistent background threat does not itself mean a specific imminent operation [6].",
+              "alternativeExplanation": "Some apparent increases in public warnings may reflect intelligence collection and improved reporting, not a confirmed acceleration in attempted attacks. Threat actors and motivations are heterogeneous [7].",
+              "limitations": "Open reporting cannot determine the status of undisclosed investigations or forecast an individual attacker. Annual assessments are strategic baselines rather than real-time tactical warnings [4][6]. Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [4]",
+              "revisionTriggers": "Raise the assessment only after corroborated recent attacks, disrupted plots, or a credible specific advisory; lower it if sustained threat indicators weaken. Consult DHS advisories and current case reporting [5][6][7].",
+              "sourceNumbers": [
+                4,
+                5,
+                6,
+                7
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "Low",
+            "trend": "No Comparison",
+            "confidence": "Low",
+            "scope": "Armed fighting within U.S. territory only; U.S. deployments and combat operations overseas are excluded.",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "ODNI describes threats to the U.S. homeland while emphasizing its geographic and deterrent advantages [4]. ACLED monitors U.S. political violence and demonstrations [8], but isolated criminal or political incidents do not by themselves constitute sustained organized armed conflict. The reviewed material does not establish an active domestic war; this is a low-confidence national baseline, not a guarantee against localized violence.",
+            "sourceNumbers": [
+              4,
+              8
+            ],
+            "evidenceReview": {
+              "facts": "The 2026 ODNI assessment differentiates threats to the homeland from broader overseas conflicts and notes U.S. geographic protective advantages [4]. ACLED maintains structured reporting on domestic political violence [8].",
+              "sourceClaims": "ODNI warns that hostile states and nonstate actors have capabilities to threaten the homeland; this is a capability assessment, not a declaration of active fighting within U.S. territory [4].",
+              "counterevidence": "A background threat of terrorism or political violence must not be misclassified as sustained armed conflict. ACLED tracks discrete violent events as well as conflicts [8].",
+              "alternativeExplanation": "Localized violent incidents may be criminal, ideological, or interpersonal rather than part of an organized armed campaign. Event classification must distinguish those possibilities [8].",
+              "limitations": "This baseline is derived from strategic public reporting and event-monitoring coverage, not an exhaustive audit of every U.S. jurisdiction. It may miss rapidly developing organized activity [4][8]. Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [4]",
+              "revisionTriggers": "Reclassify if verified sustained exchanges of fire between organized groups, seizure and defense of territory, or repeated coordinated military-style attacks emerge on U.S. soil [4][8].",
+              "sourceNumbers": [
+                4,
+                8
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "countryID": "UKR",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Kyiv region and isolated urban protest locations, not all of Ukraine",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Clashes with security forces at a National Guard facility near Kyiv on 2 November establish a localized violent civic disturbance distinct from the frontline war. [9][10]",
+            "sourceNumbers": [
+              9,
+              10
+            ],
+            "evidenceReview": {
+              "facts": "Reuters documented a confrontation, crowd violence, damage to a vehicle and an investigation into disputed treatment of recruits. [9][10]",
+              "sourceClaims": "The Ukrainian security service reported detaining alleged organizers; its account of paid provocation is an investigative allegation rather than an adjudicated finding. [9][10]",
+              "counterevidence": "Investigations remain underway, and the reporting does not demonstrate sustained riots across Ukrainian cities. [9][10]",
+              "alternativeExplanation": "Conscription grievances, rumor circulation and possible organized agitation may have contributed simultaneously. [9][10]",
+              "limitations": "No verified national incident series allows a claim of nationwide escalating disorder. [9][10] Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [9]",
+              "revisionTriggers": "Reassess if comparable violent clashes recur in other regions or police release verified incident totals. [9][10]",
+              "sourceNumbers": [
+                9,
+                10
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Rivne, Kyiv and other sites identified in security investigations",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Ukraine reports multiple intercepted bombing plots away from active combat zones; the threat is material but the reported plans were disrupted. [11][12]",
+            "sourceNumbers": [
+              11,
+              12
+            ],
+            "evidenceReview": {
+              "facts": "Ukraine’s security service describes a suspected rush-hour device near an administration building in Rivne and separate alleged bombing plans in Kyiv. [11][12]",
+              "sourceClaims": "The Ukrainian service attributes the plots to Russian-directed agents; arrests and suspicions are not court convictions. [11][12]",
+              "counterevidence": "Both cited examples were described as thwarted, not completed mass-casualty attacks. [11][12]",
+              "alternativeExplanation": "State-directed sabotage overlaps with wartime intelligence operations; not every attack on military infrastructure is terrorism. [11][12]",
+              "limitations": "Independent access to case files and undisclosed investigations is limited. [11][12] Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [11]",
+              "revisionTriggers": "Change classification if independently corroborated civilian-targeted attacks occur or the allegations fail evidentiary review. [11][12]",
+              "sourceNumbers": [
+                11,
+                12
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "Ongoing Conflict",
+            "trend": "Rising",
+            "confidence": "High",
+            "scope": "Frontline regions and nationwide exposure to missiles and drones",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Verified sustained Russian–Ukrainian military operations and recurring civilian harm meet the ongoing-armed-conflict threshold. [13] Strikes continued during the review week: attacks killed at least seven civilians and injured 80 over the day reported on 14 November, and the grid operator kept all-day power cuts after strikes on the energy system. [60][61]",
+            "sourceNumbers": [
+              13,
+              60,
+              61
+            ],
+            "evidenceReview": {
+              "facts": "UN monitors verified 328 civilians killed and 2,105 injured in September, with casualties across 22 regions and Kyiv. [13] On 14 November regional authorities reported at least seven civilians killed and 80 injured in Russian attacks over the previous day, with 96 Shahed-type drones launched; Ukrenergo scheduled all-day power cuts on 13 November after strikes on the grid. [60][61]",
+              "sourceClaims": "The UN mission documented a year-over-year increase in civilian casualties, which is a measure of exposure rather than territorial control. [13]",
+              "counterevidence": "Monthly casualty totals cannot establish the outcome of individual operations or guarantee the same intensity in each region. [13]",
+              "alternativeExplanation": "More frequent urban strikes can raise casualty totals independently of any movement of the front. [13]",
+              "limitations": "The latest cited UN monthly dataset is from September; some November events require separate verification. [13] Weekly review of 8–15 November: new strike reporting is consistent with the existing level; casualty tallies are preliminary. [60]",
+              "revisionTriggers": "Monitor verified ceasefires, strikes and geographic shifts in active military engagements. [13]",
+              "sourceNumbers": [
+                13,
+                60,
+                61
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "countryID": "SDN",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Khartoum and conflict-affected Darfur, Kordofan and Blue Nile; nationwide displacement and fragmented governance, with unequal regional intensity",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Fragmented civilian governance, coercive territorial control by opposing authorities, interrupted essential services and large-scale displacement establish severe internal instability independent of protest counts. [48][49] Khartoum teachers’ strikes are an additional, not primary, indicator of civic disruption. [14][15] The civil war itself is assessed separately under Armed Conflict.",
+            "sourceNumbers": [
+              14,
+              15,
+              48,
+              49
+            ],
+            "evidenceReview": {
+              "facts": "UK Home Office country reporting describes Sudan’s wartime security situation, including territory held by opposing authorities and disrupted state functions. [48] UN refugee and migration agencies, cited by Reuters on 6 November, warned that millions of displaced Sudanese risk losing shelter as funds run low. [49] Khartoum teachers have sustained a strike since late October. [14][15]",
+              "sourceClaims": "Displacement and shelter warnings are UN agency assessments relayed by Reuters. [49] Union representatives attribute the teachers’ strike to inadequate pay and conditions. [14][15]",
+              "counterevidence": "Some states and cities experience lower levels of direct violence and retain functioning institutions. [48] The teachers’ labor action does not establish widespread violent rioting, and some staff reportedly returned to work. [14][15]",
+              "alternativeExplanation": "Much of the disruption follows from the war and humanitarian funding shortfalls rather than organized anti-government protest; this rating measures loss of civil order and governance, not battlefield casualties. [48][49]",
+              "limitations": "Wartime reporting has major coverage and attribution gaps, and conditions vary sharply between regions; the rating does not imply continuous riots in every part of Sudan. [48][49] Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [14]",
+              "revisionTriggers": "Reassess on verified restoration or deterioration of civic institutions, a sustained return of residents, extension of emergency restrictions, or independently documented mass unrest. [48][49]",
+              "sourceNumbers": [
+                14,
+                15,
+                48,
+                49
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Low",
+            "scope": "Threat associated with designated armed Islamist networks; incident-level geography uncertain",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "A U.S. terrorist organization designation establishes an identified threat actor, but publicly accessible evidence does not separate all reported abuses from Sudan’s battlefield violence. [16][17]",
+            "sourceNumbers": [
+              16,
+              17
+            ],
+            "evidenceReview": {
+              "facts": "In March 2026 the United States formally designated the Sudanese Muslim Brotherhood and listed aliases as a Foreign Terrorist Organization. [16][17]",
+              "sourceClaims": "The State Department also flags a terrorism concern in its Sudan travel advisory; designation is a U.S. governmental legal determination, not an independent count of attacks. [16][17]",
+              "counterevidence": "War-related atrocities and fighting are independently prominent; the two sources do not supply a distinct October–November terrorism event total. [16][17]",
+              "alternativeExplanation": "Some actions attributed to the designated organization may overlap with direct participation in the civil war. [16][17]",
+              "limitations": "Classification has low confidence because open-source incident attribution is poor. [16][17] Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [16]",
+              "revisionTriggers": "Escalate only with independently documented intentional terror attacks distinct from battlefield hostilities, or lower after verified demobilization. [16][17]",
+              "sourceNumbers": [
+                16,
+                17
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "Ongoing Conflict",
+            "trend": "No Comparison",
+            "confidence": "High",
+            "scope": "Darfur, Kordofan, Blue Nile, Abyei, and drone-strike exposure elsewhere",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "The Sudanese Armed Forces–Rapid Support Forces war remains active, including strikes far from main frontlines. [18] Fighting continued in Kordofan during the review week. [62]",
+            "sourceNumbers": [
+              18,
+              62
+            ],
+            "evidenceReview": {
+              "facts": "The UN reported further deadly drone attacks across multiple states and injuries at an Abyei market in October. [18] On 13 November army sources said troops seized areas around al-Khuway in West Kordofan after clashes with the RSF, and the army said it shot down a drone that crossed into Blue Nile from Ethiopia. [62]",
+              "sourceClaims": "UN officials attributed the broader crisis to continuing battles between SAF, RSF and aligned forces. [18] Advances and drone interceptions are claims by one party's military sources. [62]",
+              "counterevidence": "Individual strike attribution and the total number of casualties are sometimes preliminary. [18]",
+              "alternativeExplanation": "The spread of drones creates risk outside conventional ground fronts. [18]",
+              "limitations": "Combatant control and casualty verification remain difficult in access-restricted zones. [18]",
+              "revisionTriggers": "Adjust only on evidence of a sustained ceasefire, withdrawal or substantial escalation in verified combat. [18]",
+              "sourceNumbers": [
+                18,
+                62
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "countryID": "MMR",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Yangon, Mandalay, Ayeyarwady and contested regions, including conflict-affected states; urban repression and territorial fighting are distinct",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Sustained military repression of civilian opposition, mass arrests and surveillance, restricted civic freedoms, forced recruitment and political fragmentation warrant High domestic instability. [50][51] Demonstrations continue in urban centers despite fear of repression [19][20], and military strikes on civilian sites compound disruption of ordinary life. [52] Fighting between the junta and organized resistance is assessed separately as Ongoing Conflict.",
+            "sourceNumbers": [
+              19,
+              20,
+              50,
+              51,
+              52
+            ],
+            "evidenceReview": {
+              "facts": "ACLED reports that state repression has increased under the military’s new leadership. [50] The ICNL Civic Freedom Monitor, updated 29 October, documents restricted civic freedoms. [51] Mizzima recorded a 3 November Yangon march for political-prisoner releases [20], and Reuters reported deadly military strikes on a maternity clinic and a school on 2 November. [52]",
+              "sourceClaims": "Casualty details for the 2 November strikes come from sources cited by Reuters. [52] Canadian government advice warns that demonstrations can turn violent; it does not state that each gathering has been violent. [19]",
+              "counterevidence": "Fear of repression suppresses visible demonstrations, and some cities retain administrative functions despite these conditions. [19][50] The November Yangon march was not independently described as a riot. [20]",
+              "alternativeExplanation": "Low visible protest counts may reflect coercion rather than reduced grievances; resistance attacks belong under armed conflict or terrorism assessments, not protest activity. [50][51]",
+              "limitations": "Access restrictions, surveillance and communications controls make protests, arrests and forced recruitment difficult to enumerate independently. [50][51][52] Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [19]",
+              "revisionTriggers": "Reassess after verified mass arrests, civil disobedience or crowd violence, or after durable restoration of rights and reduced coercive restrictions. [19][50][51]",
+              "sourceNumbers": [
+                19,
+                20,
+                50,
+                51,
+                52
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Low",
+            "scope": "Urban public sites and politically linked targets, especially Yangon and Mandalay",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Governments warn of politically motivated bomb attacks and IED threats beyond conventional battlefronts, but attribution varies. [19][21]",
+            "sourceNumbers": [
+              19,
+              21
+            ],
+            "evidenceReview": {
+              "facts": "Canada reports explosive-device use and possible attacks near public venues; the UK warns of small explosive attacks on regime-associated facilities. [19][21]",
+              "sourceClaims": "The UK description concerns opposition-targeted attacks and not a single globally designated terrorist organization. [19][21]",
+              "counterevidence": "Many operations against military outposts belong under armed conflict rather than terrorism, and no independently checked November public-target attack total is available. [19][21]",
+              "alternativeExplanation": "Urban sabotage, targeted resistance operations and terrorist violence require separate intent-and-target review. [19][21]",
+              "limitations": "There is uncertainty in actor attribution and whether individual attacks primarily target civilians. [19][21] Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [19]",
+              "revisionTriggers": "Upgrade after independently corroborated deliberate attacks on civilian public venues; downgrade if recent targeted-IED evidence weakens. [19][21]",
+              "sourceNumbers": [
+                19,
+                21
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "Ongoing Conflict",
+            "trend": "No Comparison",
+            "confidence": "High",
+            "scope": "Rakhine, Mon, Bago, Sagaing and other active theatres",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Sustained conflict between Myanmar’s armed forces and organized opposition is well established. [22][23]",
+            "sourceNumbers": [
+              22,
+              23
+            ],
+            "evidenceReview": {
+              "facts": "UN investigators documented a deadly Rakhine market airstrike under investigation; November reporting described continued military operations near the Mon–Bago border. [22][23]",
+              "sourceClaims": "Myanmar state media claimed capture of eleven opposition facilities; the Associated Press could not independently verify the claim. [22][23]",
+              "counterevidence": "Claims about exact territorial control require verification, and the UN investigation does not yet adjudicate responsibility for the market attack. [22][23]",
+              "alternativeExplanation": "Air power and contested ground positions explain risks to civilians without proving a single nationwide front. [22][23]",
+              "limitations": "Independent access to battle zones is curtailed. [22][23] Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [22]",
+              "revisionTriggers": "Monitor independently confirmed changes in frontlines, verified airstrikes and cessation-of-hostilities agreements. [22][23]",
+              "sourceNumbers": [
+                22,
+                23
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "countryID": "YEM",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Sanaa, Aden, Shabwa, Hadramawt and west-coast conflict effects; intensity differs between north and south",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Multiple competing authorities, repression of demonstrators, arbitrary detentions, weakened public institutions and extensive civilian disruption merit High civil unrest. [24][25][53] This is assessed separately from Houthi–government and cross-border hostilities [54]; Houthi military attacks are not counted as additional terrorist or protest incidents.",
+            "sourceNumbers": [
+              24,
+              25,
+              53,
+              54
+            ],
+            "evidenceReview": {
+              "facts": "Human Rights Watch documented excessive force against protesters and arbitrary detentions in 2026. [25] Sana’a Center documented Southern Transitional Council-linked mass demonstrations in Aden and Hadramawt. [24] The UN Special Envoy’s 10 September Security Council briefing addressed competing authorities and the pressure on Yemeni civilians. [53]",
+              "sourceClaims": "HRW reports allegations of deaths and arbitrary detentions after protest actions. [25] The Saudi-led coalition’s account of intercepting Houthi missiles fired towards Riyadh on 10 November is a party claim reported by Reuters. [54]",
+              "counterevidence": "Not all demonstrations were violent, and some political rallies proceeded without major clashes. [24][25] Civil unrest varies substantially between north and south. [24]",
+              "alternativeExplanation": "Mobilization may be driven by governance failures, unpaid salaries and southern political demands rather than battlefield activity; Houthi capability is relevant to the separate terrorism assessment. [24][53][54]",
+              "limitations": "Limited independent access and shifting territorial control weaken comparison of protest and detention frequency, and state actors and armed movements may give partisan incident accounts. [24][53] Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [24]",
+              "revisionTriggers": "Reassess on violent protest cycles, new detention campaigns, verified restoration of governance or a durable settlement. [25][53]",
+              "sourceNumbers": [
+                24,
+                25,
+                53,
+                54
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Abyan, Shabwah, Hadramawt, public infrastructure and population centers",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "AQAP and other extremist networks remain active while the designated Houthi organization presents a separate persistent attack threat. [26][27]",
+            "sourceNumbers": [
+              26,
+              27
+            ],
+            "evidenceReview": {
+              "facts": "The State Department’s October advisory specifically identifies AQAP, Islamic State affiliates and Ansarallah, warning of attacks with little notice. [26][27]",
+              "sourceClaims": "South24 reported a strike on a suspected AQAP operative near Mukalla; the suspect’s identity and the strike’s outcome were not independently confirmed. [26][27]",
+              "counterevidence": "The Mukalla report alone does not prove a completed AQAP attack; the broader advisory describes a persistent threat rather than a specific imminent operation. [26][27]",
+              "alternativeExplanation": "Extremist attacks and military strikes by parties to the civil war can overlap and must be counted carefully. [26][27]",
+              "limitations": "Public reports cannot confirm every cell’s capacity, and military sources have incentives in attribution. [26][27] Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [26]",
+              "revisionTriggers": "Lower only if incident reporting and independent threat evidence decline; escalate on corroborated major civilian attacks. [26][27]",
+              "sourceNumbers": [
+                26,
+                27
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "Ongoing Conflict",
+            "trend": "No Comparison",
+            "confidence": "High",
+            "scope": "Active frontlines across Yemen and cross-border strike exposure",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "UN diplomats reported Yemen had returned to full-scale war by early October. [28] Hostilities continued during the review week, including claimed Houthi strikes on Saudi infrastructure. [63][64]",
+            "sourceNumbers": [
+              28,
+              63,
+              64
+            ],
+            "evidenceReview": {
+              "facts": "The UN Special Envoy described renewed hostilities on several frontlines and a deterioration from the earlier truce. [28] On 11 November both sides claimed heavy losses in intensified attacks; on 13 November the Houthis said they struck a Saudi pipeline that bypasses Hormuz. [63][64]",
+              "sourceClaims": "Each warring party may give competing claims about territorial gains and military losses. [28] The government's figure of 190 Houthi fighters killed and wounded and the Houthi pipeline claim are unverified party claims. [63][64]",
+              "counterevidence": "An official description of full-scale war does not imply every governorate is equally exposed at all times. [28]",
+              "alternativeExplanation": "Drones, missiles and interlinked regional operations may raise exposure outside ground combat areas. [28]",
+              "limitations": "Independent civilian casualty verification and precise battlefield positions remain limited. [28]",
+              "revisionTriggers": "Monitor documented ceasefires, territorial offensives, maritime attacks and cross-border escalation. [28]",
+              "sourceNumbers": [
+                28,
+                63,
+                64
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "countryID": "HTI",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "High",
+            "scope": "Port-au-Prince, Ouest, Centre, Artibonite and vulnerable transport routes; not every department is equally affected",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Armed gangs exercising quasi-governmental territorial control, intimidation of residents, broken transport corridors, mass displacement, retaliatory attacks and impaired civilian governance justify High civil disorder. [30][55] Security operations remain contested [29], and police confrontations at demonstrations are additional rather than primary indicators [31][32]; ordinary political demonstrations are not assumed to be violent. Gang control continues to displace residents beyond the capital's core, as in Kenscoff. [67]",
+            "sourceNumbers": [
+              29,
+              30,
+              31,
+              32,
+              55,
+              67
+            ],
+            "evidenceReview": {
+              "facts": "UN reporting to the Security Council in October described gangs adapting to the security crackdown, with elections on hold. [30] ACLED reported four officers missing from the Gang Suppression Force. [55] The Associated Press witnessed police gunfire during a July march, and a September local report described tear-gas dispersal of a demonstration. [31][32] Global Voices describes Kenscoff's shift from a quiet district to one terrorised by armed gangs. [67]",
+              "sourceClaims": "The Haitian prime minister’s 7 November statement on a gang leader’s death is an official claim reported by Reuters. [29] Protest organizers attributed responsibility for the July injury to police. [31]",
+              "counterevidence": "Gang suppression operations reportedly recovered some areas and reduced attacks on civilians in some districts, although gains are patchy and fragile. [29][30] Recent November rallies have not been established as violent. [29]",
+              "alternativeExplanation": "Much of the disorder stems from criminal competition for territory and revenue; crime, terrorism and armed-conflict classifications overlap without being identical. [30][55]",
+              "limitations": "Territorial control shifts quickly and reporting from gang-held areas is incomplete; the July and September protest clashes do not show a continuous nationwide protest wave. [30][31][32]",
+              "revisionTriggers": "Reassess on verified territorial recapture, restored police access and basic services, gang retaliation, or a material change in civilian control. [29][30][55]",
+              "sourceNumbers": [
+                29,
+                30,
+                31,
+                32,
+                55,
+                67
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Port-au-Prince, Artibonite, Centre and gang-influenced transit areas",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "The United States formally designated Viv Ansanm and Gran Grif as terrorist organizations; the UN continues to document lethal coercive attacks by Haitian armed groups. [30][33]",
+            "sourceNumbers": [
+              30,
+              33
+            ],
+            "evidenceReview": {
+              "facts": "OFAC’s May 2025 listing confirms formal terrorist designations; October 2026 UN reporting documented over 1,100 deaths associated with gang-related violence since July. [30][33]",
+              "sourceClaims": "The designation represents the U.S. legal position; the UN describes gangs and violence without labeling every member or incident as terrorism. [30][33]",
+              "counterevidence": "Not all gang homicides are necessarily politically motivated attacks; allegations about individual events require separate corroboration. [30][33]",
+              "alternativeExplanation": "The violence also has criminal and territorial incentives and should not be collapsed into one ideological campaign. [30][33]",
+              "limitations": "Open sources are incomplete about each perpetrator’s organization and motive. [30][33] Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [30]",
+              "revisionTriggers": "Reassess following verified attacks by named designated groups and documented changes in their territorial control. [30][33]",
+              "sourceNumbers": [
+                30,
+                33
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "Ongoing Conflict",
+            "trend": "No Comparison",
+            "confidence": "High",
+            "scope": "Port-au-Prince/Ouest, Artibonite and Centre, with spillover concerns; hostilities are regionally concentrated, not nationwide",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Geneva Academy’s War WATCH project classifies a continuing non-international armed conflict between Haiti, supported by the Gang Suppression Force, and the Viv Ansanm coalition. [56][57] UN reporting documents hostilities, joint security operations, territorial control and rival gang fighting. [30][34] This reflects organized, persistent armed fighting rather than a conventional front-line war across the whole country. Police operations and gunfights continued into November. [65][66]",
+            "sourceNumbers": [
+              30,
+              34,
+              56,
+              57,
+              65,
+              66
+            ],
+            "evidenceReview": {
+              "facts": "War WATCH classifies the situation as a continuing non-international armed conflict and reviewed related legal developments in October 2026. [56][57] The UN documented hostilities, joint security operations and attacks against multinational personnel [30], and BINUH recorded killings in rival gang fighting during the second quarter. [34] Haitian police said they had neutralised Boston gang leader Mathias Saintil in Cité Soleil; on 6 November the 400 Mawozo gang said it had contacted the state disarmament commission while gunfights persisted. [65][66]",
+              "sourceClaims": "The non-international armed conflict classification is a legal assessment by War WATCH. [56][57] Casualty attributions to specific gangs or operations come from UN monitoring. [30][34]",
+              "counterevidence": "Hostilities concentrate in particular regions, and security operations have recovered some neighborhoods. [30][34] The legal classification does not describe a conventional front-line war. [56] A powerful gang's outreach to the disarmament commission may signal pressure from security operations, but no disarmament has followed. [66]",
+              "alternativeExplanation": "Some violence reflects criminal competition for territory and illicit revenue alongside organized hostilities against the state. [34]",
+              "limitations": "Confidence is high for the existence of the conflict but lower for fine-grained, real-time territorial lines; aggregate casualties combine incident types. [30][34][56]",
+              "revisionTriggers": "Reassess on a verified end of organized hostilities, demobilization, lasting recovery of state control, or escalation into previously unaffected regions. [30][56][57]",
+              "sourceNumbers": [
+                30,
+                34,
+                56,
+                57,
+                65,
+                66
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "countryID": "SYR",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Suwayda, Daraa, Quneitra, some northern regions and other sites of political demonstrations or communal tension",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Fragmented domestic authority, unresolved communal tensions, demonstrations against foreign incursions, restrictions on civilian life and continued militia confrontations create severe political and civil instability. [36][58][59] Suwayda protests over education access and governance persist [35], and official guidance notes armed clashes involving former regime factions. [37] ISIS plots and localized military fighting are assessed separately under Terrorism and Armed Conflict.",
+            "sourceNumbers": [
+              35,
+              36,
+              37,
+              58,
+              59
+            ],
+            "evidenceReview": {
+              "facts": "ACLED described Suwayda student demonstrations and road closures [35]; a UN briefing recorded an October demonstration amid continuing factional tension. [36] Security Council Report’s November forecast and a September House of Commons Library briefing describe the transition and unresolved security tensions. [58][59] The State Department notes armed clashes involving former regime factions. [37]",
+              "sourceClaims": "The UN said some Suwayda demonstrators displayed Israeli flags and cautioned that this did not represent the wider Druze community. [36] Characterizations of militia confrontations come from official advisories and parliamentary briefings. [37][59]",
+              "counterevidence": "The Assad-era civil war ended in 2024; an interim government controls much of the country and is integrating some formerly autonomous forces. [58][59] UN officials noted fewer violent incidents on Suwayda contact lines in October. [36]",
+              "alternativeExplanation": "Local protests may address civic access, services and autonomy rather than organized armed opposition; the country is not repeating the earlier nationwide civil-war pattern. [35][58]",
+              "limitations": "Event datasets and diplomatic reporting cannot capture every local protest or confirm every allegation, and matched counts for trend comparison are unavailable. [35][36][58] Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [35]",
+              "revisionTriggers": "Reassess on new mass communal unrest, fracture of territorial administration, sustained protests, or successful integration and reconciliation. [36][58][59]",
+              "sourceNumbers": [
+                35,
+                36,
+                37,
+                58,
+                59
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Localized extremist activity, insecure borders and public-event threat areas",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "The State Department continues to identify active terrorist organizations and specific threats within Syria. [37] Recent incidents confirm an active ISIS threat. [68][69]",
+            "sourceNumbers": [
+              37,
+              68,
+              69
+            ],
+            "evidenceReview": {
+              "facts": "Its October 2026 country advisory cites terrorist groups operating inside Syria and risks to places of public gathering. [37] Two security officers were killed in an October raid on an ISIL cell near Damascus, and suspected ISIS movements raised a security alert in Suwayda on 1 November. [68][69]",
+              "sourceClaims": "That advisory expresses a government security judgment rather than publishing a comprehensive monthly database of attacks. [37]",
+              "counterevidence": "Not every violent episode in Syria involves terrorism; state-security operations and intergroup fighting must be separated. [37]",
+              "alternativeExplanation": "Extremist cells can exploit fragmented authority, but intent and operational capacity vary by area. [37]",
+              "limitations": "No complete independently verified October attack inventory was assembled for this indicator. [37]",
+              "revisionTriggers": "Update on validated plots, attacks, arrests, regional warnings and documented organizational capability. [37]",
+              "sourceNumbers": [
+                37,
+                68,
+                69
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Southern Syria, Suwayda and localized armed-group areas",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Organized armed clashes and foreign military incidents continue, but the evidence does not demonstrate uniformly intensive nationwide warfare. [36][37][38]",
+            "sourceNumbers": [
+              36,
+              37,
+              38
+            ],
+            "evidenceReview": {
+              "facts": "The State Department notes armed clashes involving former regime factions; the UK House of Commons describes persistent communal security tensions after the transition. [36][37][38]",
+              "sourceClaims": "Official advisories warn of broad exposure while specific incidents tend to cluster in particular regions. [36][37][38]",
+              "counterevidence": "UN officials reported a decrease in violent incidents on Suwayda contact lines during October, a meaningful local counterindicator. [36][37][38]",
+              "alternativeExplanation": "Violence may be episodic and intercommunal instead of one uninterrupted national front. [36][37][38]",
+              "limitations": "Local ceasefires and changes in actor control cannot be inferred from nationwide travel warnings. [36][37][38] Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [36]",
+              "revisionTriggers": "Escalate to Ongoing Conflict only with verified sustained organized fighting; lower following documented durable de-escalation. [36][37][38]",
+              "sourceNumbers": [
+                36,
+                37,
+                38
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "countryID": "AFG",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Herat and Kabul; incidents under severe assembly restrictions",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "A deadly crackdown on a women’s rights protest and documented recent enforcement actions indicate significant localized civic tension, not broad open street mobilization. [39][40]",
+            "sourceNumbers": [
+              39,
+              40
+            ],
+            "evidenceReview": {
+              "facts": "Human Rights Watch recorded Taliban security forces firing at Herat demonstrators in June; UNAMA documented later arrests of women in Herat and Kabul. [39][40]",
+              "sourceClaims": "The Taliban’s justification centers on claimed dress-rule enforcement; UN monitors describe arrests and threats as human-rights concerns. [39][40]",
+              "counterevidence": "The best documented violent protest incident is months old, and repression sharply limits publicly visible demonstrations. [39][40]",
+              "alternativeExplanation": "Low protest counts may reflect fear and prohibitions rather than public acceptance. [39][40]",
+              "limitations": "Current street-level incident coverage is limited and repression is distinct from civil armed conflict. [39][40] Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [39]",
+              "revisionTriggers": "Increase after corroborated renewed lethal suppression or recurring violent protests; lower after verifiable easing of restrictions. [39][40]",
+              "sourceNumbers": [
+                39,
+                40
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Kabul, northern provinces and reported IS-K network areas",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Afghanistan retains a significant extremist-attack threat including Islamic State Khorasan activity, according to official security reporting. [41] The Taliban said on 7 November that Islamic State had been cleared from Afghanistan; the claim is unverified and does not by itself lower the rating. [70]",
+            "sourceNumbers": [
+              41,
+              70
+            ],
+            "evidenceReview": {
+              "facts": "The U.S. Afghanistan travel advisory warns of terrorist activity and attacks, including public spaces and security targets. [41]",
+              "sourceClaims": "The U.S. advisory assesses risk to travelers; it does not establish an imminent attack in every province. [41] On 7 November the Taliban said Afghanistan had been cleared of Islamic State and that the group operates from Pakistan; this is an unverified claim by an interested party. [70]",
+              "counterevidence": "The advisory cannot substitute for a complete 30-day verified attack count; IS-K activity is separate from the Taliban–Pakistan border conflict. [41] The Taliban's claim that Islamic State has been cleared from Afghanistan, if borne out by independent reporting, would support a lower rating. [70]",
+              "alternativeExplanation": "Terrorist networks may be active even when large public attacks decline. [41]",
+              "limitations": "Underreporting, limited international presence and opaque security operations restrict confirmation. [41]",
+              "revisionTriggers": "Monitor corroborated attacks, UN counterterrorism monitoring and verifiable disruption of IS-K networks. [41]",
+              "sourceNumbers": [
+                41,
+                70
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "High",
+            "scope": "Kunar, Helmand, Nangarhar and other Afghanistan–Pakistan border provinces",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Cross-border airstrikes and armed exchanges created sustained localized military risk in 2026, although they do not establish war across all Afghan territory. [42] Pakistan said on 2 November that it struck several Taliban border posts after gunfire. [72]",
+            "sourceNumbers": [
+              42,
+              72
+            ],
+            "evidenceReview": {
+              "facts": "UNAMA documented civilian deaths and injuries in 1 October strikes and over 1,100 civilian casualties from 2026 cross-border armed violence. [42] On 2 November Pakistan said its forces targeted several Taliban military outposts near the border in response to gunfire. [72]",
+              "sourceClaims": "The UN documented casualties but did not independently verify every party’s account of why a target was attacked. [42]",
+              "counterevidence": "Border hostilities and the Taliban’s limited domestic armed opposition differ from a nationwide multi-front civil war. [42]",
+              "alternativeExplanation": "The conflict can intensify and recede episodically depending on cross-border retaliation. [42]",
+              "limitations": "Public sources do not provide complete information on troop concentrations and the latest bilateral contacts. [42]",
+              "revisionTriggers": "Raise if sustained large-scale frontlines open; lower after verifiable ceasefire compliance and sharp reductions in strikes. [42]",
+              "sourceNumbers": [
+                42,
+                72
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "countryID": "PAK",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Azad Jammu and Kashmir, Balochistan and other protest locations",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Recent public demonstrations, road closures and reported clashes support a distinct localized civic unrest rating. [43][44]",
+            "sourceNumbers": [
+              43,
+              44
+            ],
+            "evidenceReview": {
+              "facts": "Dawn documented a sit-in blocking the Quetta–Chaman corridor that ended after government talks; November reporting described unrest and fatalities during separate protests in AJK. [43][44]",
+              "sourceClaims": "Parties dispute who initiated violence in AJK; police reported a security-force fatality, while opposition sources alleged disproportionate force. [43][44]",
+              "counterevidence": "The Qila Abdullah sit-in ended through negotiation, showing not all protests are sustained or violent. [43][44]",
+              "alternativeExplanation": "Local demands about rights, crime and governance do not necessarily form one nationwide movement. [43][44]",
+              "limitations": "Disputed casualty figures and different political jurisdictions constrain comparisons. [43][44] Weekly review, 8–15 November: no reporting found in the review week that warrants a change of level, trend or scope; the absence of new incidents was not treated as evidence of a lower level. [43]",
+              "revisionTriggers": "Reassess after independently confirmed further clashes, mass road closures or successful settlements. [43][44]",
+              "sourceNumbers": [
+                43,
+                44
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "High",
+            "trend": "Falling",
+            "confidence": "High",
+            "scope": "Khyber Pakhtunkhwa, Balochistan and occasional other urban targets",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Independent Pakistani conflict tracking documents a high attack burden despite a decline from September. [45][46] Security operations continued during the review week. [71]",
+            "sourceNumbers": [
+              45,
+              46,
+              71
+            ],
+            "evidenceReview": {
+              "facts": "PICSS data published by Dawn recorded 143 terrorist attacks during October, down from 226 in September; the State Department identifies several active violent extremist groups. [45][46] On 13 November Pakistan's military said it killed 74 'terrorists' in raids. [71]",
+              "sourceClaims": "PICSS reports a falling October attack count; this is not proof the underlying extremist networks have been dismantled. [45][46] The military's figure of 74 killed is an official claim not independently verified. [71]",
+              "counterevidence": "Even a sharp monthly decline leaves a substantial level of attacks and kidnapping. [45][46]",
+              "alternativeExplanation": "Changes may reflect seasonal operational patterns, security action or tactical pauses. [45][46]",
+              "limitations": "Event coding and competing attributions may differ among monitors. [45][46]",
+              "revisionTriggers": "Monitor monthly confirmed attacks, civilians harmed, responsibility claims and verified security changes. [45][46]",
+              "sourceNumbers": [
+                45,
+                46,
+                71
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Afghanistan border, Khyber Pakhtunkhwa and Baloch insurgency areas",
+            "assessedAt": "2026-11-15T16:20:00Z",
+            "reviewBy": "2026-11-22T16:20:00Z",
+            "rationale": "Cross-border hostilities and insurgency-linked clashes support High localized armed conflict risk, not a claim of general nationwide war. [42][47] Border exchanges with Taliban forces continued in November. [72]",
+            "sourceNumbers": [
+              42,
+              47,
+              72
+            ],
+            "evidenceReview": {
+              "facts": "UNAMA confirmed Afghanistan-side civilian casualties from border strikes in October; Pakistani reporting separately described armed operations against militants in Balochistan. [42][47] On 2 November Pakistan said its forces struck several Taliban border posts in response to gunfire. [72]",
+              "sourceClaims": "Pakistani officials described the Balochistan counterterrorism operation; some militant casualty figures are security-force claims. [42][47]",
+              "counterevidence": "Cross-border incidents are geographically concentrated and the fighting does not extend equally to major cities. [42][47]",
+              "alternativeExplanation": "Insurgency and border exchanges are related but distinct conflict dynamics. [42][47]",
+              "limitations": "Attribution of individual border strikes and casualty counts can be contested. [42][47]",
+              "revisionTriggers": "Escalate on sustained large-scale bilateral fighting; lower after documented cessation of border strikes and militant clashes. [42][47]",
+              "sourceNumbers": [
+                42,
+                47,
+                72
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "events": [],
+    "topics": [],
+    "watchNext": []
+  }
+}
