@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T17:41:46Z",
+  "generatedAt": "2026-11-15T19:06:19Z",
   "editions": [
     {
       "id": "wf_2026_11_15",
@@ -11,7 +11,7 @@
       "edition": "Weekly Intelligence Brief",
       "pageCount": 27,
       "manifestPath": "archive/editions/wf_2026_11_15-r2/brief.json",
-      "manifestSHA256": "277b70994245128d1a93cf41c9dce44873364dc57a1beea3d35da4d7993ebce1"
+      "manifestSHA256": "34959582260cbfe2a3274f4242cba1edd1fc85115e7515a46d4b423a9f539f2c"
     },
     {
       "id": "wf_2026_11_05",

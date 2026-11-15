@@ -26,8 +26,8 @@
       "kind": "story",
       "imagePath": "pages/overview.png",
       "bundleAsset": "",
-      "sha256": "075ba58dab6e6810e7e78bb6955482c1e9032a03c58ec769c0f519f32c5bb062",
-      "accessibleText": "8–15 NOV 2026 · CUTOFF 15 NOV, 16:30 UTC\n\nSTRAIN ON THE WEST, NO COMMON HAND\n\nA nationwide FAA ground stop on 13 November halted U.S. departures for more than four hours. Preliminary findings trace it to contractor L3Harris swapping a router during a network upgrade, not a cyberattack, exposing how much U.S. aviation rests on one aging network. [1][2][3]\n\nElsewhere the pressure came from states. Nvidia's chief executive resigned amid an inquiry into a reported foreign intelligence approach. Russia agreed a prisoner exchange and, by U.S. account, a European seat at the next talks while striking Ukraine's grid. An unannounced Chinese naval deployment persisted in the western Pacific. [4][5][6][7]\n\nIn Europe, France blamed an IRGC unit for supermarket sabotage, hoax bomb emails hit thousands of schools, and ESET exposed Russian espionage in government email. Methods converge; the evidence shows no single coordinating hand. [8][9][10]\n\nReporting cutoff: 15 November 2026, 16:30 UTC. Later developments may not be included.",
+      "sha256": "557339e54a70be74ebb1fbbd39dc5d3d92f9a60856fab20903108d95d25f144b",
+      "accessibleText": "8–15 NOV 2026 · CUTOFF 15 NOV, 16:30 UTC\n\nSTRAIN ON THE WEST, NO COMMON HAND\n\nA nationwide FAA ground stop on 13 November halted U.S. departures for more than four hours. Preliminary findings trace it to contractor L3Harris swapping a router during a network upgrade; officials say it does not appear to have been a cyberattack. [1][2][3]\n\nElsewhere the pressure came from states. Nvidia's chief executive resigned amid an inquiry into a reported foreign intelligence approach. Russia agreed a prisoner exchange and, by U.S. account, a European seat at the next talks while striking Ukraine's grid. An unannounced Chinese naval deployment persisted in the western Pacific. [4][5][6][7]\n\nIn Europe, France blamed an IRGC unit for supermarket sabotage, hoax bomb emails hit thousands of schools, and ESET exposed Russian espionage in government email. Methods converge; the evidence shows no single coordinating hand. [8][9][10]\n\nReporting cutoff: 15 November 2026, 16:30 UTC. Later developments may not be included.",
       "links": [
         {
           "id": "citation_1",
@@ -489,12 +489,12 @@
     },
     {
       "id": "faa-assessment",
-      "title": "AGING INFRASTRUCTURE, NOT SABOTAGE",
+      "title": "PRELIMINARY CAUSE POINTS TO NETWORK FAILURE",
       "kind": "story",
       "imagePath": "pages/faa-assessment.png",
       "bundleAsset": "",
-      "sha256": "5ddeb211ec62ccb194c0d17a7b528e21c280584e276913a2496a584bbc9fe211",
-      "accessibleText": "BOTH HYPOTHESES UNLIKELY; FINAL FINDING PENDING\n\nAGING INFRASTRUCTURE, NOT SABOTAGE\n\nNeither hypothesis has direct support. The preliminary investigation points to a router swapped during L3Harris network work that flooded the system, an explanation that, if confirmed, makes both unnecessary. SMART had the stronger circumstantial case on timing, but the fault sits in the telecommunications layer; the Iranian case rests on capability and motive alone. [2][14][18]\n\nThe strategic finding is vulnerability without an adversary. Routine work at one remote site halted departures nationwide. GAO has warned that FAA modernization is racing to replace outdated systems, after antiquated telecommunications lines failed repeatedly at Philadelphia in 2025, and Duffy has blamed outdated infrastructure for this outage. [2][22][3]\n\nA network that can fail this broadly by accident is an attractive target for adversaries already pre-positioned in U.S. infrastructure. Indicators to watch: the FAA's final root-cause finding, any evidence of unauthorized access, and changes to how network work is staged and isolated. [23]",
+      "sha256": "09f808d146b83038c21b4c38a8df24031f231b227a6f97bf7db138d495fb1846",
+      "accessibleText": "MALICIOUS ACTIVITY NOT FORMALLY EXCLUDED\n\nPRELIMINARY CAUSE POINTS TO NETWORK FAILURE\n\nNeither hypothesis has direct support, and investigators have not published a final finding. The preliminary investigation points to a router swapped during L3Harris network work that flooded the system, an explanation that, if confirmed, makes both unnecessary. SMART had the stronger circumstantial case on timing, but the fault sits in the telecommunications layer; the Iranian case rests on capability and motive alone. [2][14][18]\n\nThe strategic finding holds whatever the final cause: routine work at one remote site halted departures nationwide. GAO has warned that FAA modernization is racing to replace outdated systems, after antiquated telecommunications lines failed repeatedly at Philadelphia in 2025, and Duffy has blamed outdated infrastructure for this outage. [2][22][3]\n\nA network that routine work can bring down this broadly is an attractive target for adversaries already pre-positioned in U.S. infrastructure. Indicators to watch: the FAA's final root-cause finding, any evidence of unauthorized access, and changes to how network work is staged and isolated. [23]",
       "links": [
         {
           "id": "citation_2",
@@ -976,12 +976,12 @@
     },
     {
       "id": "taiwan",
-      "title": "AN UNNAMED CHINESE FLEET PRESSES TAIWAN",
+      "title": "CHINA'S UNANNOUNCED DRILLS PRESSURE TAIWAN",
       "kind": "story",
       "imagePath": "pages/taiwan.png",
       "bundleAsset": "",
-      "sha256": "f3ceee5d3ca762d2570590846193c4b4466791fa5d45fb67feb6f3493b0b597a",
-      "accessibleText": "LARGER THAN JUSTICE MISSION 2025, TAIPEI SAYS\n\nAN UNNAMED CHINESE FLEET PRESSES TAIWAN\n\nTaiwan's National Security Council secretary-general, Joseph Wu, said on 3 November that more than 100 Chinese navy and coast guard vessels were deployed across the western Pacific, drawn from the Northern, Eastern and Southern theater commands in at least four surface task groups, including the Liaoning carrier group. [42][43]\n\nBeijing named no exercise and called the carrier's activity routine. A senior Taiwan security official told Reuters the deployment was larger than Justice Mission 2025 and included simulated attacks on other militaries and on cities, including Taiwan's. By 13 November, two Taiwan security officials said, about 70 vessels remained within the first island chain. [7][44]\n\nUnderlying tracking data has not been published, and France 24 found a viral map of an \"airtight blockade\" misleading. The unannounced format lets Beijing demonstrate reach while staying discreet ahead of the APEC summit in Shenzhen, where Presidents Trump and Xi are expected to meet. [43][7]",
+      "sha256": "f29423e6713e6d5aee8ca4fa978f90e9783cb347e8f5567259c489c39d3b9784",
+      "accessibleText": "A NAVAL SURGE LARGER THAN JUSTICE MISSION 2025\n\nCHINA'S UNANNOUNCED DRILLS PRESSURE TAIWAN\n\nTaiwan's National Security Council secretary-general, Joseph Wu, said on 3 November that more than 100 Chinese navy and coast guard vessels were deployed across the western Pacific, drawn from the Northern, Eastern and Southern theater commands in at least four surface task groups, including the Liaoning carrier group. [42][43]\n\nBeijing announced no exercise and called the carrier's activity routine. A senior Taiwan security official told Reuters the deployment was larger than Justice Mission 2025 and included simulated attacks on other militaries and on cities, including Taiwan's. By 13 November, two Taiwan security officials said, about 70 vessels remained within the first island chain. [7][44]\n\nUnderlying tracking data has not been published, and France 24 found a viral map of an \"airtight blockade\" misleading. The unannounced format lets Beijing demonstrate reach while staying discreet ahead of the APEC summit in Shenzhen, where Presidents Trump and Xi are expected to meet. [43][7]",
       "links": [
         {
           "id": "citation_42",
@@ -1455,12 +1455,12 @@
     },
     {
       "id": "central-assessment",
-      "title": "CONVERGENT PRESSURE, NO CONDUCTOR",
+      "title": "PARALLEL OPERATIONS, NO PROVEN COORDINATION",
       "kind": "story",
       "imagePath": "pages/central-assessment.png",
       "bundleAsset": "",
-      "sha256": "2ea56ecfdebcbe0e82576388b979bcc9c9bc84272c2f8fe147d463ba5a70e8ba",
-      "accessibleText": "STATE ACTION CONFIRMED, NO COMMON COMMAND\n\nCONVERGENT PRESSURE, NO CONDUCTOR\n\nTwo links are established. France names Shahid Kaveh for the refrigeration sabotage, and U.S. agencies link the same IRGC unit to disruption of American industrial controllers: one actor, two theaters. Turla's espionage is attributed with high confidence. [8][20][10]\n\nNothing connects these to the FAA outage, which officials trace to contractor network work, to the unattributed school hoaxes, or to Snowball, which has no state attribution. No shared infrastructure, tooling or command link across Russian, Iranian and Chinese operations has been reported. [2][53][60]\n\nOne complication: Russian-aligned hacktivists claimed the supermarket attacks France attributes to the IRGC. The overlap is unverified and fits opportunistic claiming as well as cooperation. Moscow, Tehran and Beijing share an interest in exposing Western fragility, and the evidence shows them exploiting the same weaknesses independently. [57][23][20]",
+      "sha256": "4f9a716fa9f964ce4cc05584d292584b71949ec73c38d2a216906394ee55d1d0",
+      "accessibleText": "STATE ACTION CONFIRMED, NO COMMON COMMAND\n\nPARALLEL OPERATIONS, NO PROVEN COORDINATION\n\nTwo links are established. France names Shahid Kaveh for the refrigeration sabotage, and U.S. agencies link the same IRGC unit to disruption of American industrial controllers: one actor, two theaters. Turla's espionage is attributed with high confidence. [8][20][10]\n\nNothing connects these to the FAA outage, which officials trace to contractor network work, to the unattributed school hoaxes, or to Snowball, which has no state attribution. No shared infrastructure, tooling or command link across Russian, Iranian and Chinese operations has been reported. [2][53][60]\n\nOne complication: Russian-aligned hacktivists claimed the supermarket attacks France attributes to the IRGC. The overlap is unverified and fits opportunistic claiming as well as cooperation. Moscow, Tehran and Beijing share an interest in exposing Western fragility, and the evidence shows them exploiting the same weaknesses independently. [57][23][20]",
       "links": [
         {
           "id": "citation_8",
