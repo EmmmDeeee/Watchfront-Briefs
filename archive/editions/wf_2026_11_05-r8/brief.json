@@ -1,0 +1,1804 @@
+{
+  "schemaVersion": 1,
+  "id": "wf_2026_11_05",
+  "revision": 8,
+  "publishedAt": "2026-11-05T22:00:00Z",
+  "displayDate": "November 5, 2026",
+  "coveragePeriod": "October 25–November 5, 2026",
+  "edition": "Weekly Intelligence Brief",
+  "title": "Watchfront Weekly Brief — October 25–November 5, 2026",
+  "width": 1200,
+  "height": 1900,
+  "pages": [
+    {
+      "id": "cover",
+      "title": "WEEKLY BRIEF",
+      "kind": "cover",
+      "imagePath": "pages/cover.png",
+      "bundleAsset": "",
+      "sha256": "037c8527a9fa0f6c77ac980e69eb496c4468be274bff07ee5e3e28613bfd3cd4",
+      "accessibleText": "WEEKLY BRIEF\n\n25 OCTOBER – 5 NOVEMBER 2026",
+      "links": []
+    },
+    {
+      "id": "overview",
+      "title": "OVERVIEW",
+      "kind": "story",
+      "imagePath": "pages/overview.png",
+      "bundleAsset": "",
+      "sha256": "76b15acca00f87289a67720735c15b3ba32c401e28dc42ee36bb60b1003efdf9",
+      "accessibleText": "OVERVIEW\n\nDemocrats won control of the U.S. House and Senate in the November 3 midterms. The shift will bring greater scrutiny of the Iran war, but presidential military options remain. [1](source 2)[3]\n\nAmerican strikes near the Strait of Hormuz, Russian attacks in Ukraine and Chinese coast guard pressure near Taiwan remain distinct crises with potential consequences for allied forces and trade. [4][12](source 14)\n\nIn Europe, airline bomb threats, refrigeration-system intrusions and a Polish espionage investigation expose vulnerabilities below the threshold of conventional war. Common timing warrants investigation; shared command has not been established. [7](source 8)[10]",
+      "links": [
+        {
+          "id": "citation_1",
+          "sourceNumber": 1,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_4",
+          "sourceNumber": 4,
+          "rect": {
+            "x": 0.27166666666666667,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_7",
+          "sourceNumber": 7,
+          "rect": {
+            "x": 0.37083333333333335,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_10",
+          "sourceNumber": 10,
+          "rect": {
+            "x": 0.47,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_12",
+          "sourceNumber": 12,
+          "rect": {
+            "x": 0.5691666666666667,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "midterms",
+      "title": "U.S. MIDTERMS",
+      "kind": "story",
+      "imagePath": "pages/midterms.png",
+      "bundleAsset": "",
+      "sha256": "beca9e4a0b7bcb2ef7872328122461a69a3d47ee4cb89f9c2b98e9dd3dd992a5",
+      "accessibleText": "Congressional Control Shifts\n\nU.S. MIDTERMS\n\nDemocrats secured majorities in both houses of Congress on November 3. Several individual races remained unresolved at the reporting cutoff, but control of the chambers was projected. [1][2]\n\nWhen the new Congress convenes, committee leadership and investigations will change. War-powers disputes, defense appropriations and oversight of the Iran campaign are likely to intensify. These constraints do not immediately remove the president’s capacity to direct limited strikes. [3]\n\nThe election creates two plausible responses in Washington: seek a negotiated endpoint to reduce political and economic costs, or act militarily before a more hostile Congress takes office. Neither course is assured. [3]",
+      "links": [
+        {
+          "id": "citation_1",
+          "sourceNumber": 1,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_2",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.27166666666666667,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "iran",
+      "title": "IRAN",
+      "kind": "story",
+      "imagePath": "pages/iran.png",
+      "bundleAsset": "",
+      "sha256": "d00fc95f17008f093a90dd21a5cb2f31bb59274bb63e6301bbdb82fd741d89d6",
+      "accessibleText": "Further Strikes Remain Possible\n\nIRAN\n\nU.S. forces carried out limited strikes against Iranian targets near Qeshm Island on November 2, describing them as defensive measures against threats to American assets. Israel has urged further action, while mediators seek arrangements involving shipping and sanctions. [3][4]\n\nFurther limited U.S. strikes are plausible if Iranian forces threaten ships or U.S. personnel. A broader campaign would carry larger risks to oil supply and American political support. Israeli strikes are also possible if leaders conclude the nuclear or missile threat is worsening. [3][5]\n\nTehran is likely to preserve launch assets, replenish defenses and retain maritime pressure while testing whether the midterm result improves its negotiating leverage. The vote is an opportunity for Iran, not protection against renewed attacks. [3][17]",
+      "links": [
+        {
+          "id": "citation_3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_4",
+          "sourceNumber": 4,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_5",
+          "sourceNumber": 5,
+          "rect": {
+            "x": 0.27166666666666667,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_17",
+          "sourceNumber": 17,
+          "rect": {
+            "x": 0.37083333333333335,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "iran-networks",
+      "title": "IRANIAN NETWORKS",
+      "kind": "story",
+      "imagePath": "pages/iran-networks.png",
+      "bundleAsset": "",
+      "sha256": "b24b436da0a0e0a1ffdcdce5028bb05433c81dd4ee6f12d8e8dae06e25649bac",
+      "accessibleText": "Proxies Retain Regional Leverage\n\nIRANIAN NETWORKS\n\nIran-backed Houthi operations in and around Yemen keep Saudi infrastructure and Red Sea shipping exposed while U.S.–Iran negotiations remain unsettled. Reporting also describes allegations of IRGC and Hezbollah advisers inside Houthi-held territory. [3][6]\n\nThis network offers Tehran leverage without requiring Iranian conventional forces to engage directly on every front. Houthi leaders also have their own territorial and political objectives, so Iranian influence should not be confused with complete operational control. [6]\n\nA sustained increase in missile or drone strikes against Saudi energy sites, renewed attacks on shipping, or evidence of shared targeting would suggest a deliberate effort to raise the economic price of continued U.S. operations. [3][6]",
+      "links": [
+        {
+          "id": "citation_3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_6",
+          "sourceNumber": 6,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "europe-cyber",
+      "title": "EUROPEAN CYBERATTACKS",
+      "kind": "story",
+      "imagePath": "pages/europe-cyber.png",
+      "bundleAsset": "",
+      "sha256": "533c4cff6d48f95f47a9e36680bae36637427e5e8c7a8225260bdae75bea8cf5",
+      "accessibleText": "Repeated Infrastructure Disruption\n\nEUROPEAN CYBERATTACKS\n\nA new wave of intrusions disrupted refrigeration controllers at nearly 100 supermarkets in several European countries, following reports of hundreds of affected stores in France during October. Food spoilage imposed immediate commercial losses. [7]\n\nThe attacks exploited weaknesses in internet-exposed industrial equipment. The choice of targets is consistent with a disruptive campaign designed to generate cost and public unease without kinetic violence. That pattern alone does not identify the attacker. [7]\n\nRepeated targeting of shared vendors, the same infrastructure or common digital tools would strengthen a coordination hypothesis. Public evidence does not yet establish Russian direction or a link to the aviation threats. [7][8]",
+      "links": [
+        {
+          "id": "citation_7",
+          "sourceNumber": 7,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_8",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "aviation",
+      "title": "AIRLINE BOMB THREATS",
+      "kind": "story",
+      "imagePath": "pages/aviation.png",
+      "bundleAsset": "",
+      "sha256": "950a932f4507e8c61d3e0d50bc4b3797059054b87758e5a3fcae4437dffce98a",
+      "accessibleText": "Origin Of Threats Unconfirmed\n\nAIRLINE BOMB THREATS\n\nFalse bomb warnings affected passenger flights across Europe during November 3–5. Aircraft were diverted, fighter escorts launched and security searches conducted. Authorities reported no explosives in the inspected aircraft. [8][9]\n\nThe scale and timing suggest a possible organized disruption effort, but a single sender, copycat threats and state-linked activity remain competing explanations. No public attribution to Russia or another government has been established. [8][9]\n\nFurther synchronized warnings, common message infrastructure or links to known covert networks would materially strengthen the coordination case. For now, the clearest effect is the diversion of aviation and security resources. [9]",
+      "links": [
+        {
+          "id": "citation_8",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_9",
+          "sourceNumber": 9,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "poland",
+      "title": "POLAND",
+      "kind": "story",
+      "imagePath": "pages/poland.png",
+      "bundleAsset": "",
+      "sha256": "1e1d6c91cc96bb48cfcd85194174f3911d031f03846660058b49b4b0d2653434",
+      "accessibleText": "Alleged Procurement Network For Russia\n\nPOLAND\n\nPolish authorities identified six suspects in an alleged military-component smuggling network supplying Russia. Four were detained on espionage charges; two faced non-custodial measures. Officials said the operation sought to bypass restrictions on supplies for ammunition and weapons production. [10]\n\nThe case indicates a possible procurement route serving Russian military needs despite export controls. Poland’s geography and role in supporting Ukraine make such networks strategically significant. [10]\n\nThis investigation does not prove who conducted the European freezer intrusions or airline threats. Shared financiers, communications or travel patterns would be needed before treating the incidents as parts of one directed campaign. [7][8][10]",
+      "links": [
+        {
+          "id": "citation_7",
+          "sourceNumber": 7,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_8",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_10",
+          "sourceNumber": 10,
+          "rect": {
+            "x": 0.27166666666666667,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "title": "FRANCE",
+      "kind": "story",
+      "imagePath": "pages/france.png",
+      "bundleAsset": "",
+      "sha256": "b006795cfc02371c77631b27c8d43eecac177ad06c4547da411fff2d14d04fc7",
+      "accessibleText": "Risk Of Further Violent Unrest\n\nFRANCE\n\nLarge November 5 marches followed severe riots on October 17. The Interior Ministry counted 575,000 demonstrators; organizers offered a higher estimate. Most marches remained peaceful, but police reported 448 arrests and 53 injured officers after clashes and vandalism. [11]\n\nWage pressure, living costs and concern about public services are sustaining mobilization among unions, students and other groups. Continued large demonstrations are likely, although further nationwide rioting is not inevitable. [11]\n\nWatch whether violence spreads beyond isolated groups, whether union action expands into transport and energy, and whether government concessions reduce participation. Peaceful protest and violent disorder must be tracked separately. [11]",
+      "links": [
+        {
+          "id": "citation_11",
+          "sourceNumber": 11,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "ukraine",
+      "title": "RUSSIA–UKRAINE",
+      "kind": "story",
+      "imagePath": "pages/ukraine.png",
+      "bundleAsset": "",
+      "sha256": "2205c9943952e112f8e4251a01446b8429f044b5d4c0c5a96ffeeeac45dc6dd0",
+      "accessibleText": "Attrition And Infrastructure Strikes\n\nRUSSIA–UKRAINE\n\nA Russian strike on a humanitarian aid point in Ukraine’s Zaporizhzhia region killed at least 43 people, according to Ukraine’s president on November 5. Reuters verified footage of a second strike on a shelter. Russia said it targeted Ukrainian forces. [12]\n\nThe war remains an attritional contest. CSIS estimated approximately 1.4 million Russian battlefield casualties through June 2026, including an estimated 400,000–450,000 deaths. These are estimates, not a verified count of every individual lost. [13]\n\nLong-range strikes and attacks on infrastructure are likely to continue while negotiations are explored. A genuine de-escalation would require a sustained fall in strikes and verifiable changes in force activity, not simply new diplomatic meetings. [12][13]",
+      "links": [
+        {
+          "id": "citation_12",
+          "sourceNumber": 12,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_13",
+          "sourceNumber": 13,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "taiwan",
+      "title": "TAIWAN",
+      "kind": "story",
+      "imagePath": "pages/taiwan.png",
+      "bundleAsset": "",
+      "sha256": "164238454c3894563a9e0ce987e8840c5f91861ef8b2c3cf21d8716d9d2fc613",
+      "accessibleText": "Increased Maritime Pressure\n\nTAIWAN\n\nTaiwan reported a Chinese coast guard vessel entering restricted waters near the Pratas Islands, where the two coast guard ships approached within about one nautical mile. China also announced patrols east of Taiwan. [14][15]\n\nThese operations strengthen Beijing’s ability to challenge jurisdiction and maintain presence around routes Taiwan would need in a blockade. They are consistent with coercive pressure and rehearsal of maritime control, not proof that an invasion order has been issued. [14][15]\n\nLonger patrol durations, military support to coast guard vessels, restrictions on commercial movement or unusual force concentrations would indicate a more serious escalation. [14]",
+      "links": [
+        {
+          "id": "citation_14",
+          "sourceNumber": 14,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_15",
+          "sourceNumber": 15,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "escalation",
+      "title": "ESCALATION PATHWAYS",
+      "kind": "story",
+      "imagePath": "pages/escalation.png",
+      "bundleAsset": "",
+      "sha256": "9625603f1452eafc05393ec0b879f4e2186c3efe565e69d5216eb353e369da74",
+      "accessibleText": "Potential Cross-Theater Escalation\n\nESCALATION PATHWAYS\n\nThe principal danger is not that today’s conflicts share one proven command structure. It is that separate confrontations can interact through energy prices, allied commitments, maritime routes and the movement of scarce military forces. [3](source 13)[16]\n\nA serious shipping loss in Hormuz could prompt larger U.S. strikes; an attack involving NATO personnel could sharpen confrontation with Russia; or a Taiwan maritime incident could demand a rapid U.S. response while American forces are committed elsewhere. These are conditional pathways, not predictions. [3][10][14]\n\nThe warning indicators are cross-theater force movements, repeated attacks on allied assets, breakdowns in diplomatic channels and verified links between covert incidents. No single episode establishes that a world war has begun.",
+      "links": [
+        {
+          "id": "citation_3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.07333333333333333,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_10",
+          "sourceNumber": 10,
+          "rect": {
+            "x": 0.1725,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_14",
+          "sourceNumber": 14,
+          "rect": {
+            "x": 0.27166666666666667,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        },
+        {
+          "id": "citation_16",
+          "sourceNumber": 16,
+          "rect": {
+            "x": 0.37083333333333335,
+            "y": 0.8752631578947369,
+            "width": 0.085,
+            "height": 0.031578947368421054
+          }
+        }
+      ]
+    },
+    {
+      "id": "sources",
+      "title": "SOURCES",
+      "kind": "sources",
+      "imagePath": "pages/sources.png",
+      "bundleAsset": "",
+      "sha256": "39496ef5723d42d54e0dd8a57bca9411cb549b567e01417f5e8ec1503331b6fa",
+      "accessibleText": "Primary Reporting And Sources\n\nSOURCES\n\n\n\n[1] AP — 2026 midterm results — https://apnews.com/article/f126e12e05b579a327b98481c0ae2226\n[2] Ballotpedia — Congressional majorities — https://news.ballotpedia.org/2026/11/04/democrats-win-u-s-house-and-senate-majorities/\n[3] AP — Trump weighs Iran war options — https://apnews.com/article/e92751dbcdf940c486c8d1e57dafbe99\n[4] AP — U.S. strikes in Hormuz — https://apnews.com/article/8722c8b5a9deb228e7a188d4760ea8ed\n[5] ABC — U.S.–Israel strike planning — https://abcnews.com/amp/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897\n[6] Critical Threats — Iran, 4 November — https://www.criticalthreats.org/analysis/iran-update-november-04-2026\n[7] FT — European refrigeration attacks — https://www.ft.com/content/90e63a7f-45d7-4e7a-940d-6d5145d51941\n[8] AP — Airline bomb threats — https://apnews.com/article/54591e18981c93e6c5aabe140404dab4\n[9] RTE — Flight disruptions, 5 November — https://www.rte.ie/news/europe/2026/1105/1598073-europe-flight-threats/\n[10] Reuters — Poland procurement arrests — https://www.reuters.com/world/poland-arrest-four-probe-into-military-supplies-sent-russia-2026-11-05/\n[11] Reuters — France demonstrations — https://www.reuters.com/world/europe/france-braces-fresh-protests-macron-seeks-prevent-repeat-october-unrest-2026-11-05/\n[12] Reuters — Zaporizhzhia aid-site strike — https://www.reuters.com/world/europe/death-toll-russian-strike-ukrainian-aid-centre-reaches-42-police-say-2026-11-05/\n[13] CSIS — Russian war casualties — https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war\n[14] AP — Coast guard confrontation, Taiwan — https://apnews.com/article/dfc441591994cb435e55eb8f3dc6aeda\n[15] Reuters — Patrols east of Taiwan — https://www.reuters.com/world/china/chinas-coast-guard-conducts-patrols-east-taiwan-cctv-reports-2026-10-31/\n[16] UK Parliament — Iran conflict background — https://commonslibrary.parliament.uk/research-briefings/cbp-11075/\n[17] The National — Iran after U.S. midterms — https://www.thenationalnews.com/news/gulf/2026/11/05/iran-sees-opening-after-trump-midterms-setback-but-warns-of-wider-conflict/",
+      "links": [
+        {
+          "id": "source_1",
+          "sourceNumber": 1,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.2305263157894737,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_2",
+          "sourceNumber": 2,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.26842105263157895,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_3",
+          "sourceNumber": 3,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.3063157894736842,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_4",
+          "sourceNumber": 4,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.34421052631578947,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_5",
+          "sourceNumber": 5,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.3821052631578947,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_6",
+          "sourceNumber": 6,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.42,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_7",
+          "sourceNumber": 7,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.45789473684210524,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_8",
+          "sourceNumber": 8,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.4957894736842105,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_9",
+          "sourceNumber": 9,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.5336842105263158,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_10",
+          "sourceNumber": 10,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.5715789473684211,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_11",
+          "sourceNumber": 11,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.6094736842105263,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_12",
+          "sourceNumber": 12,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.6473684210526316,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_13",
+          "sourceNumber": 13,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.6852631578947368,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_14",
+          "sourceNumber": 14,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.7231578947368421,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_15",
+          "sourceNumber": 15,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.7610526315789473,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_16",
+          "sourceNumber": 16,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.7989473684210526,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        },
+        {
+          "id": "source_17",
+          "sourceNumber": 17,
+          "rect": {
+            "x": 0.07416666666666667,
+            "y": 0.8368421052631579,
+            "width": 0.8558333333333333,
+            "height": 0.034210526315789476
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "number": 1,
+      "title": "AP — 2026 midterm results",
+      "url": "https://apnews.com/article/f126e12e05b579a327b98481c0ae2226"
+    },
+    {
+      "number": 2,
+      "title": "Ballotpedia — Congressional majorities",
+      "url": "https://news.ballotpedia.org/2026/11/04/democrats-win-u-s-house-and-senate-majorities/"
+    },
+    {
+      "number": 3,
+      "title": "AP — Trump weighs Iran war options",
+      "url": "https://apnews.com/article/e92751dbcdf940c486c8d1e57dafbe99"
+    },
+    {
+      "number": 4,
+      "title": "AP — U.S. strikes in Hormuz",
+      "url": "https://apnews.com/article/8722c8b5a9deb228e7a188d4760ea8ed"
+    },
+    {
+      "number": 5,
+      "title": "ABC — U.S.–Israel strike planning",
+      "url": "https://abcnews.com/amp/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897"
+    },
+    {
+      "number": 6,
+      "title": "Critical Threats — Iran, 4 November",
+      "url": "https://www.criticalthreats.org/analysis/iran-update-november-04-2026"
+    },
+    {
+      "number": 7,
+      "title": "FT — European refrigeration attacks",
+      "url": "https://www.ft.com/content/90e63a7f-45d7-4e7a-940d-6d5145d51941"
+    },
+    {
+      "number": 8,
+      "title": "AP — Airline bomb threats",
+      "url": "https://apnews.com/article/54591e18981c93e6c5aabe140404dab4"
+    },
+    {
+      "number": 9,
+      "title": "RTE — Flight disruptions, 5 November",
+      "url": "https://www.rte.ie/news/europe/2026/1105/1598073-europe-flight-threats/"
+    },
+    {
+      "number": 10,
+      "title": "Reuters — Poland procurement arrests",
+      "url": "https://www.reuters.com/world/poland-arrest-four-probe-into-military-supplies-sent-russia-2026-11-05/"
+    },
+    {
+      "number": 11,
+      "title": "Reuters — France demonstrations",
+      "url": "https://www.reuters.com/world/europe/france-braces-fresh-protests-macron-seeks-prevent-repeat-october-unrest-2026-11-05/"
+    },
+    {
+      "number": 12,
+      "title": "Reuters — Zaporizhzhia aid-site strike",
+      "url": "https://www.reuters.com/world/europe/death-toll-russian-strike-ukrainian-aid-centre-reaches-42-police-say-2026-11-05/"
+    },
+    {
+      "number": 13,
+      "title": "CSIS — Russian war casualties",
+      "url": "https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war"
+    },
+    {
+      "number": 14,
+      "title": "AP — Coast guard confrontation, Taiwan",
+      "url": "https://apnews.com/article/dfc441591994cb435e55eb8f3dc6aeda"
+    },
+    {
+      "number": 15,
+      "title": "Reuters — Patrols east of Taiwan",
+      "url": "https://www.reuters.com/world/china/chinas-coast-guard-conducts-patrols-east-taiwan-cctv-reports-2026-10-31/"
+    },
+    {
+      "number": 16,
+      "title": "UK Parliament — Iran conflict background",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-11075/"
+    },
+    {
+      "number": 17,
+      "title": "The National — Iran after U.S. midterms",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/11/05/iran-sees-opening-after-trump-midterms-setback-but-warns-of-wider-conflict/"
+    }
+  ],
+  "home": {
+    "schemaVersion": 1,
+    "reviewedAt": "2026-11-10T15:00:00Z",
+    "reviewCadence": "Weekly",
+    "editorialPolicyVersion": 1,
+    "sources": [
+      {
+        "number": 1,
+        "title": "ACLED — U.S. Monitor, late-October 2026 demonstrations and political violence",
+        "url": "https://acleddata.com/monitor/us-monitor"
+      },
+      {
+        "number": 2,
+        "title": "City of Richmond — Voting continues after reported threats, November 3, 2026",
+        "url": "https://www.rva.gov/elections-press-releases-and-announcements/news/voting-continues-precincts-following-reported"
+      },
+      {
+        "number": 3,
+        "title": "Nextgov/FCW — Election security center reports limited threats, November 3, 2026",
+        "url": "https://www.nextgov.com/cybersecurity/2026/11/election-security-center-reports-limited-threats-voting-glitches-fuel-fraud-claims/417013/"
+      },
+      {
+        "number": 4,
+        "title": "ODNI — 2026 Annual Threat Assessment",
+        "url": "https://www.dni.gov/files/ODNI/documents/assessments/ATA-2026-Unclassified-Report.pdf"
+      },
+      {
+        "number": 5,
+        "title": "U.S. Department of Justice — 2026–2030 strategy, terrorism and espionage",
+        "url": "https://www.justice.gov/index.php/doj/strategic-plan-fys-2026-2030/objective-1-1"
+      },
+      {
+        "number": 6,
+        "title": "U.S. Department of Homeland Security — National Terrorism Advisory System",
+        "url": "https://www.dhs.gov/national-terrorism-advisory-system"
+      },
+      {
+        "number": 7,
+        "title": "CSIS — Global Terrorism Threat Assessment 2026",
+        "url": "https://www.csis.org/analysis/global-terrorism-threat-assessment-2026"
+      },
+      {
+        "number": 8,
+        "title": "ACLED — Political violence and protest event data",
+        "url": "https://www.acleddata.com/data/"
+      },
+      {
+        "number": 9,
+        "title": "Reuters — Ukraine probes November 2 clash near military recruitment dorm (3 November 2026)",
+        "url": "https://www.reuters.com/world/ukraine-probes-clashes-military-recruitment-dorm-2026-11-03/"
+      },
+      {
+        "number": 10,
+        "title": "Security Service of Ukraine — arrests following Kyiv-region riots (4 November 2026)",
+        "url": "https://www.ssu.gov.ua/en/novyny/sbu-zatrymala-i-povidomyla-pro-pidozru-orhanizatoram-zavorushen-u-petropavlivskii-borshchahivtsi"
+      },
+      {
+        "number": 11,
+        "title": "Security Service of Ukraine — suspected planned IED attack in Rivne (23 September 2026)",
+        "url": "https://ssu.gov.ua/en/novyny/sbu-zatrymala-ahenta-rf-yakyi-hotuvav-terakt-u-tsentri-rivnoho"
+      },
+      {
+        "number": 12,
+        "title": "Security Service of Ukraine — suspected attack plans in central Kyiv (20 October 2026)",
+        "url": "https://ssu.gov.ua/en/novyny/sbu-ta-natspolitsiia-zatrymaly-retsydyvistiv-yaki-na-zamovlennia-rf-hotuvaly-seriiu-teraktiv-u-tsentri-kyieva-video"
+      },
+      {
+        "number": 13,
+        "title": "UN Human Rights Monitoring Mission — Protection of Civilians, September 2026 (15 October)",
+        "url": "https://ukraine.ohchr.org/en/Protection-of-Civilians-in-Armed-Conflict-September-2026"
+      },
+      {
+        "number": 14,
+        "title": "Al Jazeera — Khartoum teachers strike over salaries and conditions (9 November 2026)",
+        "url": "https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools"
+      },
+      {
+        "number": 15,
+        "title": "Committee for Justice — Khartoum teachers strike (26 October 2026)",
+        "url": "https://www.cfjustice.org/sudan-committee-for-justice-documents-khartoum-teachers-strike-demanding-an-increase-in-the-minimum-wage-and-calls-for-their-demands-to-be-addressed/"
+      },
+      {
+        "number": 16,
+        "title": "U.S. Office of the Federal Register — FTO designation, Sudanese Muslim Brotherhood (16 March 2026)",
+        "url": "https://www.govinfo.gov/app/details/FR-2026-03-16/2026-05072"
+      },
+      {
+        "number": 17,
+        "title": "U.S. State Department — Sudan Travel Advisory (15 May 2026)",
+        "url": "https://travel.state.gov/en/international-travel/travel-advisories/sudan.html"
+      },
+      {
+        "number": 18,
+        "title": "United Nations — Deadly drone strikes in Sudan (19 October 2026)",
+        "url": "https://news.un.org/en/story/2026/10/1168628"
+      },
+      {
+        "number": 19,
+        "title": "Government of Canada — Myanmar Travel Advice, civil unrest and demonstrations (6 November 2026)",
+        "url": "https://travel.gc.ca/destinations/myanmar"
+      },
+      {
+        "number": 20,
+        "title": "Mizzima reporting — Yangon protest for political prisoners (4 November 2026)",
+        "url": "https://www.crphsupportgroup.no/post/spring-revolution-mizzima-daily-notes-74"
+      },
+      {
+        "number": 21,
+        "title": "UK Foreign, Commonwealth and Development Office — Myanmar: security, explosions and attacks on public sites",
+        "url": "https://www.gov.uk/foreign-travel-advice/myanmar/safety-and-security"
+      },
+      {
+        "number": 22,
+        "title": "UN Myanmar investigative mechanism — Rakhine market airstrike investigation (30 September 2026)",
+        "url": "https://iimm.un.org/en/deadly-airstrike-near-market-rakhine-state-myanmar-mechanism-calls-information"
+      },
+      {
+        "number": 23,
+        "title": "Associated Press — military claims capture of resistance positions (10 November 2026)",
+        "url": "https://apnews.com/article/b87feab3fa1e6d0ddb4b602a5ca09539"
+      },
+      {
+        "number": 24,
+        "title": "Sana’a Center for Strategic Studies — Yemen Review, July–September 2026",
+        "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026/28560"
+      },
+      {
+        "number": 25,
+        "title": "Human Rights Watch — Excessive force against Yemen protesters (26 August 2026)",
+        "url": "https://www.hrw.org/news/2026/08/26/update-on-the-human-rights-situation-in-yemen-and-the-need-to-secure-the-release-of"
+      },
+      {
+        "number": 26,
+        "title": "U.S. State Department — Yemen Travel Advisory (23 October 2026)",
+        "url": "https://travel.state.gov/en/international-travel/travel-advisories/yemen.html"
+      },
+      {
+        "number": 27,
+        "title": "South24 — Suspected AQAP operative targeted near Mukalla (8 October 2026)",
+        "url": "https://south24.net/news/news.php?nid=5781"
+      },
+      {
+        "number": 28,
+        "title": "United Nations Special Envoy — Yemen returns to full-scale war (9 October 2026)",
+        "url": "https://dppa.un.org/en/news/yemen-has-returned-to-full-scale-war-Special-Envoy-warns"
+      },
+      {
+        "number": 29,
+        "title": "Reuters — Haitian security operations and pro-intervention demonstrations (7 November 2026)",
+        "url": "https://www.reuters.com/world/americas/haiti-pm-says-gang-leader-mathias-saintil-dead-2026-11-07/"
+      },
+      {
+        "number": 30,
+        "title": "UN DPPA — Security crisis and postponed Haiti elections (19 October 2026)",
+        "url": "https://dppa.un.org/en/news/haiti-elections-on-hold-as-gangs-adapt-to-security-crackdown-security-council-hears"
+      },
+      {
+        "number": 31,
+        "title": "Associated Press — Police open fire during student protest in Port-au-Prince (1 July 2026)",
+        "url": "https://apnews.com/article/3d4ffba8708026809aa40ce89785b03c"
+      },
+      {
+        "number": 32,
+        "title": "Rezo Nòdwès — Protest dispersed by tear gas in Port-au-Prince (4 September 2026)",
+        "url": "https://rezonodwes.com/2026/09/haiti-la-police-disperse-violemment-des-manifestants-non-armes-a-port-au-prince-tandis-qua-kenscoff-les-gangs-sont-toujours-actifs/"
+      },
+      {
+        "number": 33,
+        "title": "U.S. Treasury OFAC — Viv Ansanm and Gran Grif FTO/terrorism designations (2 May 2025)",
+        "url": "https://ofac.treasury.gov/recent-actions/20250502"
+      },
+      {
+        "number": 34,
+        "title": "UN BINUH — Second-quarter 2026 killings and rival gang fighting (25 August 2026)",
+        "url": "https://binuh.unmissions.org/en/node/136551"
+      },
+      {
+        "number": 35,
+        "title": "ACLED — Students and road-blocking protests in Suwayda (2026)",
+        "url": "https://acleddata.com/expert-comment/why-are-students-protesting-syrias-al-suwayda"
+      },
+      {
+        "number": 36,
+        "title": "United Nations Deputy Special Envoy — Syria Security Council briefing (12 October 2026)",
+        "url": "https://daleel-madani.org/civil-society-directory/united-nations-office-special-envoy-syria/press-releases/deputy-special-envoy-secretary-general-syria-claudio-cordone-briefing-security-council-12-october"
+      },
+      {
+        "number": 37,
+        "title": "U.S. State Department — Syria Travel Advisory (23 October 2026)",
+        "url": "https://travel.state.gov/en/international-travel/travel-advisories/syria.html"
+      },
+      {
+        "number": 38,
+        "title": "UK House of Commons Library — Syrian armed groups and minority protection (1 September 2026)",
+        "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10429/"
+      },
+      {
+        "number": 39,
+        "title": "Human Rights Watch — Taliban lethal force on Herat protest (11 June 2026)",
+        "url": "https://www.hrw.org/news/2026/06/11/afghanistan-taliban-use-excessive-force-against-protesters"
+      },
+      {
+        "number": 40,
+        "title": "UNAMA — Arrests of women and girls in Afghanistan (8 October 2026)",
+        "url": "https://unama.unmissions.org/en/press-releases/unama-expresses-concern-over-de-facto-authority-arrests-of-afghan-women-and"
+      },
+      {
+        "number": 41,
+        "title": "U.S. State Department — Afghanistan Travel Advisory (February 2026)",
+        "url": "https://travel.state.gov/en/international-travel/travel-advisories/afghanistan.html"
+      },
+      {
+        "number": 42,
+        "title": "UNAMA — October cross-border armed strikes and civilian casualties (1 October 2026)",
+        "url": "https://unama.unmissions.org/en/news/unama-confirms-civilian-casualties-in-afghanistan"
+      },
+      {
+        "number": 43,
+        "title": "Dawn — Qila Abdullah sit-in ended after government talks (7 November 2026)",
+        "url": "https://www.dawn.com/news/2042697"
+      },
+      {
+        "number": 44,
+        "title": "Express Tribune — Fatal AJK protest clashes and police reports (9 November 2026)",
+        "url": "https://tribune.com.pk/story/2639465/ttap-calls-for-immediate-end-to-violence-resumption-of-talks-to-quell-ajk-unrest"
+      },
+      {
+        "number": 45,
+        "title": "Dawn and PICSS — 143 terrorist attacks recorded October 2026 (1 November 2026)",
+        "url": "https://www.dawn.com/news/2041388"
+      },
+      {
+        "number": 46,
+        "title": "U.S. State Department — Pakistan Travel Advisory (16 June 2026)",
+        "url": "https://travel.state.gov/en/international-travel/travel-advisories/pakistan.html"
+      },
+      {
+        "number": 47,
+        "title": "Arab News — Security forces and Baloch insurgency incidents (10 October 2026)",
+        "url": "https://www.arabnews.pk/pakistan/pakistan-counterterrorism-police-kill-10-suspectedmilitants-in-balochistan-3003771"
+      },
+      {
+        "number": 48,
+        "title": "UK Home Office — Country policy and information note: Sudan, security situation (July 2026)",
+        "url": "https://www.gov.uk/government/publications/sudan-country-policy-and-information-notes/country-policy-and-information-note-security-situation-sudan-july-2026-accessible"
+      },
+      {
+        "number": 49,
+        "title": "Reuters — UN warns millions of displaced Sudanese risk losing shelter as funds run low (6 November 2026)",
+        "url": "https://www.reuters.com/world/africa/millions-displaced-sudanese-risk-losing-shelter-funds-run-low-un-warns-2026-11-06/"
+      },
+      {
+        "number": 50,
+        "title": "ACLED — State repression increases under Myanmar military’s new leadership",
+        "url": "https://acleddata.com/report/state-repression-increases-under-myanmar-militarys-new-leadership"
+      },
+      {
+        "number": 51,
+        "title": "International Center for Not-for-Profit Law — Civic Freedom Monitor: Myanmar (29 October 2026)",
+        "url": "https://www.icnl.org/resources/civic-freedom-monitor/myanmar"
+      },
+      {
+        "number": 52,
+        "title": "Reuters — Myanmar military strikes on maternity clinic and school (2 November 2026)",
+        "url": "https://www.reuters.com/world/asia-pacific/newborn-among-15-killed-myanmar-military-strikes-maternity-clinic-school-sources-2026-11-02/"
+      },
+      {
+        "number": 53,
+        "title": "Office of the UN Special Envoy for Yemen — Hans Grundberg briefing to the Security Council (10 September 2026)",
+        "url": "https://osesgy.unmissions.org/en/news/briefing-by-the-un-special-envoy-for-yemen-hans-grundberg-to-the-security-council-2"
+      },
+      {
+        "number": 54,
+        "title": "Reuters — Saudi-led coalition says it intercepted Houthi missiles fired towards Riyadh (10 November 2026)",
+        "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/"
+      },
+      {
+        "number": 55,
+        "title": "ACLED — Haiti: four officers missing from Gang Suppression Force",
+        "url": "https://acleddata.com/expert-comment/haiti-four-officers-missing-gang-suppression-force-trouble"
+      },
+      {
+        "number": 56,
+        "title": "Geneva Academy War WATCH — Non-international armed conflict in Haiti: classification",
+        "url": "https://warwatch.ch/situations/non-international-armed-conflict-in-haiti/classification/"
+      },
+      {
+        "number": 57,
+        "title": "Geneva Academy War WATCH — Non-international armed conflict in Haiti: violations, October 2026 legal review",
+        "url": "https://warwatch.ch/situations/non-international-armed-conflict-in-haiti/violations/"
+      },
+      {
+        "number": 58,
+        "title": "Security Council Report — Syria, November 2026 Monthly Forecast",
+        "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-11/syria-97.php"
+      },
+      {
+        "number": 59,
+        "title": "UK House of Commons Library — Syria research briefing CBP-10430 (September 2026)",
+        "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10430/"
+      }
+    ],
+    "assessments": [
+      {
+        "countryID": "USA",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Localized U.S. demonstrations and election-related disruptions; this is not a nationwide violence designation.",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "ACLED described active U.S. protest movements before the November 3 elections [1]. Richmond election officials reported several threats at polling sites [2], while national election-security monitoring reported limited disruption and quick resolution of many incidents [3]. Additional localized disruptions are plausible, but sustained nationwide violent unrest is not established by these sources.",
+            "sourceNumbers": [
+              1,
+              2,
+              3
+            ],
+            "evidenceReview": {
+              "facts": "ACLED documented political demonstrations ahead of the midterms [1]. Richmond reported telephone threats at several polling locations, without confirmed suspicious activity at the assessed sites [2].",
+              "sourceClaims": "Richmond election officials described the local threats and police response [2]; national election-security monitoring characterized threat activity on election day as limited [3].",
+              "counterevidence": "The available national reporting does not establish widespread post-election violent disorder [3]. The Richmond threats were not confirmed as actual attacks [2].",
+              "alternativeExplanation": "The activity may reflect separate local grievances and hoaxes rather than an organized campaign. ACLED recorded distinct protest issues rather than one national command structure [1].",
+              "limitations": "Reporting does not cover every city or incident, and demonstrations alone do not establish violent civil unrest. National-level monitoring can undercount local disturbances [1][3].",
+              "revisionTriggers": "Reassess if corroborated violent incidents spread across several metropolitan areas, if repeated threats disrupt essential services, or if fresh incident data contradict the present localized pattern [1][2][3].",
+              "sourceNumbers": [
+                1,
+                2,
+                3
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "United States nationwide baseline; risk from disparate actors, not a finding of a specific imminent plot.",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "The 2026 intelligence assessment describes a persistent, varied terrorism threat to U.S. interests and the homeland [4]. DOJ identifies lone-offender violence and online radicalization among the continuing challenges [5], while CSIS finds no single dominant terrorist actor [7]. This supports a continued, non-specific threat assessment rather than a claim of an imminent nationwide attack [6].",
+            "sourceNumbers": [
+              4,
+              5,
+              6,
+              7
+            ],
+            "evidenceReview": {
+              "facts": "ODNI evaluates a geographically varied terrorism threat and homeland risk [4]. DOJ describes evolving terrorist tactics and online mobilization [5].",
+              "sourceClaims": "DOJ characterizes the threat environment as heightened in its 2026–2030 strategic plan [5]. CSIS separately identifies a fragmented landscape of groups, networks, and individuals [7].",
+              "counterevidence": "The DHS National Terrorism Advisory System is the mechanism for public advisories, and its listed status should be checked separately; a persistent background threat does not itself mean a specific imminent operation [6].",
+              "alternativeExplanation": "Some apparent increases in public warnings may reflect intelligence collection and improved reporting, not a confirmed acceleration in attempted attacks. Threat actors and motivations are heterogeneous [7].",
+              "limitations": "Open reporting cannot determine the status of undisclosed investigations or forecast an individual attacker. Annual assessments are strategic baselines rather than real-time tactical warnings [4][6].",
+              "revisionTriggers": "Raise the assessment only after corroborated recent attacks, disrupted plots, or a credible specific advisory; lower it if sustained threat indicators weaken. Consult DHS advisories and current case reporting [5][6][7].",
+              "sourceNumbers": [
+                4,
+                5,
+                6,
+                7
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "Low",
+            "trend": "No Comparison",
+            "confidence": "Low",
+            "scope": "Armed fighting within U.S. territory only; U.S. deployments and combat operations overseas are excluded.",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "ODNI describes threats to the U.S. homeland while emphasizing its geographic and deterrent advantages [4]. ACLED monitors U.S. political violence and demonstrations [8], but isolated criminal or political incidents do not by themselves constitute sustained organized armed conflict. The reviewed material does not establish an active domestic war; this is a low-confidence national baseline, not a guarantee against localized violence.",
+            "sourceNumbers": [
+              4,
+              8
+            ],
+            "evidenceReview": {
+              "facts": "The 2026 ODNI assessment differentiates threats to the homeland from broader overseas conflicts and notes U.S. geographic protective advantages [4]. ACLED maintains structured reporting on domestic political violence [8].",
+              "sourceClaims": "ODNI warns that hostile states and nonstate actors have capabilities to threaten the homeland; this is a capability assessment, not a declaration of active fighting within U.S. territory [4].",
+              "counterevidence": "A background threat of terrorism or political violence must not be misclassified as sustained armed conflict. ACLED tracks discrete violent events as well as conflicts [8].",
+              "alternativeExplanation": "Localized violent incidents may be criminal, ideological, or interpersonal rather than part of an organized armed campaign. Event classification must distinguish those possibilities [8].",
+              "limitations": "This baseline is derived from strategic public reporting and event-monitoring coverage, not an exhaustive audit of every U.S. jurisdiction. It may miss rapidly developing organized activity [4][8].",
+              "revisionTriggers": "Reclassify if verified sustained exchanges of fire between organized groups, seizure and defense of territory, or repeated coordinated military-style attacks emerge on U.S. soil [4][8].",
+              "sourceNumbers": [
+                4,
+                8
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "countryID": "UKR",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Kyiv region and isolated urban protest locations, not all of Ukraine",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Clashes with security forces at a National Guard facility near Kyiv on 2 November establish a localized violent civic disturbance distinct from the frontline war. [9][10]",
+            "sourceNumbers": [
+              9,
+              10
+            ],
+            "evidenceReview": {
+              "facts": "Reuters documented a confrontation, crowd violence, damage to a vehicle and an investigation into disputed treatment of recruits. [9][10]",
+              "sourceClaims": "The Ukrainian security service reported detaining alleged organizers; its account of paid provocation is an investigative allegation rather than an adjudicated finding. [9][10]",
+              "counterevidence": "Investigations remain underway, and the reporting does not demonstrate sustained riots across Ukrainian cities. [9][10]",
+              "alternativeExplanation": "Conscription grievances, rumor circulation and possible organized agitation may have contributed simultaneously. [9][10]",
+              "limitations": "No verified national incident series allows a claim of nationwide escalating disorder. [9][10]",
+              "revisionTriggers": "Reassess if comparable violent clashes recur in other regions or police release verified incident totals. [9][10]",
+              "sourceNumbers": [
+                9,
+                10
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Rivne, Kyiv and other sites identified in security investigations",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Ukraine reports multiple intercepted bombing plots away from active combat zones; the threat is material but the reported plans were disrupted. [11][12]",
+            "sourceNumbers": [
+              11,
+              12
+            ],
+            "evidenceReview": {
+              "facts": "Ukraine’s security service describes a suspected rush-hour device near an administration building in Rivne and separate alleged bombing plans in Kyiv. [11][12]",
+              "sourceClaims": "The Ukrainian service attributes the plots to Russian-directed agents; arrests and suspicions are not court convictions. [11][12]",
+              "counterevidence": "Both cited examples were described as thwarted, not completed mass-casualty attacks. [11][12]",
+              "alternativeExplanation": "State-directed sabotage overlaps with wartime intelligence operations; not every attack on military infrastructure is terrorism. [11][12]",
+              "limitations": "Independent access to case files and undisclosed investigations is limited. [11][12]",
+              "revisionTriggers": "Change classification if independently corroborated civilian-targeted attacks occur or the allegations fail evidentiary review. [11][12]",
+              "sourceNumbers": [
+                11,
+                12
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "Ongoing Conflict",
+            "trend": "Rising",
+            "confidence": "High",
+            "scope": "Frontline regions and nationwide exposure to missiles and drones",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Verified sustained Russian–Ukrainian military operations and recurring civilian harm meet the ongoing-armed-conflict threshold. [13]",
+            "sourceNumbers": [
+              13
+            ],
+            "evidenceReview": {
+              "facts": "UN monitors verified 328 civilians killed and 2,105 injured in September, with casualties across 22 regions and Kyiv. [13]",
+              "sourceClaims": "The UN mission documented a year-over-year increase in civilian casualties, which is a measure of exposure rather than territorial control. [13]",
+              "counterevidence": "Monthly casualty totals cannot establish the outcome of individual operations or guarantee the same intensity in each region. [13]",
+              "alternativeExplanation": "More frequent urban strikes can raise casualty totals independently of any movement of the front. [13]",
+              "limitations": "The latest cited UN monthly dataset is from September; some November events require separate verification. [13]",
+              "revisionTriggers": "Monitor verified ceasefires, strikes and geographic shifts in active military engagements. [13]",
+              "sourceNumbers": [
+                13
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "countryID": "SDN",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Khartoum and conflict-affected Darfur, Kordofan and Blue Nile; nationwide displacement and fragmented governance, with unequal regional intensity",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Fragmented civilian governance, coercive territorial control by opposing authorities, interrupted essential services and large-scale displacement establish severe internal instability independent of protest counts. [48][49] Khartoum teachers’ strikes are an additional, not primary, indicator of civic disruption. [14][15] The civil war itself is assessed separately under Armed Conflict.",
+            "sourceNumbers": [
+              14,
+              15,
+              48,
+              49
+            ],
+            "evidenceReview": {
+              "facts": "UK Home Office country reporting describes Sudan’s wartime security situation, including territory held by opposing authorities and disrupted state functions. [48] UN refugee and migration agencies, cited by Reuters on 6 November, warned that millions of displaced Sudanese risk losing shelter as funds run low. [49] Khartoum teachers have sustained a strike since late October. [14][15]",
+              "sourceClaims": "Displacement and shelter warnings are UN agency assessments relayed by Reuters. [49] Union representatives attribute the teachers’ strike to inadequate pay and conditions. [14][15]",
+              "counterevidence": "Some states and cities experience lower levels of direct violence and retain functioning institutions. [48] The teachers’ labor action does not establish widespread violent rioting, and some staff reportedly returned to work. [14][15]",
+              "alternativeExplanation": "Much of the disruption follows from the war and humanitarian funding shortfalls rather than organized anti-government protest; this rating measures loss of civil order and governance, not battlefield casualties. [48][49]",
+              "limitations": "Wartime reporting has major coverage and attribution gaps, and conditions vary sharply between regions; the rating does not imply continuous riots in every part of Sudan. [48][49]",
+              "revisionTriggers": "Reassess on verified restoration or deterioration of civic institutions, a sustained return of residents, extension of emergency restrictions, or independently documented mass unrest. [48][49]",
+              "sourceNumbers": [
+                14,
+                15,
+                48,
+                49
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Low",
+            "scope": "Threat associated with designated armed Islamist networks; incident-level geography uncertain",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "A U.S. terrorist organization designation establishes an identified threat actor, but publicly accessible evidence does not separate all reported abuses from Sudan’s battlefield violence. [16][17]",
+            "sourceNumbers": [
+              16,
+              17
+            ],
+            "evidenceReview": {
+              "facts": "In March 2026 the United States formally designated the Sudanese Muslim Brotherhood and listed aliases as a Foreign Terrorist Organization. [16][17]",
+              "sourceClaims": "The State Department also flags a terrorism concern in its Sudan travel advisory; designation is a U.S. governmental legal determination, not an independent count of attacks. [16][17]",
+              "counterevidence": "War-related atrocities and fighting are independently prominent; the two sources do not supply a distinct October–November terrorism event total. [16][17]",
+              "alternativeExplanation": "Some actions attributed to the designated organization may overlap with direct participation in the civil war. [16][17]",
+              "limitations": "Classification has low confidence because open-source incident attribution is poor. [16][17]",
+              "revisionTriggers": "Escalate only with independently documented intentional terror attacks distinct from battlefield hostilities, or lower after verified demobilization. [16][17]",
+              "sourceNumbers": [
+                16,
+                17
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "Ongoing Conflict",
+            "trend": "No Comparison",
+            "confidence": "High",
+            "scope": "Darfur, Kordofan, Blue Nile, Abyei, and drone-strike exposure elsewhere",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "The Sudanese Armed Forces–Rapid Support Forces war remains active, including strikes far from main frontlines. [18]",
+            "sourceNumbers": [
+              18
+            ],
+            "evidenceReview": {
+              "facts": "The UN reported further deadly drone attacks across multiple states and injuries at an Abyei market in October. [18]",
+              "sourceClaims": "UN officials attributed the broader crisis to continuing battles between SAF, RSF and aligned forces. [18]",
+              "counterevidence": "Individual strike attribution and the total number of casualties are sometimes preliminary. [18]",
+              "alternativeExplanation": "The spread of drones creates risk outside conventional ground fronts. [18]",
+              "limitations": "Combatant control and casualty verification remain difficult in access-restricted zones. [18]",
+              "revisionTriggers": "Adjust only on evidence of a sustained ceasefire, withdrawal or substantial escalation in verified combat. [18]",
+              "sourceNumbers": [
+                18
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "countryID": "MMR",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Yangon, Mandalay, Ayeyarwady and contested regions, including conflict-affected states; urban repression and territorial fighting are distinct",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Sustained military repression of civilian opposition, mass arrests and surveillance, restricted civic freedoms, forced recruitment and political fragmentation warrant High domestic instability. [50][51] Demonstrations continue in urban centers despite fear of repression [19][20], and military strikes on civilian sites compound disruption of ordinary life. [52] Fighting between the junta and organized resistance is assessed separately as Ongoing Conflict.",
+            "sourceNumbers": [
+              19,
+              20,
+              50,
+              51,
+              52
+            ],
+            "evidenceReview": {
+              "facts": "ACLED reports that state repression has increased under the military’s new leadership. [50] The ICNL Civic Freedom Monitor, updated 29 October, documents restricted civic freedoms. [51] Mizzima recorded a 3 November Yangon march for political-prisoner releases [20], and Reuters reported deadly military strikes on a maternity clinic and a school on 2 November. [52]",
+              "sourceClaims": "Casualty details for the 2 November strikes come from sources cited by Reuters. [52] Canadian government advice warns that demonstrations can turn violent; it does not state that each gathering has been violent. [19]",
+              "counterevidence": "Fear of repression suppresses visible demonstrations, and some cities retain administrative functions despite these conditions. [19][50] The November Yangon march was not independently described as a riot. [20]",
+              "alternativeExplanation": "Low visible protest counts may reflect coercion rather than reduced grievances; resistance attacks belong under armed conflict or terrorism assessments, not protest activity. [50][51]",
+              "limitations": "Access restrictions, surveillance and communications controls make protests, arrests and forced recruitment difficult to enumerate independently. [50][51][52]",
+              "revisionTriggers": "Reassess after verified mass arrests, civil disobedience or crowd violence, or after durable restoration of rights and reduced coercive restrictions. [19][50][51]",
+              "sourceNumbers": [
+                19,
+                20,
+                50,
+                51,
+                52
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Low",
+            "scope": "Urban public sites and politically linked targets, especially Yangon and Mandalay",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Governments warn of politically motivated bomb attacks and IED threats beyond conventional battlefronts, but attribution varies. [19][21]",
+            "sourceNumbers": [
+              19,
+              21
+            ],
+            "evidenceReview": {
+              "facts": "Canada reports explosive-device use and possible attacks near public venues; the UK warns of small explosive attacks on regime-associated facilities. [19][21]",
+              "sourceClaims": "The UK description concerns opposition-targeted attacks and not a single globally designated terrorist organization. [19][21]",
+              "counterevidence": "Many operations against military outposts belong under armed conflict rather than terrorism, and no independently checked November public-target attack total is available. [19][21]",
+              "alternativeExplanation": "Urban sabotage, targeted resistance operations and terrorist violence require separate intent-and-target review. [19][21]",
+              "limitations": "There is uncertainty in actor attribution and whether individual attacks primarily target civilians. [19][21]",
+              "revisionTriggers": "Upgrade after independently corroborated deliberate attacks on civilian public venues; downgrade if recent targeted-IED evidence weakens. [19][21]",
+              "sourceNumbers": [
+                19,
+                21
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "Ongoing Conflict",
+            "trend": "No Comparison",
+            "confidence": "High",
+            "scope": "Rakhine, Mon, Bago, Sagaing and other active theatres",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Sustained conflict between Myanmar’s armed forces and organized opposition is well established. [22][23]",
+            "sourceNumbers": [
+              22,
+              23
+            ],
+            "evidenceReview": {
+              "facts": "UN investigators documented a deadly Rakhine market airstrike under investigation; November reporting described continued military operations near the Mon–Bago border. [22][23]",
+              "sourceClaims": "Myanmar state media claimed capture of eleven opposition facilities; the Associated Press could not independently verify the claim. [22][23]",
+              "counterevidence": "Claims about exact territorial control require verification, and the UN investigation does not yet adjudicate responsibility for the market attack. [22][23]",
+              "alternativeExplanation": "Air power and contested ground positions explain risks to civilians without proving a single nationwide front. [22][23]",
+              "limitations": "Independent access to battle zones is curtailed. [22][23]",
+              "revisionTriggers": "Monitor independently confirmed changes in frontlines, verified airstrikes and cessation-of-hostilities agreements. [22][23]",
+              "sourceNumbers": [
+                22,
+                23
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "countryID": "YEM",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Sanaa, Aden, Shabwa, Hadramawt and west-coast conflict effects; intensity differs between north and south",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Multiple competing authorities, repression of demonstrators, arbitrary detentions, weakened public institutions and extensive civilian disruption merit High civil unrest. [24][25][53] This is assessed separately from Houthi–government and cross-border hostilities [54]; Houthi military attacks are not counted as additional terrorist or protest incidents.",
+            "sourceNumbers": [
+              24,
+              25,
+              53,
+              54
+            ],
+            "evidenceReview": {
+              "facts": "Human Rights Watch documented excessive force against protesters and arbitrary detentions in 2026. [25] Sana’a Center documented Southern Transitional Council-linked mass demonstrations in Aden and Hadramawt. [24] The UN Special Envoy’s 10 September Security Council briefing addressed competing authorities and the pressure on Yemeni civilians. [53]",
+              "sourceClaims": "HRW reports allegations of deaths and arbitrary detentions after protest actions. [25] The Saudi-led coalition’s account of intercepting Houthi missiles fired towards Riyadh on 10 November is a party claim reported by Reuters. [54]",
+              "counterevidence": "Not all demonstrations were violent, and some political rallies proceeded without major clashes. [24][25] Civil unrest varies substantially between north and south. [24]",
+              "alternativeExplanation": "Mobilization may be driven by governance failures, unpaid salaries and southern political demands rather than battlefield activity; Houthi capability is relevant to the separate terrorism assessment. [24][53][54]",
+              "limitations": "Limited independent access and shifting territorial control weaken comparison of protest and detention frequency, and state actors and armed movements may give partisan incident accounts. [24][53]",
+              "revisionTriggers": "Reassess on violent protest cycles, new detention campaigns, verified restoration of governance or a durable settlement. [25][53]",
+              "sourceNumbers": [
+                24,
+                25,
+                53,
+                54
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Abyan, Shabwah, Hadramawt, public infrastructure and population centers",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "AQAP and other extremist networks remain active while the designated Houthi organization presents a separate persistent attack threat. [26][27]",
+            "sourceNumbers": [
+              26,
+              27
+            ],
+            "evidenceReview": {
+              "facts": "The State Department’s October advisory specifically identifies AQAP, Islamic State affiliates and Ansarallah, warning of attacks with little notice. [26][27]",
+              "sourceClaims": "South24 reported a strike on a suspected AQAP operative near Mukalla; the suspect’s identity and the strike’s outcome were not independently confirmed. [26][27]",
+              "counterevidence": "The Mukalla report alone does not prove a completed AQAP attack; the broader advisory describes a persistent threat rather than a specific imminent operation. [26][27]",
+              "alternativeExplanation": "Extremist attacks and military strikes by parties to the civil war can overlap and must be counted carefully. [26][27]",
+              "limitations": "Public reports cannot confirm every cell’s capacity, and military sources have incentives in attribution. [26][27]",
+              "revisionTriggers": "Lower only if incident reporting and independent threat evidence decline; escalate on corroborated major civilian attacks. [26][27]",
+              "sourceNumbers": [
+                26,
+                27
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "Ongoing Conflict",
+            "trend": "No Comparison",
+            "confidence": "High",
+            "scope": "Active frontlines across Yemen and cross-border strike exposure",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "UN diplomats reported Yemen had returned to full-scale war by early October. [28]",
+            "sourceNumbers": [
+              28
+            ],
+            "evidenceReview": {
+              "facts": "The UN Special Envoy described renewed hostilities on several frontlines and a deterioration from the earlier truce. [28]",
+              "sourceClaims": "Each warring party may give competing claims about territorial gains and military losses. [28]",
+              "counterevidence": "An official description of full-scale war does not imply every governorate is equally exposed at all times. [28]",
+              "alternativeExplanation": "Drones, missiles and interlinked regional operations may raise exposure outside ground combat areas. [28]",
+              "limitations": "Independent civilian casualty verification and precise battlefield positions remain limited. [28]",
+              "revisionTriggers": "Monitor documented ceasefires, territorial offensives, maritime attacks and cross-border escalation. [28]",
+              "sourceNumbers": [
+                28
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "countryID": "HTI",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "High",
+            "scope": "Port-au-Prince, Ouest, Centre, Artibonite and vulnerable transport routes; not every department is equally affected",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Armed gangs exercising quasi-governmental territorial control, intimidation of residents, broken transport corridors, mass displacement, retaliatory attacks and impaired civilian governance justify High civil disorder. [30][55] Security operations remain contested [29], and police confrontations at demonstrations are additional rather than primary indicators [31][32]; ordinary political demonstrations are not assumed to be violent.",
+            "sourceNumbers": [
+              29,
+              30,
+              31,
+              32,
+              55
+            ],
+            "evidenceReview": {
+              "facts": "UN reporting to the Security Council in October described gangs adapting to the security crackdown, with elections on hold. [30] ACLED reported four officers missing from the Gang Suppression Force. [55] The Associated Press witnessed police gunfire during a July march, and a September local report described tear-gas dispersal of a demonstration. [31][32]",
+              "sourceClaims": "The Haitian prime minister’s 7 November statement on a gang leader’s death is an official claim reported by Reuters. [29] Protest organizers attributed responsibility for the July injury to police. [31]",
+              "counterevidence": "Gang suppression operations reportedly recovered some areas and reduced attacks on civilians in some districts, although gains are patchy and fragile. [29][30] Recent November rallies have not been established as violent. [29]",
+              "alternativeExplanation": "Much of the disorder stems from criminal competition for territory and revenue; crime, terrorism and armed-conflict classifications overlap without being identical. [30][55]",
+              "limitations": "Territorial control shifts quickly and reporting from gang-held areas is incomplete; the July and September protest clashes do not show a continuous nationwide protest wave. [30][31][32]",
+              "revisionTriggers": "Reassess on verified territorial recapture, restored police access and basic services, gang retaliation, or a material change in civilian control. [29][30][55]",
+              "sourceNumbers": [
+                29,
+                30,
+                31,
+                32,
+                55
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Port-au-Prince, Artibonite, Centre and gang-influenced transit areas",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "The United States formally designated Viv Ansanm and Gran Grif as terrorist organizations; the UN continues to document lethal coercive attacks by Haitian armed groups. [30][33]",
+            "sourceNumbers": [
+              30,
+              33
+            ],
+            "evidenceReview": {
+              "facts": "OFAC’s May 2025 listing confirms formal terrorist designations; October 2026 UN reporting documented over 1,100 deaths associated with gang-related violence since July. [30][33]",
+              "sourceClaims": "The designation represents the U.S. legal position; the UN describes gangs and violence without labeling every member or incident as terrorism. [30][33]",
+              "counterevidence": "Not all gang homicides are necessarily politically motivated attacks; allegations about individual events require separate corroboration. [30][33]",
+              "alternativeExplanation": "The violence also has criminal and territorial incentives and should not be collapsed into one ideological campaign. [30][33]",
+              "limitations": "Open sources are incomplete about each perpetrator’s organization and motive. [30][33]",
+              "revisionTriggers": "Reassess following verified attacks by named designated groups and documented changes in their territorial control. [30][33]",
+              "sourceNumbers": [
+                30,
+                33
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "Ongoing Conflict",
+            "trend": "No Comparison",
+            "confidence": "High",
+            "scope": "Port-au-Prince/Ouest, Artibonite and Centre, with spillover concerns; hostilities are regionally concentrated, not nationwide",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Geneva Academy’s War WATCH project classifies a continuing non-international armed conflict between Haiti, supported by the Gang Suppression Force, and the Viv Ansanm coalition. [56][57] UN reporting documents hostilities, joint security operations, territorial control and rival gang fighting. [30][34] This reflects organized, persistent armed fighting rather than a conventional front-line war across the whole country.",
+            "sourceNumbers": [
+              30,
+              34,
+              56,
+              57
+            ],
+            "evidenceReview": {
+              "facts": "War WATCH classifies the situation as a continuing non-international armed conflict and reviewed related legal developments in October 2026. [56][57] The UN documented hostilities, joint security operations and attacks against multinational personnel [30], and BINUH recorded killings in rival gang fighting during the second quarter. [34]",
+              "sourceClaims": "The non-international armed conflict classification is a legal assessment by War WATCH. [56][57] Casualty attributions to specific gangs or operations come from UN monitoring. [30][34]",
+              "counterevidence": "Hostilities concentrate in particular regions, and security operations have recovered some neighborhoods. [30][34] The legal classification does not describe a conventional front-line war. [56]",
+              "alternativeExplanation": "Some violence reflects criminal competition for territory and illicit revenue alongside organized hostilities against the state. [34]",
+              "limitations": "Confidence is high for the existence of the conflict but lower for fine-grained, real-time territorial lines; aggregate casualties combine incident types. [30][34][56]",
+              "revisionTriggers": "Reassess on a verified end of organized hostilities, demobilization, lasting recovery of state control, or escalation into previously unaffected regions. [30][56][57]",
+              "sourceNumbers": [
+                30,
+                34,
+                56,
+                57
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "countryID": "SYR",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Suwayda, Daraa, Quneitra, some northern regions and other sites of political demonstrations or communal tension",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Fragmented domestic authority, unresolved communal tensions, demonstrations against foreign incursions, restrictions on civilian life and continued militia confrontations create severe political and civil instability. [36][58][59] Suwayda protests over education access and governance persist [35], and official guidance notes armed clashes involving former regime factions. [37] ISIS plots and localized military fighting are assessed separately under Terrorism and Armed Conflict.",
+            "sourceNumbers": [
+              35,
+              36,
+              37,
+              58,
+              59
+            ],
+            "evidenceReview": {
+              "facts": "ACLED described Suwayda student demonstrations and road closures [35]; a UN briefing recorded an October demonstration amid continuing factional tension. [36] Security Council Report’s November forecast and a September House of Commons Library briefing describe the transition and unresolved security tensions. [58][59] The State Department notes armed clashes involving former regime factions. [37]",
+              "sourceClaims": "The UN said some Suwayda demonstrators displayed Israeli flags and cautioned that this did not represent the wider Druze community. [36] Characterizations of militia confrontations come from official advisories and parliamentary briefings. [37][59]",
+              "counterevidence": "The Assad-era civil war ended in 2024; an interim government controls much of the country and is integrating some formerly autonomous forces. [58][59] UN officials noted fewer violent incidents on Suwayda contact lines in October. [36]",
+              "alternativeExplanation": "Local protests may address civic access, services and autonomy rather than organized armed opposition; the country is not repeating the earlier nationwide civil-war pattern. [35][58]",
+              "limitations": "Event datasets and diplomatic reporting cannot capture every local protest or confirm every allegation, and matched counts for trend comparison are unavailable. [35][36][58]",
+              "revisionTriggers": "Reassess on new mass communal unrest, fracture of territorial administration, sustained protests, or successful integration and reconciliation. [36][58][59]",
+              "sourceNumbers": [
+                35,
+                36,
+                37,
+                58,
+                59
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Localized extremist activity, insecure borders and public-event threat areas",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "The State Department continues to identify active terrorist organizations and specific threats within Syria. [37]",
+            "sourceNumbers": [
+              37
+            ],
+            "evidenceReview": {
+              "facts": "Its October 2026 country advisory cites terrorist groups operating inside Syria and risks to places of public gathering. [37]",
+              "sourceClaims": "That advisory expresses a government security judgment rather than publishing a comprehensive monthly database of attacks. [37]",
+              "counterevidence": "Not every violent episode in Syria involves terrorism; state-security operations and intergroup fighting must be separated. [37]",
+              "alternativeExplanation": "Extremist cells can exploit fragmented authority, but intent and operational capacity vary by area. [37]",
+              "limitations": "No complete independently verified October attack inventory was assembled for this indicator. [37]",
+              "revisionTriggers": "Update on validated plots, attacks, arrests, regional warnings and documented organizational capability. [37]",
+              "sourceNumbers": [
+                37
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Southern Syria, Suwayda and localized armed-group areas",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Organized armed clashes and foreign military incidents continue, but the evidence does not demonstrate uniformly intensive nationwide warfare. [36][37][38]",
+            "sourceNumbers": [
+              36,
+              37,
+              38
+            ],
+            "evidenceReview": {
+              "facts": "The State Department notes armed clashes involving former regime factions; the UK House of Commons describes persistent communal security tensions after the transition. [36][37][38]",
+              "sourceClaims": "Official advisories warn of broad exposure while specific incidents tend to cluster in particular regions. [36][37][38]",
+              "counterevidence": "UN officials reported a decrease in violent incidents on Suwayda contact lines during October, a meaningful local counterindicator. [36][37][38]",
+              "alternativeExplanation": "Violence may be episodic and intercommunal instead of one uninterrupted national front. [36][37][38]",
+              "limitations": "Local ceasefires and changes in actor control cannot be inferred from nationwide travel warnings. [36][37][38]",
+              "revisionTriggers": "Escalate to Ongoing Conflict only with verified sustained organized fighting; lower following documented durable de-escalation. [36][37][38]",
+              "sourceNumbers": [
+                36,
+                37,
+                38
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "countryID": "AFG",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Herat and Kabul; incidents under severe assembly restrictions",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "A deadly crackdown on a women’s rights protest and documented recent enforcement actions indicate significant localized civic tension, not broad open street mobilization. [39][40]",
+            "sourceNumbers": [
+              39,
+              40
+            ],
+            "evidenceReview": {
+              "facts": "Human Rights Watch recorded Taliban security forces firing at Herat demonstrators in June; UNAMA documented later arrests of women in Herat and Kabul. [39][40]",
+              "sourceClaims": "The Taliban’s justification centers on claimed dress-rule enforcement; UN monitors describe arrests and threats as human-rights concerns. [39][40]",
+              "counterevidence": "The best documented violent protest incident is months old, and repression sharply limits publicly visible demonstrations. [39][40]",
+              "alternativeExplanation": "Low protest counts may reflect fear and prohibitions rather than public acceptance. [39][40]",
+              "limitations": "Current street-level incident coverage is limited and repression is distinct from civil armed conflict. [39][40]",
+              "revisionTriggers": "Increase after corroborated renewed lethal suppression or recurring violent protests; lower after verifiable easing of restrictions. [39][40]",
+              "sourceNumbers": [
+                39,
+                40
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Kabul, northern provinces and reported IS-K network areas",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Afghanistan retains a significant extremist-attack threat including Islamic State Khorasan activity, according to official security reporting. [41]",
+            "sourceNumbers": [
+              41
+            ],
+            "evidenceReview": {
+              "facts": "The U.S. Afghanistan travel advisory warns of terrorist activity and attacks, including public spaces and security targets. [41]",
+              "sourceClaims": "The U.S. advisory assesses risk to travelers; it does not establish an imminent attack in every province. [41]",
+              "counterevidence": "The advisory cannot substitute for a complete 30-day verified attack count; IS-K activity is separate from the Taliban–Pakistan border conflict. [41]",
+              "alternativeExplanation": "Terrorist networks may be active even when large public attacks decline. [41]",
+              "limitations": "Underreporting, limited international presence and opaque security operations restrict confirmation. [41]",
+              "revisionTriggers": "Monitor corroborated attacks, UN counterterrorism monitoring and verifiable disruption of IS-K networks. [41]",
+              "sourceNumbers": [
+                41
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "High",
+            "scope": "Kunar, Helmand, Nangarhar and other Afghanistan–Pakistan border provinces",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Cross-border airstrikes and armed exchanges created sustained localized military risk in 2026, although they do not establish war across all Afghan territory. [42]",
+            "sourceNumbers": [
+              42
+            ],
+            "evidenceReview": {
+              "facts": "UNAMA documented civilian deaths and injuries in 1 October strikes and over 1,100 civilian casualties from 2026 cross-border armed violence. [42]",
+              "sourceClaims": "The UN documented casualties but did not independently verify every party’s account of why a target was attacked. [42]",
+              "counterevidence": "Border hostilities and the Taliban’s limited domestic armed opposition differ from a nationwide multi-front civil war. [42]",
+              "alternativeExplanation": "The conflict can intensify and recede episodically depending on cross-border retaliation. [42]",
+              "limitations": "Public sources do not provide complete information on troop concentrations and the latest bilateral contacts. [42]",
+              "revisionTriggers": "Raise if sustained large-scale frontlines open; lower after verifiable ceasefire compliance and sharp reductions in strikes. [42]",
+              "sourceNumbers": [
+                42
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "countryID": "PAK",
+        "indicators": [
+          {
+            "category": "Civil Unrest",
+            "level": "Moderate",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Azad Jammu and Kashmir, Balochistan and other protest locations",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Recent public demonstrations, road closures and reported clashes support a distinct localized civic unrest rating. [43][44]",
+            "sourceNumbers": [
+              43,
+              44
+            ],
+            "evidenceReview": {
+              "facts": "Dawn documented a sit-in blocking the Quetta–Chaman corridor that ended after government talks; November reporting described unrest and fatalities during separate protests in AJK. [43][44]",
+              "sourceClaims": "Parties dispute who initiated violence in AJK; police reported a security-force fatality, while opposition sources alleged disproportionate force. [43][44]",
+              "counterevidence": "The Qila Abdullah sit-in ended through negotiation, showing not all protests are sustained or violent. [43][44]",
+              "alternativeExplanation": "Local demands about rights, crime and governance do not necessarily form one nationwide movement. [43][44]",
+              "limitations": "Disputed casualty figures and different political jurisdictions constrain comparisons. [43][44]",
+              "revisionTriggers": "Reassess after independently confirmed further clashes, mass road closures or successful settlements. [43][44]",
+              "sourceNumbers": [
+                43,
+                44
+              ]
+            }
+          },
+          {
+            "category": "Terrorism",
+            "level": "High",
+            "trend": "Falling",
+            "confidence": "High",
+            "scope": "Khyber Pakhtunkhwa, Balochistan and occasional other urban targets",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Independent Pakistani conflict tracking documents a high attack burden despite a decline from September. [45][46]",
+            "sourceNumbers": [
+              45,
+              46
+            ],
+            "evidenceReview": {
+              "facts": "PICSS data published by Dawn recorded 143 terrorist attacks during October, down from 226 in September; the State Department identifies several active violent extremist groups. [45][46]",
+              "sourceClaims": "PICSS reports a falling October attack count; this is not proof the underlying extremist networks have been dismantled. [45][46]",
+              "counterevidence": "Even a sharp monthly decline leaves a substantial level of attacks and kidnapping. [45][46]",
+              "alternativeExplanation": "Changes may reflect seasonal operational patterns, security action or tactical pauses. [45][46]",
+              "limitations": "Event coding and competing attributions may differ among monitors. [45][46]",
+              "revisionTriggers": "Monitor monthly confirmed attacks, civilians harmed, responsibility claims and verified security changes. [45][46]",
+              "sourceNumbers": [
+                45,
+                46
+              ]
+            }
+          },
+          {
+            "category": "Armed Conflict",
+            "level": "High",
+            "trend": "No Comparison",
+            "confidence": "Moderate",
+            "scope": "Afghanistan border, Khyber Pakhtunkhwa and Baloch insurgency areas",
+            "assessedAt": "2026-11-10T15:00:00Z",
+            "reviewBy": "2026-11-16T15:00:00Z",
+            "rationale": "Cross-border hostilities and insurgency-linked clashes support High localized armed conflict risk, not a claim of general nationwide war. [42][47]",
+            "sourceNumbers": [
+              42,
+              47
+            ],
+            "evidenceReview": {
+              "facts": "UNAMA confirmed Afghanistan-side civilian casualties from border strikes in October; Pakistani reporting separately described armed operations against militants in Balochistan. [42][47]",
+              "sourceClaims": "Pakistani officials described the Balochistan counterterrorism operation; some militant casualty figures are security-force claims. [42][47]",
+              "counterevidence": "Cross-border incidents are geographically concentrated and the fighting does not extend equally to major cities. [42][47]",
+              "alternativeExplanation": "Insurgency and border exchanges are related but distinct conflict dynamics. [42][47]",
+              "limitations": "Attribution of individual border strikes and casualty counts can be contested. [42][47]",
+              "revisionTriggers": "Escalate on sustained large-scale bilateral fighting; lower after documented cessation of border strikes and militant clashes. [42][47]",
+              "sourceNumbers": [
+                42,
+                47
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "events": [],
+    "topics": [],
+    "watchNext": []
+  }
+}
