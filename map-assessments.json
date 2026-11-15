@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T22:12:57Z",
+  "generatedAt": "2026-11-15T01:28:47Z",
   "methodologyVersion": "advisory-baseline-v1",
   "countries": [
     {
@@ -6680,9 +6680,9 @@
       "id": "FRA",
       "name": "France",
       "region": "Western Europe",
-      "level": "Ongoing Conflict",
+      "level": "Moderate",
       "baselineLevel": "Moderate",
-      "explanation": "Recurring severe violent civil unrest has accompanied widespread demonstrations, including vandalism, looting, clashes, and localized curfews. Watchfront’s expanded conflict category covers serious sustained public disorder; it does not imply nationwide warfare or that peaceful demonstrators are rioters.",
+      "explanation": "Advisory baseline (US Level 2: Exercise increased caution). Methodology correction, 14 November 2026: the earlier Ongoing Conflict flag was removed because civil unrest does not meet Watchfront's conflict standard (no state-based armed conflict). This is not a security improvement: serious civil unrest continues and is assessed separately in Risk Trends (Civil Unrest: High, deteriorating).",
       "officialAdvisory": "Level 2: Exercise increased caution",
       "checkedAt": "2026-10-06T17:52:02Z",
       "sources": [
@@ -6694,8 +6694,6 @@
           "checkedAt": "2026-10-06T17:52:02Z"
         }
       ],
-      "conflictScope": "Localized riot and violent-clash areas associated with major demonstrations; most marches are peaceful and conditions vary substantially by city and neighborhood.",
-      "conflictReviewedAt": "2026-11-05T19:45:37Z",
       "additionalSources": [
         {
           "title": "France — Travel Advice",
@@ -6740,7 +6738,7 @@
         ],
         "assessment": [
           {
-            "text": "Watchfront applies its Ongoing Conflict category to sustained, severe episodes of violent civil disorder. This is an independent editorial classification, not an official travel-alert level and not a claim that France is in a conventional war.",
+            "text": "Watchfront corrected France's classification to its advisory baseline on 14 November 2026. The previous Ongoing Conflict flag reflected severe civil disorder, which Watchfront's current conflict standard does not count as armed conflict. The change corrects the classification method; it does not indicate that conditions have improved.",
             "sourceNumbers": [
               2,
               3
@@ -6756,7 +6754,7 @@
         ],
         "watchFor": [
           {
-            "text": "Watch protest locations, announced strikes, clashes or arson, curfew orders, changes in policing, and public-transport cancellations. Reassess the red classification as the intensity of violent unrest changes.",
+            "text": "Watch protest locations, announced strikes, clashes or arson, curfew orders, changes in policing, and public-transport cancellations. Civil unrest is tracked in Risk Trends; an armed-conflict flag would require evidence of state-based armed conflict.",
             "sourceNumbers": [
               2,
               3
