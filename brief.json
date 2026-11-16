@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "id": "wf_2026_11_15",
- "revision": 2,
+ "revision": 3,
  "publishedAt": "2026-11-15T16:34:00Z",
  "displayDate": "November 15, 2026",
  "coveragePeriod": "November 8–15, 2026",
@@ -14,20 +14,20 @@
    "id": "cover",
    "title": "WEEKLY BRIEF",
    "kind": "cover",
-   "imagePath": "brief-2026-11-15-r2-01-cover.png",
+   "imagePath": "brief-2026-11-15-r3-01-cover.png",
    "bundleAsset": "",
-   "sha256": "5e0b97701f30824b62f92266b59df7a272e112d81976cf032902f3b9f042b863",
+   "sha256": "ced351ea20fcafba994d2d60e7a7c4827d66d20b57a4a95d4a0a4d8926f0147f",
    "accessibleText": "WEEKLY BRIEF\n\n8 – 15 NOVEMBER 2026",
    "links": []
   },
   {
    "id": "overview",
-   "title": "STRAIN ON THE WEST, NO COMMON HAND",
+   "title": "KEY DEVELOPMENTS, 8–15 NOVEMBER",
    "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-02-overview.png",
+   "imagePath": "brief-2026-11-15-r3-02-overview.png",
    "bundleAsset": "",
-   "sha256": "557339e54a70be74ebb1fbbd39dc5d3d92f9a60856fab20903108d95d25f144b",
-   "accessibleText": "8–15 NOV 2026 · CUTOFF 15 NOV, 16:30 UTC\n\nSTRAIN ON THE WEST, NO COMMON HAND\n\nA nationwide FAA ground stop on 13 November halted U.S. departures for more than four hours. Preliminary findings trace it to contractor L3Harris swapping a router during a network upgrade; officials say it does not appear to have been a cyberattack. [1][2][3]\n\nElsewhere the pressure came from states. Nvidia's chief executive resigned amid an inquiry into a reported foreign intelligence approach. Russia agreed a prisoner exchange and, by U.S. account, a European seat at the next talks while striking Ukraine's grid. An unannounced Chinese naval deployment persisted in the western Pacific. [4][5][6][7]\n\nIn Europe, France blamed an IRGC unit for supermarket sabotage, hoax bomb emails hit thousands of schools, and ESET exposed Russian espionage in government email. Methods converge; the evidence shows no single coordinating hand. [8][9][10]\n\nReporting cutoff: 15 November 2026, 16:30 UTC. Later developments may not be included.",
+   "sha256": "6ca6161e1e02eddf9336c24e54bbf9772260c98f81db1478b745c70a2cbfe8d1",
+   "accessibleText": "REPORTING CUTOFF: 15 NOV 2026, 16:30 UTC\n\nKEY DEVELOPMENTS, 8–15 NOVEMBER\n\nA nationwide FAA ground stop on 13 November halted U.S. departures for more than four hours. Preliminary findings trace it to contractor work on the FAA's telecommunications network, and officials say it does not appear to have been a cyberattack. [1][2][3]\n\nNvidia's chief executive resigned amid an inquiry into a reported foreign intelligence approach. Russia agreed a prisoner exchange and, by U.S. account, a European seat at the next talks while it kept striking Ukraine's grid. An unannounced Chinese naval deployment persisted in the western Pacific. [4][5][6][7]\n\nIn Europe, France blamed an IRGC unit for supermarket sabotage, hoax bomb emails hit thousands of schools, and ESET exposed Russian espionage in government email. The methods overlap; the evidence does not show a single coordinating hand. [8][9][10]\n\nDevelopments after the reporting cutoff may not be included.",
    "links": [
     {
      "id": "citation_1",
@@ -133,12 +133,12 @@
   },
   {
    "id": "faa-outage",
-   "title": "AVIATION FAILURE EXPOSES NETWORK FRAGILITY",
+   "title": "FAA OUTAGE DISRUPTS U.S. AVIATION...",
    "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-03-faa-outage.png",
+   "imagePath": "brief-2026-11-15-r3-03-faa-outage.png",
    "bundleAsset": "",
-   "sha256": "5edc3d8e945709b297c08e20845dce306a2bf08168c9a5d680968b57e4ba98cd",
-   "accessibleText": "ONE NETWORK FAULT HALTED EVERY U.S. DEPARTURE\n\nAVIATION FAILURE EXPOSES NETWORK FRAGILITY\n\nOn Friday, 13 November, the FAA halted departures at every U.S. airport \"due to extraordinary circumstances and for reasons of safety,\" citing communications problems at the regional air traffic control centers that manage en route traffic. It was the first nationwide ground stop since January 2023, and only the second since the aftermath of 11 September 2001. [11]\n\nThe stop began around 4 p.m. Eastern and lasted more than four hours, the longest pause on departures in 25 years. More than 9,000 U.S. flights, about a third of the day's schedule, were cancelled on Friday and nearly 6,500 more on Saturday. The FAA expected normal operations by Sunday night, 15 November. [3][12]\n\nThe strategic lesson is concentration risk. Air traffic control runs on a telecommunications network linking more than 4,400 FAA facilities, and a fault in that layer grounded the country with no evidence of adversary involvement. Resilience, not only security, is now the binding constraint on U.S. aviation. [13]",
+   "sha256": "04c74a9cb801b1428db09acf063dc37a7d36341e18ebbeb31893f9d09c0d3783",
+   "accessibleText": "PRELIMINARY CAUSE: CONTRACTOR NETWORK WORK\n\nFAA OUTAGE DISRUPTS U.S. AVIATION...\n\nOn Friday, 13 November, the FAA halted departures at every U.S. airport \"due to extraordinary circumstances and for reasons of safety,\" citing communications problems at regional air traffic control centers. It was the first nationwide ground stop since January 2023, and only the second since the aftermath of 11 September 2001. [11]\n\nThe stop lasted more than four hours, the longest pause on departures in 25 years. More than 9,000 U.S. flights were cancelled on Friday and nearly 6,500 on Saturday, and the FAA expected normal operations by Sunday night, 15 November. [3][12]\n\nOfficials' preliminary account is that contractor L3Harris was replacing copper lines with fiber at a remote FAA facility in El Dorado, Arkansas, when a router began flooding other routers and overloaded the system. The FAA calls it an \"equipment issue\" and is still examining why the installation began broadcasting data. Administration officials say it does not appear to have been a cyberattack. [2][13][3]",
    "links": [
     {
      "id": "citation_11",
@@ -171,10 +171,20 @@
      }
     },
     {
+     "id": "citation_2",
+     "sourceNumber": 2,
+     "rect": {
+      "x": 0.3559375,
+      "y": 0.8831578947368421,
+      "width": 0.08333333333333333,
+      "height": 0.031578947368421054
+     }
+    },
+    {
      "id": "citation_13",
      "sourceNumber": 13,
      "rect": {
-      "x": 0.3559375,
+      "x": 0.4509375,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
@@ -183,29 +193,19 @@
    ]
   },
   {
-   "id": "faa-cause",
-   "title": "ONE ROUTER SWAP, A NATIONAL GROUND STOP",
+   "id": "faa-analysis",
+   "title": "...AS INVESTIGATORS EXAMINE NETWORK FAILURE",
    "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-04-faa-cause.png",
+   "imagePath": "brief-2026-11-15-r3-04-faa-analysis.png",
    "bundleAsset": "",
-   "sha256": "8dc0fbf97420d36b83e90cdc008d4b2b59d0a493be1d6f1c9a5d106d3e0aab88",
-   "accessibleText": "PRELIMINARY CAUSE: CONTRACTOR NETWORK WORK\n\nONE ROUTER SWAP, A NATIONAL GROUND STOP\n\nOfficials say L3Harris, the FAA's telecommunications contractor, was replacing aging copper lines with fiber at a remote facility in El Dorado, Arkansas. As the router was switched, it began flooding other routers and overloaded the system. Duffy said L3Harris owns the network the FAA uses to control airspace. [2][14]\n\nThe FAA calls it an \"equipment issue\" during a telecommunications upgrade and is still examining why the installation began broadcasting data; Duffy said it had yet to be determined whether the cause was incompetence or a faulty router. L3Harris says it has completed more than 70% of the copper-to-fiber conversion and is supporting the investigation. [15][2][13][14]\n\nOn 13 November Homeland Security Secretary Markwayne Mullin said there was no indication of anything nefarious, while declining to rule out a cyberattack; administration officials have since repeatedly said it did not appear to be one. This is the official account, and it is preliminary. The two hypotheses that follow remain unconfirmed. [16][17][3]",
+   "sha256": "ffa894dc72dfd4055813dd1e20f02588ebdff540418be7440b6e782c5c9704fc",
+   "accessibleText": "TWO UNCONFIRMED HYPOTHESES: SMART AI AND IRAN\n\n...AS INVESTIGATORS EXAMINE NETWORK FAILURE\n\nTwo alternative explanations drew attention; neither is supported by evidence. SMART, the FAA's AI routing tool, went live at all 22 en route centers three days earlier, after lawmakers had asked for a pause over safety evaluation and oversight. Its developer says the stoppage was not a result of the system, and the reported fault lies in the network, not in an advisory tool. [14][15][16][2]\n\nIran has documented capability: U.S. agencies link the IRGC's Shahid Kaveh unit to disruption of American industrial controllers. But no official has reported an intrusion or indicators of compromise, and a confirmed internal cause would largely exclude the hypothesis. [17][18]\n\nWhatever the final cause, routine work at one remote site halted every departure in the country. GAO has warned that FAA modernization is racing to replace outdated systems, while China's Volt Typhoon has pre-positioned in U.S. infrastructure networks. Indicators to watch: the final root-cause finding and any evidence of unauthorized access. [19][20]",
    "links": [
-    {
-     "id": "citation_2",
-     "sourceNumber": 2,
-     "rect": {
-      "x": 0.07,
-      "y": 0.8831578947368421,
-      "width": 0.08333333333333333,
-      "height": 0.031578947368421054
-     }
-    },
     {
      "id": "citation_14",
      "sourceNumber": 14,
      "rect": {
-      "x": 0.165,
+      "x": 0.07,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
@@ -215,17 +215,7 @@
      "id": "citation_15",
      "sourceNumber": 15,
      "rect": {
-      "x": 0.26046875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_13",
-     "sourceNumber": 13,
-     "rect": {
-      "x": 0.3559375,
+      "x": 0.16546875,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
@@ -235,6 +225,26 @@
      "id": "citation_16",
      "sourceNumber": 16,
      "rect": {
+      "x": 0.2609375,
+      "y": 0.8831578947368421,
+      "width": 0.08380208333333333,
+      "height": 0.031578947368421054
+     }
+    },
+    {
+     "id": "citation_2",
+     "sourceNumber": 2,
+     "rect": {
+      "x": 0.35640625,
+      "y": 0.8831578947368421,
+      "width": 0.08333333333333333,
+      "height": 0.031578947368421054
+     }
+    },
+    {
+     "id": "citation_17",
+     "sourceNumber": 17,
+     "rect": {
       "x": 0.45140625,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
@@ -242,8 +252,8 @@
      }
     },
     {
-     "id": "citation_17",
-     "sourceNumber": 17,
+     "id": "citation_18",
+     "sourceNumber": 18,
      "rect": {
       "x": 0.546875,
       "y": 0.8831578947368421,
@@ -252,234 +262,20 @@
      }
     },
     {
-     "id": "citation_3",
-     "sourceNumber": 3,
+     "id": "citation_19",
+     "sourceNumber": 19,
      "rect": {
       "x": 0.64234375,
       "y": 0.8831578947368421,
-      "width": 0.08333333333333333,
-      "height": 0.031578947368421054
-     }
-    }
-   ]
-  },
-  {
-   "id": "hypothesis-smart",
-   "title": "AI ROLLOUT RAISES INTEGRATION QUESTIONS",
-   "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-05-hypothesis-smart.png",
-   "bundleAsset": "",
-   "sha256": "1152f7b1bd4fbad4a9297cab4a6ed4776d39308a449706615a9494c65bfbaa73",
-   "accessibleText": "SMART WENT NATIONWIDE DAYS BEFORE THE OUTAGE\n\nAI ROLLOUT RAISES INTEGRATION QUESTIONS\n\nOn 10 November the FAA said SMART — Strategic Management of Airspace, Routes and Trajectories — was active at all 22 en route centers. It fuses about 200 data streams into routing and scheduling recommendations for controllers, and the FAA says it has helped reroute 180 flights. [18][19]\n\nThe rollout outpaced its oversight. NATCA, the controllers' association, has raised concerns about its non-involvement, and more than two dozen lawmakers had asked the FAA to suspend the initial rollout until questions about safety evaluation, training and oversight were answered. [18][19]\n\nThat gap is why the timing drew scrutiny: a system newly connected to every en route center went nationwide days before those centers lost communications. Its developer, Air Space Intelligence, said the ground stop \"is not based on or a result of the SMART system\" or its integration with the FAA. No official has linked the two. [17][16]",
-   "links": [
-    {
-     "id": "citation_18",
-     "sourceNumber": 18,
-     "rect": {
-      "x": 0.07,
-      "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
      }
     },
-    {
-     "id": "citation_19",
-     "sourceNumber": 19,
-     "rect": {
-      "x": 0.16546875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_17",
-     "sourceNumber": 17,
-     "rect": {
-      "x": 0.2609375,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_16",
-     "sourceNumber": 16,
-     "rect": {
-      "x": 0.35640625,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    }
-   ]
-  },
-  {
-   "id": "hypothesis-smart-test",
-   "title": "TIMING WITHOUT A TECHNICAL PATHWAY",
-   "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-06-hypothesis-smart-test.png",
-   "bundleAsset": "",
-   "sha256": "9a090f86ca2eed3074adc3b86a9f2d1dcd840d1a3d81a7e4de1ba1702a183069",
-   "accessibleText": "THE FAULT SITS IN THE NETWORK, NOT IN SMART\n\nTIMING WITHOUT A TECHNICAL PATHWAY\n\nThe case for SMART rests on timing and footprint alone: the confirmed rollout date and its presence at every en route center. No official or investigator has connected it to the outage. [18][17]\n\nThe case against is technical. The preliminary finding places the failure in a router switched during network work, which then flooded other routers. That is the telecommunications layer that carries voice and data, not an advisory application that issues routing recommendations. [2]\n\nReviving the hypothesis would require change logs showing SMART traffic or configuration on the failed network, or evidence that the flooding began in SMART systems. The FAA's open question — why the installation began broadcasting data — is where such evidence would surface. The policy question stands regardless: AI tools in safety-critical networks need testing and oversight that keep pace with deployment. [2][19]",
-   "links": [
-    {
-     "id": "citation_18",
-     "sourceNumber": 18,
-     "rect": {
-      "x": 0.07,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_17",
-     "sourceNumber": 17,
-     "rect": {
-      "x": 0.16546875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_2",
-     "sourceNumber": 2,
-     "rect": {
-      "x": 0.2609375,
-      "y": 0.8831578947368421,
-      "width": 0.08333333333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_19",
-     "sourceNumber": 19,
-     "rect": {
-      "x": 0.3559375,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    }
-   ]
-  },
-  {
-   "id": "hypothesis-iran",
-   "title": "IRAN HAS CAPABILITY, NOT FINGERPRINTS",
-   "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-07-hypothesis-iran.png",
-   "bundleAsset": "",
-   "sha256": "27323bf57c358ff5975feda1e4663245ed6b9436086e29bc5a1e820972ccece7",
-   "accessibleText": "DOCUMENTED TOOLS, NO EVIDENCE OF ACCESS\n\nIRAN HAS CAPABILITY, NOT FINGERPRINTS\n\nIranian capability against U.S. infrastructure is documented. A 2026 CISA–FBI advisory, updated in July, says Iranian-affiliated actors disrupted industrial controllers across several U.S. critical infrastructure sectors, causing operational disruption and financial loss. It links the activity to CyberAv3ngers, also known as the Shahid Kaveh Group, part of the IRGC's Cyber-Electronic Command. [20]\n\nIntent is plausible: this week France attributed physical sabotage of retail refrigeration to the same Shahid Kaveh unit. Google reports that Iran's APT42 has used AI models for reconnaissance, and that government-backed groups use them to research vulnerabilities. [8][21]\n\nCapability and intent are not evidence of involvement. No official has reported an intrusion, indicators of compromise or a claim of responsibility connected to the outage, and officials say it does not appear to have been a cyberattack. [17][3]",
-   "links": [
     {
      "id": "citation_20",
      "sourceNumber": 20,
      "rect": {
-      "x": 0.07,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_8",
-     "sourceNumber": 8,
-     "rect": {
-      "x": 0.16546875,
-      "y": 0.8831578947368421,
-      "width": 0.08333333333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_21",
-     "sourceNumber": 21,
-     "rect": {
-      "x": 0.26046875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_17",
-     "sourceNumber": 17,
-     "rect": {
-      "x": 0.3559375,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_3",
-     "sourceNumber": 3,
-     "rect": {
-      "x": 0.45140625,
-      "y": 0.8831578947368421,
-      "width": 0.08333333333333333,
-      "height": 0.031578947368421054
-     }
-    }
-   ]
-  },
-  {
-   "id": "hypothesis-iran-test",
-   "title": "WHAT IT WOULD TAKE TO IMPLICATE TEHRAN",
-   "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-08-hypothesis-iran-test.png",
-   "bundleAsset": "",
-   "sha256": "a8c1e7fdd7a930084d6c7694cf6546f72b7bd4cc261e643c7260eb8ac33adfcc",
-   "accessibleText": "AN INTERNAL CAUSE LEAVES THE HYPOTHESIS WEAK\n\nWHAT IT WOULD TAKE TO IMPLICATE TEHRAN\n\nWhat supports the hypothesis is context: documented IRGC targeting of U.S. operational technology and an active campaign against Western infrastructure. AI tools could shorten reconnaissance and tool development, but no such use is reported in connection with the outage. [20][21]\n\nWhat is missing is any forensic trace. Implicating Tehran would require evidence of unauthorized access to FAA or L3Harris systems, attacker infrastructure matching known Iranian clusters, and access that predates the failure, somewhere in a network that links more than 4,400 facilities. [20][13]\n\nThe preliminary finding of an internal cause substantially weakens the hypothesis. A completed review that confirms the router fault and finds no unauthorized access would exclude it; evidence of intrusion on the affected network would revive it. [2][15]",
-   "links": [
-    {
-     "id": "citation_20",
-     "sourceNumber": 20,
-     "rect": {
-      "x": 0.07,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_21",
-     "sourceNumber": 21,
-     "rect": {
-      "x": 0.16546875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_13",
-     "sourceNumber": 13,
-     "rect": {
-      "x": 0.2609375,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_2",
-     "sourceNumber": 2,
-     "rect": {
-      "x": 0.35640625,
-      "y": 0.8831578947368421,
-      "width": 0.08333333333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_15",
-     "sourceNumber": 15,
-     "rect": {
-      "x": 0.45140625,
+      "x": 0.7378125,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
@@ -488,39 +284,19 @@
    ]
   },
   {
-   "id": "faa-assessment",
-   "title": "PRELIMINARY CAUSE POINTS TO NETWORK FAILURE",
+   "id": "nvidia",
+   "title": "NVIDIA CEO RESIGNS AMID SPY ALLEGATIONS...",
    "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-09-faa-assessment.png",
+   "imagePath": "brief-2026-11-15-r3-05-nvidia.png",
    "bundleAsset": "",
-   "sha256": "09f808d146b83038c21b4c38a8df24031f231b227a6f97bf7db138d495fb1846",
-   "accessibleText": "MALICIOUS ACTIVITY NOT FORMALLY EXCLUDED\n\nPRELIMINARY CAUSE POINTS TO NETWORK FAILURE\n\nNeither hypothesis has direct support, and investigators have not published a final finding. The preliminary investigation points to a router swapped during L3Harris network work that flooded the system, an explanation that, if confirmed, makes both unnecessary. SMART had the stronger circumstantial case on timing, but the fault sits in the telecommunications layer; the Iranian case rests on capability and motive alone. [2][14][18]\n\nThe strategic finding holds whatever the final cause: routine work at one remote site halted departures nationwide. GAO has warned that FAA modernization is racing to replace outdated systems, after antiquated telecommunications lines failed repeatedly at Philadelphia in 2025, and Duffy has blamed outdated infrastructure for this outage. [2][22][3]\n\nA network that routine work can bring down this broadly is an attractive target for adversaries already pre-positioned in U.S. infrastructure. Indicators to watch: the FAA's final root-cause finding, any evidence of unauthorized access, and changes to how network work is staged and isolated. [23]",
+   "sha256": "ad8d8e635b7f4eb41483c558c920de3f0b94e3f754e2d37076a62e33dfaa7bfd",
+   "accessibleText": "BOARD INVESTIGATES A REPORTED FOREIGN APPROACH\n\nNVIDIA CEO RESIGNS AMID SPY ALLEGATIONS...\n\nOn 8 November, Jensen Huang told Nvidia staff he had an affair with Alice Huang, who is affiliated with Nvidia customer Megaspeed. The New York Times and Financial Times reported U.S. intelligence concerns that she passed information to Beijing; China's foreign ministry called the allegations smears. [21][22]\n\nNvidia's board opened an independent inquiry into whether Huang was the target of a foreign intelligence effort, saying it had \"no reason to believe\" national security or company secrets were compromised. It accepted his resignation on 11 November, and CFO Colette Kress became interim chief executive. Reports describe further relationships with Nvidia employees, including an executive who reported to Huang. [21][4][23][24]\n\nSenate Banking chairman Tim Scott has asked Huang and Commerce Secretary Howard Lutnick to testify on 3 and 10 December, warning of subpoenas. [25]",
    "links": [
     {
-     "id": "citation_2",
-     "sourceNumber": 2,
+     "id": "citation_21",
+     "sourceNumber": 21,
      "rect": {
       "x": 0.07,
-      "y": 0.8831578947368421,
-      "width": 0.08333333333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_14",
-     "sourceNumber": 14,
-     "rect": {
-      "x": 0.165,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_18",
-     "sourceNumber": 18,
-     "rect": {
-      "x": 0.26046875,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
@@ -530,57 +306,6 @@
      "id": "citation_22",
      "sourceNumber": 22,
      "rect": {
-      "x": 0.3559375,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_3",
-     "sourceNumber": 3,
-     "rect": {
-      "x": 0.45140625,
-      "y": 0.8831578947368421,
-      "width": 0.08333333333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_23",
-     "sourceNumber": 23,
-     "rect": {
-      "x": 0.54640625,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    }
-   ]
-  },
-  {
-   "id": "us-infrastructure",
-   "title": "STATE ACTORS PERSIST IN U.S. NETWORKS",
-   "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-10-us-infrastructure.png",
-   "bundleAsset": "",
-   "sha256": "73ef8a3ab3479ef24c346a6b243231b10008e9482a720c5b814fa091642a2566",
-   "accessibleText": "CONTEXT FOR RISK, NOT EVIDENCE OF ATTRIBUTION\n\nSTATE ACTORS PERSIST IN U.S. NETWORKS\n\nU.S. and allied agencies assess that China's Volt Typhoon has pre-positioned in critical infrastructure IT networks for disruptive attacks in a crisis, keeping some footholds for at least five years. Iranian actors have disrupted U.S. industrial controllers, and Russia's FSB-linked Turla was exposed this week collecting government email through compromised Exchange servers. [23][20][10]\n\nAviation has already shown how physical faults cascade: in September an accidentally cut Verizon fiber cable disrupted Newark and Philadelphia flights. The 13 November outage repeated that lesson at national scale. [1]\n\nThe result is a threat environment in which capable state actors are present in U.S. networks while the networks themselves remain brittle, raising the stakes of every accidental failure. That broader activity does not establish that any adversary took part in the 13 November outage. [23]",
-   "links": [
-    {
-     "id": "citation_23",
-     "sourceNumber": 23,
-     "rect": {
-      "x": 0.07,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_20",
-     "sourceNumber": 20,
-     "rect": {
       "x": 0.16546875,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
@@ -588,41 +313,30 @@
      }
     },
     {
-     "id": "citation_10",
-     "sourceNumber": 10,
+     "id": "citation_4",
+     "sourceNumber": 4,
      "rect": {
       "x": 0.2609375,
+      "y": 0.8831578947368421,
+      "width": 0.08333333333333333,
+      "height": 0.031578947368421054
+     }
+    },
+    {
+     "id": "citation_23",
+     "sourceNumber": 23,
+     "rect": {
+      "x": 0.3559375,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
      }
     },
     {
-     "id": "citation_1",
-     "sourceNumber": 1,
-     "rect": {
-      "x": 0.35640625,
-      "y": 0.8831578947368421,
-      "width": 0.08333333333333333,
-      "height": 0.031578947368421054
-     }
-    }
-   ]
-  },
-  {
-   "id": "nvidia",
-   "title": "NVIDIA'S CRISIS BECOMES A SECURITY ISSUE",
-   "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-11-nvidia.png",
-   "bundleAsset": "",
-   "sha256": "c782ad451315dd014a055a30edd62a2cfd144ca8eba4bd051ca6dbe6395b405d",
-   "accessibleText": "CEO RESIGNS AMID BOARD INQUIRY\n\nNVIDIA'S CRISIS BECOMES A SECURITY ISSUE\n\nOn 8 November, Jensen Huang told staff he had an affair with Alice Huang, who is affiliated with Nvidia customer Megaspeed. The New York Times and Financial Times reported U.S. intelligence concerns that she passed information to Beijing; China's foreign ministry called the allegations smears. [24][25]\n\nNvidia's board opened an independent inquiry into whether Huang was the target of a foreign intelligence effort, saying it had \"no reason to believe\" national security or company secrets were compromised. The board accepted his resignation on 11 November, and CFO Colette Kress became interim chief executive while a permanent successor is sought. [24][4]\n\nReports describe further relationships with Nvidia employees, including an executive who reported to Huang. For the world's most strategically important chipmaker, a governance failure has become a national security question, and its leadership now sits inside the U.S.–China technology contest. [26][27]",
-   "links": [
-    {
      "id": "citation_24",
      "sourceNumber": 24,
      "rect": {
-      "x": 0.07,
+      "x": 0.45140625,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
@@ -632,37 +346,7 @@
      "id": "citation_25",
      "sourceNumber": 25,
      "rect": {
-      "x": 0.16546875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_4",
-     "sourceNumber": 4,
-     "rect": {
-      "x": 0.2609375,
-      "y": 0.8831578947368421,
-      "width": 0.08333333333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_26",
-     "sourceNumber": 26,
-     "rect": {
-      "x": 0.3559375,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_27",
-     "sourceNumber": 27,
-     "rect": {
-      "x": 0.45140625,
+      "x": 0.546875,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
@@ -672,16 +356,16 @@
   },
   {
    "id": "nvidia-assessment",
-   "title": "ESPIONAGE UNPROVEN, EXPORT STAKES REAL",
+   "title": "...RAISING PRESSURE ON CHIP EXPORT CONTROLS",
    "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-12-nvidia-assessment.png",
+   "imagePath": "brief-2026-11-15-r3-06-nvidia-assessment.png",
    "bundleAsset": "",
-   "sha256": "950c0d71d1f1496c6b00012a8054287c5b8248706e5c06fbc2af8182f4498732",
-   "accessibleText": "THE CASE WILL SHAPE U.S.–CHINA COMPUTE POLICY\n\nESPIONAGE UNPROVEN, EXPORT STAKES REAL\n\nThe record separates cleanly. Confirmed: the board inquiry, the resignation, interim leadership and Huang's admission of the affair. Unproven: that Alice Huang is an intelligence agent, that any information was passed, or that export-controlled technology was compromised. No charges appear in any reporting reviewed. [24][4]\n\nThe policy consequences do not depend on that outcome. Senate Banking chairman Tim Scott has asked Huang and Commerce Secretary Howard Lutnick to testify on 3 and 10 December, warning of subpoenas, and lawmakers want tougher chip-export controls in the defense authorization bill. [28][27]\n\nThe strategic exposure is cloud access. Megaspeed has bought more than $4 billion of Nvidia chips, and renting out computing capacity can give Chinese companies access to advanced U.S. chips despite export controls. Watch the December hearings, any export-control amendments, and whether rented compute is brought under licensing. [29]",
+   "sha256": "3886fdd869e009211c6cdce9496e9b15174406ec1032bd58b1ec8bc50f6e5dcc",
+   "accessibleText": "ESPIONAGE ALLEGATIONS REMAIN UNPROVEN\n\n...RAISING PRESSURE ON CHIP EXPORT CONTROLS\n\nConfirmed: the board inquiry, the resignation, interim leadership and Huang's admission of the affair. Unproven: that Alice Huang is an intelligence agent, that any information was passed, or that export-controlled technology was compromised. No charges appear in the reporting reviewed. [21][4]\n\nThe policy consequences do not depend on that outcome. Megaspeed has bought more than $4 billion of Nvidia chips, and renting out computing capacity can give Chinese companies access to advanced U.S. chips despite export controls. Lawmakers want tougher controls in the defense authorization bill. [26][24]\n\nFor the world's most strategically important chipmaker, a governance failure has become a national security question. Indicators to watch: the December hearings, any export-control amendments, and whether rented computing capacity is brought under licensing.",
    "links": [
     {
-     "id": "citation_24",
-     "sourceNumber": 24,
+     "id": "citation_21",
+     "sourceNumber": 21,
      "rect": {
       "x": 0.07,
       "y": 0.8831578947368421,
@@ -696,6 +380,57 @@
       "x": 0.16546875,
       "y": 0.8831578947368421,
       "width": 0.08333333333333333,
+      "height": 0.031578947368421054
+     }
+    },
+    {
+     "id": "citation_26",
+     "sourceNumber": 26,
+     "rect": {
+      "x": 0.26046875,
+      "y": 0.8831578947368421,
+      "width": 0.08380208333333333,
+      "height": 0.031578947368421054
+     }
+    },
+    {
+     "id": "citation_24",
+     "sourceNumber": 24,
+     "rect": {
+      "x": 0.3559375,
+      "y": 0.8831578947368421,
+      "width": 0.08380208333333333,
+      "height": 0.031578947368421054
+     }
+    }
+   ]
+  },
+  {
+   "id": "ukraine-talks",
+   "title": "PEACE TALKS YIELD LIMITED PROGRESS...",
+   "kind": "story",
+   "imagePath": "brief-2026-11-15-r3-07-ukraine-talks.png",
+   "bundleAsset": "",
+   "sha256": "14f8b5a65a06f1ccc8faa84a0d2713dbf468512f310662834b25248c9dc88ed2",
+   "accessibleText": "PRISONER EXCHANGE AGREED, NO CEASEFIRE\n\nPEACE TALKS YIELD LIMITED PROGRESS...\n\nU.S.-mediated talks in Abu Dhabi on 10–11 November, the first such session since February, produced agreement on a large prisoner exchange. Vladimir Medinsky called it agreed \"in principle,\" and Jared Kushner said numbers were still to be finalized; no exchange had been reported by 15 November. [5][27]\n\nThere was no movement on territory, security guarantees or a ceasefire. ISW assesses that Putin still demands the unoccupied parts of four oblasts and rejects any future demilitarized zone, while Kyiv rejects his demand for all of eastern Donbas. [28][29]\n\nEnvoys Steve Witkoff and Kushner met Putin at the Kremlin on 12 November, then briefed Zelenskyy near Dublin. Kushner said both sides agreed that Europeans would join the next round; the Kremlin neither endorsed nor rejected it. [30][31][6]",
+   "links": [
+    {
+     "id": "citation_5",
+     "sourceNumber": 5,
+     "rect": {
+      "x": 0.07,
+      "y": 0.8831578947368421,
+      "width": 0.08333333333333333,
+      "height": 0.031578947368421054
+     }
+    },
+    {
+     "id": "citation_27",
+     "sourceNumber": 27,
+     "rect": {
+      "x": 0.165,
+      "y": 0.8831578947368421,
+      "width": 0.08380208333333333,
       "height": 0.031578947368421054
      }
     },
@@ -710,8 +445,8 @@
      }
     },
     {
-     "id": "citation_27",
-     "sourceNumber": 27,
+     "id": "citation_29",
+     "sourceNumber": 29,
      "rect": {
       "x": 0.3559375,
       "y": 0.8831578947368421,
@@ -720,41 +455,10 @@
      }
     },
     {
-     "id": "citation_29",
-     "sourceNumber": 29,
-     "rect": {
-      "x": 0.45140625,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    }
-   ]
-  },
-  {
-   "id": "ukraine-talks",
-   "title": "TALKS ADVANCE, RUSSIA'S DEMANDS HOLD",
-   "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-13-ukraine-talks.png",
-   "bundleAsset": "",
-   "sha256": "01c2996379abb32aa98f0fde9e4b96d3c3cf01b371643600c803a054ba2cfd9c",
-   "accessibleText": "PRISONER DEAL AND EUROPEAN SEAT, NO CEASEFIRE\n\nTALKS ADVANCE, RUSSIA'S DEMANDS HOLD\n\nU.S.-mediated talks in Abu Dhabi on 10–11 November, the first such session since February, produced agreement on a large prisoner exchange. Delegation heads Vladimir Medinsky and Rustem Umerov confirmed it, though Medinsky called it agreed \"in principle\" and Jared Kushner said numbers were still to be finalized. [5][30]\n\nOn the issues that decide the war there was no movement. ISW assesses that Putin still demands the unoccupied parts of four oblasts and rejects any future demilitarized zone, while Kyiv rejects his demand for all of eastern Donbas. [31][32]\n\nEnvoys Steve Witkoff and Kushner met Putin at the Kremlin on 12 November, then briefed Zelenskyy at Casement Aerodrome near Dublin. Kushner said both sides agreed that Europeans would join the next round; the Kremlin neither endorsed nor rejected it. Moscow gains diplomatic standing at little cost while conceding nothing on territory. [33][34][6]",
-   "links": [
-    {
-     "id": "citation_5",
-     "sourceNumber": 5,
-     "rect": {
-      "x": 0.07,
-      "y": 0.8831578947368421,
-      "width": 0.08333333333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
      "id": "citation_30",
      "sourceNumber": 30,
      "rect": {
-      "x": 0.165,
+      "x": 0.45140625,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
@@ -763,36 +467,6 @@
     {
      "id": "citation_31",
      "sourceNumber": 31,
-     "rect": {
-      "x": 0.26046875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_32",
-     "sourceNumber": 32,
-     "rect": {
-      "x": 0.3559375,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_33",
-     "sourceNumber": 33,
-     "rect": {
-      "x": 0.45140625,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_34",
-     "sourceNumber": 34,
      "rect": {
       "x": 0.546875,
       "y": 0.8831578947368421,
@@ -814,16 +488,16 @@
   },
   {
    "id": "ukraine-strikes",
-   "title": "RUSSIA TARGETS UKRAINE'S WINTER RESILIENCE",
+   "title": "...WHILE STRIKES CONTINUE ACROSS UKRAINE",
    "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-14-ukraine-strikes.png",
+   "imagePath": "brief-2026-11-15-r3-08-ukraine-strikes.png",
    "bundleAsset": "",
-   "sha256": "1b3379c43abbc1e44de54980a46452b73d51f89ff60179af5ce60f89434dac82",
-   "accessibleText": "ENERGY STRIKES MEET A REFINERY CAMPAIGN\n\nRUSSIA TARGETS UKRAINE'S WINTER RESILIENCE\n\nRussia's campaign against Ukraine's energy system continued alongside the talks. Strikes on 8 November cut power to about 850,000 people in Dnipropetrovsk and Kharkiv regions. Ukrenergo scheduled all-day cuts on 13 November after strikes from Rivne to Odesa that killed people in Odesa and Zaporizhzhia, and Zelenskyy said energy facilities had been hit more than 310 times this month. [35][36]\n\nAnalysts say the strikes are landing harder and earlier in the year than before, and now reach areas such as Rivne that were previously spared. Over the day to 14 November, Russian attacks killed at least seven people and injured 80, with Zaporizhzhia among the worst hit. [37][38]\n\nUkraine is answering with long-range economic pressure. It struck the Omsk refinery for a third time with drones flying 3,000 kilometres, and confirmed a strike on the Lukoil-owned Volgograd refinery that killed four workers. Repeated Starshield disruptions are hampering its drone interception. [39][40][31][41]",
+   "sha256": "97cb22ffb63b482993f975c9c826af203f409637006593d103dea4619b995a0c",
+   "accessibleText": "RUSSIA KEEPS UP PRESSURE ON THE ENERGY GRID\n\n...WHILE STRIKES CONTINUE ACROSS UKRAINE\n\nStrikes on 8 November cut power to about 850,000 people in Dnipropetrovsk and Kharkiv regions. Ukrenergo scheduled all-day cuts on 13 November, Zelenskyy said energy facilities had been hit more than 310 times this month, and attacks over the day to 14 November killed at least seven people and injured 80. [32][33][34]\n\nUkraine is answering with long-range strikes, hitting the Omsk refinery for a third time with drones flying 3,000 kilometres and the Lukoil-owned Volgograd refinery, where four workers were killed. Starshield disruptions are hampering its drone interception. [35][36][28]\n\nZelenskyy said Moscow's negotiators had no permission to discuss halting strikes, so the talks run alongside a winter campaign that analysts say is hitting harder and earlier than before. Meaningful progress would mean a ceasefire mechanism, a pause in energy strikes or written terms on territory. Indicators to watch: the exchange itself and the make-up of the European delegation. [33][37]",
    "links": [
     {
-     "id": "citation_35",
-     "sourceNumber": 35,
+     "id": "citation_32",
+     "sourceNumber": 32,
      "rect": {
       "x": 0.07,
       "y": 0.8831578947368421,
@@ -832,91 +506,10 @@
      }
     },
     {
-     "id": "citation_36",
-     "sourceNumber": 36,
+     "id": "citation_33",
+     "sourceNumber": 33,
      "rect": {
       "x": 0.16546875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_37",
-     "sourceNumber": 37,
-     "rect": {
-      "x": 0.2609375,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_38",
-     "sourceNumber": 38,
-     "rect": {
-      "x": 0.35640625,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_39",
-     "sourceNumber": 39,
-     "rect": {
-      "x": 0.451875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_40",
-     "sourceNumber": 40,
-     "rect": {
-      "x": 0.54734375,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_31",
-     "sourceNumber": 31,
-     "rect": {
-      "x": 0.6428125,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_41",
-     "sourceNumber": 41,
-     "rect": {
-      "x": 0.73828125,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    }
-   ]
-  },
-  {
-   "id": "ukraine-assessment",
-   "title": "NEGOTIATING UNDER BOMBARDMENT",
-   "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-15-ukraine-assessment.png",
-   "bundleAsset": "",
-   "sha256": "bb79d8fa4d3d319628e513925fdbf9101c80b9aa5fa5910236fd0748dc369eda",
-   "accessibleText": "THE TALKS HAVE NOT CHANGED RUSSIA'S CALCULUS\n\nNEGOTIATING UNDER BOMBARDMENT\n\nThe prisoner agreement is a real humanitarian result, not a turning point. Kushner said terms finalized in Moscow could free thousands, but no exchange had been reported by 15 November. [30][34]\n\nRussia is negotiating on its own terms. Zelenskyy said Moscow's negotiators had no permission to discuss halting strikes, so the talks run in parallel with a winter campaign designed to test whether energy pressure moves Kyiv. Ukraine's refinery strikes apply reciprocal economic pressure. [36][37]\n\nMeaningful progress would look like a ceasefire mechanism, a moratorium on energy strikes or written terms on territory and security guarantees. None existed as of 15 November. Indicators to watch: the exchange taking place, the make-up of the European delegation, and any pause in energy strikes. [32][6]",
-   "links": [
-    {
-     "id": "citation_30",
-     "sourceNumber": 30,
-     "rect": {
-      "x": 0.07,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
@@ -926,7 +519,17 @@
      "id": "citation_34",
      "sourceNumber": 34,
      "rect": {
-      "x": 0.16546875,
+      "x": 0.2609375,
+      "y": 0.8831578947368421,
+      "width": 0.08380208333333333,
+      "height": 0.031578947368421054
+     }
+    },
+    {
+     "id": "citation_35",
+     "sourceNumber": 35,
+     "rect": {
+      "x": 0.35640625,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
@@ -936,7 +539,17 @@
      "id": "citation_36",
      "sourceNumber": 36,
      "rect": {
-      "x": 0.2609375,
+      "x": 0.451875,
+      "y": 0.8831578947368421,
+      "width": 0.08380208333333333,
+      "height": 0.031578947368421054
+     }
+    },
+    {
+     "id": "citation_28",
+     "sourceNumber": 28,
+     "rect": {
+      "x": 0.54734375,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
@@ -946,29 +559,9 @@
      "id": "citation_37",
      "sourceNumber": 37,
      "rect": {
-      "x": 0.35640625,
+      "x": 0.6428125,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_32",
-     "sourceNumber": 32,
-     "rect": {
-      "x": 0.451875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_6",
-     "sourceNumber": 6,
-     "rect": {
-      "x": 0.54734375,
-      "y": 0.8831578947368421,
-      "width": 0.08333333333333333,
       "height": 0.031578947368421054
      }
     }
@@ -976,16 +569,16 @@
   },
   {
    "id": "taiwan",
-   "title": "CHINA'S NAVAL SURGE PRESSURES TAIWAN",
+   "title": "CHINA EXPANDS NAVAL OPERATIONS NEAR TAIWAN...",
    "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-16-taiwan.png",
+   "imagePath": "brief-2026-11-15-r3-09-taiwan.png",
    "bundleAsset": "",
-   "sha256": "d001e95e0b6643058c6eb4a7c315d2fcdccdef06505f7ee963897340eaef8133",
-   "accessibleText": "A NAVAL SURGE LARGER THAN JUSTICE MISSION 2025\n\nCHINA'S NAVAL SURGE PRESSURES TAIWAN\n\nTaiwan's National Security Council secretary-general, Joseph Wu, said on 3 November that more than 100 Chinese navy and coast guard vessels were deployed across the western Pacific, drawn from the Northern, Eastern and Southern theater commands in at least four surface task groups, including the Liaoning carrier group. [42][43]\n\nBeijing announced no exercise and called the carrier's activity routine. A senior Taiwan security official told Reuters the deployment was larger than Justice Mission 2025 and included simulated attacks on other militaries and on cities, including Taiwan's. By 13 November, two Taiwan security officials said, about 70 vessels remained within the first island chain. [7][44]\n\nThese figures are Taipei's account; tracking data has not been published, and France 24 found a viral map of an \"airtight blockade\" misleading. No blockade has been declared or enforced; whether the drills rehearsed one is an assessment, weighed on the next page. The unannounced format kept Beijing discreet ahead of the APEC summit in Shenzhen, where Presidents Trump and Xi are expected to meet. [43][7]",
+   "sha256": "db4385661542d380dd91bc0269aa1d5c75fc1316fb09046c89efb912af289182",
+   "accessibleText": "LARGER THAN JUSTICE MISSION 2025, TAIPEI SAYS\n\nCHINA EXPANDS NAVAL OPERATIONS NEAR TAIWAN...\n\nTaiwan's National Security Council secretary-general, Joseph Wu, said on 3 November that more than 100 Chinese navy and coast guard vessels were deployed across the western Pacific, drawn from the Northern, Eastern and Southern theater commands in at least four surface task groups, including the Liaoning carrier group. [38][39]\n\nBeijing announced no exercise and called the carrier's activity routine. A senior Taiwan security official told Reuters the deployment was larger than Justice Mission 2025 and included simulated attacks on other militaries and on cities, including Taiwan's. By 13 November, two Taiwan security officials said, about 70 vessels remained within the first island chain. [7][40]\n\nThese figures are Taipei's account; tracking data has not been published, and France 24 found a viral map of an \"airtight blockade\" misleading. China hosts the APEC summit in Shenzhen next week, where Presidents Trump and Xi are expected to meet. [39][7]",
    "links": [
     {
-     "id": "citation_42",
-     "sourceNumber": 42,
+     "id": "citation_38",
+     "sourceNumber": 38,
      "rect": {
       "x": 0.07,
       "y": 0.8831578947368421,
@@ -994,8 +587,8 @@
      }
     },
     {
-     "id": "citation_43",
-     "sourceNumber": 43,
+     "id": "citation_39",
+     "sourceNumber": 39,
      "rect": {
       "x": 0.16546875,
       "y": 0.8831578947368421,
@@ -1014,8 +607,8 @@
      }
     },
     {
-     "id": "citation_44",
-     "sourceNumber": 44,
+     "id": "citation_40",
+     "sourceNumber": 40,
      "rect": {
       "x": 0.3559375,
       "y": 0.8831578947368421,
@@ -1027,18 +620,28 @@
   },
   {
    "id": "taiwan-assessment",
-   "title": "ISOLATION REHEARSAL OR FAR-SEAS TRAINING?",
+   "title": "...RAISING QUESTIONS ABOUT BLOCKADE PREPARATIONS",
    "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-17-taiwan-assessment.png",
+   "imagePath": "brief-2026-11-15-r3-10-taiwan-assessment.png",
    "bundleAsset": "",
-   "sha256": "1a2aa39ce85ad9c638a117935facbaad5be23265f24680336f1e16b34b7488d2",
-   "accessibleText": "NO INDICATORS OF AN IMMINENT BLOCKADE\n\nISOLATION REHEARSAL OR FAR-SEAS TRAINING?\n\nTwo readings compete. ISW assessed on 6 November that the PLA may be conducting an unannounced exercise simulating Taiwan's isolation, with warships positioned to deter outside intervention. The Diplomat reads the pattern as long-distance naval deployment and joint command training across theater commands, not a blockade rehearsal. [45][42]\n\nBoth readings describe a growing capability: forces from several theater commands operating together at distance, with task groups toward Guam that, in ISW's assessment, rehearse holding U.S. and Japanese forces back. Australia, Japan, the Philippines and the U.S. committed on 10 November to deepen defense cooperation, including a combined coordination center in the Philippines. [45][46]\n\nEscalation indicators would include declared closure zones, inspections of merchant ships or force concentration near Taiwan's ports; Watchfront found no verified reporting of these through 14 November. Taipei calls the campaign \"silent intimidation\" ahead of major international meetings. [43][47]",
+   "sha256": "8ec6556c3807f5ff2a10da61e3d7e67c322917435c8ee135a4594e0be7b3b6f7",
+   "accessibleText": "NO SIGN OF AN IMMINENT BLOCKADE\n\n...RAISING QUESTIONS ABOUT BLOCKADE PREPARATIONS\n\nNo blockade has been declared or enforced. ISW assessed on 6 November that the PLA may be conducting an unannounced exercise simulating Taiwan's isolation, with warships positioned to deter outside intervention. The Diplomat reads the pattern as long-distance deployment and joint command training, not a blockade rehearsal. [41][38]\n\nEither way, forces from several theater commands operated together at distance, with task groups toward Guam that, in ISW's assessment, rehearse holding U.S. and Japanese forces back. Australia, Japan, the Philippines and the U.S. committed on 10 November to deepen defense cooperation. [41][42]\n\nIndicators of escalation would include declared closure zones, inspections of merchant ships or force concentration near Taiwan's ports; Watchfront found no verified reporting of these through 14 November. Taipei calls the campaign \"silent intimidation\" ahead of major international meetings. [39][43]",
    "links": [
     {
-     "id": "citation_45",
-     "sourceNumber": 45,
+     "id": "citation_41",
+     "sourceNumber": 41,
      "rect": {
       "x": 0.07,
+      "y": 0.8831578947368421,
+      "width": 0.08380208333333333,
+      "height": 0.031578947368421054
+     }
+    },
+    {
+     "id": "citation_38",
+     "sourceNumber": 38,
+     "rect": {
+      "x": 0.16546875,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
@@ -1048,16 +651,6 @@
      "id": "citation_42",
      "sourceNumber": 42,
      "rect": {
-      "x": 0.16546875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_46",
-     "sourceNumber": 46,
-     "rect": {
       "x": 0.2609375,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
@@ -1065,8 +658,8 @@
      }
     },
     {
-     "id": "citation_43",
-     "sourceNumber": 43,
+     "id": "citation_39",
+     "sourceNumber": 39,
      "rect": {
       "x": 0.35640625,
       "y": 0.8831578947368421,
@@ -1075,8 +668,8 @@
      }
     },
     {
-     "id": "citation_47",
-     "sourceNumber": 47,
+     "id": "citation_43",
+     "sourceNumber": 43,
      "rect": {
       "x": 0.451875,
       "y": 0.8831578947368421,
@@ -1088,12 +681,12 @@
   },
   {
    "id": "schools",
-   "title": "MASS HOAX THREATS TEST EUROPE'S RESPONSE",
+   "title": "HOAX BOMB THREATS DISRUPT SCHOOLS ACROSS EUROPE",
    "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-18-schools.png",
+   "imagePath": "brief-2026-11-15-r3-11-schools.png",
    "bundleAsset": "",
-   "sha256": "c307c9dc1d129bc3b521854be43f8a7d6437a8ddc5393c33fc0590e4b17120c4",
-   "accessibleText": "THOUSANDS OF SCHOOLS HIT, NO DEVICES FOUND\n\nMASS HOAX THREATS TEST EUROPE'S RESPONSE\n\nOn 11 November about 6,300 Italian schools received the same emailed bomb threat; the education minister said at least 300 were affected. A second wave on 12 November reached more than 1,800. Northern Ireland police said more than 300 schools received an email originating outside the UK and treated it as a hoax; Scotland and the Republic of Ireland were also targeted. Reports differ on whether UK schools evacuated. [9][48][49][50]\n\nThe Italian email was signed \"Mikhail Andropov, leader of the Vilayat of Misoginistan,\" according to a copy seen by Reuters, the same purported author of threats to newsrooms in Ireland and Bulgaria the previous week. Around 400 Munster schools received a separate email; Ireland said there was no need to evacuate. [51][48][52]\n\nThe tactic is cheap and aimed at public confidence: school email addresses are public, and each wave forces costly decisions. Italy now tells schools not to evacuate on a mass email alone. No explosives have been found, and officials have not said who is sending the threats. [51][48][53]",
+   "sha256": "780ee81c04635a033116fcab5a9dd51ca071ccf7e1b3b1bb2e47cab46f3e006f",
+   "accessibleText": "THOUSANDS TARGETED, NO DEVICES FOUND\n\nHOAX BOMB THREATS DISRUPT SCHOOLS ACROSS EUROPE\n\nOn 11 November about 6,300 Italian schools received the same emailed bomb threat; the education minister said at least 300 were affected. A second wave on 12 November reached more than 1,800. Northern Ireland police said more than 300 schools received an email originating outside the UK and treated it as a hoax; Scotland and the Republic of Ireland were also targeted. Reports differ on whether UK schools evacuated. [9][44][45][46]\n\nThe Italian email was signed \"Mikhail Andropov, leader of the Vilayat of Misoginistan,\" according to a copy seen by Reuters, the same purported author of threats to newsrooms in Ireland and Bulgaria the previous week. Around 400 Munster schools received a separate email; Ireland said there was no need to evacuate. [47][44][48]\n\nThe tactic is cheap and aimed at public confidence: school email addresses are public, and each wave forces costly decisions. Italy now tells schools not to evacuate on a mass email alone. No explosives have been found, and officials have not said who is sending the threats. [47][44][49]",
    "links": [
     {
      "id": "citation_9",
@@ -1106,8 +699,8 @@
      }
     },
     {
-     "id": "citation_48",
-     "sourceNumber": 48,
+     "id": "citation_44",
+     "sourceNumber": 44,
      "rect": {
       "x": 0.165,
       "y": 0.8831578947368421,
@@ -1116,8 +709,8 @@
      }
     },
     {
-     "id": "citation_49",
-     "sourceNumber": 49,
+     "id": "citation_45",
+     "sourceNumber": 45,
      "rect": {
       "x": 0.26046875,
       "y": 0.8831578947368421,
@@ -1126,8 +719,8 @@
      }
     },
     {
-     "id": "citation_50",
-     "sourceNumber": 50,
+     "id": "citation_46",
+     "sourceNumber": 46,
      "rect": {
       "x": 0.3559375,
       "y": 0.8831578947368421,
@@ -1136,8 +729,8 @@
      }
     },
     {
-     "id": "citation_51",
-     "sourceNumber": 51,
+     "id": "citation_47",
+     "sourceNumber": 47,
      "rect": {
       "x": 0.45140625,
       "y": 0.8831578947368421,
@@ -1146,8 +739,8 @@
      }
     },
     {
-     "id": "citation_52",
-     "sourceNumber": 52,
+     "id": "citation_48",
+     "sourceNumber": 48,
      "rect": {
       "x": 0.546875,
       "y": 0.8831578947368421,
@@ -1156,8 +749,8 @@
      }
     },
     {
-     "id": "citation_53",
-     "sourceNumber": 53,
+     "id": "citation_49",
+     "sourceNumber": 49,
      "rect": {
       "x": 0.64234375,
       "y": 0.8831578947368421,
@@ -1169,16 +762,16 @@
   },
   {
    "id": "france-iran",
-   "title": "FRANCE BLAMES IRGC FOR RETAIL SABOTAGE",
+   "title": "FRANCE BLAMES IRAN FOR SUPERMARKET CYBER SABOTAGE",
    "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-19-france-iran.png",
+   "imagePath": "brief-2026-11-15-r3-12-france-iran.png",
    "bundleAsset": "",
-   "sha256": "9badc0f47c83af7cde66f2d66a59313898dca96d9c268bc03248d43735212731",
-   "accessibleText": "A SECOND EUROPEAN WAVE IS UNATTRIBUTED\n\nFRANCE BLAMES IRGC FOR RETAIL SABOTAGE\n\nOn the night of 11 October attackers took remote control of Danfoss and Dixell refrigeration controllers at about 700 French retail sites through web interfaces, starting abnormal defrost cycles and switching off safety alerts. Food losses ran to tens of millions of euros, and at least 15 fires followed. [54][55]\n\nOn 9 November France attributed the attack to Shahid Kaveh, a cyber unit of Iran's Revolutionary Guard, calling it the first large-scale sabotage cyberattack on French soil. Paris summoned Iran's ambassador and weighed entry bans and asset freezes; prosecutors requested international arrest warrants. Iran denies involvement. [55][56][8]\n\nThe attribution covers October only. A second wave on 1–2 November hit retailers in Belgium, Luxembourg, Sweden, the Netherlands, Ireland, Estonia and Portugal and is unattributed. Two Russian-aligned hacktivist groups, NoName057(16) and Z-Pentest, reportedly claimed the attacks; DomainTools finds the claims consistent with the methods used, but they are unverified. [56][57]",
+   "sha256": "e542601831be83f02975b4fedcf80bd418d3e3fbfbaf42703bfa891002d96cea",
+   "accessibleText": "A SECOND WAVE ACROSS EUROPE IS UNATTRIBUTED\n\nFRANCE BLAMES IRAN FOR SUPERMARKET CYBER SABOTAGE\n\nOn the night of 11 October attackers took remote control of Danfoss and Dixell refrigeration controllers at about 700 French retail sites through web interfaces, starting abnormal defrost cycles and switching off safety alerts. Food losses ran to tens of millions of euros, and at least 15 fires followed. [50][51]\n\nOn 9 November France attributed the attack to Shahid Kaveh, a cyber unit of Iran's Revolutionary Guard, calling it the first large-scale sabotage cyberattack on French soil. Paris summoned Iran's ambassador and weighed entry bans and asset freezes; prosecutors requested international arrest warrants. Iran denies involvement. [51][52][8]\n\nThe attribution covers October only. A second wave on 1–2 November hit retailers in Belgium, Luxembourg, Sweden, the Netherlands, Ireland, Estonia and Portugal and is unattributed. Two Russian-aligned hacktivist groups, NoName057(16) and Z-Pentest, reportedly claimed the attacks; DomainTools finds the claims consistent with the methods used, but they are unverified. [52][53]",
    "links": [
     {
-     "id": "citation_54",
-     "sourceNumber": 54,
+     "id": "citation_50",
+     "sourceNumber": 50,
      "rect": {
       "x": 0.07,
       "y": 0.8831578947368421,
@@ -1187,8 +780,8 @@
      }
     },
     {
-     "id": "citation_55",
-     "sourceNumber": 55,
+     "id": "citation_51",
+     "sourceNumber": 51,
      "rect": {
       "x": 0.16546875,
       "y": 0.8831578947368421,
@@ -1197,8 +790,8 @@
      }
     },
     {
-     "id": "citation_56",
-     "sourceNumber": 56,
+     "id": "citation_52",
+     "sourceNumber": 52,
      "rect": {
       "x": 0.2609375,
       "y": 0.8831578947368421,
@@ -1217,8 +810,8 @@
      }
     },
     {
-     "id": "citation_57",
-     "sourceNumber": 57,
+     "id": "citation_53",
+     "sourceNumber": 53,
      "rect": {
       "x": 0.45140625,
       "y": 0.8831578947368421,
@@ -1230,16 +823,88 @@
   },
   {
    "id": "turla",
-   "title": "FSB-LINKED TURLA MINES GOVERNMENT EMAIL",
+   "title": "RUSSIAN HACKERS SPY ON GOVERNMENT EMAIL SERVERS",
    "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-20-turla.png",
+   "imagePath": "brief-2026-11-15-r3-13-turla.png",
    "bundleAsset": "",
-   "sha256": "29747da1e3c5ed5046e55d284cbc403eaae38dea396f4c51f432b62bb1478974",
-   "accessibleText": "STEALTH COLLECTION AIMED AT NATO AND EU TRAFFIC\n\nFSB-LINKED TURLA MINES GOVERNMENT EMAIL\n\nESET disclosed on 10 November a toolset it calls Cereal, used by Turla — assessed to be part of Russia's FSB — on Microsoft Exchange servers at government organizations in Kazakhstan and Romania. The toolset was first discovered in November 2025. [10][58]\n\nCereal is built for long-term, stealthy collection. It leaves little on disk, copies selected email straight out of the mail flow, and takes commands through requests disguised as Outlook Web Access and Autodiscover traffic, so no attacker-owned server is needed. In Romania it was configured to collect email sent to or from NATO and the EU. [10][59]\n\nThe breach was of national governments' servers, not NATO or EU systems, and ESET attributes it to Turla with high confidence. Its significance is collection against the alliance through partners' infrastructure, well below any threshold for a response. Watch for further victims and for government guidance on Exchange hardening. [10]",
+   "sha256": "c3979871029f5829b3e3b5bd622d4321ec2f5969643a3df26aaee69b3e801920",
+   "accessibleText": "ESET ATTRIBUTES THE CEREAL TOOLSET TO TURLA\n\nRUSSIAN HACKERS SPY ON GOVERNMENT EMAIL SERVERS\n\nESET disclosed on 10 November a toolset it calls Cereal, used by Turla — assessed to be part of Russia's FSB — on Microsoft Exchange servers at government organizations in Kazakhstan and Romania. The toolset was first discovered in November 2025. [10][54]\n\nCereal is built for long-term, stealthy collection. It leaves little on disk, copies selected email straight out of the mail flow, and takes commands through requests disguised as Outlook Web Access and Autodiscover traffic, so no attacker-owned server is needed. In Romania it was configured to collect email sent to or from NATO and the EU. [10][55]\n\nThe breach was of national governments' servers, not NATO or EU systems, and ESET attributes it to Turla with high confidence. It shows intelligence collection against the alliance through partners' infrastructure, well below any threshold for a response. Watch for further victims and for government guidance on Exchange hardening. [10]",
    "links": [
     {
      "id": "citation_10",
      "sourceNumber": 10,
+     "rect": {
+      "x": 0.07,
+      "y": 0.8831578947368421,
+      "width": 0.08380208333333333,
+      "height": 0.031578947368421054
+     }
+    },
+    {
+     "id": "citation_54",
+     "sourceNumber": 54,
+     "rect": {
+      "x": 0.16546875,
+      "y": 0.8831578947368421,
+      "width": 0.08380208333333333,
+      "height": 0.031578947368421054
+     }
+    },
+    {
+     "id": "citation_55",
+     "sourceNumber": 55,
+     "rect": {
+      "x": 0.2609375,
+      "y": 0.8831578947368421,
+      "width": 0.08380208333333333,
+      "height": 0.031578947368421054
+     }
+    }
+   ]
+  },
+  {
+   "id": "snowball",
+   "title": "AI AGENT CONDUCTS TWO-WEEK CYBER INTRUSION...",
+   "kind": "story",
+   "imagePath": "brief-2026-11-15-r3-14-snowball.png",
+   "bundleAsset": "",
+   "sha256": "bc5eddd0b6ce74a15f965116cadc671f665005d9bc53d80ab31777f47726d307",
+   "accessibleText": "OPERATION SNOWBALL HIT A EUROPEAN TELECOM\n\nAI AGENT CONDUCTS TWO-WEEK CYBER INTRUSION...\n\nMalbear Labs reported on 8 November that an exposed open directory held the live workspace of an autonomous intrusion harness: about 70 session transcripts of a jailbroken DeepSeek agent attacking a European telecom provider and 13 organizations hosted on its infrastructure over two weeks. [56][57]\n\nA Chinese-speaking operator set targets in a few words; the agent ran reconnaissance, exploited known flaws including in Cisco BroadWorks voice systems, and rebuilt its attack chain when the target could not reach the internet. Malbear reports credential and data theft; its scale has not been independently confirmed and the telecom is unnamed. [56]\n\nMalbear made no state attribution, and the operator's language does not establish nationality or government links. [56]",
+   "links": [
+    {
+     "id": "citation_56",
+     "sourceNumber": 56,
+     "rect": {
+      "x": 0.07,
+      "y": 0.8831578947368421,
+      "width": 0.08380208333333333,
+      "height": 0.031578947368421054
+     }
+    },
+    {
+     "id": "citation_57",
+     "sourceNumber": 57,
+     "rect": {
+      "x": 0.16546875,
+      "y": 0.8831578947368421,
+      "width": 0.08380208333333333,
+      "height": 0.031578947368421054
+     }
+    }
+   ]
+  },
+  {
+   "id": "ai-assessment",
+   "title": "...LOWERING THE COST OF SUSTAINED ATTACKS",
+   "kind": "story",
+   "imagePath": "brief-2026-11-15-r3-15-ai-assessment.png",
+   "bundleAsset": "",
+   "sha256": "793b8b3cc2943cce1d2cc601cff8654d74741a4e88223c0cf193c7f639867aca",
+   "accessibleText": "DEMONSTRATED, BUT NOT YET DECISIVE\n\n...LOWERING THE COST OF SUSTAINED ATTACKS\n\nDemonstrated: an AI agent can chain reconnaissance, known exploits and tool rebuilding over weeks with minimal direction, and state groups use AI models for targeting and vulnerability research. [56][58]\n\nNot demonstrated: novel AI-discovered exploits, or AI-driven attacks causing physical disruption. Snowball relied on known vulnerabilities and was exposed through its own open directory. [56]\n\nThe economics are shifting nonetheless. One operator can now sustain a multi-week campaign against telecommunications infrastructure, raising the cost of leaving known flaws unpatched on internet-facing systems. Indicators to watch: AI-assisted intrusions attributed to state actors, and the first verified use of an AI-discovered vulnerability. [56]",
+   "links": [
+    {
+     "id": "citation_56",
+     "sourceNumber": 56,
      "rect": {
       "x": 0.07,
       "y": 0.8831578947368421,
@@ -1256,104 +921,33 @@
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
      }
-    },
+    }
+   ]
+  },
+  {
+   "id": "proxies-github",
+   "title": "TWO UNRELATED INCIDENTS EXPOSE TRUSTED NETWORKS",
+   "kind": "story",
+   "imagePath": "brief-2026-11-15-r3-16-proxies-github.png",
+   "bundleAsset": "",
+   "sha256": "b3a0aaaa946024a634872d0f5ad16193ee1d8a7f75f3cf9aeb63dba34afbeb8b",
+   "accessibleText": "WHITE HOUSE PROXIES AND STOLEN GITHUB TOKENS\n\nTWO UNRELATED INCIDENTS EXPOSE TRUSTED NETWORKS\n\nLayer3 Intel saw 28 residential proxy services exit through the Executive Office of the President's network 236 times between 5 October and 3 November, mostly in the evening, which Layer3 says suggests an infected device used by someone at the White House. Synthient tied some traffic to Windows installations of Infatica proxy software. No compromise of classified systems has been reported. [59][60]\n\nFrom 10 November the wfx-loot campaign used 4,837 compromised GitHub accounts to open probe pull requests in 61,764 repositories, with its secret stealer confirmed to run in more than 1,800. SafeDep counted 8,093 repositories receiving malicious commits. [61]\n\nThe stealer takes cloud keys, package-publishing tokens and AI-provider keys. The two incidents are separate, and no link between them has been reported; each shows how a foothold in a trusted network can be gained at low cost. [62]",
+   "links": [
     {
      "id": "citation_59",
      "sourceNumber": 59,
      "rect": {
-      "x": 0.2609375,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    }
-   ]
-  },
-  {
-   "id": "grey-zone",
-   "title": "SHARED EFFECTS, SEPARATE ACTORS",
-   "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-21-grey-zone.png",
-   "bundleAsset": "",
-   "sha256": "fb69253441edf9dcbd8eadf0a6adf8d912ed21557c4e5dec57de9a31ad49bacd",
-   "accessibleText": "CONVERGENCE OF METHOD, NOT COORDINATION\n\nSHARED EFFECTS, SEPARATE ACTORS\n\nAttribution differs by case. France formally attributes the October refrigeration sabotage to the IRGC, though Russian-aligned hacktivists also claimed the attacks; ESET attributes Cereal to Turla with high confidence; the school hoaxes are unattributed. [8][57][10][53]\n\nThe episodes share effects — cost, fear and stretched public services below the threshold of armed attack — and exploit the same weaknesses: exposed devices, public email addresses and internet-facing servers. That makes Europe's civilian infrastructure a low-cost arena for coercion. It is convergence of method and interest, not evidence of coordination. [56][51]\n\nCoordination would require shared infrastructure, tools or operators, or intelligence showing joint tasking. None has been reported. The hacktivist claim is unverified and does not by itself show Russian–Iranian cooperation. [10][57]",
-   "links": [
-    {
-     "id": "citation_8",
-     "sourceNumber": 8,
-     "rect": {
       "x": 0.07,
       "y": 0.8831578947368421,
-      "width": 0.08333333333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_57",
-     "sourceNumber": 57,
-     "rect": {
-      "x": 0.165,
-      "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
      }
     },
-    {
-     "id": "citation_10",
-     "sourceNumber": 10,
-     "rect": {
-      "x": 0.26046875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_53",
-     "sourceNumber": 53,
-     "rect": {
-      "x": 0.3559375,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_56",
-     "sourceNumber": 56,
-     "rect": {
-      "x": 0.45140625,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_51",
-     "sourceNumber": 51,
-     "rect": {
-      "x": 0.546875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    }
-   ]
-  },
-  {
-   "id": "snowball",
-   "title": "AN AI AGENT RUNS A TWO-WEEK INTRUSION",
-   "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-22-snowball.png",
-   "bundleAsset": "",
-   "sha256": "ae42c5f589f3bb075cc9f414e6a76f49ef689aefcc2d66f036358fc79aae3f10",
-   "accessibleText": "AUTONOMOUS HACKING AT CAMPAIGN SCALE\n\nAN AI AGENT RUNS A TWO-WEEK INTRUSION\n\nMalbear Labs reported on 8 November that an exposed open directory held the live workspace of an autonomous intrusion harness: about 70 session transcripts of a jailbroken DeepSeek agent attacking a European telecom provider and 13 organizations hosted on its infrastructure over two weeks. [60][61]\n\nA Chinese-speaking operator set targets in a few words; the agent ran reconnaissance, exploited known flaws including in Cisco BroadWorks voice systems, and rebuilt its attack chain when the target could not reach the internet. Malbear reports credential and data theft; its scale has not been independently confirmed and the telecom is unnamed. [60]\n\nMalbear made no state attribution, and the operator's language does not establish nationality or government links. The significance lies in the operating model: one person directing a persistent, adaptive campaign against telecommunications infrastructure. [60]",
-   "links": [
     {
      "id": "citation_60",
      "sourceNumber": 60,
      "rect": {
-      "x": 0.07,
+      "x": 0.16546875,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
@@ -1363,47 +957,6 @@
      "id": "citation_61",
      "sourceNumber": 61,
      "rect": {
-      "x": 0.16546875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    }
-   ]
-  },
-  {
-   "id": "proxies-github",
-   "title": "QUIET FOOTHOLDS IN TRUSTED NETWORKS",
-   "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-23-proxies-github.png",
-   "bundleAsset": "",
-   "sha256": "59e8aca4345190d86ddfa2d0197b9f18908098657c06afe2cf237a182022a822",
-   "accessibleText": "WHITE HOUSE PROXIES AND STOLEN GITHUB TOKENS\n\nQUIET FOOTHOLDS IN TRUSTED NETWORKS\n\nLayer3 Intel saw 28 residential proxy services exit through the Executive Office of the President's network 236 times between 5 October and 3 November, mostly in the evening, which Layer3 says suggests an infected device used by someone at the White House. Synthient tied some traffic to Windows installations of Infatica proxy software. No compromise of classified systems has been reported. [62][63]\n\nFrom 10 November the wfx-loot campaign used 4,837 compromised GitHub accounts to open probe pull requests in 61,764 repositories, with its secret stealer confirmed to run in more than 1,800. SafeDep counted 8,093 repositories receiving malicious commits. [64]\n\nThe stealer takes cloud keys, package-publishing tokens and AI-provider keys. Both cases show quiet footholds in trusted networks gained at low cost; the defensive priorities are short-lived tokens, approval for workflow changes and rapid secret rotation. [65]",
-   "links": [
-    {
-     "id": "citation_62",
-     "sourceNumber": 62,
-     "rect": {
-      "x": 0.07,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_63",
-     "sourceNumber": 63,
-     "rect": {
-      "x": 0.16546875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_64",
-     "sourceNumber": 64,
-     "rect": {
       "x": 0.2609375,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
@@ -1411,8 +964,8 @@
      }
     },
     {
-     "id": "citation_65",
-     "sourceNumber": 65,
+     "id": "citation_62",
+     "sourceNumber": 62,
      "rect": {
       "x": 0.35640625,
       "y": 0.8831578947368421,
@@ -1423,44 +976,13 @@
    ]
   },
   {
-   "id": "ai-assessment",
-   "title": "AI LOWERS THE COST OF PERSISTENT INTRUSION",
-   "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-24-ai-assessment.png",
-   "bundleAsset": "",
-   "sha256": "142f47b29886ea4065fa328cfa4c4f97d9c5ab5bb057ca59af2af59a3c0fa3a0",
-   "accessibleText": "DEMONSTRATED AT SCALE, NOT YET DECISIVE\n\nAI LOWERS THE COST OF PERSISTENT INTRUSION\n\nDemonstrated: an AI agent can chain reconnaissance, known exploits and tool rebuilding over weeks with minimal direction, and state groups use AI models for targeting and vulnerability research. [60][21]\n\nNot demonstrated: novel AI-discovered exploits, or AI-driven attacks causing physical disruption. Snowball relied on known vulnerabilities and was exposed through its own open directory. [60]\n\nThe economics are shifting nonetheless. One operator can now sustain a multi-week campaign, raising the cost of leaving known flaws unpatched on internet-facing systems. Indicators to watch: AI-assisted intrusions attributed to state actors, and the first verified use of an AI-discovered vulnerability. [60]",
-   "links": [
-    {
-     "id": "citation_60",
-     "sourceNumber": 60,
-     "rect": {
-      "x": 0.07,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_21",
-     "sourceNumber": 21,
-     "rect": {
-      "x": 0.16546875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    }
-   ]
-  },
-  {
    "id": "central-assessment",
-   "title": "PARALLEL OPERATIONS, NO PROVEN COORDINATION",
+   "title": "NO CONFIRMED LINK BETWEEN THE INCIDENTS...",
    "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-25-central-assessment.png",
+   "imagePath": "brief-2026-11-15-r3-17-central-assessment.png",
    "bundleAsset": "",
-   "sha256": "4f9a716fa9f964ce4cc05584d292584b71949ec73c38d2a216906394ee55d1d0",
-   "accessibleText": "STATE ACTION CONFIRMED, NO COMMON COMMAND\n\nPARALLEL OPERATIONS, NO PROVEN COORDINATION\n\nTwo links are established. France names Shahid Kaveh for the refrigeration sabotage, and U.S. agencies link the same IRGC unit to disruption of American industrial controllers: one actor, two theaters. Turla's espionage is attributed with high confidence. [8][20][10]\n\nNothing connects these to the FAA outage, which officials trace to contractor network work, to the unattributed school hoaxes, or to Snowball, which has no state attribution. No shared infrastructure, tooling or command link across Russian, Iranian and Chinese operations has been reported. [2][53][60]\n\nOne complication: Russian-aligned hacktivists claimed the supermarket attacks France attributes to the IRGC. The overlap is unverified and fits opportunistic claiming as well as cooperation. Moscow, Tehran and Beijing share an interest in exposing Western fragility, and the evidence shows them exploiting the same weaknesses independently. [57][23][20]",
+   "sha256": "61cc5809d00a78eb4ce5fd150c8a9d513d77667c8338678e61191666083fbef7",
+   "accessibleText": "IRAN AND RUSSIA ACT; NO COMMON COMMAND SHOWN\n\nNO CONFIRMED LINK BETWEEN THE INCIDENTS...\n\nTwo attributions stand out. France names the IRGC's Shahid Kaveh unit for the refrigeration sabotage, and U.S. agencies link the same unit to disruption of American industrial controllers: one actor, two theaters. ESET attributes the email espionage, with high confidence, to Turla, which is assessed to be part of Russia's FSB. [8][17][10]\n\nNo confirmed link connects these to the FAA outage, which officials trace to contractor network work, to the unattributed school hoaxes, or to Snowball, which has no state attribution. No shared infrastructure, tooling or command link across Russian, Iranian and Chinese operations has been reported. [2][49][56]\n\nOne claim complicates the picture: Russian-aligned hacktivists said they carried out the supermarket attacks France attributes to the IRGC. The claim is unverified and fits opportunistic claiming as well as cooperation. [53]",
    "links": [
     {
      "id": "citation_8",
@@ -1473,8 +995,8 @@
      }
     },
     {
-     "id": "citation_20",
-     "sourceNumber": 20,
+     "id": "citation_17",
+     "sourceNumber": 17,
      "rect": {
       "x": 0.165,
       "y": 0.8831578947368421,
@@ -1503,8 +1025,8 @@
      }
     },
     {
-     "id": "citation_53",
-     "sourceNumber": 53,
+     "id": "citation_49",
+     "sourceNumber": 49,
      "rect": {
       "x": 0.4509375,
       "y": 0.8831578947368421,
@@ -1513,8 +1035,8 @@
      }
     },
     {
-     "id": "citation_60",
-     "sourceNumber": 60,
+     "id": "citation_56",
+     "sourceNumber": 56,
      "rect": {
       "x": 0.54640625,
       "y": 0.8831578947368421,
@@ -1523,20 +1045,10 @@
      }
     },
     {
-     "id": "citation_57",
-     "sourceNumber": 57,
+     "id": "citation_53",
+     "sourceNumber": 53,
      "rect": {
       "x": 0.641875,
-      "y": 0.8831578947368421,
-      "width": 0.08380208333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_23",
-     "sourceNumber": 23,
-     "rect": {
-      "x": 0.73734375,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
@@ -1546,16 +1058,16 @@
   },
   {
    "id": "judgment",
-   "title": "INDICATORS THAT WOULD SIGNAL COORDINATION",
+   "title": "...BUT STATE ACTORS EXPLOIT THE SAME WEAKNESSES",
    "kind": "story",
-   "imagePath": "brief-2026-11-15-r2-26-judgment.png",
+   "imagePath": "brief-2026-11-15-r3-18-judgment.png",
    "bundleAsset": "",
-   "sha256": "8e100bed5ed5931710012a0895a3741bc751b5fdf77af9455ac08cc0e39e346a",
-   "accessibleText": "THE JUDGMENT, AND WHAT WOULD CHANGE IT\n\nINDICATORS THAT WOULD SIGNAL COORDINATION\n\nCoordination would be shown by common infrastructure across operations, shared malware or personnel, verified joint participation such as Russian-aligned groups in the refrigeration operation, action deliberately timed to political events, or intelligence showing joint tasking. [23][57]\n\nCoincidence and independent failure explain more of this week than design. Preliminary findings trace the FAA outage to contractor network work, mass hoax emails need little skill, and adversaries independently probe the same exposed systems. [2][22][51]\n\nWatchfront's judgment: converging interests and parallel opportunism, with confirmed state action by Iran and Russia. A coordinated destabilization campaign is not supported by current evidence. [8][10]",
+   "sha256": "3b704500984081e051458bb0f08e798517807c81579a58ec188dd37b7ce18ad1",
+   "accessibleText": "WHAT WOULD CHANGE THE ASSESSMENT\n\n...BUT STATE ACTORS EXPLOIT THE SAME WEAKNESSES\n\nThe episodes share effects — cost, fear and stretched public services below the threshold of armed attack — and exploit the same weaknesses: refrigeration controllers reachable over the internet, public school email addresses and internet-facing Exchange servers. Moscow, Tehran and Beijing share an interest in exposing Western fragility, and the evidence shows them pursuing it independently. [50][47][55][20]\n\nCoordination would be shown by common infrastructure, shared malware or personnel, verified joint participation such as Russian-aligned groups in the refrigeration operation, action timed to political events, or intelligence showing joint tasking. [20][53]\n\nWatchfront's judgment: converging interests and parallel opportunism, with confirmed state action by Iran and Russia. A coordinated destabilization campaign is not supported by current evidence. [8][10]",
    "links": [
     {
-     "id": "citation_23",
-     "sourceNumber": 23,
+     "id": "citation_50",
+     "sourceNumber": 50,
      "rect": {
       "x": 0.07,
       "y": 0.8831578947368421,
@@ -1564,8 +1076,8 @@
      }
     },
     {
-     "id": "citation_57",
-     "sourceNumber": 57,
+     "id": "citation_47",
+     "sourceNumber": 47,
      "rect": {
       "x": 0.16546875,
       "y": 0.8831578947368421,
@@ -1574,30 +1086,30 @@
      }
     },
     {
-     "id": "citation_2",
-     "sourceNumber": 2,
+     "id": "citation_55",
+     "sourceNumber": 55,
      "rect": {
       "x": 0.2609375,
-      "y": 0.8831578947368421,
-      "width": 0.08333333333333333,
-      "height": 0.031578947368421054
-     }
-    },
-    {
-     "id": "citation_22",
-     "sourceNumber": 22,
-     "rect": {
-      "x": 0.3559375,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
      }
     },
     {
-     "id": "citation_51",
-     "sourceNumber": 51,
+     "id": "citation_20",
+     "sourceNumber": 20,
      "rect": {
-      "x": 0.45140625,
+      "x": 0.35640625,
+      "y": 0.8831578947368421,
+      "width": 0.08380208333333333,
+      "height": 0.031578947368421054
+     }
+    },
+    {
+     "id": "citation_53",
+     "sourceNumber": 53,
+     "rect": {
+      "x": 0.451875,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
@@ -1607,7 +1119,7 @@
      "id": "citation_8",
      "sourceNumber": 8,
      "rect": {
-      "x": 0.546875,
+      "x": 0.54734375,
       "y": 0.8831578947368421,
       "width": 0.08333333333333333,
       "height": 0.031578947368421054
@@ -1617,7 +1129,7 @@
      "id": "citation_10",
      "sourceNumber": 10,
      "rect": {
-      "x": 0.641875,
+      "x": 0.64234375,
       "y": 0.8831578947368421,
       "width": 0.08380208333333333,
       "height": 0.031578947368421054
@@ -1629,10 +1141,10 @@
    "id": "sources",
    "title": "SOURCES",
    "kind": "sources",
-   "imagePath": "brief-2026-11-15-r2-27-sources.png",
+   "imagePath": "brief-2026-11-15-r3-19-sources.png",
    "bundleAsset": "",
-   "sha256": "41bdbfd254c9e4c89530437be2b5ed3622806b5aedf75bf5b15433cc4d77b182",
-   "accessibleText": "Primary Reporting And Sources\n\nSOURCES\n\n\n\n[1] CNBC — Ground stop, past outages — https://www.cnbc.com/2026/11/13/faa-ground-stop.html\n[2] CBS — Duffy: router flooded network — https://www.cbsnews.com/news/ground-stop-faa-telecom-network-sean-duffy-face-the-nation/\n[3] CNBC — Longest pause in 25 years — https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html\n[4] TechCrunch — Kress interim CEO — https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/\n[5] AP/NPR — Abu Dhabi talks end — https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks\n[6] CNN — Europe to join next talks — https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl\n[7] Reuters — Silent intimidation — https://whbl.com/2026/11/12/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/\n[8] AP/NPR — Iran denies fridge attack — https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks\n[9] Al Jazeera — Italy evacuations — https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts\n[10] ESET — Turla Cereal toolset — https://www.eset.com/us/about/newsroom/research/eset-research-turla-cereal-exchange-email-espionage/\n[11] AP/PBS — FAA grounds all flights — https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems\n[12] CBS — Normal by Sunday night — https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/\n[13] The Register — FAA telecoms network — https://www.theregister.com/offbeat/2026/11/13/all-us-flights-grounded-by-faa/5309912\n[14] Fox Business — L3Harris statement — https://www.foxbusiness.com/fox-news-air-space/who-l3harris-federal-contractor-sec-duffy-says-may-have-caused-faa-outage\n[15] NPR — 'Equipment issue' in upgrade — https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel\n[16] NBC — Ground stop live updates — https://www.nbcnews.com/news/us-news/live-blog/live-updates-flights-grounded-faa-communications-outage-rcna609268\n[17] ABC — No sign of 'nefarious attack' — https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848\n[18] Flying — SMART at all 22 centers — https://www.flyingmag.com/faa-smart-ai-now-active-at-22-artccs-nationwide/\n[19] AVweb — SMART expansion concerns — https://avweb.com/aviation-news/faa-expands-ai-assisted-traffic-management/\n[20] CISA/FBI — Iranian PLC attacks — https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a\n[21] Infosecurity — State hackers use AI — https://www.infosecurity-magazine.com/news/nation-state-hackers-gemini-ai/\n[22] GAO — FAA modernization — https://files.gao.gov/reports/GAO-26-107992/index.html\n[23] CISA/NSA/FBI — Volt Typhoon — https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a\n[24] CNBC — Nvidia board inquiry — https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html\n[25] Fox Business — China denies plot — https://www.foxbusiness.com/technology/china-denies-spy-plot-targeting-nvidia-ceo-jensen-huang-calls-allegations-smear\n[26] NBC — Huang resigns — https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402\n[27] Roll Call — Export limits push — https://rollcall.com/2026/11/12/calls-for-nvidia-probes-new-chip-export-limits-intensify/\n[28] CNBC — Nvidia fallout live — https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html\n[29] CNN — Huang to testify — https://www.cnn.com/2026/11/11/business/live-news/nvidia-jensen-huang-investigation-fallout\n[30] AP/PBS — Prisoner exchange deal — https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough\n[31] ISW — Russian offensive, 12 Nov — https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-12-2026\n[32] Time — Envoys meet Putin — https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/\n[33] The National — Envoys meet Putin — https://www.thenationalnews.com/news/uk/2026/11/12/us-envoys-seek-to-build-on-progress-made-in-ukraine-peace-talks-in-abu-dhabi/\n[34] Hromadske — Envoys meet Zelenskyy — https://hromadske.ua/en/amp/war/274297-zelenskyy-zustrivsia-iz-vitkoffom-ta-kushnerom-u-dublini\n[35] Al Jazeera — Power cuts, 8 Nov — https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity\n[36] Euromaidan — Ukrenergo blackouts — https://euromaidanpress.com/2026/11/13/ukraines-grid-operator-kept-all-day-blackouts-in-parts-of-the-country-after-russias-latest-strikes-on-the-grid/\n[37] CNN — Energy strikes, economy — https://edition.cnn.com/2026/11/08/europe/ukraine-russia-attacks-energy-infrastructure-economy-intl\n[38] Kyiv Independent — 7 killed, 80 injured — https://kyivindependent.com/at-least-7-killed-80-injured-in-russian-attacks-across-ukraine-zaporizhzhia-among-worst-hit/\n[39] Ukrainska Pravda — Omsk strike — https://www.pravda.com.ua/eng/news/2026/11/12/8062494/\n[40] Kyiv Post — Volgograd refinery — https://www.kyivpost.com/post/89990\n[41] CNN/ABC17 — Starshield disruptions — https://abc17news.com/politics/national-politics/cnn-us-politics/2026/11/13/witkoff-and-kushner-to-meet-zelensky-after-talks-with-putin-as-ukraine-says-starshield-restricted-again/\n[42] The Diplomat — 'Silent' exercise — https://thediplomat.com/2026/11/beyond-a-taiwan-blockade-the-strategic-implications-behind-the-plas-silent-military-exercise/\n[43] France 24 — PLA drills explained — https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan\n[44] LBC/Reuters — About 70 vessels remain — https://www.lbc.co.uk/article/china-taiwan-pacific-drills-5HjdmKb_2/\n[45] ISW — China–Taiwan, 6 Nov — https://understandingwar.org/research/china-taiwan/china-taiwan-update-november-6-2026/\n[46] Japan MOD — Four-nation statement — https://www.mod.go.jp/en/article/2026/11/e52df2477bcd20e95b37f73f95781be40c3f86aa.html\n[47] Taipei Times — 'Silent intimidation' — https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867710\n[48] Al Jazeera — 1,800 schools — https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts\n[49] CNN — UK and Ireland alerts — https://www.cnn.com/2026/11/11/europe/italy-europe-bomb-threat-intl\n[50] CNBC — Scotland, N. Ireland — https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html\n[51] Reuters/NBC — Andropov emails — https://www.nbcnews.com/world/italy/italy-schools-evacuated-identical-bomb-threat-russia-iran-rcna608717\n[52] TheJournal — Irish schools — https://www.thejournal.ie/bomb-threats-schools-media-thejournal-7222128-Nov2026/\n[53] HNGN — Hoax threats across Europe — https://www.hngn.com/articles/273828/20261113/hoax-bomb-threats-hit-thousands-european-schools.htm\n[54] Hacker News — 700 sites sabotaged — https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html\n[55] CNBC — France weighs sanctions — https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html\n[56] Al Jazeera — Second wave — https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk\n[57] DomainTools — Refrigeration sabotage — https://dti.domaintools.com/research/european-refrigeration-systems-cyber-sabotage\n[58] CyberScoop — Turla and FSB — https://cyberscoop.com/russian-turla-group-used-new-toolset-to-silently-pilfer-emails-from-kazakhstan-romanian-governments/\n[59] Help Net — Cereal backdoor — https://www.helpnetsecurity.com/2026/11/10/eset-turla-exchange-malware/\n[60] Malbear Labs — Operation Snowball — https://malbearlabs.com/posts/operation-snowball-inside-an-autonomous-ai-intrusion-campaign\n[61] SC Media — Snowball — https://www.scworld.com/brief/autonomous-ai-agent-executes-multi-week-cyberattack-on-european-telecommunications-provider\n[62] The Register — Layer3 findings — https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969\n[63] Krebs — White House proxies — https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/\n[64] Chainguard — wfx-loot campaign — https://www.chainguard.dev/unchained/wfx-loot-stolen-github-tokens-pushed-a-ci-secret-stealer-into-60-000-repositories-november-2026\n[65] OX Security — wfx-loot stealer — https://www.ox.security/blog/thousands-of-github-accounts-hijacked-with-wfx-loot-ci-secret-stealing-malware-via-github-actions-npm/",
+   "sha256": "23d4799508df6fe65be97b1a1e1ddfcadfc52b2bb1193433132642748e04950d",
+   "accessibleText": "Primary Reporting And Sources\n\nSOURCES\n\n\n\n[1] CNBC — Ground stop, past outages — https://www.cnbc.com/2026/11/13/faa-ground-stop.html\n[2] CBS — Duffy: router flooded network — https://www.cbsnews.com/news/ground-stop-faa-telecom-network-sean-duffy-face-the-nation/\n[3] CNBC — Longest pause in 25 years — https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html\n[4] TechCrunch — Kress interim CEO — https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/\n[5] AP/NPR — Abu Dhabi talks end — https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks\n[6] CNN — Europe to join next talks — https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl\n[7] Reuters — Silent intimidation — https://whbl.com/2026/11/12/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/\n[8] AP/NPR — Iran denies fridge attack — https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks\n[9] Al Jazeera — Italy evacuations — https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts\n[10] ESET — Turla Cereal toolset — https://www.eset.com/us/about/newsroom/research/eset-research-turla-cereal-exchange-email-espionage/\n[11] AP/PBS — FAA grounds all flights — https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems\n[12] CBS — Normal by Sunday night — https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/\n[13] NPR — 'Equipment issue' in upgrade — https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel\n[14] Flying — SMART at all 22 centers — https://www.flyingmag.com/faa-smart-ai-now-active-at-22-artccs-nationwide/\n[15] AVweb — SMART expansion concerns — https://avweb.com/aviation-news/faa-expands-ai-assisted-traffic-management/\n[16] NBC — Ground stop live updates — https://www.nbcnews.com/news/us-news/live-blog/live-updates-flights-grounded-faa-communications-outage-rcna609268\n[17] CISA/FBI — Iranian PLC attacks — https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a\n[18] ABC — No sign of 'nefarious attack' — https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848\n[19] GAO — FAA modernization — https://files.gao.gov/reports/GAO-26-107992/index.html\n[20] CISA/NSA/FBI — Volt Typhoon — https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a\n[21] CNBC — Nvidia board inquiry — https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html\n[22] Fox Business — China denies plot — https://www.foxbusiness.com/technology/china-denies-spy-plot-targeting-nvidia-ceo-jensen-huang-calls-allegations-smear\n[23] NBC — Huang resigns — https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402\n[24] Roll Call — Export limits push — https://rollcall.com/2026/11/12/calls-for-nvidia-probes-new-chip-export-limits-intensify/\n[25] CNBC — Nvidia fallout live — https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html\n[26] CNN — Huang to testify — https://www.cnn.com/2026/11/11/business/live-news/nvidia-jensen-huang-investigation-fallout\n[27] AP/PBS — Prisoner exchange deal — https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough\n[28] ISW — Russian offensive, 12 Nov — https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-12-2026\n[29] Time — Envoys meet Putin — https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/\n[30] The National — Envoys meet Putin — https://www.thenationalnews.com/news/uk/2026/11/12/us-envoys-seek-to-build-on-progress-made-in-ukraine-peace-talks-in-abu-dhabi/\n[31] Hromadske — Envoys meet Zelenskyy — https://hromadske.ua/en/amp/war/274297-zelenskyy-zustrivsia-iz-vitkoffom-ta-kushnerom-u-dublini\n[32] Al Jazeera — Power cuts, 8 Nov — https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity\n[33] Euromaidan — Ukrenergo blackouts — https://euromaidanpress.com/2026/11/13/ukraines-grid-operator-kept-all-day-blackouts-in-parts-of-the-country-after-russias-latest-strikes-on-the-grid/\n[34] Kyiv Independent — 7 killed, 80 injured — https://kyivindependent.com/at-least-7-killed-80-injured-in-russian-attacks-across-ukraine-zaporizhzhia-among-worst-hit/\n[35] Ukrainska Pravda — Omsk strike — https://www.pravda.com.ua/eng/news/2026/11/12/8062494/\n[36] Kyiv Post — Volgograd refinery — https://www.kyivpost.com/post/89990\n[37] CNN — Energy strikes, economy — https://edition.cnn.com/2026/11/08/europe/ukraine-russia-attacks-energy-infrastructure-economy-intl\n[38] The Diplomat — 'Silent' exercise — https://thediplomat.com/2026/11/beyond-a-taiwan-blockade-the-strategic-implications-behind-the-plas-silent-military-exercise/\n[39] France 24 — PLA drills explained — https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan\n[40] LBC/Reuters — About 70 vessels remain — https://www.lbc.co.uk/article/china-taiwan-pacific-drills-5HjdmKb_2/\n[41] ISW — China–Taiwan, 6 Nov — https://understandingwar.org/research/china-taiwan/china-taiwan-update-november-6-2026/\n[42] Japan MOD — Four-nation statement — https://www.mod.go.jp/en/article/2026/11/e52df2477bcd20e95b37f73f95781be40c3f86aa.html\n[43] Taipei Times — 'Silent intimidation' — https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867710\n[44] Al Jazeera — 1,800 schools — https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts\n[45] CNN — UK and Ireland alerts — https://www.cnn.com/2026/11/11/europe/italy-europe-bomb-threat-intl\n[46] CNBC — Scotland, N. Ireland — https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html\n[47] Reuters/NBC — Andropov emails — https://www.nbcnews.com/world/italy/italy-schools-evacuated-identical-bomb-threat-russia-iran-rcna608717\n[48] TheJournal — Irish schools — https://www.thejournal.ie/bomb-threats-schools-media-thejournal-7222128-Nov2026/\n[49] HNGN — Hoax threats across Europe — https://www.hngn.com/articles/273828/20261113/hoax-bomb-threats-hit-thousands-european-schools.htm\n[50] Hacker News — 700 sites sabotaged — https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html\n[51] CNBC — France weighs sanctions — https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html\n[52] Al Jazeera — Second wave — https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk\n[53] DomainTools — Refrigeration sabotage — https://dti.domaintools.com/research/european-refrigeration-systems-cyber-sabotage\n[54] CyberScoop — Turla and FSB — https://cyberscoop.com/russian-turla-group-used-new-toolset-to-silently-pilfer-emails-from-kazakhstan-romanian-governments/\n[55] Help Net — Cereal backdoor — https://www.helpnetsecurity.com/2026/11/10/eset-turla-exchange-malware/\n[56] Malbear Labs — Operation Snowball — https://malbearlabs.com/posts/operation-snowball-inside-an-autonomous-ai-intrusion-campaign\n[57] SC Media — Snowball — https://www.scworld.com/brief/autonomous-ai-agent-executes-multi-week-cyberattack-on-european-telecommunications-provider\n[58] Infosecurity — State hackers use AI — https://www.infosecurity-magazine.com/news/nation-state-hackers-gemini-ai/\n[59] The Register — Layer3 findings — https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969\n[60] Krebs — White House proxies — https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/\n[61] Chainguard — wfx-loot campaign — https://www.chainguard.dev/unchained/wfx-loot-stolen-github-tokens-pushed-a-ci-secret-stealer-into-60-000-repositories-november-2026\n[62] OX Security — wfx-loot stealer — https://www.ox.security/blog/thousands-of-github-accounts-hijacked-with-wfx-loot-ci-secret-stealing-malware-via-github-actions-npm/",
    "links": [
     {
      "id": "source_1",
@@ -1641,7 +1153,7 @@
       "x": 0.07,
       "y": 0.21654605263157894,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1649,9 +1161,9 @@
      "sourceNumber": 2,
      "rect": {
       "x": 0.07,
-      "y": 0.23601973684210525,
+      "y": 0.23759868421052632,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1659,9 +1171,9 @@
      "sourceNumber": 3,
      "rect": {
       "x": 0.07,
-      "y": 0.25549342105263156,
+      "y": 0.2586513157894737,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1669,9 +1181,9 @@
      "sourceNumber": 4,
      "rect": {
       "x": 0.07,
-      "y": 0.2749671052631579,
+      "y": 0.2797039473684211,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1679,9 +1191,9 @@
      "sourceNumber": 5,
      "rect": {
       "x": 0.07,
-      "y": 0.2944407894736842,
+      "y": 0.3007565789473684,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1689,9 +1201,9 @@
      "sourceNumber": 6,
      "rect": {
       "x": 0.07,
-      "y": 0.31391447368421055,
+      "y": 0.3218092105263158,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1699,9 +1211,9 @@
      "sourceNumber": 7,
      "rect": {
       "x": 0.07,
-      "y": 0.33338815789473686,
+      "y": 0.34286184210526316,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1709,9 +1221,9 @@
      "sourceNumber": 8,
      "rect": {
       "x": 0.07,
-      "y": 0.35286184210526317,
+      "y": 0.36391447368421054,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1719,9 +1231,9 @@
      "sourceNumber": 9,
      "rect": {
       "x": 0.07,
-      "y": 0.3723355263157895,
+      "y": 0.3849671052631579,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1729,9 +1241,9 @@
      "sourceNumber": 10,
      "rect": {
       "x": 0.07,
-      "y": 0.3918092105263158,
+      "y": 0.40601973684210524,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1739,9 +1251,9 @@
      "sourceNumber": 11,
      "rect": {
       "x": 0.07,
-      "y": 0.4112828947368421,
+      "y": 0.4270723684210526,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1749,9 +1261,9 @@
      "sourceNumber": 12,
      "rect": {
       "x": 0.07,
-      "y": 0.4307565789473684,
+      "y": 0.448125,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1759,9 +1271,9 @@
      "sourceNumber": 13,
      "rect": {
       "x": 0.07,
-      "y": 0.4502302631578947,
+      "y": 0.4691776315789474,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1769,9 +1281,9 @@
      "sourceNumber": 14,
      "rect": {
       "x": 0.07,
-      "y": 0.469703947368421,
+      "y": 0.49023026315789475,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1779,9 +1291,9 @@
      "sourceNumber": 15,
      "rect": {
       "x": 0.07,
-      "y": 0.4891776315789474,
+      "y": 0.5112828947368421,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1789,9 +1301,9 @@
      "sourceNumber": 16,
      "rect": {
       "x": 0.07,
-      "y": 0.5086513157894736,
+      "y": 0.5323355263157895,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1799,9 +1311,9 @@
      "sourceNumber": 17,
      "rect": {
       "x": 0.07,
-      "y": 0.528125,
+      "y": 0.5533881578947368,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1809,9 +1321,9 @@
      "sourceNumber": 18,
      "rect": {
       "x": 0.07,
-      "y": 0.5475986842105263,
+      "y": 0.5744407894736843,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1819,9 +1331,9 @@
      "sourceNumber": 19,
      "rect": {
       "x": 0.07,
-      "y": 0.5670723684210527,
+      "y": 0.5954934210526316,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1829,9 +1341,9 @@
      "sourceNumber": 20,
      "rect": {
       "x": 0.07,
-      "y": 0.586546052631579,
+      "y": 0.6165460526315789,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1839,9 +1351,9 @@
      "sourceNumber": 21,
      "rect": {
       "x": 0.07,
-      "y": 0.6060197368421053,
+      "y": 0.6375986842105263,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1849,9 +1361,9 @@
      "sourceNumber": 22,
      "rect": {
       "x": 0.07,
-      "y": 0.6254934210526316,
+      "y": 0.6586513157894737,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1859,9 +1371,9 @@
      "sourceNumber": 23,
      "rect": {
       "x": 0.07,
-      "y": 0.6449671052631579,
+      "y": 0.6797039473684211,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1869,9 +1381,9 @@
      "sourceNumber": 24,
      "rect": {
       "x": 0.07,
-      "y": 0.6644407894736842,
+      "y": 0.7007565789473684,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1879,9 +1391,9 @@
      "sourceNumber": 25,
      "rect": {
       "x": 0.07,
-      "y": 0.6839144736842105,
+      "y": 0.7218092105263157,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1889,9 +1401,9 @@
      "sourceNumber": 26,
      "rect": {
       "x": 0.07,
-      "y": 0.7033881578947369,
+      "y": 0.7428618421052632,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1899,9 +1411,9 @@
      "sourceNumber": 27,
      "rect": {
       "x": 0.07,
-      "y": 0.7228618421052632,
+      "y": 0.7639144736842105,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1909,9 +1421,9 @@
      "sourceNumber": 28,
      "rect": {
       "x": 0.07,
-      "y": 0.7423355263157895,
+      "y": 0.7849671052631579,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1919,9 +1431,9 @@
      "sourceNumber": 29,
      "rect": {
       "x": 0.07,
-      "y": 0.7618092105263158,
+      "y": 0.8060197368421053,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1929,9 +1441,9 @@
      "sourceNumber": 30,
      "rect": {
       "x": 0.07,
-      "y": 0.7812828947368421,
+      "y": 0.8270723684210526,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1939,29 +1451,29 @@
      "sourceNumber": 31,
      "rect": {
       "x": 0.07,
-      "y": 0.8007565789473684,
+      "y": 0.848125,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
      "id": "source_32",
      "sourceNumber": 32,
      "rect": {
-      "x": 0.07,
-      "y": 0.8202302631578947,
+      "x": 0.5075,
+      "y": 0.21654605263157894,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
      "id": "source_33",
      "sourceNumber": 33,
      "rect": {
-      "x": 0.07,
-      "y": 0.839703947368421,
+      "x": 0.5075,
+      "y": 0.23759868421052632,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1969,9 +1481,9 @@
      "sourceNumber": 34,
      "rect": {
       "x": 0.5075,
-      "y": 0.21654605263157894,
+      "y": 0.2586513157894737,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1979,9 +1491,9 @@
      "sourceNumber": 35,
      "rect": {
       "x": 0.5075,
-      "y": 0.23601973684210525,
+      "y": 0.2797039473684211,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1989,9 +1501,9 @@
      "sourceNumber": 36,
      "rect": {
       "x": 0.5075,
-      "y": 0.25549342105263156,
+      "y": 0.3007565789473684,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -1999,9 +1511,9 @@
      "sourceNumber": 37,
      "rect": {
       "x": 0.5075,
-      "y": 0.2749671052631579,
+      "y": 0.3218092105263158,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2009,9 +1521,9 @@
      "sourceNumber": 38,
      "rect": {
       "x": 0.5075,
-      "y": 0.2944407894736842,
+      "y": 0.34286184210526316,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2019,9 +1531,9 @@
      "sourceNumber": 39,
      "rect": {
       "x": 0.5075,
-      "y": 0.31391447368421055,
+      "y": 0.36391447368421054,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2029,9 +1541,9 @@
      "sourceNumber": 40,
      "rect": {
       "x": 0.5075,
-      "y": 0.33338815789473686,
+      "y": 0.3849671052631579,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2039,9 +1551,9 @@
      "sourceNumber": 41,
      "rect": {
       "x": 0.5075,
-      "y": 0.35286184210526317,
+      "y": 0.40601973684210524,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2049,9 +1561,9 @@
      "sourceNumber": 42,
      "rect": {
       "x": 0.5075,
-      "y": 0.3723355263157895,
+      "y": 0.4270723684210526,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2059,9 +1571,9 @@
      "sourceNumber": 43,
      "rect": {
       "x": 0.5075,
-      "y": 0.3918092105263158,
+      "y": 0.448125,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2069,9 +1581,9 @@
      "sourceNumber": 44,
      "rect": {
       "x": 0.5075,
-      "y": 0.4112828947368421,
+      "y": 0.4691776315789474,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2079,9 +1591,9 @@
      "sourceNumber": 45,
      "rect": {
       "x": 0.5075,
-      "y": 0.4307565789473684,
+      "y": 0.49023026315789475,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2089,9 +1601,9 @@
      "sourceNumber": 46,
      "rect": {
       "x": 0.5075,
-      "y": 0.4502302631578947,
+      "y": 0.5112828947368421,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2099,9 +1611,9 @@
      "sourceNumber": 47,
      "rect": {
       "x": 0.5075,
-      "y": 0.469703947368421,
+      "y": 0.5323355263157895,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2109,9 +1621,9 @@
      "sourceNumber": 48,
      "rect": {
       "x": 0.5075,
-      "y": 0.4891776315789474,
+      "y": 0.5533881578947368,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2119,9 +1631,9 @@
      "sourceNumber": 49,
      "rect": {
       "x": 0.5075,
-      "y": 0.5086513157894736,
+      "y": 0.5744407894736843,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2129,9 +1641,9 @@
      "sourceNumber": 50,
      "rect": {
       "x": 0.5075,
-      "y": 0.528125,
+      "y": 0.5954934210526316,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2139,9 +1651,9 @@
      "sourceNumber": 51,
      "rect": {
       "x": 0.5075,
-      "y": 0.5475986842105263,
+      "y": 0.6165460526315789,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2149,9 +1661,9 @@
      "sourceNumber": 52,
      "rect": {
       "x": 0.5075,
-      "y": 0.5670723684210527,
+      "y": 0.6375986842105263,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2159,9 +1671,9 @@
      "sourceNumber": 53,
      "rect": {
       "x": 0.5075,
-      "y": 0.586546052631579,
+      "y": 0.6586513157894737,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2169,9 +1681,9 @@
      "sourceNumber": 54,
      "rect": {
       "x": 0.5075,
-      "y": 0.6060197368421053,
+      "y": 0.6797039473684211,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2179,9 +1691,9 @@
      "sourceNumber": 55,
      "rect": {
       "x": 0.5075,
-      "y": 0.6254934210526316,
+      "y": 0.7007565789473684,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2189,9 +1701,9 @@
      "sourceNumber": 56,
      "rect": {
       "x": 0.5075,
-      "y": 0.6449671052631579,
+      "y": 0.7218092105263157,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2199,9 +1711,9 @@
      "sourceNumber": 57,
      "rect": {
       "x": 0.5075,
-      "y": 0.6644407894736842,
+      "y": 0.7428618421052632,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2209,9 +1721,9 @@
      "sourceNumber": 58,
      "rect": {
       "x": 0.5075,
-      "y": 0.6839144736842105,
+      "y": 0.7639144736842105,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2219,9 +1731,9 @@
      "sourceNumber": 59,
      "rect": {
       "x": 0.5075,
-      "y": 0.7033881578947369,
+      "y": 0.7849671052631579,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2229,9 +1741,9 @@
      "sourceNumber": 60,
      "rect": {
       "x": 0.5075,
-      "y": 0.7228618421052632,
+      "y": 0.8060197368421053,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2239,9 +1751,9 @@
      "sourceNumber": 61,
      "rect": {
       "x": 0.5075,
-      "y": 0.7423355263157895,
+      "y": 0.8270723684210526,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     },
     {
@@ -2249,39 +1761,9 @@
      "sourceNumber": 62,
      "rect": {
       "x": 0.5075,
-      "y": 0.7618092105263158,
+      "y": 0.848125,
       "width": 0.42916666666666664,
-      "height": 0.01631578947368421
-     }
-    },
-    {
-     "id": "source_63",
-     "sourceNumber": 63,
-     "rect": {
-      "x": 0.5075,
-      "y": 0.7812828947368421,
-      "width": 0.42916666666666664,
-      "height": 0.01631578947368421
-     }
-    },
-    {
-     "id": "source_64",
-     "sourceNumber": 64,
-     "rect": {
-      "x": 0.5075,
-      "y": 0.8007565789473684,
-      "width": 0.42916666666666664,
-      "height": 0.01631578947368421
-     }
-    },
-    {
-     "id": "source_65",
-     "sourceNumber": 65,
-     "rect": {
-      "x": 0.5075,
-      "y": 0.8202302631578947,
-      "width": 0.42916666666666664,
-      "height": 0.01631578947368421
+      "height": 0.017894736842105262
      }
     }
    ]
@@ -2350,18 +1832,18 @@
   },
   {
    "number": 13,
-   "title": "The Register — All US flights grounded by FAA",
-   "url": "https://www.theregister.com/offbeat/2026/11/13/all-us-flights-grounded-by-faa/5309912"
+   "title": "NPR — FAA cites equipment issue during upgrade",
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel"
   },
   {
    "number": 14,
-   "title": "Fox Business — Who is L3Harris",
-   "url": "https://www.foxbusiness.com/fox-news-air-space/who-l3harris-federal-contractor-sec-duffy-says-may-have-caused-faa-outage"
+   "title": "Flying — FAA's SMART AI system now active at all 22 ARTCCs",
+   "url": "https://www.flyingmag.com/faa-smart-ai-now-active-at-22-artccs-nationwide/"
   },
   {
    "number": 15,
-   "title": "NPR — FAA cites equipment issue during upgrade",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel"
+   "title": "AVweb — FAA expands AI-assisted traffic management nationwide",
+   "url": "https://avweb.com/aviation-news/faa-expands-ai-assisted-traffic-management/"
   },
   {
    "number": 16,
@@ -2370,103 +1852,103 @@
   },
   {
    "number": 17,
-   "title": "ABC News — FAA issues rare nationwide ground stop",
-   "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
-  },
-  {
-   "number": 18,
-   "title": "Flying — FAA's SMART AI system now active at all 22 ARTCCs",
-   "url": "https://www.flyingmag.com/faa-smart-ai-now-active-at-22-artccs-nationwide/"
-  },
-  {
-   "number": 19,
-   "title": "AVweb — FAA expands AI-assisted traffic management nationwide",
-   "url": "https://avweb.com/aviation-news/faa-expands-ai-assisted-traffic-management/"
-  },
-  {
-   "number": 20,
    "title": "CISA, FBI and partners — AA26-097A Iranian-affiliated actors exploit PLCs",
    "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
   },
   {
-   "number": 21,
-   "title": "Infosecurity Magazine — Nation-state hackers embrace Gemini AI",
-   "url": "https://www.infosecurity-magazine.com/news/nation-state-hackers-gemini-ai/"
+   "number": 18,
+   "title": "ABC News — FAA issues rare nationwide ground stop",
+   "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
   },
   {
-   "number": 22,
+   "number": 19,
    "title": "GAO-26-107992 — FAA air traffic control modernization",
    "url": "https://files.gao.gov/reports/GAO-26-107992/index.html"
   },
   {
-   "number": 23,
+   "number": 20,
    "title": "CISA, NSA, FBI — AA24-038A PRC state-sponsored actors (Volt Typhoon)",
    "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a"
   },
   {
-   "number": 24,
+   "number": 21,
    "title": "CNBC — Nvidia investigates CEO's relationship with alleged Chinese spy",
    "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
   },
   {
-   "number": 25,
+   "number": 22,
    "title": "Fox Business — China rejects spy plot allegations",
    "url": "https://www.foxbusiness.com/technology/china-denies-spy-plot-targeting-nvidia-ceo-jensen-huang-calls-allegations-smear"
   },
   {
-   "number": 26,
+   "number": 23,
    "title": "NBC News — Nvidia CEO Jensen Huang resigns",
    "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402"
   },
   {
-   "number": 27,
+   "number": 24,
    "title": "Roll Call — Calls for Nvidia probes, new chip export limits intensify",
    "url": "https://rollcall.com/2026/11/12/calls-for-nvidia-probes-new-chip-export-limits-intensify/"
   },
   {
-   "number": 28,
+   "number": 25,
    "title": "CNBC — Nvidia CEO resigns: live updates",
    "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"
   },
   {
-   "number": 29,
+   "number": 26,
    "title": "CNN — Huang summoned to testify after resigning",
    "url": "https://www.cnn.com/2026/11/11/business/live-news/nvidia-jensen-huang-investigation-fallout"
   },
   {
-   "number": 30,
+   "number": 27,
    "title": "PBS NewsHour/AP — Large prisoner exchange, no major breakthrough",
    "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough"
   },
   {
-   "number": 31,
+   "number": 28,
    "title": "ISW/Critical Threats — Russian Offensive Campaign Assessment, 12 November 2026",
    "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-12-2026"
   },
   {
-   "number": 32,
+   "number": 29,
    "title": "Time — Envoys meet Putin and Zelensky",
    "url": "https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/"
   },
   {
-   "number": 33,
+   "number": 30,
    "title": "The National — US envoys meet Putin to build on Abu Dhabi talks",
    "url": "https://www.thenationalnews.com/news/uk/2026/11/12/us-envoys-seek-to-build-on-progress-made-in-ukraine-peace-talks-in-abu-dhabi/"
   },
   {
-   "number": 34,
+   "number": 31,
    "title": "Hromadske — Zelensky meets envoys in Dublin",
    "url": "https://hromadske.ua/en/amp/war/274297-zelenskyy-zustrivsia-iz-vitkoffom-ta-kushnerom-u-dublini"
   },
   {
-   "number": 35,
+   "number": 32,
    "title": "Al Jazeera — Russian strikes leave hundreds of thousands without electricity",
    "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity"
   },
   {
-   "number": 36,
+   "number": 33,
    "title": "Euromaidan Press — Ukrenergo keeps all-day blackouts after strikes",
    "url": "https://euromaidanpress.com/2026/11/13/ukraines-grid-operator-kept-all-day-blackouts-in-parts-of-the-country-after-russias-latest-strikes-on-the-grid/"
+  },
+  {
+   "number": 34,
+   "title": "Kyiv Independent — 7 killed, 80 injured across Ukraine",
+   "url": "https://kyivindependent.com/at-least-7-killed-80-injured-in-russian-attacks-across-ukraine-zaporizhzhia-among-worst-hit/"
+  },
+  {
+   "number": 35,
+   "title": "Ukrainska Pravda — Ukraine strikes Omsk refinery for third time",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/12/8062494/"
+  },
+  {
+   "number": 36,
+   "title": "Kyiv Post — Ukraine confirms Volgograd refinery strike",
+   "url": "https://www.kyivpost.com/post/89990"
   },
   {
    "number": 37,
@@ -2475,141 +1957,126 @@
   },
   {
    "number": 38,
-   "title": "Kyiv Independent — 7 killed, 80 injured across Ukraine",
-   "url": "https://kyivindependent.com/at-least-7-killed-80-injured-in-russian-attacks-across-ukraine-zaporizhzhia-among-worst-hit/"
-  },
-  {
-   "number": 39,
-   "title": "Ukrainska Pravda — Ukraine strikes Omsk refinery for third time",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/12/8062494/"
-  },
-  {
-   "number": 40,
-   "title": "Kyiv Post — Ukraine confirms Volgograd refinery strike",
-   "url": "https://www.kyivpost.com/post/89990"
-  },
-  {
-   "number": 41,
-   "title": "ABC17/CNN — Starshield restricted again",
-   "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/11/13/witkoff-and-kushner-to-meet-zelensky-after-talks-with-putin-as-ukraine-says-starshield-restricted-again/"
-  },
-  {
-   "number": 42,
    "title": "The Diplomat — Beyond a Taiwan blockade: the PLA's 'silent' exercise",
    "url": "https://thediplomat.com/2026/11/beyond-a-taiwan-blockade-the-strategic-implications-behind-the-plas-silent-military-exercise/"
   },
   {
-   "number": 43,
+   "number": 39,
    "title": "France 24 — What we know about China's military exercises around Taiwan",
    "url": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan"
   },
   {
-   "number": 44,
+   "number": 40,
    "title": "LBC — China's Pacific deployment",
    "url": "https://www.lbc.co.uk/article/china-taiwan-pacific-drills-5HjdmKb_2/"
   },
   {
-   "number": 45,
+   "number": 41,
    "title": "ISW — China–Taiwan Update, 6 November 2026",
    "url": "https://understandingwar.org/research/china-taiwan/china-taiwan-update-november-6-2026/"
   },
   {
-   "number": 46,
+   "number": 42,
    "title": "Japan Ministry of Defense — Joint statement of Australia, Japan, Philippines and U.S. defense ministers, 10 Nov 2026",
    "url": "https://www.mod.go.jp/en/article/2026/11/e52df2477bcd20e95b37f73f95781be40c3f86aa.html"
   },
   {
-   "number": 47,
+   "number": 43,
    "title": "Taipei Times — China's silent intimidation",
    "url": "https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867710"
   },
   {
-   "number": 48,
+   "number": 44,
    "title": "Al Jazeera — More than 1,800 Italian schools targeted by new hoax alerts",
    "url": "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts"
   },
   {
-   "number": 49,
+   "number": 45,
    "title": "CNN — Bomb threat hoaxes prompt evacuation of Italian schools, alarm in UK and Ireland",
    "url": "https://www.cnn.com/2026/11/11/europe/italy-europe-bomb-threat-intl"
   },
   {
-   "number": 50,
+   "number": 46,
    "title": "CNBC — Hundreds of schools in Italy, UK evacuated over hoax threats",
    "url": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html"
   },
   {
-   "number": 51,
+   "number": 47,
    "title": "NBC News — Italy schools evacuated over identical bomb threat",
    "url": "https://www.nbcnews.com/world/italy/italy-schools-evacuated-identical-bomb-threat-russia-iran-rcna608717"
   },
   {
-   "number": 52,
+   "number": 48,
    "title": "TheJournal.ie — Hundreds of schools receive hoax bomb threat emails",
    "url": "https://www.thejournal.ie/bomb-threats-schools-media-thejournal-7222128-Nov2026/"
   },
   {
-   "number": 53,
+   "number": 49,
    "title": "HNGN — Hoax threats hit European schools",
    "url": "https://www.hngn.com/articles/273828/20261113/hoax-bomb-threats-hit-thousands-european-schools.htm"
   },
   {
-   "number": 54,
+   "number": 50,
    "title": "The Hacker News — France blames Iran for sabotage of refrigeration controllers",
    "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html"
   },
   {
-   "number": 55,
+   "number": 51,
    "title": "CNBC — France blames Iran for supermarket refrigerator cyberattacks",
    "url": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html"
   },
   {
-   "number": 56,
+   "number": 52,
    "title": "Al Jazeera — If hackers can take over a supermarket fridge, what else is at risk?",
    "url": "https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk"
   },
   {
-   "number": 57,
+   "number": 53,
    "title": "DomainTools — European refrigeration sabotage",
    "url": "https://dti.domaintools.com/research/european-refrigeration-systems-cyber-sabotage"
   },
   {
-   "number": 58,
+   "number": 54,
    "title": "CyberScoop — Turla used new toolset to pilfer emails",
    "url": "https://cyberscoop.com/russian-turla-group-used-new-toolset-to-silently-pilfer-emails-from-kazakhstan-romanian-governments/"
   },
   {
-   "number": 59,
+   "number": 55,
    "title": "Help Net Security — Turla's Cereal turns Exchange servers into spy hubs",
    "url": "https://www.helpnetsecurity.com/2026/11/10/eset-turla-exchange-malware/"
   },
   {
-   "number": 60,
+   "number": 56,
    "title": "Malbear Labs — Operation Snowball: inside an autonomous AI intrusion campaign",
    "url": "https://malbearlabs.com/posts/operation-snowball-inside-an-autonomous-ai-intrusion-campaign"
   },
   {
-   "number": 61,
+   "number": 57,
    "title": "SC Media — Autonomous AI agent executes multi-week cyberattack on European telecom",
    "url": "https://www.scworld.com/brief/autonomous-ai-agent-executes-multi-week-cyberattack-on-european-telecommunications-provider"
   },
   {
-   "number": 62,
+   "number": 58,
+   "title": "Infosecurity Magazine — Nation-state hackers embrace Gemini AI",
+   "url": "https://www.infosecurity-magazine.com/news/nation-state-hackers-gemini-ai/"
+  },
+  {
+   "number": 59,
    "title": "The Register — The White House is apparently a residential proxy exit spot",
    "url": "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969"
   },
   {
-   "number": 63,
+   "number": 60,
    "title": "KrebsOnSecurity — Want to rent an internet address at the White House?",
    "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/"
   },
   {
-   "number": 64,
+   "number": 61,
    "title": "Chainguard — wfx-loot: stolen GitHub tokens pushed a CI secret stealer",
    "url": "https://www.chainguard.dev/unchained/wfx-loot-stolen-github-tokens-pushed-a-ci-secret-stealer-into-60-000-repositories-november-2026"
   },
   {
-   "number": 65,
+   "number": 62,
    "title": "OX Security — Thousands of GitHub accounts hijacked with wfx-loot",
    "url": "https://www.ox.security/blog/thousands-of-github-accounts-hijacked-with-wfx-loot-ci-secret-stealing-malware-via-github-actions-npm/"
   }
