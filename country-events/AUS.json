@@ -1,10 +1,110 @@
 {
   "schemaVersion": 1,
   "countryID": "AUS",
-  "revision": 4,
-  "generatedAt": "2026-11-12T00:34:00Z",
+  "revision": 5,
+  "generatedAt": "2026-11-21T19:54:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "aus-2026-11-11-vce-exam-website-hacked",
+      "title": "Hacker Defaces Victoria's Year 12 Exam Authority Website",
+      "summary": "A hacker defaced the website of the Victorian Curriculum and Assessment Authority on the evening of 11 November with a claim that 2026 VCE exam papers had been sold to students. The authority said there was no evidence any exams had been accessed or leaked and that exams would continue as scheduled. Victoria Police's Cybercrime Squad is investigating.",
+      "location": {
+        "city": "Melbourne",
+        "region": "Victoria",
+        "country": "Australia"
+      },
+      "geo": {
+        "latitude": -37.814,
+        "longitude": 144.963,
+        "precision": "city"
+      },
+      "category": "infrastructure-cyber",
+      "subcategory": "cyberattack",
+      "occurredOn": "2026-11-11",
+      "firstReportedAt": "2026-11-12",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Information Age (ACS)",
+          "title": "Hacked VCE exams allegedly sold to students",
+          "url": "https://ia.acs.org.au/article/2026/hacked-vce-exams-allegedly-sold-to-students.html",
+          "type": "national",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "publisher": "Australian Community Media (AAP) via The Rural",
+          "title": "Year 12 students warned of fake exam leaks after hack",
+          "url": "https://www.therural.com.au/story/9390598/year-12-students-warned-of-fake-exam-leaks-after-hack/",
+          "type": "national",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "publisher": "The Conversation",
+          "title": "Victoria's Year 12 exam website has been hacked",
+          "url": "https://theconversation.com/victorias-year-12-exam-website-has-been-hacked-here-are-3-ways-students-can-handle-academic-stress-296484",
+          "type": "national",
+          "publishedAt": "2026-11-12"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "aus-2026-11-11-new-home-loans-record-fall",
+      "title": "New Home Loans Fall By A Record 15 Percent",
+      "summary": "The number of new home loans in Australia fell 15.0 percent in the September quarter to 111,878, the Australian Bureau of Statistics said on 11 November, the largest quarterly fall since the series began in 2002. Investor loans led the decline, falling 30.6 percent, while owner-occupier loans fell 5.3 percent.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Australia"
+      },
+      "geo": null,
+      "category": "economy",
+      "subcategory": "housing",
+      "occurredOn": "2026-11-11",
+      "firstReportedAt": "2026-11-11",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Australian Bureau of Statistics",
+          "title": "Largest quarterly falls on record led by loans to investors",
+          "url": "https://www.abs.gov.au/media-centre/media-releases/largest-quarterly-falls-record-led-loans-investors",
+          "type": "official",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "The Conversation",
+          "title": "New home loans dropped by a record 15% as Australia's housing market downturn deepens",
+          "url": "https://theconversation.com/new-home-loans-dropped-by-a-record-15-as-australias-housing-market-downturn-deepens-296156",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "ABC News",
+          "title": "Investors lead record slump in new home loans — as it happened",
+          "url": "https://www.abc.net.au/news/2026-11-11/asx-markets-business-live-news-nov-11/107370848",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
     {
       "id": "aus-2026-11-10-ai-safety-regulator-announced",
       "title": "Australia Announces AI Safety Regulator After Rogue AI Agent Incident",
@@ -335,68 +435,6 @@
       ],
       "status": "active",
       "subcategory": "transport"
-    },
-    {
-      "id": "aus-2026-10-19-helen-haines-vehicle-attack",
-      "title": "Independent MP Helen Haines Critically Injured In Alleged Targeted Attack",
-      "summary": "Independent federal MP Helen Haines was critically injured when she was struck by a vehicle outside her electorate office in Wangaratta, Victoria, on 19 October. Victoria Police charged a 43-year-old man, including with causing harm to a Commonwealth public official, and said they would allege the incident was targeted. The Australian Federal Police said his full motivation remained under investigation.",
-      "location": {
-        "city": "Wangaratta",
-        "region": "Victoria",
-        "country": "Australia"
-      },
-      "geo": {
-        "latitude": -36.358,
-        "longitude": 146.312,
-        "precision": "city"
-      },
-      "category": "political-violence",
-      "occurredOn": "2026-10-19",
-      "firstReportedAt": "2026-10-19",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z",
-        "motive": {
-          "status": "under-investigation"
-        },
-        "ideology": {
-          "label": "unknown",
-          "status": "unknown"
-        },
-        "terrorism": {
-          "status": "none"
-        }
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "ABC News",
-          "title": "Man charged over attack against Helen Haines named",
-          "url": "https://www.abc.net.au/news/2026-10-20/brendan-nugent-in-custody-attack-against-helen-haines/107286318",
-          "type": "national",
-          "publishedAt": "2026-10-20"
-        },
-        {
-          "publisher": "Australian Federal Police",
-          "title": "AFP Commissioner Krissy Barrett statement in relation to man charged over Wangaratta crash",
-          "url": "https://www.afp.gov.au/news-centre/media-statement/afp-commissioner-krissy-barrett-statement-relation-man-charged-over",
-          "type": "official",
-          "publishedAt": "2026-10-21"
-        },
-        {
-          "publisher": "Reuters via The Manila Times",
-          "title": "Australian police charge man over 'targeted' attack on lawmaker",
-          "url": "https://www.manilatimes.net/2026/10/20/world/australian-police-charge-man-over-targeted-attack-on-lawmaker/2449552",
-          "type": "national",
-          "publishedAt": "2026-10-20"
-        }
-      ],
-      "status": "active",
-      "subcategory": "attack-on-official"
     }
   ]
 }

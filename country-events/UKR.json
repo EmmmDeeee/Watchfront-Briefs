@@ -1,10 +1,231 @@
 {
   "schemaVersion": 1,
   "countryID": "UKR",
-  "revision": 4,
-  "generatedAt": "2026-11-12T00:34:00Z",
+  "revision": 5,
+  "generatedAt": "2026-11-21T19:54:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "ukr-2026-11-16-crimean-bridge-section-collapses",
+      "title": "Ukrainian Strikes Collapse A Section Of The Crimean Bridge",
+      "summary": "Ukrainian forces struck the Kerch Strait (Crimean) Bridge on 16 and 17 November; Ukraine's General Staff said an arch and a span of the road section collapsed, and the Security Service of Ukraine said no vehicles could cross it. President Zelensky said the seven-stage operation used Palianytsia drones on the road section and Neptune missiles with Ruta and FP-5 drones on the railway section. Neptune missiles hit the railway section again overnight on 19 November and train services were suspended, while Russian President Vladimir Putin vowed to rebuild the bridge and threatened a response.",
+      "location": {
+        "city": null,
+        "region": "Crimea",
+        "country": "Ukraine"
+      },
+      "geo": {
+        "latitude": 45.31,
+        "longitude": 36.51,
+        "precision": "region",
+        "boundaryException": "disputed-or-occupied"
+      },
+      "category": "armed-conflict",
+      "subcategory": "missile-strike",
+      "occurredOn": "2026-11-16",
+      "firstReportedAt": "2026-11-16",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Ukrinform",
+          "title": "Arch and road span collapse: General Staff confirms results of strike on Crimean Bridge",
+          "url": "https://www.ukrinform.net/rubric-ato/4185542-arch-and-road-span-collapse-general-staff-confirms-results-of-strike-on-crimean-bridge.html",
+          "type": "national",
+          "publishedAt": "2026-11-17"
+        },
+        {
+          "publisher": "Ukrainska Pravda",
+          "title": "Ukraine's Security Service on Crimean Bridge strike: Road section is destroyed and no vehicles can cross it",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/17/8063248/",
+          "type": "national",
+          "publishedAt": "2026-11-17"
+        },
+        {
+          "publisher": "Ukrainska Pravda",
+          "title": "Zelenskyy details weapons used by Ukrainian forces to strike Crimean Bridge",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/17/8063242/",
+          "type": "national",
+          "publishedAt": "2026-11-17"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "'Please vacate Crimea' — Crimean Bridge hit by Neptune missiles, Ukraine confirms, railway traffic halted",
+          "url": "https://kyivindependent.com/ukrainian-forces-once-more-hit-russias-crimean-bridge-days-after-devastating-strike/",
+          "type": "national",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "publisher": "Ukrainska Pravda",
+          "title": "Putin vows to rebuild the Crimean Bridge and threatens Ukraine with a \"far more painful\" response",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/19/8063622/",
+          "type": "national",
+          "publishedAt": "2026-11-19"
+        }
+      ],
+      "status": "active",
+      "occurredUntil": "2026-11-19",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "ukr-2026-11-14-us-floats-nato-for-donbas",
+      "title": "Zelensky Says US Raised NATO Membership In Exchange For Donbas Withdrawal",
+      "summary": "President Volodymyr Zelensky told journalists, in remarks reported on 14 November, that US negotiators had asked whether Ukraine would withdraw its forces from the part of Donbas it still controls if it were offered NATO membership. He said it was the first time the question had been raised. The account is Zelensky's; the remarks follow the Abu Dhabi talks that ended on 11 November.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Ukraine"
+      },
+      "geo": null,
+      "category": "politics",
+      "subcategory": "peace-talks",
+      "occurredOn": "2026-11-14",
+      "firstReportedAt": "2026-11-14",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "US floats NATO membership for Ukraine in exchange for Donbas withdrawal, Zelensky says",
+          "url": "https://kyivindependent.com/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-withdrawal-zelensky-says/",
+          "type": "national",
+          "publishedAt": "2026-11-14"
+        },
+        {
+          "publisher": "Ukrainska Pravda",
+          "title": "Zelenskyy: US proposes NATO membership in exchange for Donbas withdrawal for the first time",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/14/8062849/",
+          "type": "national",
+          "publishedAt": "2026-11-14"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "ukr-2026-11-14-odesa-region-energy-strikes",
+      "title": "Russian Strikes On Energy Facilities Cut Power To Tens Of Thousands In Odesa Region",
+      "summary": "Russian strikes on energy facilities of the private company DTEK in Odesa Oblast left almost 50,000 households without electricity on 14 November, and a further attack on the north of the region on 16 November cut power to 52,200 households. Ukraine's First Deputy Energy Minister Artem Nekrasov said Russian forces attacked the country's energy and oil and gas sectors 116 times between 9 and 15 November.",
+      "location": {
+        "city": null,
+        "region": "Odesa Oblast",
+        "country": "Ukraine"
+      },
+      "geo": {
+        "latitude": 46.6,
+        "longitude": 30.0,
+        "precision": "region"
+      },
+      "category": "armed-conflict",
+      "subcategory": "drone-strike",
+      "occurredOn": "2026-11-14",
+      "firstReportedAt": "2026-11-14",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Ukrinform",
+          "title": "Russian forces strike energy facilities in Odesa region, leaving thousands without power",
+          "url": "https://www.ukrinform.net/rubric-ato/4185106-russian-forces-strike-energy-facilities-in-odesa-region-leaving-thousands-without-power.html",
+          "type": "national",
+          "publishedAt": "2026-11-16"
+        },
+        {
+          "publisher": "Ukrainska Pravda",
+          "title": "Russia strikes energy infrastructure in Odesa Oblast again, cutting power to 50,000 households",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/14/8062851/",
+          "type": "national",
+          "publishedAt": "2026-11-14"
+        },
+        {
+          "publisher": "Ukrainska Pravda",
+          "title": "Russians attack Ukrainian energy sector 116 times in a week",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/16/8063094/",
+          "type": "national",
+          "publishedAt": "2026-11-16"
+        },
+        {
+          "publisher": "Ukrinform",
+          "title": "Russian forces attack energy facility in Odesa region, nearly 50,000 consumers left without power",
+          "url": "https://www.ukrinform.net/rubric-ato/4184613-russian-forces-attack-energy-facility-in-odesa-region-nearly-50000-consumers-left-without-power.html",
+          "type": "national",
+          "publishedAt": "2026-11-14"
+        }
+      ],
+      "status": "active",
+      "occurredUntil": "2026-11-16",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "ukr-2026-11-12-kyiv-strikes-after-talks",
+      "title": "Russia Strikes Kyiv With Ballistic Missiles Hours After Peace Talks End",
+      "summary": "Russia attacked Kyiv with ballistic missiles and drones overnight into 12 November, hours after peace talks ended. Kyiv mayor Vitali Klitschko said one person was killed and eight were injured; a drone hit a nine-storey apartment block in the Solomianskyi district. On 11 November two State Emergency Service firefighters were killed by a repeat Russian strike while putting out a fire in Yahotyn, Kyiv Oblast.",
+      "location": {
+        "city": "Kyiv",
+        "region": "Kyiv",
+        "country": "Ukraine"
+      },
+      "geo": {
+        "latitude": 50.45,
+        "longitude": 30.524,
+        "precision": "city"
+      },
+      "category": "armed-conflict",
+      "subcategory": "missile-strike",
+      "occurredOn": "2026-11-12",
+      "firstReportedAt": "2026-11-12",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "Russia attacks Kyiv with ballistic missiles, drones hours after peace talks end",
+          "url": "https://kyivindependent.com/russia-attacks-kyiv-with-ballistic-missiles-hours-after-peace-talks-end/",
+          "type": "national",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "publisher": "Ukrainska Pravda",
+          "title": "Two firefighters killed and two injured in Russian strikes on Kyiv Oblast",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/12/8062474/",
+          "type": "national",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "publisher": "Euromaidan Press",
+          "title": "A second Russian strike on a blaze near Kyiv killed two firefighters, hours before missiles and jet drones hit 17 sites across Ukraine",
+          "url": "https://euromaidanpress.com/2026/11/12/a-second-russian-strike-on-a-blaze-near-kyiv-killed-two-firefighters-hours-before-missiles-and-jet-drones-hit-17-sites-across-ukraine/",
+          "type": "national",
+          "publishedAt": "2026-11-12"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
     {
       "id": "ukr-2026-11-11-ukrinform-website-hacked",
       "title": "Hackers Deface Website Of State News Agency Ukrinform",
@@ -367,85 +588,6 @@
       ],
       "status": "active",
       "subcategory": "ceasefire"
-    },
-    {
-      "id": "ukr-2026-10-16-attacks-cut-power-to-a-million",
-      "title": "Russian Attacks Kill At Least Eight And Cut Power To A Million",
-      "summary": "Russian attacks on 16 October killed at least eight people in Ukraine and cut power to about a million people, with strikes reported in Kharkiv, Kramatorsk, Volyn and Rivne. Ukraine's energy ministry said repair crews later restored power to more than a million people.",
-      "location": {
-        "city": null,
-        "region": null,
-        "country": "Ukraine"
-      },
-      "geo": null,
-      "category": "armed-conflict",
-      "occurredOn": "2026-10-16",
-      "firstReportedAt": "2026-10-17",
-      "publishedAt": "2026-11-11T17:05:00Z",
-      "updatedAt": "2026-11-11T17:05:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 1,
-        "reviewedAt": "2026-11-11T17:05:00Z"
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "Al Jazeera",
-          "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
-          "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million",
-          "type": "national",
-          "publishedAt": "2026-10-17"
-        }
-      ],
-      "status": "active",
-      "subcategory": "air-strike"
-    },
-    {
-      "id": "ukr-2026-10-14-kyiv-energy-strikes",
-      "title": "Ballistic Missile Barrage Targets Ukraine's Energy Grid",
-      "summary": "Russia launched 39 ballistic missiles and more than 120 drones at Ukraine overnight into 14 October, according to President Volodymyr Zelensky, targeting energy facilities in Kyiv, the Kyiv region and Kharkiv. At least nine people were killed across Ukraine, and about 600,000 people lost electricity.",
-      "location": {
-        "city": "Kyiv",
-        "region": "Kyiv",
-        "country": "Ukraine"
-      },
-      "geo": {
-        "latitude": 50.45,
-        "longitude": 30.524,
-        "precision": "city"
-      },
-      "category": "armed-conflict",
-      "occurredOn": "2026-10-14",
-      "firstReportedAt": "2026-10-14",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z"
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "Al Jazeera",
-          "title": "'Massive' Russian attack on Ukraine kills at least 9, damages power sites",
-          "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv",
-          "type": "national",
-          "publishedAt": "2026-10-14"
-        },
-        {
-          "publisher": "Ukrainska Pravda",
-          "title": "Russia launches massive ballistic missile strike on energy grid: air defence brings down 4 out of 39 missiles and 115 drones",
-          "url": "https://www.pravda.com.ua/eng/news/2026/10/14/8057918/",
-          "type": "national",
-          "publishedAt": "2026-10-14"
-        }
-      ],
-      "status": "active",
-      "subcategory": "missile-strike"
     }
   ]
 }
