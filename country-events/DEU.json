@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "countryID": "DEU",
-  "revision": 4,
-  "generatedAt": "2026-11-12T00:34:00Z",
+  "revision": 5,
+  "generatedAt": "2026-11-21T07:37:00Z",
   "windowDays": 30,
   "events": [
     {
@@ -235,116 +235,6 @@
       ],
       "status": "active",
       "subcategory": "arrests"
-    },
-    {
-      "id": "deu-2026-10-15-hamburg-court-iran-plot-verdict",
-      "title": "Court Jails Two Men Over Iran-Directed Plot Against Jewish Leaders",
-      "summary": "A court in Hamburg on 15 October sentenced a Danish national to eight and a half years and an Afghan national to four and a half years in prison over a plot steered by Iran's intelligence service against Jewish and pro-Israel figures in Germany. The targets included Josef Schuster, president of the Central Council of Jews in Germany, and Volker Beck, head of the German-Israeli Society. Iran denied any role.",
-      "location": {
-        "city": "Hamburg",
-        "region": "Hamburg",
-        "country": "Germany"
-      },
-      "geo": {
-        "latitude": 53.551,
-        "longitude": 9.994,
-        "precision": "city"
-      },
-      "category": "terrorism",
-      "occurredOn": "2026-10-15",
-      "firstReportedAt": "2026-10-15",
-      "publishedAt": "2026-11-11T17:05:00Z",
-      "updatedAt": "2026-11-11T17:05:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 3,
-        "reviewedAt": "2026-11-11T17:05:00Z",
-        "motive": {
-          "status": "attributed",
-          "attributedTo": "Hamburg court, which found the men were steered by Iran's intelligence service"
-        },
-        "ideology": {
-          "label": "other",
-          "status": "attributed",
-          "attributedTo": "Hamburg court (Iranian state direction); Iran denies it"
-        },
-        "terrorism": {
-          "status": "charged-as",
-          "authority": "Federal Prosecutor General; convicted by a Hamburg court"
-        }
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "Reuters via TimesLIVE",
-          "title": "German court jails two men over alleged Iran-backed assassination plot",
-          "url": "https://www.timeslive.co.za/news/world/2026-10-15-german-court-jails-two-men-over-alleged-iran-backed-assassination-plot/",
-          "type": "national",
-          "publishedAt": "2026-10-15"
-        },
-        {
-          "publisher": "The Times of Israel",
-          "title": "Germany jails two men for Iran-backed plots against pro-Israel figures, spying on Jews",
-          "url": "https://www.timesofisrael.com/germany-jails-two-men-for-iran-backed-plots-against-pro-israel-figures-spying-on-jews/",
-          "type": "national",
-          "publishedAt": "2026-10-15"
-        },
-        {
-          "publisher": "Al Jazeera",
-          "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
-          "url": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups",
-          "type": "national",
-          "publishedAt": "2026-10-19"
-        }
-      ],
-      "status": "active",
-      "subcategory": "foiled-plot"
-    },
-    {
-      "id": "deu-2026-10-14-nord-stream-sabotage-trial-opens",
-      "title": "Former Ukrainian Officer Goes On Trial Over Nord Stream Blasts",
-      "summary": "The first trial over the 2022 sabotage of the Nord Stream gas pipelines opened at the Hamburg Higher Regional Court on 14 October. Prosecutors accuse a former Ukrainian officer of leading a group of Ukrainian agents, including divers and an explosives expert, who carried out the blasts. He denies any involvement and is the only person on trial.",
-      "location": {
-        "city": "Hamburg",
-        "region": "Hamburg",
-        "country": "Germany"
-      },
-      "geo": {
-        "latitude": 53.551,
-        "longitude": 9.994,
-        "precision": "city"
-      },
-      "category": "other",
-      "occurredOn": "2026-10-14",
-      "firstReportedAt": "2026-10-14",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z"
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "Al Jazeera",
-          "title": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
-          "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts",
-          "type": "national",
-          "publishedAt": "2026-10-14"
-        },
-        {
-          "publisher": "ITV News",
-          "title": "Former Ukrainian officer goes on trial in Germany over Nord Stream gas pipeline blasts",
-          "url": "https://www.itv.com/news/2026-10-14/former-ukrainian-officer-goes-on-trial-over-nord-stream-gas-pipeline-blasts",
-          "type": "national",
-          "publishedAt": "2026-10-14"
-        }
-      ],
-      "status": "active",
-      "subcategory": "trial"
     }
   ]
 }

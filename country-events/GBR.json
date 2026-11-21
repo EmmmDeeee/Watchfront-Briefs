@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "countryID": "GBR",
-  "revision": 4,
-  "generatedAt": "2026-11-12T00:34:00Z",
+  "revision": 5,
+  "generatedAt": "2026-11-21T07:37:00Z",
   "windowDays": 30,
   "events": [
     {
@@ -366,95 +366,6 @@
       ],
       "status": "active",
       "subcategory": "storm"
-    },
-    {
-      "id": "gbr-2026-10-20-raf-typhoons-saudi-deployment",
-      "title": "UK To Deploy RAF Typhoons To Help Defend Saudi Arabia",
-      "summary": "The government said on 20 October it would deploy RAF Typhoon jets to Saudi Arabia to fly defensive missions against Houthi missile and drone attacks on Saudi infrastructure. Officials said the jets would not carry out offensive strikes against the Houthis. The deployment adds to an RAF Voyager refuelling aircraft already sent to support Saudi Arabia.",
-      "location": {
-        "city": null,
-        "region": null,
-        "country": "United Kingdom"
-      },
-      "geo": null,
-      "category": "security-operation",
-      "occurredOn": "2026-10-20",
-      "firstReportedAt": "2026-10-20",
-      "publishedAt": "2026-11-11T17:05:00Z",
-      "updatedAt": "2026-11-11T17:05:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 3,
-        "reviewedAt": "2026-11-11T17:05:00Z"
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "Al Jazeera",
-          "title": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
-          "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks",
-          "type": "national",
-          "publishedAt": "2026-10-20"
-        },
-        {
-          "publisher": "The National",
-          "title": "UK mission to defend Saudi Arabia adds Typhoon jets",
-          "url": "https://www.thenationalnews.com/news/uk/2026/10/20/uk-mission-to-defend-saudi-arabia-adds-typhoon-jets/",
-          "type": "national",
-          "publishedAt": "2026-10-20"
-        },
-        {
-          "publisher": "The Aviationist",
-          "title": "Royal Air Force Deploys Typhoon Fighters to Saudi Arabia to Defend Against Houthi Attacks",
-          "url": "https://theaviationist.com/2026/10/20/raf-deploys-typhoons-to-saudi-arabia/",
-          "type": "national",
-          "publishedAt": "2026-10-20"
-        }
-      ],
-      "status": "active",
-      "subcategory": "deployment"
-    },
-    {
-      "id": "gbr-2026-10-15-severe-drought-southern-england",
-      "title": "Severe Drought Declared In Parts Of Southern England",
-      "summary": "The government declared severe drought in parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex on 15 October. Water companies in the affected areas were told to step up drought planning to protect supplies.",
-      "location": {
-        "city": null,
-        "region": null,
-        "country": "United Kingdom"
-      },
-      "geo": null,
-      "category": "disaster",
-      "occurredOn": "2026-10-15",
-      "firstReportedAt": "2026-10-15",
-      "publishedAt": "2026-11-11T17:05:00Z",
-      "updatedAt": "2026-11-11T17:05:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T17:05:00Z"
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "GOV.UK",
-          "title": "Government activates plan to protect consumers as severe drought declared in parts of England",
-          "url": "https://www.gov.uk/government/news/government-activates-plan-to-protect-consumers-as-severe-drought-declared-in-parts-of-england",
-          "type": "official",
-          "publishedAt": "2026-10-15"
-        },
-        {
-          "publisher": "PA Media via The Irish News",
-          "title": "Parts of England in severe drought as water supplies under immense pressure",
-          "url": "https://www.irishnews.com/news/uk/parts-of-england-in-severe-drought-as-water-supplies-under-immense-pressure-L32RN5GNJRJDNIRO5AQVPWZWIE/",
-          "type": "national",
-          "publishedAt": "2026-10-15"
-        }
-      ],
-      "status": "active",
-      "subcategory": "drought"
     }
   ]
 }

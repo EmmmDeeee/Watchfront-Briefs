@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "countryID": "AUS",
-  "revision": 4,
-  "generatedAt": "2026-11-12T00:34:00Z",
+  "revision": 5,
+  "generatedAt": "2026-11-21T07:37:00Z",
   "windowDays": 30,
   "events": [
     {
@@ -335,68 +335,6 @@
       ],
       "status": "active",
       "subcategory": "transport"
-    },
-    {
-      "id": "aus-2026-10-19-helen-haines-vehicle-attack",
-      "title": "Independent MP Helen Haines Critically Injured In Alleged Targeted Attack",
-      "summary": "Independent federal MP Helen Haines was critically injured when she was struck by a vehicle outside her electorate office in Wangaratta, Victoria, on 19 October. Victoria Police charged a 43-year-old man, including with causing harm to a Commonwealth public official, and said they would allege the incident was targeted. The Australian Federal Police said his full motivation remained under investigation.",
-      "location": {
-        "city": "Wangaratta",
-        "region": "Victoria",
-        "country": "Australia"
-      },
-      "geo": {
-        "latitude": -36.358,
-        "longitude": 146.312,
-        "precision": "city"
-      },
-      "category": "political-violence",
-      "occurredOn": "2026-10-19",
-      "firstReportedAt": "2026-10-19",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z",
-        "motive": {
-          "status": "under-investigation"
-        },
-        "ideology": {
-          "label": "unknown",
-          "status": "unknown"
-        },
-        "terrorism": {
-          "status": "none"
-        }
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "ABC News",
-          "title": "Man charged over attack against Helen Haines named",
-          "url": "https://www.abc.net.au/news/2026-10-20/brendan-nugent-in-custody-attack-against-helen-haines/107286318",
-          "type": "national",
-          "publishedAt": "2026-10-20"
-        },
-        {
-          "publisher": "Australian Federal Police",
-          "title": "AFP Commissioner Krissy Barrett statement in relation to man charged over Wangaratta crash",
-          "url": "https://www.afp.gov.au/news-centre/media-statement/afp-commissioner-krissy-barrett-statement-relation-man-charged-over",
-          "type": "official",
-          "publishedAt": "2026-10-21"
-        },
-        {
-          "publisher": "Reuters via The Manila Times",
-          "title": "Australian police charge man over 'targeted' attack on lawmaker",
-          "url": "https://www.manilatimes.net/2026/10/20/world/australian-police-charge-man-over-targeted-attack-on-lawmaker/2449552",
-          "type": "national",
-          "publishedAt": "2026-10-20"
-        }
-      ],
-      "status": "active",
-      "subcategory": "attack-on-official"
     }
   ]
 }
