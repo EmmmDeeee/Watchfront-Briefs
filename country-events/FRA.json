@@ -1,10 +1,210 @@
 {
   "schemaVersion": 1,
   "countryID": "FRA",
-  "revision": 4,
-  "generatedAt": "2026-11-12T00:34:00Z",
+  "revision": 5,
+  "generatedAt": "2026-11-21T19:54:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "fra-2026-11-20-villepin-presidential-candidacy",
+      "title": "Dominique de Villepin Declares A 2027 Presidential Bid",
+      "summary": "Former prime minister Dominique de Villepin announced his candidacy for the 2027 presidential election at a press conference in Paris on 20 November. He presented himself as an alternative to Macronism, La France insoumise and the Rassemblement national, and denounced what he called a situation of decay in the country.",
+      "location": {
+        "city": "Paris",
+        "region": "Île-de-France",
+        "country": "France"
+      },
+      "geo": {
+        "latitude": 48.857,
+        "longitude": 2.352,
+        "precision": "city"
+      },
+      "category": "politics",
+      "subcategory": "election",
+      "occurredOn": "2026-11-20",
+      "firstReportedAt": "2026-11-20",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Le Monde",
+          "title": "Dominique de Villepin annonce sa candidature à l'élection présidentielle de 2027",
+          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/dominique-de-villepin-annonce-sa-candidature-a-l-election-presidentielle-de-2027_6813622_6205049.html",
+          "type": "national",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "publisher": "RFI",
+          "title": "Présidentielle 2027 en France: Dominique de Villepin annonce officiellement sa candidature",
+          "url": "https://www.rfi.fr/fr/france/20261120-pr%C3%A9sidentielle-2027-en-france-dominique-de-villepin-annonce-officiellement-sa-candidature",
+          "type": "national",
+          "publishedAt": "2026-11-20"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "fra-2026-11-17-public-sector-strike",
+      "title": "Public-Sector Unions Hold A Nationwide Strike Day Over Pay",
+      "summary": "All public-sector unions called France's 5.8 million public employees to strike and demonstrate on 17 November for immediate pay rises, during the debate on the 2027 budget. Marches took place in Paris and other cities. Fewer than 3 percent of central-government employees went on strike, according to Le Monde. On 20 November the unions called a further strike day for 1 December, joined by private-sector unions.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "France"
+      },
+      "geo": null,
+      "category": "protest",
+      "subcategory": "strike",
+      "occurredOn": "2026-11-17",
+      "firstReportedAt": "2026-11-17",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "RFI",
+          "title": "Nouvelle journée de manifestations et de grève partout en France",
+          "url": "https://www.rfi.fr/fr/france/20261117-nouvelle-journ%C3%A9e-de-mobilisation-et-de-gr%C3%A8ve-partout-en-france",
+          "type": "national",
+          "publishedAt": "2026-11-17"
+        },
+        {
+          "publisher": "Le Monde",
+          "title": "Une intersyndicale de la fonction publique appelle à une nouvelle journée de grève le 1ᵉʳ décembre",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/20/une-intersyndicale-de-la-fonction-publique-appelle-a-une-nouvelle-journee-de-greve-le-1-decembre_6813641_823448.html",
+          "type": "national",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "publisher": "Ouest-France",
+          "title": "Colère sociale : un nouvel appel à la grève lancé par les syndicats du public et du privé pour le 1er décembre",
+          "url": "https://www.ouest-france.fr/economie/greve/un-nouvel-appel-a-la-greve-dans-la-fonction-publique-le-1er-decembre-les-syndicats-demandent-une-hausse-des-salaires-12e92e7c-e4db-11f1-afa7-9a0bb82a33d1",
+          "type": "national",
+          "publishedAt": "2026-11-20"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "fra-2026-11-14-fifth-weekend-protests",
+      "title": "Cost-Of-Living Protests Enter A Fifth Weekend With Smaller Crowds",
+      "summary": "Demonstrations took place across France on 14 November for the fifth Saturday of the movement against the rising cost of living, which began with secondary-school students. Marches on child protection, opposition to what protesters call a police \"licence to kill\", wages and school resources converged on a single march in Paris. Turnout and tensions were somewhat lower than on previous weekends; RFI reported 219 arrests and 10 police officers slightly injured nationwide by the evening, and 45 arrests in Paris.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "France"
+      },
+      "geo": null,
+      "category": "protest",
+      "subcategory": "mass-protest",
+      "occurredOn": "2026-11-14",
+      "firstReportedAt": "2026-11-14",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 1,
+        "motive": {
+          "status": "not-applicable"
+        },
+        "ideology": {
+          "label": "not-applicable",
+          "status": "not-applicable"
+        },
+        "terrorism": {
+          "status": "none"
+        },
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "RFI",
+          "title": "Mouvement social en France: un «acte V» marqué par une affluence un peu moindre",
+          "url": "https://www.rfi.fr/fr/france/20261115-mouvement-social-en-france-un-acte-v-marqu%C3%A9-par-une-affluence-un-peu-moindre",
+          "type": "national",
+          "publishedAt": "2026-11-15"
+        },
+        {
+          "publisher": "RFI",
+          "title": "Mobilisation en France: un «acte V» du mouvement social ce samedi avec des revendications variées",
+          "url": "https://www.rfi.fr/fr/france/20261114-mobilisation-en-france-un-acte-v-du-mouvement-social-ce-samedi-avec-des-revendications-vari%C3%A9es",
+          "type": "national",
+          "publishedAt": "2026-11-14"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "fra-2026-11-09-riner-zemmour-presidential-bids",
+      "title": "Teddy Riner And Éric Zemmour Enter 2027 Presidential Race",
+      "summary": "Teddy Riner, a five-time Olympic judo champion, announced on 9 November that he will stand in the 2027 presidential election. On 10 November Éric Zemmour, president of the far-right Reconquête party, formally declared his candidacy on TF1; he had said in September that he would run. They join Marine Le Pen, who launched her campaign in October.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "France"
+      },
+      "geo": null,
+      "category": "politics",
+      "subcategory": "election",
+      "occurredOn": "2026-11-09",
+      "occurredUntil": "2026-11-10",
+      "firstReportedAt": "2026-11-09",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "franceinfo",
+          "title": "\"La résignation n'est pas une option\" : Teddy Riner annonce sa candidature à l'élection présidentielle 2027",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/la-resignation-n-est-pas-une-option-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-2027_8274359.html",
+          "type": "national",
+          "publishedAt": "2026-11-09"
+        },
+        {
+          "publisher": "RTS",
+          "title": "Présidentielle 2027 : Teddy Riner annonce sa candidature",
+          "url": "https://www.rts.ch/info/monde/2026/article/presidentielle-2027-teddy-riner-annonce-sa-candidature-29410550.html",
+          "type": "national",
+          "publishedAt": "2026-11-09"
+        },
+        {
+          "publisher": "RFI",
+          "title": "France: sans surprise, Éric Zemmour annonce sa candidature à l'élection présidentielle",
+          "url": "https://www.rfi.fr/fr/france/20261110-france-sans-surprise-%C3%A9ric-zemmour-annonce-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "publisher": "ICI",
+          "title": "Présidentielle 2027 : Éric Zemmour, président du parti Reconquête, officialise sa candidature",
+          "url": "https://www.ici.fr/infos/politique/presidentielle-2027-eric-zemmour-officialise-sa-candidature-pour-conserver-une-france-francaise-2617133",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
     {
       "id": "fra-2026-11-09-france-blames-iran-supermarket-cyberattacks",
       "title": "France Blames Iran's Revolutionary Guards For Supermarket Cyberattacks",
@@ -410,7 +610,7 @@
     {
       "id": "fra-2026-10-23-trappes-shootings",
       "title": "Gunman Kills One And Wounds Seven In Paris Suburbs",
-      "summary": "A gunman opened fire in Trappes and La Verrière, in the Paris suburbs, on 23 October, killing a 26-year-old man and wounding seven other people. The national anti-terrorism prosecutor's office is leading the investigation into what it treats as a racist attack. The 39-year-old suspect was transferred to a Paris court to appear before an anti-terrorism investigating judge; prosecutors said he admitted the shootings but denied they were racist.",
+      "summary": "A gunman opened fire in Trappes and La Verrière, in the Paris suburbs, on 23 October, killing a 26-year-old man and wounding seven other people. The national anti-terrorism prosecutor's office (PNAT) is leading the investigation into what it treats as a racist attack. The 39-year-old suspect was transferred to a Paris court to appear before an anti-terrorism investigating judge; prosecutors said he admitted the shootings but denied they were racist. In November, investigators said a list of four public figures found at his home did not point to any plan of violent action against them.",
       "location": {
         "city": "Trappes",
         "region": "Île-de-France",
@@ -425,12 +625,12 @@
       "occurredOn": "2026-10-23",
       "firstReportedAt": "2026-10-23",
       "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z",
       "significance": "national",
       "verification": {
         "eventConfirmed": true,
         "independentSources": 3,
-        "reviewedAt": "2026-11-11T03:04:00Z",
+        "reviewedAt": "2026-11-21T19:54:00Z",
         "motive": {
           "status": "attributed",
           "attributedTo": "France's national anti-terrorism prosecutor's office (PNAT), which treats the attack as racist; the suspect denies it"
@@ -474,167 +674,21 @@
           "url": "https://www.leclubdesjuristes.com/en-bref/attentat-de-trappes-le-parquet-national-antiterroriste-ouvre-une-information-judiciaire-18112/",
           "type": "national",
           "publishedAt": "2026-10-29"
+        },
+        {
+          "publisher": "RFI",
+          "title": "Attentat raciste en France: une liste de personnalités chez l'auteur présumé mais pas de «projet d'action violente»",
+          "url": "https://www.rfi.fr/fr/france/20261112-attentat-raciste-en-france-une-liste-de-personnalit%C3%A9s-chez-l-auteur-pr%C3%A9sum%C3%A9-mais-pas-de-projet-d-action-violente",
+          "type": "national",
+          "publishedAt": "2026-11-12"
         }
       ],
-      "status": "active",
-      "subcategory": "attack"
-    },
-    {
-      "id": "fra-2026-10-20-storm-adam-flooding",
-      "title": "Storm Adam Floods Kill At Least Three In Bouches-du-Rhône",
-      "summary": "Torrential rain from Storm Adam flooded parts of the Bouches-du-Rhône department in southern France on 20 and 21 October. The prefecture said at least three people died, including two women in a flooded cellar in Lançon-Provence, and another person was seriously injured.",
-      "location": {
-        "city": null,
-        "region": "Bouches-du-Rhône",
-        "country": "France"
-      },
-      "geo": {
-        "latitude": 43.55,
-        "longitude": 5.1,
-        "precision": "region"
-      },
-      "category": "disaster",
-      "occurredOn": "2026-10-20",
-      "firstReportedAt": "2026-10-20",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "major-regional",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z"
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "The Local France",
-          "title": "Four dead as storms lash south of France",
-          "url": "https://www.thelocal.fr/20261022/four-dead-as-storms-lash-south-of-france",
-          "type": "national",
-          "publishedAt": "2026-10-22"
-        },
-        {
-          "publisher": "Euronews",
-          "title": "Floods in southern France cause havoc, kill at least one",
-          "url": "https://euronews.com/2026/10/21/severe-weather-in-southern-france-one-dead-near-marseille-one-missing-in-corsica",
-          "type": "national",
-          "publishedAt": "2026-10-21"
-        }
-      ],
-      "status": "active",
-      "subcategory": "flood",
-      "occurredUntil": "2026-10-21"
-    },
-    {
-      "id": "fra-2026-10-17-limoges-city-hall-fire",
-      "title": "Fire Set During Protests Destroys Much Of Limoges City Hall",
-      "summary": "The historic Hôtel de Ville in Limoges, inaugurated in 1883, was largely destroyed by a deliberately set fire during the 17 October protests. Prosecutors said two suspects had been arrested by 22 October, one of them on suspicion of attempted murder.",
-      "location": {
-        "city": "Limoges",
-        "region": "Nouvelle-Aquitaine",
-        "country": "France"
-      },
-      "geo": {
-        "latitude": 45.834,
-        "longitude": 1.262,
-        "precision": "city"
-      },
-      "category": "civil-unrest",
-      "occurredOn": "2026-10-17",
-      "firstReportedAt": "2026-10-17",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z",
-        "motive": {
-          "status": "not-applicable"
-        },
-        "ideology": {
-          "label": "not-applicable",
-          "status": "not-applicable"
-        },
-        "terrorism": {
-          "status": "none"
-        }
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "Sud Radio",
-          "title": "Incendie mairie Limoges : deux suspects arrêtés",
-          "url": "https://www.sudradio.fr/societe/mairie-incendiee-a-limoges-un-second-suspect-age-de-66-ans-arrete-dans-la-creuse",
-          "type": "national",
-          "publishedAt": "2026-10-22"
-        },
-        {
-          "publisher": "Le Parisien",
-          "title": "« C'est une catastrophe » : l'hôtel de ville de Limoges détruit par les flammes après la manifestation contre la vie chère",
-          "url": "https://www.leparisien.fr/faits-divers/cest-une-catastrophe-lhotel-de-ville-de-limoges-detruit-par-les-flammes-apres-la-manifestation-contre-la-vie-chere-17-10-2026-O3CCYJ32SVBSNFB5Q6XWNHTIGM.php",
-          "type": "national",
-          "publishedAt": "2026-10-17"
-        }
-      ],
-      "status": "active",
-      "subcategory": "riot"
-    },
-    {
-      "id": "fra-2026-10-17-cost-of-living-riots",
-      "title": "Cost-Of-Living Protests Turn To Rioting In Paris And Other Cities",
-      "summary": "Protests against the cost of living on 17 October turned to rioting and looting in Paris and other large French cities. Paris police reported 855 arrests in the capital alone, and the Associated Press reported more than 2,400 arrests nationwide in the following days. The government then imposed targeted night-time curfews in parts of Paris and other cities.",
-      "location": {
-        "city": "Paris",
-        "region": "Île-de-France",
-        "country": "France"
-      },
-      "geo": {
-        "latitude": 48.857,
-        "longitude": 2.352,
-        "precision": "city"
-      },
-      "category": "civil-unrest",
-      "occurredOn": "2026-10-17",
-      "firstReportedAt": "2026-10-17",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z",
-        "motive": {
-          "status": "not-applicable"
-        },
-        "ideology": {
-          "label": "not-applicable",
-          "status": "not-applicable"
-        },
-        "terrorism": {
-          "status": "none"
-        }
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "Associated Press via NY1",
-          "title": "Curfews bring calm to Paris as France cracks down on weekend rioters",
-          "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/10/20/curfews-bring-calm-to-paris-as-france-cracks-down-on-weekend-rioters",
-          "type": "national",
-          "publishedAt": "2026-10-20"
-        },
-        {
-          "publisher": "AFP via The Star",
-          "title": "'Record' 855 people arrested over Paris protest violence: police",
-          "url": "https://www.thestar.com.my/news/world/2026/10/18/039record039-855-people-arrested-over-paris-protest-violence-police",
-          "type": "national",
-          "publishedAt": "2026-10-18"
-        }
-      ],
-      "status": "active",
-      "subcategory": "riot",
-      "occurredUntil": "2026-10-18"
+      "status": "updated",
+      "subcategory": "attack",
+      "correction": {
+        "note": "Added that a list of four public figures found at the suspect's home did not indicate a plan of violent action against them, as reported by RFI on 12 November.",
+        "correctedAt": "2026-11-21T19:54:00Z"
+      }
     }
   ]
 }

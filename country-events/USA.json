@@ -1,10 +1,451 @@
 {
   "schemaVersion": 1,
   "countryID": "USA",
-  "revision": 4,
-  "generatedAt": "2026-11-12T00:34:00Z",
+  "revision": 5,
+  "generatedAt": "2026-11-21T19:54:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "usa-2026-11-20-gupta-sentenced-assassination-plot",
+      "title": "Indian National Sentenced To Over 19 Years For Plot To Kill US Citizen In New York",
+      "summary": "Nikhil Gupta, an Indian national, was sentenced on 20 November to 235 months in prison for his part in a scheme directed by an Indian government employee to assassinate an attorney and political activist in New York City, the Justice Department said. The target was a Sikh separatist. Canadian and US authorities have linked the plot to a broader effort to target Indian dissidents.",
+      "location": {
+        "city": "New York",
+        "region": "New York",
+        "country": "United States"
+      },
+      "geo": {
+        "latitude": 40.713,
+        "longitude": -74.006,
+        "precision": "city"
+      },
+      "category": "security-operation",
+      "subcategory": "arrests",
+      "occurredOn": "2026-11-20",
+      "firstReportedAt": "2026-11-20",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "U.S. Department of Justice",
+          "title": "Indian National Sentenced to Over 19 Years in Prison for Plotting to Assassinate U.S. Citizen In New York City",
+          "url": "https://www.justice.gov/opa/pr/indian-national-sentenced-over-19-years-prison-plotting-assassinate-us-citizen-new-york-city",
+          "type": "official",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "publisher": "The Globe and Mail",
+          "title": "Indian man sentenced to more than 19 years in U.S. for plot to kill Sikh separatist",
+          "url": "https://www.theglobeandmail.com/world/article-indian-man-sentenced-us-plot-kill-sikh-separatist/",
+          "type": "national",
+          "publishedAt": "2026-11-20"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "usa-2026-11-13-peoria-ethanol-plant-bomb",
+      "title": "Bomb Found At Ethanol Plant In Peoria Forces Evacuations",
+      "summary": "A bomb was discovered on the afternoon of 13 November at the BioUrja Renewables ethanol plant along the Illinois River in Peoria, Illinois. Residents within a one-mile radius were advised to evacuate. Officials said the device had been rendered safe but described it as a credible threat, and the FBI is investigating. Officials have not said who placed the device or why.",
+      "location": {
+        "city": "Peoria",
+        "region": "Illinois",
+        "country": "United States"
+      },
+      "geo": {
+        "latitude": 40.694,
+        "longitude": -89.589,
+        "precision": "city"
+      },
+      "category": "security-operation",
+      "subcategory": "emergency-measures",
+      "occurredOn": "2026-11-13",
+      "firstReportedAt": "2026-11-13",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "NPR",
+          "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
+          "url": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
+          "type": "national",
+          "publishedAt": "2026-11-14"
+        },
+        {
+          "publisher": "The New York Times",
+          "title": "Bomb Found at Ethanol Plant in Peoria, Ill., Mayor Says",
+          "url": "https://www.nytimes.com/2026/11/14/us/bomb-ethanol-plant-peoria-illinois.html",
+          "type": "national",
+          "publishedAt": "2026-11-14"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "usa-2026-11-13-new-orleans-tanker-strikes-cruise-ship",
+      "title": "Tanker Crashes Into Docked Cruise Ship In New Orleans, Injuring More Than 30",
+      "summary": "The tanker Atlantic Asphalt struck the river cruise ship American Heritage while it was docked at the Port of New Orleans on the Mississippi River on 13 November, sending passengers, crew and two police officers into the river. More than 30 people were injured and no one was killed; Louisiana Governor Jeff Landry said all of the nearly 200 people aboard the riverboat were rescued. National Transportation Safety Board officials said a preliminary finding indicates the tanker's steering failed. The port has sued the tanker's owners for at least $1 million in damage.",
+      "location": {
+        "city": "New Orleans",
+        "region": "Louisiana",
+        "country": "United States"
+      },
+      "geo": {
+        "latitude": 29.951,
+        "longitude": -90.071,
+        "precision": "city"
+      },
+      "category": "disaster",
+      "subcategory": "industrial-accident",
+      "occurredOn": "2026-11-13",
+      "firstReportedAt": "2026-11-13",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "NPR",
+          "title": "Over 30 injured, no fatalities after tanker strikes cruise ship in New Orleans",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6040430/over-30-injured-no-fatalities-after-tanker-strikes-cruise-ship-in-new-orleans",
+          "type": "national",
+          "publishedAt": "2026-11-14"
+        },
+        {
+          "publisher": "The New York Times",
+          "title": "All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat",
+          "url": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+          "type": "national",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "publisher": "Associated Press via ABC News",
+          "title": "Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans",
+          "url": "https://abcnews.com/US/wireStory/officials-tankers-steering-failed-crashed-cruise-ship-new-138164651",
+          "type": "national",
+          "publishedAt": "2026-11-15"
+        },
+        {
+          "publisher": "NPR",
+          "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
+          "type": "national",
+          "publishedAt": "2026-11-15"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "usa-2026-11-13-kreiss-tomkins-wins-alaska-governor",
+      "title": "Democrat Jonathan Kreiss-Tomkins Wins Alaska Governor's Race",
+      "summary": "Democrat Jonathan Kreiss-Tomkins, a former state legislator, won the race for governor of Alaska, replacing a Republican administration. At 37, he will be the youngest governor in the state's history. He campaigned on bipartisanship.",
+      "location": {
+        "city": null,
+        "region": "Alaska",
+        "country": "United States"
+      },
+      "geo": {
+        "latitude": 64.0,
+        "longitude": -150.0,
+        "precision": "region"
+      },
+      "category": "politics",
+      "subcategory": "election",
+      "occurredOn": "2026-11-13",
+      "firstReportedAt": "2026-11-13",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "NPR",
+          "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+          "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+          "type": "national",
+          "publishedAt": "2026-11-14"
+        },
+        {
+          "publisher": "The New York Times",
+          "title": "A Democrat Wins the Alaska Governor's Race for the First Time Since 1998",
+          "url": "https://www.nytimes.com/2026/11/14/us/elections/alaska-governor-winner-kreiss-tomkins-jkt.html",
+          "type": "national",
+          "publishedAt": "2026-11-14"
+        },
+        {
+          "publisher": "The New York Times",
+          "title": "Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes",
+          "url": "https://www.nytimes.com/2026/11/14/us/alaska-senate-race-ranked-choice-tabulation.html",
+          "type": "national",
+          "publishedAt": "2026-11-14"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "usa-2026-11-13-faa-nationwide-ground-stop",
+      "title": "FAA Halts All US Flight Departures In Rare Nationwide Ground Stop",
+      "summary": "The Federal Aviation Administration stopped flights at US airports nationwide on the afternoon of 13 November after a failure in the telecommunications network that links the air traffic control system. The stop lasted several hours and was the first nationwide grounding since January 2023. Homeland Security Secretary Markwayne Mullin attributed it to a telecommunications outage and said there was no indication of a nefarious act. Cancellations ran into the weekend, and Transportation Secretary Sean Duffy said the system must move off its old telecom network; the administration has asked Congress for $50 billion for air traffic control.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "United States"
+      },
+      "geo": null,
+      "category": "infrastructure-cyber",
+      "subcategory": "outage",
+      "occurredOn": "2026-11-13",
+      "firstReportedAt": "2026-11-13",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 5,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Federal Aviation Administration",
+          "title": "Nationwide Ground Stop: Questions and Answers",
+          "url": "https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers",
+          "type": "official",
+          "publishedAt": "2026-11-14"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "FAA lifts nationwide ground stop that disrupted thousands of flights",
+          "url": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
+          "type": "national",
+          "publishedAt": "2026-11-14"
+        },
+        {
+          "publisher": "Associated Press via PBS News",
+          "title": "FAA grounds all flights at U.S. airports due to air traffic control communications problems",
+          "url": "https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems",
+          "type": "national",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "publisher": "The New York Times",
+          "title": "Mullin Says Nationwide Ground Stop Is a Telecommunication Outage",
+          "url": "https://www.nytimes.com/2026/11/13/us/markwayne-mullin-faa-ground-stop.html",
+          "type": "national",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "FAA orders nationwide ground stop for all US flight departures",
+          "url": "https://kyivindependent.com/faa-orders-nationwide-ground-stop-for-all-us-flight-departures/",
+          "type": "national",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Ground stop shows \"we have to get off old network,\" Duffy says",
+          "url": "https://www.cbsnews.com/news/ground-stop-faa-telecom-network-sean-duffy-face-the-nation/",
+          "type": "national",
+          "publishedAt": "2026-11-15"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Trump officials ask for $50 billion for air traffic control after ground stop",
+          "url": "https://www.cbsnews.com/video/trump-officials-ask-50-billion-air-traffic-control-ground-stop/",
+          "type": "national",
+          "publishedAt": "2026-11-16"
+        }
+      ],
+      "status": "active",
+      "occurredUntil": "2026-11-15",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "usa-2026-11-12-tacony-palmyra-bridge-ship-strike",
+      "title": "Cargo Ship Strikes Delaware River Bridge Between Philadelphia And New Jersey",
+      "summary": "The Singapore-flagged cargo ship Strategic Alliance struck the Tacony-Palmyra Bridge over the Delaware River at about 1:15 p.m. on 12 November while the bridge was raised for river traffic, the US Coast Guard said. The damage left the drawbridge unable to close for several hours, causing major traffic backups on the Philadelphia side. No injuries were reported. The bridge reopened that evening with one lane closed, and the cause is under investigation.",
+      "location": {
+        "city": "Philadelphia",
+        "region": "Pennsylvania",
+        "country": "United States"
+      },
+      "geo": {
+        "latitude": 40.012,
+        "longitude": -75.043,
+        "precision": "locality"
+      },
+      "category": "infrastructure-cyber",
+      "subcategory": "transport",
+      "occurredOn": "2026-11-12",
+      "firstReportedAt": "2026-11-12",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The Washington Times (AP)",
+          "title": "Cargo ship strikes bridge between New Jersey and Philadelphia, causing traffic backup",
+          "url": "https://www.washingtontimes.com/news/2026/nov/12/cargo-ship-strikes-bridge-new-jersey-philadelphia-causing-traffic/",
+          "type": "national",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "publisher": "Marine Insight",
+          "title": "Cargo Ship Strikes US Bridge Leaving It Unable To Close And Disrupting Philadelphia Traffic",
+          "url": "https://www.marineinsight.com/cargo-ship-strikes-us-bridge/",
+          "type": "national",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "publisher": "Splash247",
+          "title": "Singapore-flagged cargo ship strikes US bridge",
+          "url": "https://splash247.com/singapore-flagged-cargo-ship-strikes-us-bridge/",
+          "type": "national",
+          "publishedAt": "2026-11-13"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "usa-2026-11-12-holscher-wins-kansas-governor",
+      "title": "Democrat Cindy Holscher Wins Kansas Governor's Race",
+      "summary": "Democratic state senator Cindy Holscher won the Kansas governor's race, defeating Republican Ty Masterson, the president of the state Senate, according to an Associated Press race call on 12 November. Masterson, who had President Donald Trump's endorsement, conceded and said he had called Holscher to congratulate her. The result keeps the governor's office in Democratic hands when the term-limited Laura Kelly leaves office, in a state that usually votes Republican.",
+      "location": {
+        "city": null,
+        "region": "Kansas",
+        "country": "United States"
+      },
+      "geo": {
+        "latitude": 38.5,
+        "longitude": -98.4,
+        "precision": "region"
+      },
+      "category": "politics",
+      "subcategory": "election",
+      "occurredOn": "2026-11-12",
+      "firstReportedAt": "2026-11-12",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "NPR",
+          "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+          "url": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
+          "type": "national",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "publisher": "Axios Kansas City",
+          "title": "Democrat Cindy Holscher wins Kansas governor's race",
+          "url": "https://www.axios.com/local/kansas-city/2026/11/13/democrat-cindy-holscher-wins-kansas-governor-race",
+          "type": "national",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "publisher": "Fox News",
+          "title": "Democrat Cindy Holscher wins Kansas governor's race, extending party's hold on governor's mansion",
+          "url": "https://www.foxnews.com/politics/democrat-cindy-holscher-wins-kansas-governors-race-extending-partys-hold-governors-mansion",
+          "type": "national",
+          "publishedAt": "2026-11-12"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "usa-2026-11-11-colom-wins-mississippi-senate",
+      "title": "Democrat Scott Colom Wins Mississippi Senate Race",
+      "summary": "Democrat Scott Colom won Mississippi's US Senate race, defeating Republican Senator Cindy Hyde-Smith after a prolonged count following the 3 November election. Hyde-Smith conceded in a video on 11 November, shortly after the Associated Press called the race: \"I respect the decision of Mississippi voters,\" she said. Mississippi had not elected a Democrat to the Senate in more than 40 years, and Colom will be its first Black senator since Reconstruction.",
+      "location": {
+        "city": null,
+        "region": "Mississippi",
+        "country": "United States"
+      },
+      "geo": {
+        "latitude": 32.7,
+        "longitude": -89.7,
+        "precision": "region"
+      },
+      "category": "politics",
+      "subcategory": "election",
+      "occurredOn": "2026-11-11",
+      "firstReportedAt": "2026-11-11",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "NPR",
+          "title": "Democrat Scott Colom wins Mississippi Senate race",
+          "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "PBS News",
+          "title": "Scott Colom wins Senate election in Mississippi",
+          "url": "https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "Mississippi Free Press",
+          "title": "Cindy Hyde-Smith Concedes U.S. Senate Election to Scott Colom",
+          "url": "https://www.mississippifreepress.org/cindy-hyde-smith-concedes-u-s-senate-election-to-scott-colom/",
+          "type": "local",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "WAPT",
+          "title": "Hyde-Smith concedes Mississippi Senate race to Scott Colom",
+          "url": "https://www.wapt.com/article/mississippi-senate-race-hyde-smith-concedes/74405237",
+          "type": "local",
+          "publishedAt": "2026-11-11"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
     {
       "id": "usa-2026-11-10-october-inflation-report",
       "title": "US Consumer Prices Rise More Than Expected In October",
@@ -223,6 +664,83 @@
       "status": "active",
       "publishedAt": "2026-11-12T00:34:00Z",
       "updatedAt": "2026-11-12T00:34:00Z"
+    },
+    {
+      "id": "usa-2026-11-08-nvidia-board-investigates-huang",
+      "title": "Nvidia Chief Executive Jensen Huang Resigns After Foreign Intelligence Inquiry",
+      "summary": "Jensen Huang resigned as Nvidia's chief executive on 12 November, four days after the board opened an independent investigation into reports that he had been the target of a foreign intelligence effort. Nvidia named chief financial officer Colette Kress interim chief executive and Harvey Jones chair. Reports linked the inquiry to Huang's relationship with a Singapore-based executive whom a memo circulated among US policymakers described as recruited by China's Ministry of State Security; China denied targeting him. On 16 November President Trump said he backed a campaign to reinstate Huang.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "United States"
+      },
+      "geo": null,
+      "category": "other",
+      "subcategory": "counterintelligence",
+      "occurredOn": "2026-11-08",
+      "firstReportedAt": "2026-11-08",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 4,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Fortune",
+          "title": "Nvidia's Jensen Huang resigns, CFO Colette Kress named interim CEO",
+          "url": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/",
+          "type": "national",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "publisher": "TechCrunch",
+          "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+          "type": "national",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+          "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress",
+          "type": "national",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "publisher": "CNBC",
+          "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+          "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+          "type": "national",
+          "publishedAt": "2026-11-08"
+        },
+        {
+          "publisher": "TechCrunch",
+          "title": "Nvidia will investigate CEO Jensen Huang's relationship with possible Chinese spy",
+          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+          "type": "national",
+          "publishedAt": "2026-11-08"
+        },
+        {
+          "publisher": "CNBC",
+          "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+          "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+          "type": "national",
+          "publishedAt": "2026-11-08"
+        },
+        {
+          "publisher": "PBS News",
+          "title": "Trump backs campaign to reinstate Huang as CEO of Nvidia",
+          "url": "https://www.pbs.org/newshour/politics/trump-backs-campaign-to-reinstate-huang-as-ceo-of-nvidia",
+          "type": "national",
+          "publishedAt": "2026-11-16"
+        }
+      ],
+      "status": "active",
+      "occurredUntil": "2026-11-16",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
     },
     {
       "id": "usa-2026-11-06-record-measles-cases",
@@ -542,150 +1060,6 @@
       "status": "active",
       "subcategory": "industrial-accident",
       "occurredUntil": "2026-10-23"
-    },
-    {
-      "id": "usa-2026-10-18-dc-national-guard-member-shot",
-      "title": "National Guard Member Shot While Breaking Up Fight In Washington",
-      "summary": "A National Guard member deployed in Washington, D.C., was shot in the leg on the night of 18 October while breaking up a fight in the Eastern Market neighbourhood, police said. Police said the suspect pointed a gun at the troops and was shot in return fire, then arrested. Both injuries were described as non-life-threatening.",
-      "location": {
-        "city": "Washington",
-        "region": "District of Columbia",
-        "country": "United States"
-      },
-      "geo": {
-        "latitude": 38.884,
-        "longitude": -76.995,
-        "precision": "city"
-      },
-      "category": "other",
-      "occurredOn": "2026-10-18",
-      "firstReportedAt": "2026-10-19",
-      "publishedAt": "2026-11-11T17:05:00Z",
-      "updatedAt": "2026-11-11T17:05:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T17:05:00Z"
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "Associated Press via WRDW",
-          "title": "National Guard member is shot while breaking up a fight in Washington, suspect is hit in return fire",
-          "url": "https://www.wrdw.com/2026/10/19/national-guard-member-is-shot-while-breaking-up-fight-washington-suspect-is-hit-return-fire/",
-          "type": "national",
-          "publishedAt": "2026-10-19"
-        },
-        {
-          "publisher": "The Boston Globe",
-          "title": "National Guard member shot in Washington",
-          "url": "https://www.bostonglobe.com/2026/10/19/nation/national-guard-shooting-washington/",
-          "type": "national",
-          "publishedAt": "2026-10-19"
-        }
-      ],
-      "status": "active",
-      "subcategory": "shooting"
-    },
-    {
-      "id": "usa-2026-10-17-no-kings-early-voting-rallies",
-      "title": "No Kings Protests Held Nationwide Ahead Of Midterms",
-      "summary": "Hundreds of No Kings rallies against President Donald Trump's administration drew crowds in New York and other US cities on 17 October. This round aimed to get people out to vote early ahead of the 3 November midterm elections.",
-      "location": {
-        "city": null,
-        "region": null,
-        "country": "United States"
-      },
-      "geo": null,
-      "category": "protest",
-      "occurredOn": "2026-10-17",
-      "firstReportedAt": "2026-10-17",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z",
-        "motive": {
-          "status": "not-applicable"
-        },
-        "ideology": {
-          "label": "not-applicable",
-          "status": "not-applicable"
-        },
-        "terrorism": {
-          "status": "none"
-        }
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "FOX 5 New York",
-          "title": "No Kings rallies draw crowds in major US cities ahead of midterms",
-          "url": "https://www.fox5ny.com/news/no-kings-rallies-united-states-oct-17-2026-midterm-elections",
-          "type": "national",
-          "publishedAt": "2026-10-17"
-        },
-        {
-          "publisher": "NPR via KPBS",
-          "title": "No Kings draws crowds with focus on early voting",
-          "url": "https://www.kpbs.org/news/national/2026/10/17/no-kings-draws-crowds-with-focus-on-early-voting",
-          "type": "national",
-          "publishedAt": "2026-10-17"
-        }
-      ],
-      "status": "active",
-      "subcategory": "mass-protest"
-    },
-    {
-      "id": "usa-2026-10-15-bend-elementary-school-shooting",
-      "title": "Three Children And A Teacher Killed In Oregon School Shooting",
-      "summary": "A 16-year-old opened fire at Silver Rail Elementary School in Bend, Oregon, on 15 October, killing three children and a teacher, according to police. The suspected shooter was then shot and killed by a bystander.",
-      "location": {
-        "city": "Bend",
-        "region": "Oregon",
-        "country": "United States"
-      },
-      "geo": {
-        "latitude": 44.058,
-        "longitude": -121.315,
-        "precision": "city"
-      },
-      "category": "other",
-      "occurredOn": "2026-10-15",
-      "firstReportedAt": "2026-10-15",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z",
-        "motive": {
-          "status": "unknown"
-        }
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "OPB",
-          "title": "3 children among the dead after shooting at Bend elementary school",
-          "url": "https://www.opb.org/article/2026/10/15/children-shooter-dead-bend-school/",
-          "type": "local",
-          "publishedAt": "2026-10-15"
-        },
-        {
-          "publisher": "The Guardian",
-          "title": "Shooter kills three children and one teacher at Oregon elementary school",
-          "url": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
-          "type": "national",
-          "publishedAt": "2026-10-16"
-        }
-      ],
-      "status": "active",
-      "subcategory": "mass-shooting"
     }
   ]
 }

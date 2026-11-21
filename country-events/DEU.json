@@ -1,10 +1,300 @@
 {
   "schemaVersion": 1,
   "countryID": "DEU",
-  "revision": 4,
-  "generatedAt": "2026-11-12T00:34:00Z",
+  "revision": 5,
+  "generatedAt": "2026-11-21T19:54:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "deu-2026-11-19-coalition-of-the-willing-berlin",
+      "title": "Coalition Of The Willing Meets In Berlin And Urges A Winter Energy Truce",
+      "summary": "Leaders and representatives of Ukraine's partners met in Berlin on 19 November for a Coalition of the Willing meeting attended by President Zelensky; US envoys Steve Witkoff and Jared Kushner also came to the Chancellery for talks with Chancellor Friedrich Merz. In a joint statement, the leaders of Germany, France, the United Kingdom and Ukraine called on Russia to accept a winter energy ceasefire and a truce allowing safe passage for food exports in the Black Sea. Foreign Minister Johann Wadephul said the meeting sent a clear message to Moscow to take peace talks seriously.",
+      "location": {
+        "city": "Berlin",
+        "region": "Berlin",
+        "country": "Germany"
+      },
+      "geo": {
+        "latitude": 52.52,
+        "longitude": 13.405,
+        "precision": "city"
+      },
+      "category": "politics",
+      "subcategory": "diplomacy",
+      "occurredOn": "2026-11-19",
+      "firstReportedAt": "2026-11-19",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "Coalition of the Willing calls on Russia to accept winter energy truce",
+          "url": "https://kyivindependent.com/coalition-of-the-willing-calls-on-russia-to-accept-winter-energy-truce/",
+          "type": "national",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "publisher": "Deutsche Welle",
+          "title": "Wadephul: 'Coalition of the Willing' talks in Berlin send strong signal to Moscow",
+          "url": "https://www.dw.com/en/wadephul-coalition-of-the-willing-talks-in-berlin-send-strong-signal-to-moscow/a-79990664",
+          "type": "national",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "publisher": "Ukrinform",
+          "title": "Witkoff, Kushner arrive in Berlin for Coalition of the Willing summit",
+          "url": "https://www.ukrinform.net/rubric-polytics/4186394-witkoff-kushner-arrive-in-berlin-for-coalition-of-the-willing-summit.html",
+          "type": "national",
+          "publishedAt": "2026-11-19"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "deu-2026-11-18-electricity-tax-cut-agreed",
+      "title": "Coalition Agrees To Cut Electricity Tax And Cap Fuel Prices",
+      "summary": "The leaders of the CDU/CSU and SPD agreed in the coalition committee on 18 November to cut the electricity tax for all consumers from January, after eight hours of talks. Funding is secured only for 2027, and a time-limited cap on fuel prices will also be introduced. The agreement drew criticism from within both coalition parties.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Germany"
+      },
+      "geo": null,
+      "category": "economy",
+      "subcategory": "fiscal-policy",
+      "occurredOn": "2026-11-18",
+      "firstReportedAt": "2026-11-18",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "tagesschau",
+          "title": "Stromsteuersenkung und Spritpreisdeckel - zeitlich begrenzt",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-einigung-stromsteuer-spritpreisdeckel-100.html",
+          "type": "national",
+          "publishedAt": "2026-11-18"
+        },
+        {
+          "publisher": "Die Zeit",
+          "title": "Koalition einigt sich auf Senkung der Stromsteuer für ein Jahr",
+          "url": "https://www.zeit.de/politik/deutschland/2026-11/koalition-einigt-sich-auf-senkung-der-stromsteuer-fuer-ein-jahr",
+          "type": "national",
+          "publishedAt": "2026-11-18"
+        },
+        {
+          "publisher": "tagesschau",
+          "title": "Einigung über Stromsteuersenkung: Die Koalition ist in eine neue Phase eingetreten",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-spritpreisdeckel-einigung-koalition-100.html",
+          "type": "national",
+          "publishedAt": "2026-11-18"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "deu-2026-11-18-bsw-election-complaint-rejected",
+      "title": "Constitutional Court Rejects BSW Bid For A Bundestag Election Recount",
+      "summary": "The Federal Constitutional Court in Karlsruhe rejected on 18 November the Sahra Wagenknecht Alliance's (BSW) complaint over the 2025 Bundestag election. The party had missed the five percent threshold by fewer than 10,000 votes and sought a recount. The court dismissed the complaint as inadmissible; Sahra Wagenknecht called it a wrong judgment.",
+      "location": {
+        "city": "Karlsruhe",
+        "region": "Baden-Württemberg",
+        "country": "Germany"
+      },
+      "geo": {
+        "latitude": 49.007,
+        "longitude": 8.404,
+        "precision": "city"
+      },
+      "category": "politics",
+      "subcategory": "court-ruling",
+      "occurredOn": "2026-11-18",
+      "firstReportedAt": "2026-11-18",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "tagesschau",
+          "title": "Bundesverfassungsgericht: BSW scheitert mit Wahlbeschwerde",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bsw-wahlpruefung-100.html",
+          "type": "national",
+          "publishedAt": "2026-11-18"
+        },
+        {
+          "publisher": "Die Zeit",
+          "title": "Bundesverfassungsgericht: BSW scheitert mit Beschwerde zur Bundestagswahl",
+          "url": "https://www.zeit.de/politik/deutschland/2026-11/bsw-scheitert-mit-verfassungsbeschwerde-zur-bundestagswahl-2025",
+          "type": "national",
+          "publishedAt": "2026-11-18"
+        },
+        {
+          "publisher": "tagesschau",
+          "title": "Bundestagswahl 2025: Karlsruhe entscheidet über BSW-Wahlbeschwerde",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/muss-bundestagswahl-neu-ausgezaehlt-werden-bsw-100.html",
+          "type": "national",
+          "publishedAt": "2026-11-18"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "deu-2026-11-16-schwesig-re-elected-mecklenburg-vorpommern",
+      "title": "Manuela Schwesig Re-elected Premier Of Mecklenburg-Vorpommern",
+      "summary": "The state parliament in Schwerin re-elected Social Democrat Manuela Schwesig as minister-president of Mecklenburg-Vorpommern on 16 November, in the first round of voting, confirming her in office for a further five years. Schwesig has led the state since 2017 and now heads a coalition of the SPD, the Left and the Greens, after the SPD won 35.5 percent in the state election on 20 September.",
+      "location": {
+        "city": "Schwerin",
+        "region": "Mecklenburg-Vorpommern",
+        "country": "Germany"
+      },
+      "geo": {
+        "latitude": 53.636,
+        "longitude": 11.401,
+        "precision": "city"
+      },
+      "category": "politics",
+      "subcategory": "government",
+      "occurredOn": "2026-11-16",
+      "firstReportedAt": "2026-11-16",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "tagesschau",
+          "title": "SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/eilmeldung-schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html",
+          "type": "national",
+          "publishedAt": "2026-11-16"
+        },
+        {
+          "publisher": "Die Zeit",
+          "title": "Mecklenburg-Vorpommern: Manuela Schwesig bleibt Ministerpräsidentin in Mecklenburg-Vorpommern",
+          "url": "https://www.zeit.de/politik/deutschland/2026-11/manuela-schwesig-wahl-ministerpraesidentin-mecklenburg-vorpommern",
+          "type": "national",
+          "publishedAt": "2026-11-16"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "deu-2026-11-13-bundestag-passes-intelligence-reform",
+      "title": "Bundestag Passes Reform Giving Intelligence Services Wider Powers",
+      "summary": "The Bundestag on 13 November passed a reform that gives Germany's intelligence services broader powers, including secretly entering homes and carrying out hacking operations; the foreign intelligence service BND gains operational powers such as disabling servers of state hacking groups abroad. The coalition presented it as a response to a sharper threat, and Interior Minister Alexander Dobrindt said intelligence agencies would become real secret services. The AfD and the Left criticised the expansion as excessive.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Germany"
+      },
+      "geo": null,
+      "category": "politics",
+      "subcategory": "legislation",
+      "occurredOn": "2026-11-13",
+      "firstReportedAt": "2026-11-13",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "tagesschau",
+          "title": "Bundestag beschließt Reform: Mehr Befugnisse für die Nachrichtendienste",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html",
+          "type": "national",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "publisher": "Die Zeit",
+          "title": "Geheimdienstreform: Bundestag beschließt weitreichende Geheimdienstreform",
+          "url": "https://www.zeit.de/politik/deutschland/2026-11/bundestag-beschliesst-weitreichende-geheimdienstreform",
+          "type": "national",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "publisher": "tagesschau",
+          "title": "Reform der Nachrichtendienste: \"Jahrhundertwerk\" oder \"Monster\"?",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html",
+          "type": "national",
+          "publishedAt": "2026-11-13"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "deu-2026-11-12-quantum-systems-cyberattack",
+      "title": "Drone Maker Quantum Systems Discloses Cyberattack",
+      "summary": "The Bavarian drone manufacturer Quantum Systems, which supplies Ukraine, said on 12 November that it had been the target of a cyberattack in late October. The company said firms at the forefront of supporting Ukraine are being targeted precisely because their work matters to customers' security. A media report said the Bundeswehr had already responded. The company has not attributed the attack.",
+      "location": {
+        "city": null,
+        "region": "Bavaria",
+        "country": "Germany"
+      },
+      "geo": {
+        "latitude": 48.78,
+        "longitude": 11.48,
+        "precision": "region"
+      },
+      "category": "infrastructure-cyber",
+      "subcategory": "cyberattack",
+      "occurredOn": "2026-11-12",
+      "firstReportedAt": "2026-11-12",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "tagesschau",
+          "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
+          "url": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
+          "type": "national",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "Cyberattack hits German drone manufacturer supplying Ukraine in late October, company confirms",
+          "url": "https://kyivindependent.com/cyberattack-hits-german-drone-manufacturer-supplying-ukraine-in-late-october-company-confirms/",
+          "type": "national",
+          "publishedAt": "2026-11-13"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
     {
       "id": "deu-2026-11-11-cabinet-approves-gas-reserve",
       "title": "German Cabinet Approves Strategic Gas Reserve For Crises",
@@ -38,6 +328,186 @@
       "status": "active",
       "publishedAt": "2026-11-12T00:34:00Z",
       "updatedAt": "2026-11-12T00:34:00Z"
+    },
+    {
+      "id": "deu-2026-11-09-aigner-presidential-candidate",
+      "title": "Ilse Aigner Nominated As Union Candidate For Federal President",
+      "summary": "The CDU's federal executive on 9 November backed Chancellor Friedrich Merz's proposal to nominate Ilse Aigner, the CSU president of the Bavarian state parliament, as the Union's candidate for federal president. The SPD leadership said it supports her. If elected by the Federal Convention, she would be Germany's first female head of state. On 10 November she presented herself to the Bundestag groups, but not to the AfD or the Left.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Germany"
+      },
+      "geo": null,
+      "category": "politics",
+      "subcategory": "election",
+      "occurredOn": "2026-11-09",
+      "firstReportedAt": "2026-11-09",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "tagesschau",
+          "title": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "publisher": "SRF",
+          "title": "Ilse Aigner soll erste Bundespräsidentin werden",
+          "url": "https://www.srf.ch/news/international/bundespraesidentenwahl-ilse-aigner-soll-erste-bundespraesidentin-werden-die-reaktionen",
+          "type": "national",
+          "publishedAt": "2026-11-09"
+        },
+        {
+          "publisher": "Der Tagesspiegel (dpa)",
+          "title": "Kandidatin für das Bundespräsidentenamt: AfD-Fraktion kritisiert Aigner nach Besuchsabsage",
+          "url": "https://tagesspiegel.de/politik/dpa-kandidatin-fur-das-bundesprasidentenamt-aigner-lehnt-vorstellung-bei-der-afd-fraktion-offenbar-ab-16259352.html",
+          "type": "national",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "publisher": "CDU",
+          "title": "Ilse Aigner: Bundespräsidentin mit Würde und Herz",
+          "url": "https://www.cdu.de/aktuelles/cdu-deutschlands/ilse-aigner-kandidatin-fuer-das-amt-der-bundespraesidentin-und-cdu-bundeskanzler-friedrich-merz/",
+          "type": "official",
+          "publishedAt": "2026-11-09"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "deu-2026-11-04-hubert-aiwanger-dies",
+      "title": "Bavarian Deputy Premier And Free Voters Leader Hubert Aiwanger Dies At 55",
+      "summary": "Hubert Aiwanger, Bavaria's deputy minister-president and economy minister and the national leader of the Free Voters, was found dead in a Berlin hotel room on the evening of 4 November at the age of 55. Police and prosecutors opened an investigation into the cause of death, and investigators later said there was no indication of third-party involvement. Premier Markus Söder called his death an absolute tragedy, and a state memorial ceremony was held in Munich on 14 November.",
+      "location": {
+        "city": "Berlin",
+        "region": "Berlin",
+        "country": "Germany"
+      },
+      "geo": {
+        "latitude": 52.52,
+        "longitude": 13.405,
+        "precision": "city"
+      },
+      "category": "politics",
+      "subcategory": "government",
+      "occurredOn": "2026-11-04",
+      "firstReportedAt": "2026-11-04",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 4,
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Stuttgarter Zeitung",
+          "title": "Hubert Aiwanger (55) gestorben",
+          "url": "https://www.stuttgarter-zeitung.de/panorama/hubert-aiwanger-55-gestorben-politiker-tot-im-hotelzimmer-aufgefunden-79666394.html",
+          "type": "national",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "publisher": "Börsen-Zeitung",
+          "title": "Streitbarer und streitlustiger Wirtschaftsminister",
+          "url": "https://www.boersen-zeitung.de/personen/bayerns-wirtschaftsminister-hubert-aiwanger-ploetzlich-gestorben",
+          "type": "national",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "publisher": "Jüdische Allgemeine",
+          "title": "Freie-Wähler-Chef Aiwanger tot",
+          "url": "https://www.juedische-allgemeine.de/politik/freie-waehler-chef-aiwanger-tot/",
+          "type": "national",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "publisher": "tagesschau",
+          "title": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
+          "url": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+          "type": "national",
+          "publishedAt": "2026-11-14"
+        }
+      ],
+      "status": "active",
+      "occurredUntil": "2026-11-14",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
+    },
+    {
+      "id": "deu-2026-11-03-kollektiv-zwickau-raids",
+      "title": "Arrests In Raids On Alleged Communist Group In Saxony",
+      "summary": "Saxony's state criminal police searched homes in Zwickau, Dresden, Leipzig, Saalfeld, Bremen and Hamburg on 3 November in a Dresden prosecutors' investigation into \"Kollektiv Zwickau\", which prosecutors allege formed in Zwickau in 2022 as a communist group to act against far-right structures. Twelve suspects aged 18 to 36 were under investigation, among other things on suspicion of forming a criminal organisation; four were arrested on warrants and a fifth was detained after allegedly attacking an officer. After eight more homes were searched on 11 November, the inquiry covers 20 suspects.",
+      "location": {
+        "city": "Zwickau",
+        "region": "Saxony",
+        "country": "Germany"
+      },
+      "geo": {
+        "latitude": 50.718,
+        "longitude": 12.496,
+        "precision": "city"
+      },
+      "category": "security-operation",
+      "subcategory": "raid",
+      "occurredOn": "2026-11-03",
+      "occurredUntil": "2026-11-11",
+      "firstReportedAt": "2026-11-03",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "motive": {
+          "status": "attributed",
+          "attributedTo": "Dresden prosecutors and Saxony's state criminal police (LKA)"
+        },
+        "ideology": {
+          "label": "far-left",
+          "status": "attributed",
+          "attributedTo": "Dresden prosecutors and Saxony LKA, which allege the group formed as a communist group to act against far-right structures"
+        },
+        "terrorism": {
+          "status": "none"
+        },
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Sächsisches Landeskriminalamt (Medienservice Sachsen)",
+          "title": "Verdacht der Bildung einer kriminellen Vereinigung in Zwickau",
+          "url": "https://www.medienservice.sachsen.de/medien/news/1100911",
+          "type": "official",
+          "publishedAt": "2026-11-03"
+        },
+        {
+          "publisher": "nd",
+          "title": "Neue Razzien bei »Kollektiv Zwickau«",
+          "url": "https://www.nd-aktuell.de/artikel/1203828.neue-razzien-bei-kollektiv-zwickau-repression-gegen-kommunisten-ausgeweitet.html",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "publisher": "Die Zeit",
+          "title": "Weitere Razzien bei mutmaßlichen Mitgliedern von Kollektiv Zwickau",
+          "url": "https://www.zeit.de/politik/deutschland/2026-11/kollektiv-zwickau-linksextremismus-sachsen-staatsanwaltschaft",
+          "type": "national",
+          "publishedAt": "2026-11-11"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
     },
     {
       "id": "deu-2026-11-01-ig-metall-warning-strikes",
@@ -135,6 +605,71 @@
       ],
       "status": "active",
       "subcategory": "riot"
+    },
+    {
+      "id": "deu-2026-10-23-is-suspect-arrested-frankfurt-airport",
+      "title": "Suspected Islamic State Recruit Arrested At Frankfurt Airport",
+      "summary": "Federal investigators arrested a German citizen at Frankfurt Airport on 23 October as he entered the country, the Federal Prosecutor's Office said. Prosecutors accuse him of attempting to join the Islamic State group and of preparing a serious act of violence endangering the state, alleging that in 2025 he travelled from Berlin to Ethiopia intending to reach IS in Somalia. A federal judge ordered him held in custody.",
+      "location": {
+        "city": "Frankfurt",
+        "region": "Hesse",
+        "country": "Germany"
+      },
+      "geo": {
+        "latitude": 50.11,
+        "longitude": 8.682,
+        "precision": "city"
+      },
+      "category": "terrorism",
+      "subcategory": "arrests",
+      "occurredOn": "2026-10-23",
+      "firstReportedAt": "2026-10-26",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "motive": {
+          "status": "attributed",
+          "attributedTo": "Federal Prosecutor General (Generalbundesanwalt)"
+        },
+        "ideology": {
+          "label": "islamist",
+          "status": "attributed",
+          "attributedTo": "Federal Prosecutor General (alleged attempt to join the Islamic State group)"
+        },
+        "terrorism": {
+          "status": "investigated-as",
+          "authority": "Federal Prosecutor General (Generalbundesanwalt)"
+        },
+        "reviewedAt": "2026-11-21T19:54:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Federal Prosecutor General (Generalbundesanwalt) via Presseportal",
+          "title": "Festnahme wegen versuchter Mitgliedschaft in der ausländischen terroristischen Vereinigung \"Islamischer Staat (IS)\" und Vorbereitung einer schweren staatsgefährdenden Gewalttat",
+          "url": "https://www.presseportal.de/blaulicht/pm/14981/6377838",
+          "type": "official",
+          "publishedAt": "2026-10-26"
+        },
+        {
+          "publisher": "Der Standard",
+          "title": "Mutmaßlicher IS-Anhänger am Frankfurter Flughafen festgenommen",
+          "url": "https://www.derstandard.de/story/3000000345988/mutmasslicher-is-anhaenger-am-frankfurter-flughafen-festgenommen",
+          "type": "national",
+          "publishedAt": "2026-10-26"
+        },
+        {
+          "publisher": "Pfalz-Express",
+          "title": "Er wollte zum IS: Deutscher Terrorverdächtiger am Frankfurter Flughafen verhaftet",
+          "url": "https://www.pfalz-express.de/er-wollte-zum-is-deutscher-terrorverdaechtiger-am-frankfurter-flughafen-verhaftet/",
+          "type": "local",
+          "publishedAt": "2026-10-26"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-21T19:54:00Z",
+      "updatedAt": "2026-11-21T19:54:00Z"
     },
     {
       "id": "deu-2026-10-23-eagles-nest-fire",
@@ -235,116 +770,6 @@
       ],
       "status": "active",
       "subcategory": "arrests"
-    },
-    {
-      "id": "deu-2026-10-15-hamburg-court-iran-plot-verdict",
-      "title": "Court Jails Two Men Over Iran-Directed Plot Against Jewish Leaders",
-      "summary": "A court in Hamburg on 15 October sentenced a Danish national to eight and a half years and an Afghan national to four and a half years in prison over a plot steered by Iran's intelligence service against Jewish and pro-Israel figures in Germany. The targets included Josef Schuster, president of the Central Council of Jews in Germany, and Volker Beck, head of the German-Israeli Society. Iran denied any role.",
-      "location": {
-        "city": "Hamburg",
-        "region": "Hamburg",
-        "country": "Germany"
-      },
-      "geo": {
-        "latitude": 53.551,
-        "longitude": 9.994,
-        "precision": "city"
-      },
-      "category": "terrorism",
-      "occurredOn": "2026-10-15",
-      "firstReportedAt": "2026-10-15",
-      "publishedAt": "2026-11-11T17:05:00Z",
-      "updatedAt": "2026-11-11T17:05:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 3,
-        "reviewedAt": "2026-11-11T17:05:00Z",
-        "motive": {
-          "status": "attributed",
-          "attributedTo": "Hamburg court, which found the men were steered by Iran's intelligence service"
-        },
-        "ideology": {
-          "label": "other",
-          "status": "attributed",
-          "attributedTo": "Hamburg court (Iranian state direction); Iran denies it"
-        },
-        "terrorism": {
-          "status": "charged-as",
-          "authority": "Federal Prosecutor General; convicted by a Hamburg court"
-        }
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "Reuters via TimesLIVE",
-          "title": "German court jails two men over alleged Iran-backed assassination plot",
-          "url": "https://www.timeslive.co.za/news/world/2026-10-15-german-court-jails-two-men-over-alleged-iran-backed-assassination-plot/",
-          "type": "national",
-          "publishedAt": "2026-10-15"
-        },
-        {
-          "publisher": "The Times of Israel",
-          "title": "Germany jails two men for Iran-backed plots against pro-Israel figures, spying on Jews",
-          "url": "https://www.timesofisrael.com/germany-jails-two-men-for-iran-backed-plots-against-pro-israel-figures-spying-on-jews/",
-          "type": "national",
-          "publishedAt": "2026-10-15"
-        },
-        {
-          "publisher": "Al Jazeera",
-          "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
-          "url": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups",
-          "type": "national",
-          "publishedAt": "2026-10-19"
-        }
-      ],
-      "status": "active",
-      "subcategory": "foiled-plot"
-    },
-    {
-      "id": "deu-2026-10-14-nord-stream-sabotage-trial-opens",
-      "title": "Former Ukrainian Officer Goes On Trial Over Nord Stream Blasts",
-      "summary": "The first trial over the 2022 sabotage of the Nord Stream gas pipelines opened at the Hamburg Higher Regional Court on 14 October. Prosecutors accuse a former Ukrainian officer of leading a group of Ukrainian agents, including divers and an explosives expert, who carried out the blasts. He denies any involvement and is the only person on trial.",
-      "location": {
-        "city": "Hamburg",
-        "region": "Hamburg",
-        "country": "Germany"
-      },
-      "geo": {
-        "latitude": 53.551,
-        "longitude": 9.994,
-        "precision": "city"
-      },
-      "category": "other",
-      "occurredOn": "2026-10-14",
-      "firstReportedAt": "2026-10-14",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z"
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "Al Jazeera",
-          "title": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
-          "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts",
-          "type": "national",
-          "publishedAt": "2026-10-14"
-        },
-        {
-          "publisher": "ITV News",
-          "title": "Former Ukrainian officer goes on trial in Germany over Nord Stream gas pipeline blasts",
-          "url": "https://www.itv.com/news/2026-10-14/former-ukrainian-officer-goes-on-trial-over-nord-stream-gas-pipeline-blasts",
-          "type": "national",
-          "publishedAt": "2026-10-14"
-        }
-      ],
-      "status": "active",
-      "subcategory": "trial"
     }
   ]
 }
