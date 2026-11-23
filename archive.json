@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T16:30:12Z",
+  "generatedAt": "2026-11-23T14:28:49Z",
   "editions": [
+    {
+      "id": "wf_2026_11_22",
+      "revision": 1,
+      "publishedAt": "2026-11-23T14:28:00Z",
+      "displayDate": "November 22, 2026",
+      "title": "Watchfront Weekly Brief — November 15–22, 2026",
+      "edition": "Weekly Intelligence Brief",
+      "pageCount": 10,
+      "manifestPath": "archive/editions/wf_2026_11_22-r1/brief.json",
+      "manifestSHA256": "8604498437f2121bfe4105cc295c8df891133f4feccc46918f88522fee84ee83"
+    },
     {
       "id": "wf_2026_11_15",
       "revision": 4,
