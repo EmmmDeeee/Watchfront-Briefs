@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "countryID": "USA",
-  "revision": 5,
-  "generatedAt": "2026-11-21T19:54:00Z",
+  "revision": 6,
+  "generatedAt": "2026-11-23T08:03:00Z",
   "windowDays": 30,
   "events": [
     {
@@ -1007,59 +1007,6 @@
       ],
       "status": "active",
       "subcategory": "mass-shooting"
-    },
-    {
-      "id": "usa-2026-10-20-toledo-chemical-release",
-      "title": "Chemical Tank Rupture Forces Evacuations In Toledo",
-      "summary": "A tank ruptured at MC Tank Transport in north Toledo, Ohio, on the night of 20 October, releasing glycidyl methacrylate, an industrial chemical used in plastics, paints and coatings. People within one mile were evacuated and those within three miles were told to shelter in place. By 23 October the city had lifted the evacuation orders after crews found no detectable hazards.",
-      "location": {
-        "city": "Toledo",
-        "region": "Ohio",
-        "country": "United States"
-      },
-      "geo": {
-        "latitude": 41.664,
-        "longitude": -83.556,
-        "precision": "city"
-      },
-      "category": "disaster",
-      "occurredOn": "2026-10-20",
-      "firstReportedAt": "2026-10-21",
-      "publishedAt": "2026-11-11T17:05:00Z",
-      "updatedAt": "2026-11-11T17:05:00Z",
-      "significance": "major-regional",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 3,
-        "reviewedAt": "2026-11-11T17:05:00Z"
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "Cleveland 19",
-          "title": "North Toledo evacuation order in place due to hazardous material release",
-          "url": "https://www.cleveland19.com/2026/10/21/watch-live-north-toledo-evacuation-order-due-hazardous-material-release-tps-wls-closed/",
-          "type": "local",
-          "publishedAt": "2026-10-21"
-        },
-        {
-          "publisher": "FOX19",
-          "title": "Neighbors describe toxic smell, dizziness after Toledo chemical release",
-          "url": "https://www.fox19.com/2026/10/22/neighbors-describe-toxic-smell-dizziness-after-toledo-chemical-release/",
-          "type": "local",
-          "publishedAt": "2026-10-22"
-        },
-        {
-          "publisher": "ClickOnDetroit",
-          "title": "Evacuation orders lifted days after chemical leak in Toledo",
-          "url": "https://www.clickondetroit.com/news/local/2026/10/23/evacuation-orders-lifted-days-after-chemical-leak-in-toledo/",
-          "type": "local",
-          "publishedAt": "2026-10-23"
-        }
-      ],
-      "status": "active",
-      "subcategory": "industrial-accident",
-      "occurredUntil": "2026-10-23"
     }
   ]
 }

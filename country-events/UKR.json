@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "countryID": "UKR",
-  "revision": 5,
-  "generatedAt": "2026-11-21T19:54:00Z",
+  "revision": 6,
+  "generatedAt": "2026-11-23T08:03:00Z",
   "windowDays": 30,
   "events": [
     {
@@ -543,51 +543,6 @@
       ],
       "status": "active",
       "subcategory": "air-strike"
-    },
-    {
-      "id": "ukr-2026-10-23-oleshky-humanitarian-ceasefire",
-      "title": "Russia And Ukraine Agree Local Ceasefire For Occupied Oleshky",
-      "summary": "The White House said on 23 October that Russia and Ukraine had agreed to a localized ceasefire in the Russian-occupied town of Oleshky, in the Kherson region, to let humanitarian aid in and prepare a civilian evacuation. The agreement was brokered by US first lady Melania Trump. About 24,000 people lived in Oleshky before the war; between 1,700 and 2,000 remain.",
-      "location": {
-        "city": "Oleshky",
-        "region": "Kherson Oblast",
-        "country": "Ukraine"
-      },
-      "geo": {
-        "latitude": 46.625,
-        "longitude": 32.718,
-        "precision": "city"
-      },
-      "category": "politics",
-      "occurredOn": "2026-10-23",
-      "firstReportedAt": "2026-10-23",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z"
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "The White House",
-          "title": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine Localized to Oleshky",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/",
-          "type": "official",
-          "publishedAt": "2026-10-23"
-        },
-        {
-          "publisher": "The Moscow Times",
-          "title": "Russia, Ukraine agree on ceasefire in embattled Oleshky, plan new peace talks next month",
-          "url": "https://www.themoscowtimes.com/2026/10/24/russia-ukraine-agree-on-ceasefire-in-embattled-oleshky-plan-new-peace-talks-next-month-a94069",
-          "type": "national",
-          "publishedAt": "2026-10-24"
-        }
-      ],
-      "status": "active",
-      "subcategory": "ceasefire"
     }
   ]
 }

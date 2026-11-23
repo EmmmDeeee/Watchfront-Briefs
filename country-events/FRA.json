@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "countryID": "FRA",
-  "revision": 5,
-  "generatedAt": "2026-11-21T19:54:00Z",
+  "revision": 6,
+  "generatedAt": "2026-11-23T08:03:00Z",
   "windowDays": 30,
   "events": [
     {
@@ -606,89 +606,6 @@
       ],
       "status": "active",
       "subcategory": "violent-demonstration"
-    },
-    {
-      "id": "fra-2026-10-23-trappes-shootings",
-      "title": "Gunman Kills One And Wounds Seven In Paris Suburbs",
-      "summary": "A gunman opened fire in Trappes and La Verrière, in the Paris suburbs, on 23 October, killing a 26-year-old man and wounding seven other people. The national anti-terrorism prosecutor's office (PNAT) is leading the investigation into what it treats as a racist attack. The 39-year-old suspect was transferred to a Paris court to appear before an anti-terrorism investigating judge; prosecutors said he admitted the shootings but denied they were racist. In November, investigators said a list of four public figures found at his home did not point to any plan of violent action against them.",
-      "location": {
-        "city": "Trappes",
-        "region": "Île-de-France",
-        "country": "France"
-      },
-      "geo": {
-        "latitude": 48.777,
-        "longitude": 2.002,
-        "precision": "city"
-      },
-      "category": "terrorism",
-      "occurredOn": "2026-10-23",
-      "firstReportedAt": "2026-10-23",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-21T19:54:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 3,
-        "reviewedAt": "2026-11-21T19:54:00Z",
-        "motive": {
-          "status": "attributed",
-          "attributedTo": "France's national anti-terrorism prosecutor's office (PNAT), which treats the attack as racist; the suspect denies it"
-        },
-        "ideology": {
-          "label": "other",
-          "status": "attributed",
-          "attributedTo": "PNAT (racist motive); the suspect disputes it"
-        },
-        "terrorism": {
-          "status": "investigated-as",
-          "authority": "Parquet national antiterroriste (PNAT)"
-        }
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "Paris Match Belgique",
-          "title": "Attaque raciste à Trappes : l'assaillant transféré au tribunal dans la nuit en vue de sa mise en examen",
-          "url": "https://www.parismatch.be/actualites/monde/2026/10/29/attaque-raciste-a-trappes-lassaillant-transfere-au-tribunal-dans-la-nuit-en-vue-de-sa-mise-en-examen-UKWXK6GV65EKFA57PC4DNMJLTY/",
-          "type": "national",
-          "publishedAt": "2026-10-29"
-        },
-        {
-          "publisher": "Sud Radio",
-          "title": "Attaque raciste à Trappes : le tueur ciblait bien des Africains",
-          "url": "https://www.sudradio.fr/societe/attentat-raciste-dans-les-yvelines-kevin-t-reconnait-avoir-cible-des-personnes-musulmanes-africaines-ou-nord-africaines",
-          "type": "national",
-          "publishedAt": "2026-10-29"
-        },
-        {
-          "publisher": "BBC News",
-          "title": "Macron says deadly shooting near Paris is a 'racist terrorist attack'",
-          "url": "https://www.bbc.com/news/articles/c6ev38dj1g8zo",
-          "type": "national",
-          "publishedAt": "2026-10-23"
-        },
-        {
-          "publisher": "Le Club des Juristes",
-          "title": "Attentat de Trappes : le Parquet national antiterroriste ouvre une information judiciaire",
-          "url": "https://www.leclubdesjuristes.com/en-bref/attentat-de-trappes-le-parquet-national-antiterroriste-ouvre-une-information-judiciaire-18112/",
-          "type": "national",
-          "publishedAt": "2026-10-29"
-        },
-        {
-          "publisher": "RFI",
-          "title": "Attentat raciste en France: une liste de personnalités chez l'auteur présumé mais pas de «projet d'action violente»",
-          "url": "https://www.rfi.fr/fr/france/20261112-attentat-raciste-en-france-une-liste-de-personnalit%C3%A9s-chez-l-auteur-pr%C3%A9sum%C3%A9-mais-pas-de-projet-d-action-violente",
-          "type": "national",
-          "publishedAt": "2026-11-12"
-        }
-      ],
-      "status": "updated",
-      "subcategory": "attack",
-      "correction": {
-        "note": "Added that a list of four public figures found at the suspect's home did not indicate a plan of violent action against them, as reported by RFI on 12 November.",
-        "correctedAt": "2026-11-21T19:54:00Z"
-      }
     }
   ]
 }
