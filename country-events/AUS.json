@@ -1,10 +1,65 @@
 {
   "schemaVersion": 1,
   "countryID": "AUS",
-  "revision": 5,
-  "generatedAt": "2026-11-21T19:54:00Z",
+  "revision": 6,
+  "generatedAt": "2026-11-23T15:47:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "aus-2026-11-16-coles-cyber-security-incident",
+      "title": "Supermarket Chain Coles Investigates Cyber Security Incident",
+      "summary": "Coles told the Australian Securities Exchange on 16 November that it was investigating a cyber security incident, with support from the Australian Cyber Security Centre and external experts. The company said it had found no evidence so far that customer, team member or supplier data had been compromised. Coles has not said which systems were affected or how the incident began.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Australia"
+      },
+      "geo": null,
+      "category": "infrastructure-cyber",
+      "subcategory": "cyberattack",
+      "occurredOn": "2026-11-16",
+      "firstReportedAt": "2026-11-16",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-23T15:47:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "InDaily (AAP)",
+          "title": "Coles investigates cyber attack",
+          "url": "https://www.indailysa.com.au/news/just-in/2026/11/16/coles-investigates-cyber-attack",
+          "type": "national",
+          "publishedAt": "2026-11-16"
+        },
+        {
+          "publisher": "BleepingComputer",
+          "title": "Australian retail giant Coles investigates cybersecurity incident",
+          "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+          "type": "national",
+          "publishedAt": "2026-11-16"
+        },
+        {
+          "publisher": "Cyber Daily",
+          "title": "Breached: Australian supermarket giant Coles investigating cyber security incident",
+          "url": "https://www.cyberdaily.au/security/14446-breached-australian-supermarket-giant-coles-investigating-cyber-security-incident",
+          "type": "national",
+          "publishedAt": "2026-11-16"
+        },
+        {
+          "publisher": "The Guardian Australia",
+          "title": "Coles investigates cyber-attack and apologises to customers",
+          "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
+          "type": "national",
+          "publishedAt": "2026-11-16"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-23T15:47:00Z",
+      "updatedAt": "2026-11-23T15:47:00Z"
+    },
     {
       "id": "aus-2026-11-11-vce-exam-website-hacked",
       "title": "Hacker Defaces Victoria's Year 12 Exam Authority Website",

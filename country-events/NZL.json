@@ -1,10 +1,58 @@
 {
   "schemaVersion": 1,
   "countryID": "NZL",
-  "revision": 4,
-  "generatedAt": "2026-11-12T00:34:00Z",
+  "revision": 5,
+  "generatedAt": "2026-11-23T15:47:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "nzl-2026-11-20-nzdf-database-breach",
+      "title": "New Zealand Defence Force Confirms Database Breach",
+      "summary": "The New Zealand Defence Force said on 20 November that a database linked to its Force4Families Defence Discounts scheme had been accessed, exposing the names and email addresses of registered users. The intrusion was reported by its website provider; NZDF took affected websites offline, began a forensic investigation and notified the Privacy Commissioner, police and the National Cyber Security Centre. No group has claimed responsibility, and NZDF said it was still determining the full extent of the information affected.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "New Zealand"
+      },
+      "geo": null,
+      "category": "infrastructure-cyber",
+      "subcategory": "data-breach",
+      "occurredOn": "2026-11-20",
+      "firstReportedAt": "2026-11-20",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-23T15:47:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "RNZ",
+          "title": "New Zealand Defence Force confirms database compromised, websites removed from service",
+          "url": "https://www.rnz.co.nz/news/business_media/2711202/new-zealand-defence-force-confirms-database-compromised-websites-removed-from-service",
+          "type": "national",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "publisher": "1News",
+          "title": "NZ Defence Force database compromised, websites taken down",
+          "url": "https://www.1news.co.nz/2026/11/20/nz-defence-force-database-compromised-websites-taken-down/",
+          "type": "national",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "publisher": "Stuff",
+          "title": "Cyber attack hits NZ Defence Force, as personal details of users potentially exposed",
+          "url": "https://www.stuff.co.nz/nz-news/361061892/cyber-attack-hits-nz-defence-force-personal-details-users-potentially-exposed",
+          "type": "national",
+          "publishedAt": "2026-11-20"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-23T15:47:00Z",
+      "updatedAt": "2026-11-23T15:47:00Z"
+    },
     {
       "id": "nzl-2026-11-07-general-election-no-clear-winner",
       "title": "New Zealand Election Produces No Clear Winner",
