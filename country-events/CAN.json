@@ -1,10 +1,110 @@
 {
   "schemaVersion": 1,
   "countryID": "CAN",
-  "revision": 5,
-  "generatedAt": "2026-11-21T19:54:00Z",
+  "revision": 6,
+  "generatedAt": "2026-11-23T15:47:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "can-2026-11-20-doerkson-sworn-in-bc-premier",
+      "title": "Lorne Doerkson Sworn In As British Columbia Premier",
+      "summary": "Lorne Doerkson was sworn in as British Columbia's 38th premier at Government House in Victoria on 20 November, a day after Conservative members took their oaths as MLAs, completing the change of government after the B.C. Conservatives' election win. He named a smaller cabinet, with Claire Rattée as deputy premier, Caroline Elliott as attorney general and Peter Milobar as finance minister. Doerkson said there would be no fall sitting of the legislature.",
+      "location": {
+        "city": "Victoria",
+        "region": "British Columbia",
+        "country": "Canada"
+      },
+      "geo": {
+        "latitude": 48.428,
+        "longitude": -123.366,
+        "precision": "city"
+      },
+      "category": "politics",
+      "subcategory": "government",
+      "occurredOn": "2026-11-20",
+      "firstReportedAt": "2026-11-20",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-23T15:47:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Global News",
+          "title": "Lorne Doerkson becomes B.C.'s 38th premier, announces cabinet positions",
+          "url": "https://globalnews.ca/news/12159369/lorne-doerkson-swearing-in/",
+          "type": "national",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "publisher": "The Globe and Mail",
+          "title": "Lorne Doerkson sworn in as B.C. Premier, unveils pared-down cabinet",
+          "url": "https://www.theglobeandmail.com/canada/article-conservative-lorne-doerkson-sworn-bc-premier/",
+          "type": "national",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "publisher": "Daily Hive",
+          "title": "Lorne Doerkson officially sworn in as B.C. premier, names 25-member cabinet",
+          "url": "https://dailyhive.com/vancouver/bc-conservative-cabinet-minister-names-list-november-2026",
+          "type": "local",
+          "publishedAt": "2026-11-20"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-23T15:47:00Z",
+      "updatedAt": "2026-11-23T15:47:00Z"
+    },
+    {
+      "id": "can-2026-11-19-federal-budget-passes",
+      "title": "Carney Government's Budget Passes The House Of Commons",
+      "summary": "The House of Commons passed the Liberal government's 2026 budget on 19 November. The Liberals now hold a majority of seats after a series of byelections and floor-crossings, so the vote did not depend on opposition support. The budget was tabled on 5 November. The NDP voted against it, and Conservative leader Pierre Poilievre criticised the scale of borrowing.",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Canada"
+      },
+      "geo": null,
+      "category": "politics",
+      "subcategory": "budget",
+      "occurredOn": "2026-11-19",
+      "firstReportedAt": "2026-11-19",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-23T15:47:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "CTV News (The Canadian Press)",
+          "title": "Liberals' 2026 budget passes in House of Commons",
+          "url": "https://www.ctvnews.ca/politics/article/liberals-2026-budget-passes-in-house-of-commons/",
+          "type": "national",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "publisher": "Global News",
+          "title": "Liberals' 2026 budget passes in House of Commons",
+          "url": "https://globalnews.ca/news/12158925/budget-2026-passes/",
+          "type": "national",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "publisher": "The Ontario Post",
+          "title": "Liberals' Budget 2026 Passes House of Commons in 162-151 Vote",
+          "url": "https://ontariopost.ca/article/liberals-budget-2026-passes-house-of-commons-in-162-151-vote",
+          "type": "local",
+          "publishedAt": "2026-11-20"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-23T15:47:00Z",
+      "updatedAt": "2026-11-23T15:47:00Z"
+    },
     {
       "id": "can-2026-11-12-stellantis-notice-of-default",
       "title": "Ottawa Serves Stellantis Notice Of Default Over Brampton Plant Sale",

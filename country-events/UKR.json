@@ -1,10 +1,227 @@
 {
   "schemaVersion": 1,
   "countryID": "UKR",
-  "revision": 5,
-  "generatedAt": "2026-11-21T19:54:00Z",
+  "revision": 6,
+  "generatedAt": "2026-11-23T15:47:00Z",
   "windowDays": 30,
   "events": [
+    {
+      "id": "ukr-2026-11-22-dymer-apartment-block-strike",
+      "title": "Russian Drone Strike Collapses Apartment Block In Kyiv Region",
+      "summary": "A Russian drone struck a five-storey apartment building in Dymer, Kyiv Oblast, on 22 November, partly collapsing it. Officials initially said up to 15 people were unaccounted for, and rescuers searched the rubble into 23 November. By 23 November the death toll had risen to 11. The toll may change as the search continues.",
+      "location": {
+        "city": "Dymer",
+        "region": "Kyiv Oblast",
+        "country": "Ukraine"
+      },
+      "geo": {
+        "latitude": 50.784,
+        "longitude": 30.308,
+        "precision": "city"
+      },
+      "category": "armed-conflict",
+      "subcategory": "drone-strike",
+      "occurredOn": "2026-11-22",
+      "firstReportedAt": "2026-11-22",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-23T15:47:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Ukrinform",
+          "title": "Up to 15 people may be trapped under rubble of damaged building in Dymer",
+          "url": "https://www.ukrinform.net/rubric-ato/4187352-up-to-15-people-may-be-trapped-under-rubble-of-damaged-building-in-dymer.html",
+          "type": "national",
+          "publishedAt": "2026-11-22"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "'We live in fear' — Russian attack near Kyiv kills 7, leaves families waiting as rescuers search rubble",
+          "url": "https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/",
+          "type": "national",
+          "publishedAt": "2026-11-22"
+        },
+        {
+          "publisher": "112 Ukraine",
+          "title": "Russian strike on Dymer kills 11, rescue operation ongoing",
+          "url": "https://112.ua/en/rosijskij-udar-po-dimeru-zabrav-zitta-11-ludej-ratuvalna-operacia-trivae-200021",
+          "type": "national",
+          "publishedAt": "2026-11-23"
+        }
+      ],
+      "status": "active",
+      "occurredUntil": "2026-11-23",
+      "publishedAt": "2026-11-23T15:47:00Z",
+      "updatedAt": "2026-11-23T15:47:00Z"
+    },
+    {
+      "id": "ukr-2026-11-20-kryvyi-rih-double-tap-strike",
+      "title": "Russian Double-Tap Strike On Kryvyi Rih Kills A Boy And A Paramedic",
+      "summary": "Two Russian ballistic missiles struck near a restaurant in central Kryvyi Rih on the evening of 20 November, and drones then hit the area as emergency crews responded, said Oleksandr Vilkul, head of the city's defence council. A 20-year-old paramedic was killed at the scene and a seven-year-old boy later died in hospital. Officials gave differing injury figures, from 52 to 60. President Zelensky said on 21 November that Russia was increasing its use of repeat strikes on rescuers.",
+      "location": {
+        "city": "Kryvyi Rih",
+        "region": "Dnipropetrovsk Oblast",
+        "country": "Ukraine"
+      },
+      "geo": {
+        "latitude": 47.91,
+        "longitude": 33.392,
+        "precision": "city"
+      },
+      "category": "armed-conflict",
+      "subcategory": "missile-strike",
+      "occurredOn": "2026-11-20",
+      "firstReportedAt": "2026-11-20",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-23T15:47:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "'Despicable' — Russian double-tap attack in Kryvyi Rih kills 7-year-old and paramedic, injures 52",
+          "url": "https://kyivindependent.com/russian-ballistic-missile-strikes-on-kryvyi-rih-kill-7-year-old-paramedic-injure-42-others-in-double-tap-attack/",
+          "type": "national",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "publisher": "TVP World",
+          "title": "Russian strike on Zelenskyy's hometown kills child, injures 58",
+          "url": "https://tvpworld.com/96606134/ukraine-kryvyi-rih-double-tap-kills-7-yr-old-boy-injures-58",
+          "type": "national",
+          "publishedAt": "2026-11-21"
+        },
+        {
+          "publisher": "bne IntelliNews",
+          "title": "Missile War Monitor: Russian double-tap on a Kryvyi Rih restaurant kills a paramedic and a boy of seven",
+          "url": "https://www.intellinews.com/missile-war-monitor-russian-double-tap-on-a-kryvyi-rih-restaurant-kills-a-paramedic-and-a-boy-of-seven-487209",
+          "type": "national",
+          "publishedAt": "2026-11-21"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-23T15:47:00Z",
+      "updatedAt": "2026-11-23T15:47:00Z"
+    },
+    {
+      "id": "ukr-2026-11-19-kyiv-bridges-and-embassies-struck",
+      "title": "Russian Strikes Hit Three Kyiv Bridges And Two European Embassies",
+      "summary": "Russia launched a large overnight missile and drone attack on Ukraine on 20 November, after President Vladimir Putin threatened a response to Ukraine's strikes on the Crimean Bridge. Kyiv mayor Vitali Klitschko said the Podilsko-Voskresenskyi, Southern and Darnytskyi bridges were damaged. Ukraine's prime minister said eight people were killed, six in Kyiv and two at a railway station in Lviv; Russia said it targeted bridges used to move military equipment. On 19 November a drone raid on Kyiv had damaged the Dutch and Austrian embassies and St Volodymyr's Cathedral.",
+      "location": {
+        "city": "Kyiv",
+        "region": "Kyiv",
+        "country": "Ukraine"
+      },
+      "geo": {
+        "latitude": 50.45,
+        "longitude": 30.524,
+        "precision": "city"
+      },
+      "category": "armed-conflict",
+      "subcategory": "missile-strike",
+      "occurredOn": "2026-11-19",
+      "firstReportedAt": "2026-11-19",
+      "significance": "national",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 3,
+        "reviewedAt": "2026-11-23T15:47:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Russia unleashes barrage of missiles on Ukraine, killing at least 8",
+          "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges",
+          "type": "national",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "3 Kyiv bridges struck in massive Russian aerial assault on Ukraine, at least 9 dead",
+          "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/",
+          "type": "national",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "publisher": "Associated Press via ABC News",
+          "title": "Russian attacks on Kyiv kill 3, cripple bridges and cut power",
+          "url": "https://abcnews.com/International/wireStory/russian-attacks-kyiv-kill-3-cripple-bridges-cut-138313948",
+          "type": "national",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "publisher": "DutchNews.nl",
+          "title": "Dutch embassy hit in Kyiv as Putin vows Crimea bridge revenge",
+          "url": "https://www.dutchnews.nl/2026/11/dutch-embassy-hit-in-kyiv-as-putin-vows-crimea-bridge-revenge/",
+          "type": "national",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "Ukraine war latest: Russian drones kill 1, damage 2 European embassies, cathedral in hours-long drone raid on Kyiv",
+          "url": "https://kyivindependent.com/ukraine-war-latest-russian-drones-kill-1-damage-2-european-embassies-cathedral-in-hours-long-drone-raid-on-kyiv/",
+          "type": "national",
+          "publishedAt": "2026-11-19"
+        }
+      ],
+      "status": "active",
+      "occurredUntil": "2026-11-20",
+      "publishedAt": "2026-11-23T15:47:00Z",
+      "updatedAt": "2026-11-23T15:47:00Z"
+    },
+    {
+      "id": "ukr-2026-11-18-odesa-centre-strikes",
+      "title": "Russian Strikes On Central Odesa Kill Four",
+      "summary": "Russian strikes hit the centre of Odesa in three waves on 18 November, killing four people and injuring at least 13, according to officials including regional governor Oleh Kiper. President Zelensky said strikes continued after first responders had arrived at the scene.",
+      "location": {
+        "city": "Odesa",
+        "region": "Odesa Oblast",
+        "country": "Ukraine"
+      },
+      "geo": {
+        "latitude": 46.483,
+        "longitude": 30.723,
+        "precision": "city"
+      },
+      "category": "armed-conflict",
+      "subcategory": "drone-strike",
+      "occurredOn": "2026-11-18",
+      "firstReportedAt": "2026-11-18",
+      "significance": "major-regional",
+      "verification": {
+        "eventConfirmed": true,
+        "independentSources": 2,
+        "reviewedAt": "2026-11-23T15:47:00Z"
+      },
+      "primarySource": 0,
+      "sources": [
+        {
+          "publisher": "Euronews",
+          "title": "Ukraine: Four killed and at least 13 injured in Russian strike on Odesa",
+          "url": "https://www.euronews.com/2026/11/19/ukraine-four-killed-and-at-least-13-injured-in-russian-strike-on-odesa",
+          "type": "national",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "publisher": "Reuters via ThePrint",
+          "title": "Russian attacks on Ukrainian city of Odesa kill four, officials say",
+          "url": "https://theprint.in/world/russian-attacks-on-ukrainian-city-of-odesa-kill-four-officials-say/3102071/",
+          "type": "national",
+          "publishedAt": "2026-11-18"
+        }
+      ],
+      "status": "active",
+      "publishedAt": "2026-11-23T15:47:00Z",
+      "updatedAt": "2026-11-23T15:47:00Z"
+    },
     {
       "id": "ukr-2026-11-16-crimean-bridge-section-collapses",
       "title": "Ukrainian Strikes Collapse A Section Of The Crimean Bridge",
@@ -543,51 +760,6 @@
       ],
       "status": "active",
       "subcategory": "air-strike"
-    },
-    {
-      "id": "ukr-2026-10-23-oleshky-humanitarian-ceasefire",
-      "title": "Russia And Ukraine Agree Local Ceasefire For Occupied Oleshky",
-      "summary": "The White House said on 23 October that Russia and Ukraine had agreed to a localized ceasefire in the Russian-occupied town of Oleshky, in the Kherson region, to let humanitarian aid in and prepare a civilian evacuation. The agreement was brokered by US first lady Melania Trump. About 24,000 people lived in Oleshky before the war; between 1,700 and 2,000 remain.",
-      "location": {
-        "city": "Oleshky",
-        "region": "Kherson Oblast",
-        "country": "Ukraine"
-      },
-      "geo": {
-        "latitude": 46.625,
-        "longitude": 32.718,
-        "precision": "city"
-      },
-      "category": "politics",
-      "occurredOn": "2026-10-23",
-      "firstReportedAt": "2026-10-23",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z"
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "The White House",
-          "title": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine Localized to Oleshky",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/",
-          "type": "official",
-          "publishedAt": "2026-10-23"
-        },
-        {
-          "publisher": "The Moscow Times",
-          "title": "Russia, Ukraine agree on ceasefire in embattled Oleshky, plan new peace talks next month",
-          "url": "https://www.themoscowtimes.com/2026/10/24/russia-ukraine-agree-on-ceasefire-in-embattled-oleshky-plan-new-peace-talks-next-month-a94069",
-          "type": "national",
-          "publishedAt": "2026-10-24"
-        }
-      ],
-      "status": "active",
-      "subcategory": "ceasefire"
     }
   ]
 }
