@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "countryID": "AUS",
-  "revision": 6,
-  "generatedAt": "2026-11-23T15:47:00Z",
+  "revision": 7,
+  "generatedAt": "2026-11-28T08:19:00Z",
   "windowDays": 30,
   "events": [
     {
@@ -445,51 +445,6 @@
         "note": "Removed two details the AFP release does not support: the second teenager's sex, and that the 4 November court appearance took place (the release says it was scheduled).",
         "correctedAt": "2026-11-12T00:34:00Z"
       }
-    },
-    {
-      "id": "aus-2026-10-25-western-sydney-airport-opens",
-      "title": "Western Sydney International Airport Opens To Passengers",
-      "summary": "Western Sydney International Airport at Badgerys Creek opened to passengers on 25 October, becoming Sydney's second airport. Jetstar operated the inaugural flight, to the Gold Coast. Unlike Sydney's existing airport, the new airport has no night curfew, and the government says it can serve up to 10 million passengers a year.",
-      "location": {
-        "city": "Badgerys Creek",
-        "region": "New South Wales",
-        "country": "Australia"
-      },
-      "geo": {
-        "latitude": -33.883,
-        "longitude": 150.717,
-        "precision": "city"
-      },
-      "category": "infrastructure-cyber",
-      "occurredOn": "2026-10-25",
-      "firstReportedAt": "2026-10-25",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "major-regional",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z"
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "The Guardian",
-          "title": "Western Sydney airport is open from today. Here's everything you need to know",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/25/western-sydney-international-airport-wsi-open-airlines-flights-cost-transport-history",
-          "type": "national",
-          "publishedAt": "2026-10-25"
-        },
-        {
-          "publisher": "Prime Minister of Australia",
-          "title": "It's official – Western Sydney to open to passengers on 25 October and freight on 26 July 2026",
-          "url": "https://www.pm.gov.au/media/its-official-western-sydney-open-passengers-25-october-and-freight-26-july-2026",
-          "type": "official",
-          "publishedAt": "2026-06-10"
-        }
-      ],
-      "status": "active",
-      "subcategory": "transport"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "countryID": "USA",
-  "revision": 6,
-  "generatedAt": "2026-11-23T15:47:00Z",
+  "revision": 7,
+  "generatedAt": "2026-11-28T08:19:00Z",
   "windowDays": 30,
   "events": [
     {
@@ -1065,55 +1065,6 @@
       ],
       "status": "active",
       "subcategory": "aviation-accident"
-    },
-    {
-      "id": "usa-2026-10-24-famu-homecoming-shooting",
-      "title": "Eleven Shot Near Florida A&M Stadium After Homecoming Game",
-      "summary": "Eleven people, including six juveniles, were shot near Bragg Memorial Stadium at Florida A&M University in Tallahassee on the night of 24 October, hours after the school's homecoming football game. Twelve people were injured in all, and police said the shooting followed a physical altercation among people who knew one another. A 15-year-old will be charged as an adult.",
-      "location": {
-        "city": "Tallahassee",
-        "region": "Florida",
-        "country": "United States"
-      },
-      "geo": {
-        "latitude": 30.425,
-        "longitude": -84.287,
-        "precision": "city"
-      },
-      "category": "other",
-      "occurredOn": "2026-10-24",
-      "firstReportedAt": "2026-10-24",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z",
-        "motive": {
-          "status": "attributed",
-          "attributedTo": "Tallahassee police, who said it stemmed from an altercation among a small group"
-        }
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "CNN",
-          "title": "15-year-old will be charged as an adult after 11 people were shot near Florida A&M University stadium",
-          "url": "https://edition.cnn.com/2026/10/25/us/11-shot-florida-tallahassee-shooting-hnk",
-          "type": "national",
-          "publishedAt": "2026-10-25"
-        },
-        {
-          "publisher": "Gray News via FOX5 Las Vegas",
-          "title": "Police in Florida are seeking information and videos after a shooting injured 12 at football game",
-          "url": "https://www.fox5vegas.com/2026/10/25/least-12-injured-including-6-children-shooting-near-florida-am-stadium/",
-          "type": "national",
-          "publishedAt": "2026-10-25"
-        }
-      ],
-      "status": "active",
-      "subcategory": "mass-shooting"
     }
   ]
 }
