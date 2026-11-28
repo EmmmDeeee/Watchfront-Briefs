@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "countryID": "FRA",
-  "revision": 6,
-  "generatedAt": "2026-11-23T15:47:00Z",
+  "revision": 7,
+  "generatedAt": "2026-11-28T08:19:00Z",
   "windowDays": 30,
   "events": [
     {
@@ -579,91 +579,6 @@
       ],
       "status": "active",
       "subcategory": "mass-protest"
-    },
-    {
-      "id": "fra-2026-10-25-le-pen-campaign-launch",
-      "title": "Marine Le Pen Launches 2027 Presidential Campaign",
-      "summary": "National Rally leader Marine Le Pen launched her campaign for the 2027 presidential election at a rally in Orléans on 25 October. She is campaigning while appealing a conviction for embezzling European Parliament funds. On the economy she pledged spending restraint and lower business taxes.",
-      "location": {
-        "city": null,
-        "region": null,
-        "country": "France"
-      },
-      "geo": null,
-      "category": "politics",
-      "occurredOn": "2026-10-25",
-      "firstReportedAt": "2026-10-25",
-      "publishedAt": "2026-11-11T17:05:00Z",
-      "updatedAt": "2026-11-11T17:05:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 1,
-        "reviewedAt": "2026-11-11T17:05:00Z"
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "Reuters via The Star",
-          "title": "France's Le Pen launches presidential bid as protests rattle the nation",
-          "url": "https://www.thestar.com.my/news/world/2026/10/26/france039s-le-pen-launches-presidential-bid-as-protests-rattle-the-nation",
-          "type": "national",
-          "publishedAt": "2026-10-26"
-        }
-      ],
-      "status": "active",
-      "subcategory": "election"
-    },
-    {
-      "id": "fra-2026-10-24-second-national-protest-day",
-      "title": "More Than 1,300 Arrested As Second Wave Of Protests Sweeps France",
-      "summary": "About 410,000 people joined a second nationwide day of cost-of-living demonstrations on 24 October, according to the Interior Ministry, while the CGT union put the figure at around 800,000. Police used tear gas to disperse crowds in several places, including Lyon. Interior Minister Laurent Nuñez said the next day that 1,314 people had been arrested.",
-      "location": {
-        "city": null,
-        "region": null,
-        "country": "France"
-      },
-      "geo": null,
-      "category": "civil-unrest",
-      "occurredOn": "2026-10-24",
-      "firstReportedAt": "2026-10-24",
-      "publishedAt": "2026-11-11T03:04:00Z",
-      "updatedAt": "2026-11-11T03:04:00Z",
-      "significance": "national",
-      "verification": {
-        "eventConfirmed": true,
-        "independentSources": 2,
-        "reviewedAt": "2026-11-11T03:04:00Z",
-        "motive": {
-          "status": "not-applicable"
-        },
-        "ideology": {
-          "label": "not-applicable",
-          "status": "not-applicable"
-        },
-        "terrorism": {
-          "status": "none"
-        }
-      },
-      "primarySource": 0,
-      "sources": [
-        {
-          "publisher": "CBS News",
-          "title": "More than 1,000 arrested in France as protesters and police clash in several cities",
-          "url": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
-          "type": "national",
-          "publishedAt": "2026-10-24"
-        },
-        {
-          "publisher": "France 24",
-          "title": "Interior ministry says 410,000 protesters across France as organisers claim 'nearly 800,000'",
-          "url": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence",
-          "type": "national",
-          "publishedAt": "2026-10-24"
-        }
-      ],
-      "status": "active",
-      "subcategory": "violent-demonstration"
     }
   ]
 }
